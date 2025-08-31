@@ -412,7 +412,7 @@ class GroundworksExtractor(SheetExtractor):
                 if cell_b.font and cell_b.font.bold:
                     is_subcategory = True
                 
-                if cell_value and cell_value.isupper() and len(cell_value) < 50:
+                if cell_value and cell_value.isupper() and len(cell_value) < 200:
                     is_subcategory = True
                 
                 subcategory_keywords = ['excavat', 'disposal', 'filling', 'earthwork',
@@ -479,7 +479,7 @@ class GroundworksExtractor(SheetExtractor):
                     elif 'clear' in desc_lower or 'demolish' in desc_lower:
                         current_subcategory = 'Site Clearance'
                     else:
-                        current_subcategory = 'General Groundworks'
+                        current_subcategory = 'Groundworks'
                 
                 # Create item
                 item = PriceItem(
@@ -589,7 +589,7 @@ class RCWorksExtractor(SheetExtractor):
                     elif 'reinforc' in desc_lower or 'rebar' in desc_lower or 'mesh' in desc_lower:
                         current_subcategory = 'Reinforcement'
                     else:
-                        current_subcategory = 'General RC Works'
+                        current_subcategory = 'RC Works'
                 
                 item = PriceItem(
                     id=item_id,
@@ -686,7 +686,7 @@ class GenericExtractor(SheetExtractor):
                 
                 # Infer subcategory from sheet name and description
                 if not current_subcategory:
-                    current_subcategory = f"General {self.sheet_name}"
+                    current_subcategory = self.sheet_name
                 
                 item = PriceItem(
                     id=item_id,
@@ -723,7 +723,16 @@ class FinalPricelistExtractor:
         # All other sheets use GenericExtractor
     }
     
-    SKIP_SHEETS = ['Summary', 'Set factors & prices', 'Tender Summary', 'Budget Costings']
+    # Only extract these specific sheets
+    ALLOWED_SHEETS = [
+        'Groundworks',
+        'RC works',
+        'RC Works',  # Alternative naming
+        'Drainage',
+        'Services',
+        'External Works',
+        'Underpinning'
+    ]
     
     def __init__(self, file_path: str, use_openai: bool = True):
         self.file_path = file_path
@@ -745,7 +754,8 @@ class FinalPricelistExtractor:
         print("="*60)
         
         for sheet_name in self.workbook.sheetnames:
-            if sheet_name in self.SKIP_SHEETS:
+            # Only process sheets in ALLOWED_SHEETS
+            if sheet_name not in self.ALLOWED_SHEETS:
                 print(f"Skipping: {sheet_name}")
                 continue
             
@@ -804,11 +814,16 @@ class FinalPricelistExtractor:
         print(f"  With subcategory: {with_subcategory}/{len(self.all_items)}")
         print(f"  With work type: {with_work_type}/{len(self.all_items)}")
     
-    def export_to_csv(self, output_file: str = "pricelist_final.csv"):
+    def export_to_csv(self, output_file: str = None):
         """Export to CSV with full schema"""
         if not self.all_items:
             print("No items to export")
             return
+        
+        # Generate filename with timestamp if not provided
+        if output_file is None:
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            output_file = f"pricelist_final_{timestamp}.csv"
         
         csv_data = []
         for item in self.all_items:
@@ -858,11 +873,16 @@ class FinalPricelistExtractor:
             
             print(f"\nExported {len(csv_data)} items to {output_file}")
     
-    def export_to_json(self, output_file: str = "pricelist_final.json"):
+    def export_to_json(self, output_file: str = None):
         """Export to JSON with full schema"""
         if not self.all_items:
             print("No items to export")
             return
+        
+        # Generate filename with timestamp if not provided
+        if output_file is None:
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            output_file = f"pricelist_final_{timestamp}.json"
         
         json_data = []
         for item in self.all_items:
@@ -914,7 +934,7 @@ class FinalPricelistExtractor:
 
 def main():
     """Main execution"""
-    file_path = r"C:\Users\abaza\pricelist extraction\MJD-PRICELIST.xlsx"
+    file_path = "MJD-PRICELIST.xlsx"
     
     if not Path(file_path).exists():
         print(f"Error: File not found at {file_path}")
@@ -928,7 +948,7 @@ def main():
     print(f"Schema: Updated to match database structure")
     
     # Create extractor
-    extractor = FinalPricelistExtractor(file_path, use_openai=True)
+    extractor = FinalPricelistExtractor(file_path, use_openai=False)
     
     # Extract all sheets
     print("\nStarting extraction with OpenAI enhancement...")
@@ -939,15 +959,16 @@ def main():
     print("EXPORTING RESULTS")
     print("="*60)
     
-    extractor.export_to_csv("pricelist_final.csv")
-    extractor.export_to_json("pricelist_final.json")
+    # Export with timestamp in filename
+    extractor.export_to_csv()  # Will create pricelist_final_YYYYMMDD_HHMMSS.csv
+    extractor.export_to_json()  # Will create pricelist_final_YYYYMMDD_HHMMSS.json
     
     print("\n" + "="*60)
     print("EXTRACTION COMPLETE!")
     print("="*60)
-    print("\nOutput files:")
-    print("  pricelist_final.csv - For spreadsheet import")
-    print("  pricelist_final.json - For database import")
+    print("\nOutput files created with timestamp:")
+    print("  Format: pricelist_final_YYYYMMDD_HHMMSS.csv")
+    print("  Format: pricelist_final_YYYYMMDD_HHMMSS.json")
     
     # Show sample
     if items:
