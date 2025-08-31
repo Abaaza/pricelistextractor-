@@ -1,0 +1,11 @@
+id,code,description,unit,category,subcategory,rate,cellRate_reference,cellRate_rate,excelCellReference,sourceSheetName,keywords
+36,36,Bollard,nr,Groundworks,Groundworks,33.91,Groundworks!F48,33.91,Groundworks!A48,Groundworks,
+107,107,Design,item,Groundworks,Groundworks,1180.0,Groundworks!F125,1180.0,Groundworks!A125,Groundworks,
+139,139,Design,item,Groundworks,Groundworks,2950.0,Groundworks!F157,2950.0,Groundworks!A157,Groundworks,
+144,144,Piles for crane base,nr,Groundworks,Groundworks,1770.0,Groundworks!F162,1770.0,Groundworks!A162,Groundworks,
+224,224,Exc ancilliaries; prepare surfaces,m²,Groundworks,Groundworks,0.11,Groundworks!F256,0.11,Groundworks!A256,Groundworks,
+225,225,Exc ancilliaries; prepare surfaces; sloping,m²,Groundworks,Groundworks,1.08,Groundworks!F257,1.08,Groundworks!A257,Groundworks,
+269,269,EO for using a conveyor,m³,Groundworks,Groundworks,11.85,Groundworks!F303,11.85,Groundworks!A303,Groundworks,
+407,407,Welder,days,Groundworks,Groundworks,147.5,Groundworks!F448,147.5,Groundworks!A448,Groundworks,
+697,697,Seal & dress around pile,nr,Groundworks,Groundworks,24.46,Groundworks!F768,24.46,Groundworks!A768,Groundworks,
+794,794,Seal & dress around pile,nr,Groundworks,Groundworks,14.78,Groundworks!F878,14.78,Groundworks!A878,Groundworks,

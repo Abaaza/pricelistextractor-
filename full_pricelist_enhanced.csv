@@ -1,0 +1,1249 @@
+id,code,description,unit,category,subcategory,rate,cellRate_reference,cellRate_rate,excelCellReference,sourceSheetName,keywords
+16,16,slabs,m³,Groundworks,Groundworks,547.55,Groundworks!F28,547.55,Groundworks!A28,Groundworks,
+36,36,Bollard,nr,Groundworks,Groundworks,33.91,Groundworks!F48,33.91,Groundworks!A48,Groundworks,
+77,77,load,item,Groundworks,Groundworks,300.0,Groundworks!F94,300.0,Groundworks!A94,Groundworks,
+107,107,Design,item,Groundworks,Groundworks,1180.0,Groundworks!F125,1180.0,Groundworks!A125,Groundworks,
+139,139,Design,item,Groundworks,Groundworks,2950.0,Groundworks!F157,2950.0,Groundworks!A157,Groundworks,
+144,144,Piles for crane base,nr,Groundworks,Groundworks,1770.0,Groundworks!F162,1770.0,Groundworks!A162,Groundworks,
+224,224,Exc ancilliaries; prepare surfaces,m²,Groundworks,Groundworks,0.11,Groundworks!F256,0.11,Groundworks!A256,Groundworks,
+225,225,Exc ancilliaries; prepare surfaces; sloping,m²,Groundworks,Groundworks,1.08,Groundworks!F257,1.08,Groundworks!A257,Groundworks,
+269,269,EO for using a conveyor,m³,Groundworks,Groundworks,11.85,Groundworks!F303,11.85,Groundworks!A303,Groundworks,
+327,327,wks,item,Groundworks,Groundworks,1652.0,Groundworks!F361,1652.0,Groundworks!A361,Groundworks,
+329,329,wks,item,Groundworks,Groundworks,4967.8,Groundworks!F363,4967.8,Groundworks!A363,Groundworks,
+407,407,Welder,days,Groundworks,Groundworks,147.5,Groundworks!F448,147.5,Groundworks!A448,Groundworks,
+459,459,load,item,Groundworks,Groundworks,300.0,Groundworks!F502,300.0,Groundworks!A502,Groundworks,
+486,486,wks,item,Groundworks,Groundworks,1088.22,Groundworks!F539,1088.22,Groundworks!A539,Groundworks,
+487,487,wks,item,Groundworks,Groundworks,1718.87,Groundworks!F540,1718.87,Groundworks!A540,Groundworks,
+489,489,wks,item,Groundworks,Groundworks,94.4,Groundworks!F542,94.4,Groundworks!A542,Groundworks,
+490,490,wks,item,Groundworks,Groundworks,496.26,Groundworks!F543,496.26,Groundworks!A543,Groundworks,
+697,697,Seal & dress around pile,nr,Groundworks,Groundworks,24.46,Groundworks!F768,24.46,Groundworks!A768,Groundworks,
+794,794,Seal & dress around pile,nr,Groundworks,Groundworks,14.78,Groundworks!F878,14.78,Groundworks!A878,Groundworks,
+140,140,Corbel,m³,RC Works,RC works,233.87,RC works!F186,233.87,RC works!A186,RC works,
+183,183,Benching,m³,RC Works,RC works,480.37,RC works!F243,480.37,RC works!A243,RC works,
+349,349,Floors,m²,RC Works,RC works,27.19,RC works!F471,27.19,RC works!A471,RC works,
+380,380,Edges of slabs & openings; ne 250,m,RC Works,RC works,11.03,RC works!F507,11.03,RC works!A507,RC works,
+381,381,Edges of slabs & openings; ne 250; curved,m,RC Works,RC works,22.06,RC works!F508,22.06,RC works!A508,RC works,
+382,382,Edges of slabs & openings; ne 250; sloping,m,RC Works,RC works,14.89,RC works!F509,14.89,RC works!A509,RC works,
+383,383,Edges of slabs & openings; ne 250; sloping; curved,m,RC Works,RC works,29.79,RC works!F510,29.79,RC works!A510,RC works,
+384,384,Edges of slabs & openings; 250-500,m,RC Works,RC works,17.41,RC works!F511,17.41,RC works!A511,RC works,
+385,385,Edges of slabs & openings; 250-500; curved,m,RC Works,RC works,34.83,RC works!F512,34.83,RC works!A512,RC works,
+416,416,EO for balcony backpropping,m²,RC Works,RC works,2.46,RC works!F543,2.46,RC works!A543,RC works,
+530,530,Wall ends/opngs; ne 250,m,RC Works,RC works,10.41,RC works!F660,10.41,RC works!A660,RC works,
+531,531,Wall ends/opngs; ne 250; curved,m,RC Works,RC works,20.82,RC works!F661,20.82,RC works!A661,RC works,
+532,532,Wall ends/opngs; 250-500,m,RC Works,RC works,15.56,RC works!F662,15.56,RC works!A662,RC works,
+533,533,Wall ends/opngs; 250-500; curved,m,RC Works,RC works,31.12,RC works!F663,31.12,RC works!A663,RC works,
+536,536,Wall kickers,m,RC Works,RC works,12.74,RC works!F666,12.74,RC works!A666,RC works,
+538,538,Wall kickers; curved,m,RC Works,RC works,42.42,RC works!F668,42.42,RC works!A668,RC works,
+559,559,A&B,m,RC Works,RC works,21.83,RC works!F689,21.83,RC works!A689,RC works,
+600,600,Rounded corner,m,RC Works,RC works,5.9,RC works!F730,5.9,RC works!A730,RC works,
+625,625,Corbel; 115 x 150,m,RC Works,RC works,43.96,RC works!F755,43.96,RC works!A755,RC works,
+626,626,Corbel; 200 x 300,m,RC Works,RC works,80.99,RC works!F756,80.99,RC works!A756,RC works,
+628,628,Corbel; 75 x 450,m,RC Works,RC works,69.42,RC works!F758,69.42,RC works!A758,RC works,
+629,629,Corbel; 245 x 250,m,RC Works,RC works,85.61,RC works!F759,85.61,RC works!A759,RC works,
+631,631,Corbel; 250 x 325,m,RC Works,RC works,95.45,RC works!F761,95.45,RC works!A761,RC works,
+632,632,Corbel; 250 x 600,m,RC Works,RC works,127.26,RC works!F762,127.26,RC works!A762,RC works,
+633,633,Corbel; 275 x 225,m,RC Works,RC works,90.24,RC works!F763,90.24,RC works!A763,RC works,
+634,634,Corbel; 275 x 375,m,RC Works,RC works,107.6,RC works!F764,107.6,RC works!A764,RC works,
+635,635,Corbel; 300 x 250,m,RC Works,RC works,98.34,RC works!F765,98.34,RC works!A765,RC works,
+636,636,Corbel; 300 x 375,m,RC Works,RC works,112.8,RC works!F766,112.8,RC works!A766,RC works,
+637,637,Corbel; 325 x 388,m,RC Works,RC works,120.09,RC works!F767,120.09,RC works!A767,RC works,
+638,638,Corbel; 350 x 300,m,RC Works,RC works,115.7,RC works!F768,115.7,RC works!A768,RC works,
+639,639,Corbel; 390 x 300,m,RC Works,RC works,124.95,RC works!F769,124.95,RC works!A769,RC works,
+647,647,Recess; 50 x 80,m,RC Works,RC works,16.55,RC works!F777,16.55,RC works!A777,RC works,
+648,648,Recess; 160 x 80,m,RC Works,RC works,36.77,RC works!F778,36.77,RC works!A778,RC works,
+649,649,Recess; 100 x 150,m,RC Works,RC works,36.77,RC works!F779,36.77,RC works!A779,RC works,
+650,650,Recess; 150 x 100,m,RC Works,RC works,32.18,RC works!F780,32.18,RC works!A780,RC works,
+651,651,Recess; 150 x 100; curved,m,RC Works,RC works,64.35,RC works!F781,64.35,RC works!A781,RC works,
+652,652,Recess; 275 x 165,m,RC Works,RC works,50.56,RC works!F782,50.56,RC works!A782,RC works,
+653,653,Recess; 270 x 155,m,RC Works,RC works,53.32,RC works!F783,53.32,RC works!A783,RC works,
+654,654,Recess; 285 x 40,m,RC Works,RC works,28.97,RC works!F784,28.97,RC works!A784,RC works,
+655,655,Recess; 300 x 50,m,RC Works,RC works,36.77,RC works!F785,36.77,RC works!A785,RC works,
+656,656,Recess; 120 x 80,m,RC Works,RC works,33.49,RC works!F786,33.49,RC works!A786,RC works,
+657,657,Recess; 500 x 600 x 50,nr,RC Works,RC works,37.69,RC works!F787,37.69,RC works!A787,RC works,
+661,661,Recess; 850 x 850 x 120,nr,RC Works,RC works,103.88,RC works!F791,103.88,RC works!A791,RC works,
+662,662,Recess; 400 x 400 x 120,nr,RC Works,RC works,32.36,RC works!F792,32.36,RC works!A792,RC works,
+665,665,Recess; 1500 x 600 x 200dp,nr,RC Works,RC works,159.96,RC works!F795,159.96,RC works!A795,RC works,
+666,666,Recess; 1600 x 300 x 200dp,nr,RC Works,RC works,114.0,RC works!F796,114.0,RC works!A796,RC works,
+667,667,Recess; 7000 x 1400 x 320dp; curved,nr,RC Works,RC works,2791.04,RC works!F797,2791.04,RC works!A797,RC works,
+668,668,Recess; 200 x 300,m,RC Works,RC works,73.57,RC works!F798,73.57,RC works!A798,RC works,
+669,669,Recess; 360 x 310,m,RC Works,RC works,90.1,RC works!F799,90.1,RC works!A799,RC works,
+670,670,Recess; 330 x 220,m,RC Works,RC works,70.81,RC works!F800,70.81,RC works!A800,RC works,
+671,671,Recess; 120 x 375,m,RC Works,RC works,80.0,RC works!F801,80.0,RC works!A801,RC works,
+672,672,Recess; 120 x 500,m,RC Works,RC works,102.95,RC works!F802,102.95,RC works!A802,RC works,
+673,673,Recess; 120 x 525,m,RC Works,RC works,107.54,RC works!F803,107.54,RC works!A803,RC works,
+674,674,Recess; 120 x 600,m,RC Works,RC works,121.31,RC works!F804,121.31,RC works!A804,RC works,
+675,675,Recess; 120 x 900,m,RC Works,RC works,176.4,RC works!F805,176.4,RC works!A805,RC works,
+676,676,Recess; 180 x 150,m,RC Works,RC works,44.13,RC works!F806,44.13,RC works!A806,RC works,
+677,677,Recess; 400 x 400,m,RC Works,RC works,110.29,RC works!F807,110.29,RC works!A807,RC works,
+678,678,Recess; 450 x 450 for drain channel,m,RC Works,RC works,82.75,RC works!F808,82.75,RC works!A808,RC works,
+679,679,Recess; 890 x 780,m,RC Works,RC works,200.73,RC works!F809,200.73,RC works!A809,RC works,
+680,680,Recess; 200 x 200 x 150,nr,RC Works,RC works,24.63,RC works!F810,24.63,RC works!A810,RC works,
+696,696,General,m²,RC Works,RC works,5.45,RC works!F830,5.45,RC works!A830,RC works,
+702,702,General/All,m²,RC Works,RC works,12.25,RC works!F838,12.25,RC works!A838,RC works,
+709,709,General,m²,RC Works,RC works,24.53,RC works!F847,24.53,RC works!A847,RC works,
+710,710,General; curved,m²,RC Works,RC works,49.07,RC works!F848,49.07,RC works!A848,RC works,
+711,711,General; ne 250,m,RC Works,RC works,12.27,RC works!F849,12.27,RC works!A849,RC works,
+712,712,General; 250-500,m,RC Works,RC works,18.4,RC works!F850,18.4,RC works!A850,RC works,
+772,772,Allowance for rebar laps,tonne,RC Works,RC works,1769.62,RC works!F921,1769.62,RC works!A921,RC works,
+777,777,H10,tonne,RC Works,RC works,2182.18,RC works!F928,2182.18,RC works!A928,RC works,
+778,778,H12,tonne,RC Works,RC works,1926.79,RC works!F929,1926.79,RC works!A929,RC works,
+779,779,H16,tonne,RC Works,RC works,1760.78,RC works!F930,1760.78,RC works!A930,RC works,
+780,780,H20,tonne,RC Works,RC works,1729.44,RC works!F931,1729.44,RC works!A931,RC works,
+781,781,H25,tonne,RC Works,RC works,1697.45,RC works!F932,1697.45,RC works!A932,RC works,
+782,782,H32,tonne,RC Works,RC works,1676.21,RC works!F933,1676.21,RC works!A933,RC works,
+783,783,H40,tonne,RC Works,RC works,1666.75,RC works!F934,1666.75,RC works!A934,RC works,
+784,784,H50,tonne,RC Works,RC works,1653.78,RC works!F935,1653.78,RC works!A935,RC works,
+785,785,EO for express delivery,tonne,RC Works,RC works,76.7,RC works!F936,76.7,RC works!A936,RC works,
+788,788,H10,tonne,RC Works,RC works,3366.85,RC works!F941,3366.85,RC works!A941,RC works,
+789,789,H12,tonne,RC Works,RC works,2728.37,RC works!F942,2728.37,RC works!A942,RC works,
+814,814,H12,nr,RC Works,RC works,15.9,RC works!F984,15.9,RC works!A984,RC works,
+815,815,H16,nr,RC Works,RC works,16.62,RC works!F985,16.62,RC works!A985,RC works,
+816,816,H20,nr,RC Works,RC works,19.55,RC works!F986,19.55,RC works!A986,RC works,
+817,817,H25,nr,RC Works,RC works,21.55,RC works!F987,21.55,RC works!A987,RC works,
+818,818,H32,nr,RC Works,RC works,26.28,RC works!F988,26.28,RC works!A988,RC works,
+819,819,H40,nr,RC Works,RC works,31.74,RC works!F989,31.74,RC works!A989,RC works,
+820,820,H12,nr,RC Works,RC works,9.36,RC works!F992,9.36,RC works!A992,RC works,
+821,821,H16,nr,RC Works,RC works,9.76,RC works!F993,9.76,RC works!A993,RC works,
+822,822,H20,nr,RC Works,RC works,11.23,RC works!F994,11.23,RC works!A994,RC works,
+823,823,H25,nr,RC Works,RC works,12.29,RC works!F995,12.29,RC works!A995,RC works,
+824,824,H32,nr,RC Works,RC works,14.65,RC works!F996,14.65,RC works!A996,RC works,
+825,825,H40,nr,RC Works,RC works,18.02,RC works!F997,18.02,RC works!A997,RC works,
+826,826,H12,nr,RC Works,RC works,11.56,RC works!F1000,11.56,RC works!A1000,RC works,
+827,827,H16,nr,RC Works,RC works,12.32,RC works!F1001,12.32,RC works!A1001,RC works,
+828,828,H20,nr,RC Works,RC works,13.27,RC works!F1002,13.27,RC works!A1002,RC works,
+829,829,H25,nr,RC Works,RC works,14.68,RC works!F1003,14.68,RC works!A1003,RC works,
+830,830,H32,nr,RC Works,RC works,17.69,RC works!F1004,17.69,RC works!A1004,RC works,
+831,831,H40,nr,RC Works,RC works,22.3,RC works!F1005,22.3,RC works!A1005,RC works,
+832,832,H12,nr,RC Works,RC works,21.82,RC works!F1008,21.82,RC works!A1008,RC works,
+833,833,H16,nr,RC Works,RC works,24.8,RC works!F1009,24.8,RC works!A1009,RC works,
+834,834,H20,nr,RC Works,RC works,26.25,RC works!F1010,26.25,RC works!A1010,RC works,
+835,835,H25,nr,RC Works,RC works,35.51,RC works!F1011,35.51,RC works!A1011,RC works,
+836,836,H32,nr,RC Works,RC works,61.26,RC works!F1012,61.26,RC works!A1012,RC works,
+837,837,H40,nr,RC Works,RC works,93.83,RC works!F1013,93.83,RC works!A1013,RC works,
+913,913,"Brush finish (U5/6, Special finish)",m²,RC Works,RC works,7.76,RC works!F1104,7.76,RC works!A1104,RC works,
+919,919,Laser screeding finish,m²,RC Works,RC works,7.73,RC works!F1110,7.73,RC works!A1110,RC works,
+925,925,"Curer, sealer & hardener; Sika Everbuild 403",m²,RC Works,RC works,0.97,RC works!F1116,0.97,RC works!A1116,RC works,
+928,928,"Curer, sealer & hardener; Duraseal",m²,RC Works,RC works,1.83,RC works!F1119,1.83,RC works!A1119,RC works,
+933,933,"Scabble, U9",m²,RC Works,RC works,19.41,RC works!F1124,19.41,RC works!A1124,RC works,
+947,947,Coupler H20,nr,RC Works,RC works,19.55,RC works!F1140,19.55,RC works!A1140,RC works,
+953,953,wks,item,RC Works,RC works,1770.0,RC works!F1146,1770.0,RC works!A1146,RC works,
+981,981,DPC 100 wide,m,RC Works,RC works,4.74,RC works!F1176,4.74,RC works!A1176,RC works,
+982,982,DPC 140 wide,m,RC Works,RC works,6.2,RC works!F1177,6.2,RC works!A1177,RC works,
+1074,1074,C60,nr,RC Works,RC works,26831.76,RC works!F1288,26831.76,RC works!A1288,RC works,
+1205,1205,EO for key,m,RC Works,RC works,8.78,RC works!F1428,8.78,RC works!A1428,RC works,
+221,221,EO for draw cord,m,Services,Services,1.05,Services!I333,1.05,Services!A333,Services,
+248,248,Sand bed & surround; various,m³,Services,Services,109.27,Services!I366,109.27,Services!A366,Services,
+337,337,100 x 100 branch,nr,Services,Services,31.84,Services!I486,31.84,Services!A486,Services,
+340,340,150 x 100 branch,nr,Services,Services,45.41,Services!I489,45.41,Services!A489,Services,
+341,341,150 x 150 branch,nr,Services,Services,47.16,Services!I490,47.16,Services!A490,Services,
+346,346,225 x 100/150 branch,nr,Services,Services,135.79,Services!I495,135.79,Services!A495,Services,
+347,347,225 x 225 branch,nr,Services,Services,167.61,Services!I496,167.61,Services!A496,Services,
+359,359,100 x 100 branch,nr,Services,Services,24.77,Services!I510,24.77,Services!A510,Services,
+367,367,160 x 100 branch,nr,Services,Services,53.12,Services!I518,53.12,Services!A518,Services,
+368,368,160 x 160 branch,nr,Services,Services,69.44,Services!I519,69.44,Services!A519,Services,
+372,372,200 x 100/160 branch,nr,Services,Services,75.63,Services!I523,75.63,Services!A523,Services,
+373,373,200 x 200 branch,nr,Services,Services,89.92,Services!I524,89.92,Services!A524,Services,
+376,376,250 x 100/160 branch,nr,Services,Services,183.94,Services!I527,183.94,Services!A527,Services,
+377,377,250 x 250 branch,nr,Services,Services,267.83,Services!I528,267.83,Services!A528,Services,
+382,382,100 x 100 branch,nr,Services,Services,70.71,Services!I534,70.71,Services!A534,Services,
+386,386,150 x 100 branch,nr,Services,Services,156.27,Services!I538,156.27,Services!A538,Services,
+387,387,150 x 150 branch,nr,Services,Services,167.85,Services!I539,167.85,Services!A539,Services,
+391,391,250 x 250 branch,nr,Services,Services,533.29,Services!I543,533.29,Services!A543,Services,
+441,441,1000 wde x 500 dp,m,Services,Services,849.6,Services!I635,849.6,Services!A635,Services,
+512,512,Benching; 1050 dia,nr,Services,Services,31.2,Services!I715,31.2,Services!A715,Services,
+513,513,Benching; 1200 dia,nr,Services,Services,39.6,Services!I716,39.6,Services!A716,Services,
+514,514,Benching; 1500 dia,nr,Services,Services,62.41,Services!I717,62.41,Services!A717,Services,
+515,515,Benching; 1800 dia,nr,Services,Services,92.43,Services!I718,92.43,Services!A718,Services,
+516,516,Benching; 2100 dia,nr,Services,Services,122.46,Services!I719,122.46,Services!A719,Services,
+526,526,Caisson rings; 3600 dia,m,Services,Services,2776.6,Services!I729,2776.6,Services!A729,Services,
+527,527,Caisson rings; 4000 dia,m,Services,Services,5767.01,Services!I730,5767.01,Services!A730,Services,
+528,528,Cover slabs; 900 dia,nr,Services,Services,137.08,Services!I731,137.08,Services!A731,Services,
+529,529,Cover slabs; 1050 dia,nr,Services,Services,139.47,Services!I732,139.47,Services!A732,Services,
+530,530,Cover slabs; 1200 dia,nr,Services,Services,168.93,Services!I733,168.93,Services!A733,Services,
+531,531,Cover slabs; 1500 dia,nr,Services,Services,256.46,Services!I734,256.46,Services!A734,Services,
+532,532,Cover slabs; 1800 dia,nr,Services,Services,371.85,Services!I735,371.85,Services!A735,Services,
+533,533,Cover slabs; 2100 dia,nr,Services,Services,689.03,Services!I736,689.03,Services!A736,Services,
+534,534,Cover slabs; 2400 dia,nr,Services,Services,956.21,Services!I737,956.21,Services!A737,Services,
+535,535,Cover slabs; 2700 dia,nr,Services,Services,1510.27,Services!I738,1510.27,Services!A738,Services,
+536,536,Cover slabs; 3000 dia,nr,Services,Services,1809.56,Services!I739,1809.56,Services!A739,Services,
+537,537,Cover slabs; 3600 dia,nr,Services,Services,3794.47,Services!I740,3794.47,Services!A740,Services,
+538,538,Cover slabs; 4000 dia,nr,Services,Services,4242.86,Services!I741,4242.86,Services!A741,Services,
+544,544,Branch bends; 100 dia,nr,Services,Services,38.74,Services!I747,38.74,Services!A747,Services,
+545,545,Branch bends; 150 dia,nr,Services,Services,59.49,Services!I748,59.49,Services!A748,Services,
+546,546,Branch bends; 225 dia,nr,Services,Services,111.61,Services!I749,111.61,Services!A749,Services,
+555,555,Build in ends of pipe; 100 dia,nr,Services,Services,28.84,Services!I758,28.84,Services!A758,Services,
+556,556,Build in ends of pipe; 150 dia,nr,Services,Services,43.27,Services!I759,43.27,Services!A759,Services,
+557,557,Build in ends of pipe; 225 dia,nr,Services,Services,57.69,Services!I760,57.69,Services!A760,Services,
+558,558,Build in ends of pipe; 300 dia,nr,Services,Services,86.53,Services!I761,86.53,Services!A761,Services,
+559,559,Build in ends of pipe; 450 dia,nr,Services,Services,115.38,Services!I762,115.38,Services!A762,Services,
+567,567,L&C surface of fill,m²,Services,Services,1.51,Services!I770,1.51,Services!A770,Services,
+577,577,Full road closure,nr,Services,Services,4248.0,Services!I786,4248.0,Services!A786,Services,
+584,584,Jersey blocks,m,Services,Services,59.66,Services!I795,59.66,Services!A795,Services,
+80,80,inc,item,External Works,External Works,0.0,,0.0,External Works!A94,External Works,
+209,209,Wall kickers,m,External Works,External Works,13.5,External Works!E252,13.5,External Works!A252,External Works,
+211,211,Wall ends/opngs; ne 250,m,External Works,External Works,11.03,External Works!E254,11.03,External Works!A254,External Works,
+212,212,Wall ends/opngs; 250-500,m,External Works,External Works,16.48,External Works!E255,16.48,External Works!A255,External Works,
+214,214,Edges of slabs & openings; ne 250,m,External Works,External Works,11.03,External Works!E257,11.03,External Works!A257,External Works,
+215,215,Edges of slabs & openings; ne 250; curved,m,External Works,External Works,22.06,External Works!E258,22.06,External Works!A258,External Works,
+216,216,Edges of slabs & openings; 250-500,m,External Works,External Works,18.01,External Works!E259,18.01,External Works!A259,External Works,
+217,217,Edges of slabs & openings; 250-500; curved,m,External Works,External Works,36.03,External Works!E260,36.03,External Works!A260,External Works,
+246,246,Brush finish (Special finish),m²,External Works,External Works,8.01,External Works!E295,8.01,External Works!A295,External Works,
+263,263,6F1 capping layer,m³,External Works,External Works,37.24,External Works!E319,37.24,External Works!A319,External Works,
+265,265,L&C fill,m²,External Works,External Works,0.31,External Works!E321,0.31,External Works!A321,External Works,
+266,266,6F1 capping layer,m³,External Works,External Works,37.24,External Works!E324,37.24,External Works!A324,External Works,
+268,268,L&C fill,m²,External Works,External Works,0.47,External Works!E326,0.47,External Works!A326,External Works,
+327,327,Sealing edges,m,External Works,External Works,1.25,External Works!E391,1.25,External Works!A391,External Works,
+433,433,EO for soldier course,m,External Works,External Works,15.0,External Works!E499,15.0,External Works!A499,External Works,
+529,529,Grass grid; Ecoblock 80,m²,External Works,External Works,47.03,External Works!E599,47.03,External Works!A599,External Works,
+554,554,Disabled parking,nr,External Works,External Works,27.5,External Works!E632,27.5,External Works!A632,External Works,
+555,555,x 2,item,External Works,External Works,0.0,,0.0,External Works!A633,External Works,
+561,561,EO for curved,m,External Works,External Works,7.45,External Works!E642,7.45,External Works!A642,External Works,
+672,672,EO for welding corrners,nr,External Works,External Works,104.89,External Works!E753,104.89,External Works!A753,External Works,
+674,674,EO bespoke welded corner,nr,External Works,External Works,56.08,External Works!E755,56.08,External Works!A755,External Works,
+678,678,EO bespoke welded corner,nr,External Works,External Works,67.8,External Works!E759,67.8,External Works!A759,External Works,
+682,682,Beany block drainage kerb,m,External Works,External Works,120.92,External Works!E763,120.92,External Works!A763,External Works,
+684,684,Beany block end cap,nr,External Works,External Works,46.28,External Works!E765,46.28,External Works!A765,External Works,
+702,702,EO for brick on edge coping; 1B wall,m,External Works,External Works,6.25,External Works!E785,6.25,External Works!A785,External Works,
+715,715,BOE coping,m,External Works,External Works,0.0,,0.0,External Works!A798,External Works,
+719,719,DPC 100 wide,m,External Works,External Works,5.03,External Works!E802,5.03,External Works!A802,External Works,
+720,720,DPC 140 wide,m,External Works,External Works,6.56,External Works!E803,6.56,External Works!A803,External Works,
+721,721,DPC 215 wide,m,External Works,External Works,8.49,External Works!E804,8.49,External Works!A804,External Works,
+747,747,6G gabion fill; hand packed in place,m³,External Works,External Works,281.21,External Works!E832,281.21,External Works!A832,External Works,
+855,855,Road sign; free issue fix only,nr,External Works,External Works,104.23,External Works!E949,104.23,External Works!A949,External Works,
+866,866,Vehicle barrier,nr,External Works,External Works,1742.88,External Works!E960,1742.88,External Works!A960,External Works,
+867,867,Vehicle barrier; fix only free issue,nr,External Works,External Works,495.38,External Works!E961,495.38,External Works!A961,External Works,
+885,885,Full road closure,nr,External Works,External Works,4500.0,External Works!E992,4500.0,External Works!A992,External Works,
+894,894,Jersey / Kelly blocks,m,External Works,External Works,63.19,External Works!E1005,63.19,External Works!A1005,External Works,
+895,895,Place only free issue kelly blocks,m,External Works,External Works,28.19,External Works!E1006,28.19,External Works!A1006,External Works,
+18,18,Clean off face of brickwork,m²,Underpinning,Underpinning,6.49,Underpinning!E117,6.49,Underpinning!A117,Underpinning,
+33,33,inc,item,Underpinning,Underpinning,0.0,,0.0,Underpinning!A132,Underpinning,
+44,44,Underpins,m³,Underpinning,Underpinning,277.75,Underpinning!E147,277.75,Underpinning!A147,Underpinning,
+48,48,Underpins,m³,Underpinning,Underpinning,280.46,Underpinning!E153,280.46,Underpinning!A153,Underpinning,
+64,64,Wall kickers,m,Underpinning,Underpinning,28.01,Underpinning!E171,28.01,Underpinning!A171,Underpinning,
+5,5,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,17.49,Drainage!O26,17.49,Drainage!A26,Drainage,excavation|trench|depth_0.5-0.75m
+6,6,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,22.35,Drainage!O27,22.35,Drainage!A27,Drainage,excavation|trench|depth_0.75-1.0m
+7,7,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,33.52,Drainage!O28,33.52,Drainage!A28,Drainage,excavation|trench|depth_1.0-1.25m
+8,8,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,38.39,Drainage!O29,38.39,Drainage!A29,Drainage,excavation|trench|depth_1.25-1.5m
+9,9,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,53.05,Drainage!O30,53.05,Drainage!A30,Drainage,excavation|trench|depth_1.5-1.75m
+10,10,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,59.0,Drainage!O31,59.0,Drainage!A31,Drainage,excavation|trench|depth_1.75-2.0m
+11,11,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,81.49,Drainage!O32,81.49,Drainage!A32,Drainage,excavation|trench|depth_2.0-2.25m
+12,12,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,92.88,Drainage!O33,92.88,Drainage!A33,Drainage,excavation|trench|depth_2.25-2.5m
+13,13,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,112.96,Drainage!O34,112.96,Drainage!A34,Drainage,excavation|trench|depth_2.5-2.75m
+14,14,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,131.31,Drainage!O35,131.31,Drainage!A35,Drainage,excavation|trench|depth_2.75-3.0m
+15,15,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,140.79,Drainage!O36,140.79,Drainage!A36,Drainage,excavation|trench|depth_3.0-3.25m
+16,16,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,150.28,Drainage!O37,150.28,Drainage!A37,Drainage,excavation|trench|depth_3.25-3.5m
+17,17,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,205.97,Drainage!O38,205.97,Drainage!A38,Drainage,excavation|trench|depth_3.5-3.75m
+18,18,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,218.15,Drainage!O39,218.15,Drainage!A39,Drainage,excavation|trench|depth_3.75-4.0m
+19,19,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,281.92,Drainage!O40,281.92,Drainage!A40,Drainage,excavation|trench|depth_4.0-4.25m
+20,20,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,296.79,Drainage!O41,296.79,Drainage!A41,Drainage,excavation|trench|depth_4.25-4.5m
+21,21,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,311.66,Drainage!O42,311.66,Drainage!A42,Drainage,excavation|trench|depth_4.5-4.75m
+22,22,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,326.53,Drainage!O43,326.53,Drainage!A43,Drainage,excavation|trench|depth_4.75-5.0m
+23,23,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,341.41,Drainage!O44,341.41,Drainage!A44,Drainage,excavation|trench|depth_5.0-5.25m
+24,24,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,356.28,Drainage!O45,356.28,Drainage!A45,Drainage,excavation|trench|depth_5.25-5.5m
+25,25,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,371.15,Drainage!O46,371.15,Drainage!A46,Drainage,excavation|trench|depth_5.5-5.75m
+26,26,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,386.02,Drainage!O47,386.02,Drainage!A47,Drainage,excavation|trench|depth_5.75-6.0m
+27,27,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,400.89,Drainage!O48,400.89,Drainage!A48,Drainage,excavation|trench|depth_6.0-6.25m
+28,28,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,415.77,Drainage!O49,415.77,Drainage!A49,Drainage,excavation|trench|depth_6.25-6.5m
+30,30,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,7.78,Drainage!O52,7.78,Drainage!A52,Drainage,excavation|trench|depth_0.5-0.75m
+31,31,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,11.11,Drainage!O53,11.11,Drainage!A53,Drainage,excavation|trench|depth_0.75-1.0m
+32,32,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,20.41,Drainage!O54,20.41,Drainage!A54,Drainage,excavation|trench|depth_1.0-1.25m
+33,33,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,24.45,Drainage!O55,24.45,Drainage!A55,Drainage,excavation|trench|depth_1.25-1.5m
+34,34,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,34.57,Drainage!O56,34.57,Drainage!A56,Drainage,excavation|trench|depth_1.5-1.75m
+35,35,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,39.47,Drainage!O57,39.47,Drainage!A57,Drainage,excavation|trench|depth_1.75-2.0m
+36,36,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,55.43,Drainage!O58,55.43,Drainage!A58,Drainage,excavation|trench|depth_2.0-2.25m
+37,37,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,64.05,Drainage!O59,64.05,Drainage!A59,Drainage,excavation|trench|depth_2.25-2.5m
+38,38,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,79.71,Drainage!O60,79.71,Drainage!A60,Drainage,excavation|trench|depth_2.5-2.75m
+39,39,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,93.35,Drainage!O61,93.35,Drainage!A61,Drainage,excavation|trench|depth_2.75-3.0m
+40,40,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,101.16,Drainage!O62,101.16,Drainage!A62,Drainage,excavation|trench|depth_3.0-3.25m
+42,42,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,19.67,Drainage!O65,19.67,Drainage!A65,Drainage,excavation|trench|depth_0.5-0.75m
+43,43,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,23.9,Drainage!O66,23.9,Drainage!A66,Drainage,excavation|trench|depth_0.75-1.0m
+44,44,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,35.21,Drainage!O67,35.21,Drainage!A67,Drainage,excavation|trench|depth_1.0-1.25m
+45,45,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,40.08,Drainage!O68,40.08,Drainage!A68,Drainage,excavation|trench|depth_1.25-1.5m
+46,46,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,55.17,Drainage!O69,55.17,Drainage!A69,Drainage,excavation|trench|depth_1.5-1.75m
+47,47,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,61.11,Drainage!O70,61.11,Drainage!A70,Drainage,excavation|trench|depth_1.75-2.0m
+48,48,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,84.17,Drainage!O71,84.17,Drainage!A71,Drainage,excavation|trench|depth_2.0-2.25m
+49,49,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,95.7,Drainage!O72,95.7,Drainage!A72,Drainage,excavation|trench|depth_2.25-2.5m
+50,50,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,116.06,Drainage!O73,116.06,Drainage!A73,Drainage,excavation|trench|depth_2.5-2.75m
+51,51,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,134.69,Drainage!O74,134.69,Drainage!A74,Drainage,excavation|trench|depth_2.75-3.0m
+52,52,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,144.18,Drainage!O75,144.18,Drainage!A75,Drainage,excavation|trench|depth_3.0-3.25m
+53,53,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,153.67,Drainage!O76,153.67,Drainage!A76,Drainage,excavation|trench|depth_3.25-3.5m
+54,54,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,210.49,Drainage!O77,210.49,Drainage!A77,Drainage,excavation|trench|depth_3.5-3.75m
+55,55,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,222.67,Drainage!O78,222.67,Drainage!A78,Drainage,excavation|trench|depth_3.75-4.0m
+56,56,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,287.56,Drainage!O79,287.56,Drainage!A79,Drainage,excavation|trench|depth_4.0-4.25m
+57,57,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,302.43,Drainage!O80,302.43,Drainage!A80,Drainage,excavation|trench|depth_4.25-4.5m
+58,58,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,317.3,Drainage!O81,317.3,Drainage!A81,Drainage,excavation|trench|depth_4.5-4.75m
+59,59,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,332.18,Drainage!O82,332.18,Drainage!A82,Drainage,excavation|trench|depth_4.75-5.0m
+60,60,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,347.05,Drainage!O83,347.05,Drainage!A83,Drainage,excavation|trench|depth_5.0-5.25m
+61,61,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,361.92,Drainage!O84,361.92,Drainage!A84,Drainage,excavation|trench|depth_5.25-5.5m
+62,62,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,376.79,Drainage!O85,376.79,Drainage!A85,Drainage,excavation|trench|depth_5.5-5.75m
+63,63,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,391.66,Drainage!O86,391.66,Drainage!A86,Drainage,excavation|trench|depth_5.75-6.0m
+64,64,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,406.54,Drainage!O87,406.54,Drainage!A87,Drainage,excavation|trench|depth_6.0-6.25m
+65,65,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,421.41,Drainage!O88,421.41,Drainage!A88,Drainage,excavation|trench|depth_6.25-6.5m
+67,67,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,23.96,Drainage!O91,23.96,Drainage!A91,Drainage,excavation|trench|depth_0.5-0.75m
+68,68,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,27.77,Drainage!O92,27.77,Drainage!A92,Drainage,excavation|trench|depth_0.75-1.0m
+69,69,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,42.22,Drainage!O93,42.22,Drainage!A93,Drainage,excavation|trench|depth_1.0-1.25m
+70,70,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,49.57,Drainage!O94,49.57,Drainage!A94,Drainage,excavation|trench|depth_1.25-1.5m
+71,71,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,68.76,Drainage!O95,68.76,Drainage!A95,Drainage,excavation|trench|depth_1.5-1.75m
+72,72,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,76.35,Drainage!O96,76.35,Drainage!A96,Drainage,excavation|trench|depth_1.75-2.0m
+73,73,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,103.46,Drainage!O97,103.46,Drainage!A97,Drainage,excavation|trench|depth_2.0-2.25m
+74,74,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,112.63,Drainage!O98,112.63,Drainage!A98,Drainage,excavation|trench|depth_2.25-2.5m
+75,75,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,125.26,Drainage!O99,125.26,Drainage!A99,Drainage,excavation|trench|depth_2.5-2.75m
+76,76,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,134.82,Drainage!O100,134.82,Drainage!A100,Drainage,excavation|trench|depth_2.75-3.0m
+77,77,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,252.06,Drainage!O101,252.06,Drainage!A101,Drainage,excavation|trench|depth_3.0-3.25m
+78,78,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,268.34,Drainage!O102,268.34,Drainage!A102,Drainage,excavation|trench|depth_3.25-3.5m
+79,79,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,284.62,Drainage!O103,284.62,Drainage!A103,Drainage,excavation|trench|depth_3.5-3.75m
+80,80,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,300.9,Drainage!O104,300.9,Drainage!A104,Drainage,excavation|trench|depth_3.75-4.0m
+81,81,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,317.19,Drainage!O105,317.19,Drainage!A105,Drainage,excavation|trench|depth_4.0-4.25m
+82,82,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,333.47,Drainage!O106,333.47,Drainage!A106,Drainage,excavation|trench|depth_4.25-4.5m
+83,83,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,349.75,Drainage!O107,349.75,Drainage!A107,Drainage,excavation|trench|depth_4.5-4.75m
+84,84,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,366.04,Drainage!O108,366.04,Drainage!A108,Drainage,excavation|trench|depth_4.75-5.0m
+85,85,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,382.32,Drainage!O109,382.32,Drainage!A109,Drainage,excavation|trench|depth_5.0-5.25m
+86,86,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,398.6,Drainage!O110,398.6,Drainage!A110,Drainage,excavation|trench|depth_5.25-5.5m
+87,87,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,414.88,Drainage!O111,414.88,Drainage!A111,Drainage,excavation|trench|depth_5.5-5.75m
+88,88,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,431.17,Drainage!O112,431.17,Drainage!A112,Drainage,excavation|trench|depth_5.75-6.0m
+89,89,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,447.45,Drainage!O113,447.45,Drainage!A113,Drainage,excavation|trench|depth_6.0-6.25m
+90,90,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,463.73,Drainage!O114,463.73,Drainage!A114,Drainage,excavation|trench|depth_6.25-6.5m
+92,92,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,34.18,Drainage!O117,34.18,Drainage!A117,Drainage,excavation|trench|depth_0.5-0.75m
+93,93,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,38.94,Drainage!O118,38.94,Drainage!A118,Drainage,excavation|trench|depth_0.75-1.0m
+94,94,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,54.34,Drainage!O119,54.34,Drainage!A119,Drainage,excavation|trench|depth_1.0-1.25m
+95,95,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,61.24,Drainage!O120,61.24,Drainage!A120,Drainage,excavation|trench|depth_1.25-1.5m
+96,96,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,68.13,Drainage!O121,68.13,Drainage!A121,Drainage,excavation|trench|depth_1.5-1.75m
+97,97,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,75.02,Drainage!O122,75.02,Drainage!A122,Drainage,excavation|trench|depth_1.75-2.0m
+98,98,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,102.84,Drainage!O123,102.84,Drainage!A123,Drainage,excavation|trench|depth_2.0-2.25m
+99,99,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,111.32,Drainage!O124,111.32,Drainage!A124,Drainage,excavation|trench|depth_2.25-2.5m
+100,100,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,130.91,Drainage!O125,130.91,Drainage!A125,Drainage,excavation|trench|depth_2.5-2.75m
+101,101,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,140.46,Drainage!O126,140.46,Drainage!A126,Drainage,excavation|trench|depth_2.75-3.0m
+102,102,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,263.34,Drainage!O127,263.34,Drainage!A127,Drainage,excavation|trench|depth_3.0-3.25m
+103,103,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,279.62,Drainage!O128,279.62,Drainage!A128,Drainage,excavation|trench|depth_3.25-3.5m
+104,104,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,295.9,Drainage!O129,295.9,Drainage!A129,Drainage,excavation|trench|depth_3.5-3.75m
+105,105,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,312.19,Drainage!O130,312.19,Drainage!A130,Drainage,excavation|trench|depth_3.75-4.0m
+106,106,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,328.47,Drainage!O131,328.47,Drainage!A131,Drainage,excavation|trench|depth_4.0-4.25m
+107,107,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,344.75,Drainage!O132,344.75,Drainage!A132,Drainage,excavation|trench|depth_4.25-4.5m
+108,108,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,361.04,Drainage!O133,361.04,Drainage!A133,Drainage,excavation|trench|depth_4.5-4.75m
+109,109,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,377.32,Drainage!O134,377.32,Drainage!A134,Drainage,excavation|trench|depth_4.75-5.0m
+110,110,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,393.6,Drainage!O135,393.6,Drainage!A135,Drainage,excavation|trench|depth_5.0-5.25m
+111,111,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,409.89,Drainage!O136,409.89,Drainage!A136,Drainage,excavation|trench|depth_5.25-5.5m
+112,112,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,426.17,Drainage!O137,426.17,Drainage!A137,Drainage,excavation|trench|depth_5.5-5.75m
+113,113,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,442.45,Drainage!O138,442.45,Drainage!A138,Drainage,excavation|trench|depth_5.75-6.0m
+114,114,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,458.73,Drainage!O139,458.73,Drainage!A139,Drainage,excavation|trench|depth_6.0-6.25m
+115,115,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,475.02,Drainage!O140,475.02,Drainage!A140,Drainage,excavation|trench|depth_6.25-6.5m
+117,117,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,46.09,Drainage!O143,46.09,Drainage!A143,Drainage,excavation|trench|depth_0.5-0.75m
+118,118,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,51.81,Drainage!O144,51.81,Drainage!A144,Drainage,excavation|trench|depth_0.75-1.0m
+119,119,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,68.16,Drainage!O145,68.16,Drainage!A145,Drainage,excavation|trench|depth_1.0-1.25m
+120,120,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,76.01,Drainage!O146,76.01,Drainage!A146,Drainage,excavation|trench|depth_1.25-1.5m
+121,121,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,83.86,Drainage!O147,83.86,Drainage!A147,Drainage,excavation|trench|depth_1.5-1.75m
+122,122,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,91.7,Drainage!O148,91.7,Drainage!A148,Drainage,excavation|trench|depth_1.75-2.0m
+123,123,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,108.48,Drainage!O149,108.48,Drainage!A149,Drainage,excavation|trench|depth_2.0-2.25m
+124,124,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,116.96,Drainage!O150,116.96,Drainage!A150,Drainage,excavation|trench|depth_2.25-2.5m
+125,125,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,136.55,Drainage!O151,136.55,Drainage!A151,Drainage,excavation|trench|depth_2.5-2.75m
+126,126,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,146.1,Drainage!O152,146.1,Drainage!A152,Drainage,excavation|trench|depth_2.75-3.0m
+127,127,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,274.62,Drainage!O153,274.62,Drainage!A153,Drainage,excavation|trench|depth_3.0-3.25m
+128,128,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,290.91,Drainage!O154,290.91,Drainage!A154,Drainage,excavation|trench|depth_3.25-3.5m
+130,130,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,75.0,Drainage!O157,75.0,Drainage!A157,Drainage,excavation|trench|depth_0.5-0.75m
+131,131,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,82.62,Drainage!O158,82.62,Drainage!A158,Drainage,excavation|trench|depth_0.75-1.0m
+132,132,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,100.88,Drainage!O159,100.88,Drainage!A159,Drainage,excavation|trench|depth_1.0-1.25m
+133,133,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,110.63,Drainage!O160,110.63,Drainage!A160,Drainage,excavation|trench|depth_1.25-1.5m
+134,134,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,120.39,Drainage!O161,120.39,Drainage!A161,Drainage,excavation|trench|depth_1.5-1.75m
+135,135,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,130.14,Drainage!O162,130.14,Drainage!A162,Drainage,excavation|trench|depth_1.75-2.0m
+136,136,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,139.89,Drainage!O163,139.89,Drainage!A163,Drainage,excavation|trench|depth_2.0-2.25m
+137,137,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,149.64,Drainage!O164,149.64,Drainage!A164,Drainage,excavation|trench|depth_2.25-2.5m
+138,138,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,171.19,Drainage!O165,171.19,Drainage!A165,Drainage,excavation|trench|depth_2.5-2.75m
+139,139,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,182.09,Drainage!O166,182.09,Drainage!A166,Drainage,excavation|trench|depth_2.75-3.0m
+140,140,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,297.19,Drainage!O167,297.19,Drainage!A167,Drainage,excavation|trench|depth_3.0-3.25m
+141,141,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,313.47,Drainage!O168,313.47,Drainage!A168,Drainage,excavation|trench|depth_3.25-3.5m
+143,143,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,33.48,Drainage!O172,33.48,Drainage!A172,Drainage,excavation|trench|depth_0.5-0.75m
+144,144,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,46.11,Drainage!O173,46.11,Drainage!A173,Drainage,excavation|trench|depth_0.75-1.0m
+145,145,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,69.4,Drainage!O174,69.4,Drainage!A174,Drainage,excavation|trench|depth_1.0-1.25m
+146,146,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,84.25,Drainage!O175,84.25,Drainage!A175,Drainage,excavation|trench|depth_1.25-1.5m
+147,147,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,122.83,Drainage!O176,122.83,Drainage!A176,Drainage,excavation|trench|depth_1.5-1.75m
+148,148,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,141.24,Drainage!O177,141.24,Drainage!A177,Drainage,excavation|trench|depth_1.75-2.0m
+149,149,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,201.45,Drainage!O178,201.45,Drainage!A178,Drainage,excavation|trench|depth_2.0-2.25m
+150,150,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,235.76,Drainage!O179,235.76,Drainage!A179,Drainage,excavation|trench|depth_2.25-2.5m
+151,151,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,288.41,Drainage!O180,288.41,Drainage!A180,Drainage,excavation|trench|depth_2.5-2.75m
+152,152,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,342.64,Drainage!O181,342.64,Drainage!A181,Drainage,excavation|trench|depth_2.75-3.0m
+153,153,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,372.06,Drainage!O182,372.06,Drainage!A182,Drainage,excavation|trench|depth_3.0-3.25m
+154,154,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,401.49,Drainage!O183,401.49,Drainage!A183,Drainage,excavation|trench|depth_3.25-3.5m
+155,155,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,567.5,Drainage!O184,567.5,Drainage!A184,Drainage,excavation|trench|depth_3.5-3.75m
+156,156,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,606.26,Drainage!O185,606.26,Drainage!A185,Drainage,excavation|trench|depth_3.75-4.0m
+157,157,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,800.28,Drainage!O186,800.28,Drainage!A186,Drainage,excavation|trench|depth_4.0-4.25m
+158,158,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,848.38,Drainage!O187,848.38,Drainage!A187,Drainage,excavation|trench|depth_4.25-4.5m
+159,159,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,896.48,Drainage!O188,896.48,Drainage!A188,Drainage,excavation|trench|depth_4.5-4.75m
+160,160,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,944.58,Drainage!O189,944.58,Drainage!A189,Drainage,excavation|trench|depth_4.75-5.0m
+161,161,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,992.68,Drainage!O190,992.68,Drainage!A190,Drainage,excavation|trench|depth_5.0-5.25m
+162,162,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,1040.78,Drainage!O191,1040.78,Drainage!A191,Drainage,excavation|trench|depth_5.25-5.5m
+163,163,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,1088.89,Drainage!O192,1088.89,Drainage!A192,Drainage,excavation|trench|depth_5.5-5.75m
+164,164,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,1136.99,Drainage!O193,1136.99,Drainage!A193,Drainage,excavation|trench|depth_5.75-6.0m
+165,165,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,1185.09,Drainage!O194,1185.09,Drainage!A194,Drainage,excavation|trench|depth_6.0-6.25m
+166,166,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,1233.19,Drainage!O195,1233.19,Drainage!A195,Drainage,excavation|trench|depth_6.25-6.5m
+167,167,Excavation depth: 6.5-6.75m,m,Drainage,Excavation,1281.29,Drainage!O196,1281.29,Drainage!A196,Drainage,excavation|trench|depth_6.5-6.75m
+168,168,Excavation depth: 6.75-7.0m,m,Drainage,Excavation,1329.39,Drainage!O197,1329.39,Drainage!A197,Drainage,excavation|trench|depth_6.75-7.0m
+170,170,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,14.86,Drainage!O200,14.86,Drainage!A200,Drainage,excavation|trench|depth_0.5-0.75m
+171,171,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,23.53,Drainage!O201,23.53,Drainage!A201,Drainage,excavation|trench|depth_0.75-1.0m
+172,172,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,39.17,Drainage!O202,39.17,Drainage!A202,Drainage,excavation|trench|depth_1.0-1.25m
+173,173,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,48.42,Drainage!O203,48.42,Drainage!A203,Drainage,excavation|trench|depth_1.25-1.5m
+174,174,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,71.04,Drainage!O204,71.04,Drainage!A204,Drainage,excavation|trench|depth_1.5-1.75m
+175,175,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,82.45,Drainage!O205,82.45,Drainage!A205,Drainage,excavation|trench|depth_1.75-2.0m
+176,176,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,118.12,Drainage!O206,118.12,Drainage!A206,Drainage,excavation|trench|depth_2.0-2.25m
+177,177,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,138.72,Drainage!O207,138.72,Drainage!A207,Drainage,excavation|trench|depth_2.25-2.5m
+178,178,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,171.4,Drainage!O208,171.4,Drainage!A208,Drainage,excavation|trench|depth_2.5-2.75m
+179,179,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,203.8,Drainage!O209,203.8,Drainage!A209,Drainage,excavation|trench|depth_2.75-3.0m
+180,180,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,222.02,Drainage!O210,222.02,Drainage!A210,Drainage,excavation|trench|depth_3.0-3.25m
+181,181,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,240.25,Drainage!O211,240.25,Drainage!A211,Drainage,excavation|trench|depth_3.25-3.5m
+182,182,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,337.59,Drainage!O212,337.59,Drainage!A212,Drainage,excavation|trench|depth_3.5-3.75m
+183,183,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,361.42,Drainage!O213,361.42,Drainage!A213,Drainage,excavation|trench|depth_3.75-4.0m
+184,184,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,475.57,Drainage!O214,475.57,Drainage!A214,Drainage,excavation|trench|depth_4.0-4.25m
+185,185,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,505.01,Drainage!O215,505.01,Drainage!A215,Drainage,excavation|trench|depth_4.25-4.5m
+186,186,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,534.45,Drainage!O216,534.45,Drainage!A216,Drainage,excavation|trench|depth_4.5-4.75m
+187,187,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,563.88,Drainage!O217,563.88,Drainage!A217,Drainage,excavation|trench|depth_4.75-5.0m
+189,189,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,31.11,Drainage!O220,31.11,Drainage!A220,Drainage,excavation|trench|depth_0.5-0.75m
+190,190,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,44.92,Drainage!O221,44.92,Drainage!A221,Drainage,excavation|trench|depth_0.75-1.0m
+191,191,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,68.1,Drainage!O222,68.1,Drainage!A222,Drainage,excavation|trench|depth_1.0-1.25m
+192,192,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,82.95,Drainage!O223,82.95,Drainage!A223,Drainage,excavation|trench|depth_1.25-1.5m
+193,193,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,121.21,Drainage!O224,121.21,Drainage!A224,Drainage,excavation|trench|depth_1.5-1.75m
+194,194,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,139.62,Drainage!O225,139.62,Drainage!A225,Drainage,excavation|trench|depth_1.75-2.0m
+195,195,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,199.39,Drainage!O226,199.39,Drainage!A226,Drainage,excavation|trench|depth_2.0-2.25m
+196,196,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,233.6,Drainage!O227,233.6,Drainage!A227,Drainage,excavation|trench|depth_2.25-2.5m
+197,197,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,286.03,Drainage!O228,286.03,Drainage!A228,Drainage,excavation|trench|depth_2.5-2.75m
+198,198,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,340.04,Drainage!O229,340.04,Drainage!A229,Drainage,excavation|trench|depth_2.75-3.0m
+199,199,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,369.47,Drainage!O230,369.47,Drainage!A230,Drainage,excavation|trench|depth_3.0-3.25m
+200,200,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,398.89,Drainage!O231,398.89,Drainage!A231,Drainage,excavation|trench|depth_3.25-3.5m
+201,201,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,564.04,Drainage!O232,564.04,Drainage!A232,Drainage,excavation|trench|depth_3.5-3.75m
+202,202,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,602.8,Drainage!O233,602.8,Drainage!A233,Drainage,excavation|trench|depth_3.75-4.0m
+203,203,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,795.96,Drainage!O234,795.96,Drainage!A234,Drainage,excavation|trench|depth_4.0-4.25m
+204,204,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,844.06,Drainage!O235,844.06,Drainage!A235,Drainage,excavation|trench|depth_4.25-4.5m
+205,205,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,892.16,Drainage!O236,892.16,Drainage!A236,Drainage,excavation|trench|depth_4.5-4.75m
+206,206,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,940.26,Drainage!O237,940.26,Drainage!A237,Drainage,excavation|trench|depth_4.75-5.0m
+207,207,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,988.36,Drainage!O238,988.36,Drainage!A238,Drainage,excavation|trench|depth_5.0-5.25m
+208,208,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,1036.46,Drainage!O239,1036.46,Drainage!A239,Drainage,excavation|trench|depth_5.25-5.5m
+209,209,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,1084.56,Drainage!O240,1084.56,Drainage!A240,Drainage,excavation|trench|depth_5.5-5.75m
+210,210,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,1132.66,Drainage!O241,1132.66,Drainage!A241,Drainage,excavation|trench|depth_5.75-6.0m
+211,211,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,1180.76,Drainage!O242,1180.76,Drainage!A242,Drainage,excavation|trench|depth_6.0-6.25m
+212,212,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,1228.86,Drainage!O243,1228.86,Drainage!A243,Drainage,excavation|trench|depth_6.25-6.5m
+214,214,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,16.19,Drainage!O246,16.19,Drainage!A246,Drainage,excavation|trench|depth_0.5-0.75m
+215,215,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,24.37,Drainage!O247,24.37,Drainage!A247,Drainage,excavation|trench|depth_0.75-1.0m
+216,216,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,43.19,Drainage!O248,43.19,Drainage!A248,Drainage,excavation|trench|depth_1.0-1.25m
+217,217,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,53.5,Drainage!O249,53.5,Drainage!A249,Drainage,excavation|trench|depth_1.25-1.5m
+218,218,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,76.04,Drainage!O250,76.04,Drainage!A250,Drainage,excavation|trench|depth_1.5-1.75m
+219,219,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,88.39,Drainage!O251,88.39,Drainage!A251,Drainage,excavation|trench|depth_1.75-2.0m
+220,220,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,127.95,Drainage!O252,127.95,Drainage!A252,Drainage,excavation|trench|depth_2.0-2.25m
+221,221,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,143.72,Drainage!O253,143.72,Drainage!A253,Drainage,excavation|trench|depth_2.25-2.5m
+223,223,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,33.93,Drainage!O256,33.93,Drainage!A256,Drainage,excavation|trench|depth_0.5-0.75m
+224,224,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,47.71,Drainage!O257,47.71,Drainage!A257,Drainage,excavation|trench|depth_0.75-1.0m
+225,225,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,72.12,Drainage!O258,72.12,Drainage!A258,Drainage,excavation|trench|depth_1.0-1.25m
+226,226,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,88.03,Drainage!O259,88.03,Drainage!A259,Drainage,excavation|trench|depth_1.25-1.5m
+227,227,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,126.2,Drainage!O260,126.2,Drainage!A260,Drainage,excavation|trench|depth_1.5-1.75m
+228,228,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,145.56,Drainage!O261,145.56,Drainage!A261,Drainage,excavation|trench|depth_1.75-2.0m
+229,229,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,194.06,Drainage!O262,194.06,Drainage!A262,Drainage,excavation|trench|depth_2.0-2.25m
+230,230,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,216.86,Drainage!O263,216.86,Drainage!A263,Drainage,excavation|trench|depth_2.25-2.5m
+231,231,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,274.79,Drainage!O264,274.79,Drainage!A264,Drainage,excavation|trench|depth_2.5-2.75m
+232,232,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,300.96,Drainage!O265,300.96,Drainage!A265,Drainage,excavation|trench|depth_2.75-3.0m
+233,233,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,385.21,Drainage!O266,385.21,Drainage!A266,Drainage,excavation|trench|depth_3.0-3.25m
+234,234,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,416.05,Drainage!O267,416.05,Drainage!A267,Drainage,excavation|trench|depth_3.25-3.5m
+235,235,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,581.74,Drainage!O268,581.74,Drainage!A268,Drainage,excavation|trench|depth_3.5-3.75m
+236,236,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,621.91,Drainage!O269,621.91,Drainage!A269,Drainage,excavation|trench|depth_3.75-4.0m
+237,237,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,815.61,Drainage!O270,815.61,Drainage!A270,Drainage,excavation|trench|depth_4.0-4.25m
+238,238,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,865.13,Drainage!O271,865.13,Drainage!A271,Drainage,excavation|trench|depth_4.25-4.5m
+239,239,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,914.64,Drainage!O272,914.64,Drainage!A272,Drainage,excavation|trench|depth_4.5-4.75m
+240,240,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,964.15,Drainage!O273,964.15,Drainage!A273,Drainage,excavation|trench|depth_4.75-5.0m
+241,241,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,1013.66,Drainage!O274,1013.66,Drainage!A274,Drainage,excavation|trench|depth_5.0-5.25m
+242,242,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,1063.17,Drainage!O275,1063.17,Drainage!A275,Drainage,excavation|trench|depth_5.25-5.5m
+243,243,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,1112.68,Drainage!O276,1112.68,Drainage!A276,Drainage,excavation|trench|depth_5.5-5.75m
+244,244,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,1162.19,Drainage!O277,1162.19,Drainage!A277,Drainage,excavation|trench|depth_5.75-6.0m
+245,245,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,1211.71,Drainage!O278,1211.71,Drainage!A278,Drainage,excavation|trench|depth_6.0-6.25m
+246,246,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,1261.22,Drainage!O279,1261.22,Drainage!A279,Drainage,excavation|trench|depth_6.25-6.5m
+248,248,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,14.89,Drainage!O282,14.89,Drainage!A282,Drainage,excavation|trench|depth_0.5-0.75m
+249,249,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,23.07,Drainage!O283,23.07,Drainage!A283,Drainage,excavation|trench|depth_0.75-1.0m
+250,250,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,41.89,Drainage!O284,41.89,Drainage!A284,Drainage,excavation|trench|depth_1.0-1.25m
+251,251,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,52.2,Drainage!O285,52.2,Drainage!A285,Drainage,excavation|trench|depth_1.25-1.5m
+253,253,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,39.16,Drainage!O288,39.16,Drainage!A288,Drainage,excavation|trench|depth_0.5-0.75m
+254,254,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,56.39,Drainage!O289,56.39,Drainage!A289,Drainage,excavation|trench|depth_0.75-1.0m
+255,255,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,84.25,Drainage!O290,84.25,Drainage!A290,Drainage,excavation|trench|depth_1.0-1.25m
+256,256,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,103.6,Drainage!O291,103.6,Drainage!A291,Drainage,excavation|trench|depth_1.25-1.5m
+257,257,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,122.96,Drainage!O292,122.96,Drainage!A292,Drainage,excavation|trench|depth_1.5-1.75m
+258,258,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,142.31,Drainage!O293,142.31,Drainage!A293,Drainage,excavation|trench|depth_1.75-2.0m
+259,259,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,209.17,Drainage!O294,209.17,Drainage!A294,Drainage,excavation|trench|depth_2.0-2.25m
+260,260,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,234.27,Drainage!O295,234.27,Drainage!A295,Drainage,excavation|trench|depth_2.25-2.5m
+261,261,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,270.47,Drainage!O296,270.47,Drainage!A296,Drainage,excavation|trench|depth_2.5-2.75m
+262,262,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,296.63,Drainage!O297,296.63,Drainage!A297,Drainage,excavation|trench|depth_2.75-3.0m
+263,263,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,608.92,Drainage!O298,608.92,Drainage!A298,Drainage,excavation|trench|depth_3.0-3.25m
+264,264,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,658.43,Drainage!O299,658.43,Drainage!A299,Drainage,excavation|trench|depth_3.25-3.5m
+265,265,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,707.94,Drainage!O300,707.94,Drainage!A300,Drainage,excavation|trench|depth_3.5-3.75m
+266,266,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,757.45,Drainage!O301,757.45,Drainage!A301,Drainage,excavation|trench|depth_3.75-4.0m
+267,267,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,806.96,Drainage!O302,806.96,Drainage!A302,Drainage,excavation|trench|depth_4.0-4.25m
+268,268,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,856.47,Drainage!O303,856.47,Drainage!A303,Drainage,excavation|trench|depth_4.25-4.5m
+269,269,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,905.98,Drainage!O304,905.98,Drainage!A304,Drainage,excavation|trench|depth_4.5-4.75m
+270,270,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,955.49,Drainage!O305,955.49,Drainage!A305,Drainage,excavation|trench|depth_4.75-5.0m
+271,271,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,1005.01,Drainage!O306,1005.01,Drainage!A306,Drainage,excavation|trench|depth_5.0-5.25m
+272,272,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,1054.52,Drainage!O307,1054.52,Drainage!A307,Drainage,excavation|trench|depth_5.25-5.5m
+273,273,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,1104.03,Drainage!O308,1104.03,Drainage!A308,Drainage,excavation|trench|depth_5.5-5.75m
+274,274,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,1153.54,Drainage!O309,1153.54,Drainage!A309,Drainage,excavation|trench|depth_5.75-6.0m
+275,275,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,1203.05,Drainage!O310,1203.05,Drainage!A310,Drainage,excavation|trench|depth_6.0-6.25m
+276,276,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,1252.56,Drainage!O311,1252.56,Drainage!A311,Drainage,excavation|trench|depth_6.25-6.5m
+278,278,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,44.4,Drainage!O314,44.4,Drainage!A314,Drainage,excavation|trench|depth_0.5-0.75m
+279,279,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,63.77,Drainage!O315,63.77,Drainage!A315,Drainage,excavation|trench|depth_0.75-1.0m
+280,280,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,95.08,Drainage!O316,95.08,Drainage!A316,Drainage,excavation|trench|depth_1.0-1.25m
+281,281,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,117.88,Drainage!O317,117.88,Drainage!A317,Drainage,excavation|trench|depth_1.25-1.5m
+282,282,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,140.68,Drainage!O318,140.68,Drainage!A318,Drainage,excavation|trench|depth_1.5-1.75m
+283,283,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,163.48,Drainage!O319,163.48,Drainage!A319,Drainage,excavation|trench|depth_1.75-2.0m
+284,284,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,204.84,Drainage!O320,204.84,Drainage!A320,Drainage,excavation|trench|depth_2.0-2.25m
+285,285,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,229.94,Drainage!O321,229.94,Drainage!A321,Drainage,excavation|trench|depth_2.25-2.5m
+286,286,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,266.14,Drainage!O322,266.14,Drainage!A322,Drainage,excavation|trench|depth_2.5-2.75m
+287,287,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,292.31,Drainage!O323,292.31,Drainage!A323,Drainage,excavation|trench|depth_2.75-3.0m
+288,288,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,600.26,Drainage!O324,600.26,Drainage!A324,Drainage,excavation|trench|depth_3.0-3.25m
+289,289,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,649.77,Drainage!O325,649.77,Drainage!A325,Drainage,excavation|trench|depth_3.25-3.5m
+290,290,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,699.28,Drainage!O326,699.28,Drainage!A326,Drainage,excavation|trench|depth_3.5-3.75m
+291,291,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,748.8,Drainage!O327,748.8,Drainage!A327,Drainage,excavation|trench|depth_3.75-4.0m
+292,292,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,798.31,Drainage!O328,798.31,Drainage!A328,Drainage,excavation|trench|depth_4.0-4.25m
+293,293,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,847.82,Drainage!O329,847.82,Drainage!A329,Drainage,excavation|trench|depth_4.25-4.5m
+294,294,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,897.33,Drainage!O330,897.33,Drainage!A330,Drainage,excavation|trench|depth_4.5-4.75m
+295,295,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,946.84,Drainage!O331,946.84,Drainage!A331,Drainage,excavation|trench|depth_4.75-5.0m
+297,297,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,15.85,Drainage!O334,15.85,Drainage!A334,Drainage,excavation|trench|depth_0.5-0.75m
+298,298,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,26.82,Drainage!O335,26.82,Drainage!A335,Drainage,excavation|trench|depth_0.75-1.0m
+299,299,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,49.73,Drainage!O336,49.73,Drainage!A336,Drainage,excavation|trench|depth_1.0-1.25m
+300,300,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,64.13,Drainage!O337,64.13,Drainage!A337,Drainage,excavation|trench|depth_1.25-1.5m
+301,301,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,78.53,Drainage!O338,78.53,Drainage!A338,Drainage,excavation|trench|depth_1.5-1.75m
+302,302,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,92.93,Drainage!O339,92.93,Drainage!A339,Drainage,excavation|trench|depth_1.75-2.0m
+303,303,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,117.13,Drainage!O340,117.13,Drainage!A340,Drainage,excavation|trench|depth_2.0-2.25m
+304,304,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,132.9,Drainage!O341,132.9,Drainage!A341,Drainage,excavation|trench|depth_2.25-2.5m
+305,305,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,159.77,Drainage!O342,159.77,Drainage!A342,Drainage,excavation|trench|depth_2.5-2.75m
+306,306,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,176.6,Drainage!O343,176.6,Drainage!A343,Drainage,excavation|trench|depth_2.75-3.0m
+307,307,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,350.19,Drainage!O344,350.19,Drainage!A344,Drainage,excavation|trench|depth_3.0-3.25m
+308,308,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,381.04,Drainage!O345,381.04,Drainage!A345,Drainage,excavation|trench|depth_3.25-3.5m
+309,309,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,411.89,Drainage!O346,411.89,Drainage!A346,Drainage,excavation|trench|depth_3.5-3.75m
+310,310,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,442.74,Drainage!O347,442.74,Drainage!A347,Drainage,excavation|trench|depth_3.75-4.0m
+312,312,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,51.8,Drainage!O350,51.8,Drainage!A350,Drainage,excavation|trench|depth_0.5-0.75m
+313,313,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,69.86,Drainage!O351,69.86,Drainage!A351,Drainage,excavation|trench|depth_0.75-1.0m
+314,314,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,104.61,Drainage!O352,104.61,Drainage!A352,Drainage,excavation|trench|depth_1.0-1.25m
+315,315,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,130.85,Drainage!O353,130.85,Drainage!A353,Drainage,excavation|trench|depth_1.25-1.5m
+316,316,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,157.1,Drainage!O354,157.1,Drainage!A354,Drainage,excavation|trench|depth_1.5-1.75m
+317,317,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,207.1,Drainage!O355,207.1,Drainage!A355,Drainage,excavation|trench|depth_1.75-2.0m
+318,318,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,236.79,Drainage!O356,236.79,Drainage!A356,Drainage,excavation|trench|depth_2.0-2.25m
+319,319,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,266.48,Drainage!O357,266.48,Drainage!A357,Drainage,excavation|trench|depth_2.25-2.5m
+320,320,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,307.97,Drainage!O358,307.97,Drainage!A358,Drainage,excavation|trench|depth_2.5-2.75m
+321,321,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,338.8,Drainage!O359,338.8,Drainage!A359,Drainage,excavation|trench|depth_2.75-3.0m
+322,322,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,591.61,Drainage!O360,591.61,Drainage!A360,Drainage,excavation|trench|depth_3.0-3.25m
+323,323,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,641.12,Drainage!O361,641.12,Drainage!A361,Drainage,excavation|trench|depth_3.25-3.5m
+324,324,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,690.63,Drainage!O362,690.63,Drainage!A362,Drainage,excavation|trench|depth_3.5-3.75m
+325,325,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,740.14,Drainage!O363,740.14,Drainage!A363,Drainage,excavation|trench|depth_3.75-4.0m
+326,326,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,789.65,Drainage!O364,789.65,Drainage!A364,Drainage,excavation|trench|depth_4.0-4.25m
+327,327,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,839.17,Drainage!O365,839.17,Drainage!A365,Drainage,excavation|trench|depth_4.25-4.5m
+328,328,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,888.68,Drainage!O366,888.68,Drainage!A366,Drainage,excavation|trench|depth_4.5-4.75m
+329,329,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,938.19,Drainage!O367,938.19,Drainage!A367,Drainage,excavation|trench|depth_4.75-5.0m
+330,330,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,987.7,Drainage!O368,987.7,Drainage!A368,Drainage,excavation|trench|depth_5.0-5.25m
+331,331,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,1037.21,Drainage!O369,1037.21,Drainage!A369,Drainage,excavation|trench|depth_5.25-5.5m
+332,332,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,1086.72,Drainage!O370,1086.72,Drainage!A370,Drainage,excavation|trench|depth_5.5-5.75m
+333,333,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,1136.23,Drainage!O371,1136.23,Drainage!A371,Drainage,excavation|trench|depth_5.75-6.0m
+334,334,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,1185.75,Drainage!O372,1185.75,Drainage!A372,Drainage,excavation|trench|depth_6.0-6.25m
+336,336,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,18.49,Drainage!O375,18.49,Drainage!A375,Drainage,excavation|trench|depth_0.5-0.75m
+337,337,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,26.75,Drainage!O376,26.75,Drainage!A376,Drainage,excavation|trench|depth_0.75-1.0m
+338,338,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,51.7,Drainage!O377,51.7,Drainage!A377,Drainage,excavation|trench|depth_1.0-1.25m
+339,339,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,68.15,Drainage!O378,68.15,Drainage!A378,Drainage,excavation|trench|depth_1.25-1.5m
+340,340,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,84.6,Drainage!O379,84.6,Drainage!A379,Drainage,excavation|trench|depth_1.5-1.75m
+341,341,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,113.05,Drainage!O380,113.05,Drainage!A380,Drainage,excavation|trench|depth_1.75-2.0m
+342,342,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,131.54,Drainage!O381,131.54,Drainage!A381,Drainage,excavation|trench|depth_2.0-2.25m
+343,343,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,150.03,Drainage!O382,150.03,Drainage!A382,Drainage,excavation|trench|depth_2.25-2.5m
+344,344,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,180.32,Drainage!O383,180.32,Drainage!A383,Drainage,excavation|trench|depth_2.5-2.75m
+345,345,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,199.96,Drainage!O384,199.96,Drainage!A384,Drainage,excavation|trench|depth_2.75-3.0m
+346,346,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,341.54,Drainage!O385,341.54,Drainage!A385,Drainage,excavation|trench|depth_3.0-3.25m
+347,347,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,372.39,Drainage!O386,372.39,Drainage!A386,Drainage,excavation|trench|depth_3.25-3.5m
+348,348,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,403.24,Drainage!O387,403.24,Drainage!A387,Drainage,excavation|trench|depth_3.5-3.75m
+349,349,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,434.09,Drainage!O388,434.09,Drainage!A388,Drainage,excavation|trench|depth_3.75-4.0m
+351,351,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,1.2,Drainage!Q391,1.2,Drainage!A391,Drainage,excavation|trench|depth_0.5-0.75m
+352,352,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,78.11,Drainage!O392,78.11,Drainage!A392,Drainage,excavation|trench|depth_0.75-1.0m
+353,353,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,112.84,Drainage!O393,112.84,Drainage!A393,Drainage,excavation|trench|depth_1.0-1.25m
+354,354,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,142.53,Drainage!O394,142.53,Drainage!A394,Drainage,excavation|trench|depth_1.25-1.5m
+355,355,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,172.22,Drainage!O395,172.22,Drainage!A395,Drainage,excavation|trench|depth_1.5-1.75m
+356,356,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,201.91,Drainage!O396,201.91,Drainage!A396,Drainage,excavation|trench|depth_1.75-2.0m
+357,357,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,231.6,Drainage!O397,231.6,Drainage!A397,Drainage,excavation|trench|depth_2.0-2.25m
+358,358,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,261.29,Drainage!O398,261.29,Drainage!A398,Drainage,excavation|trench|depth_2.25-2.5m
+359,359,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,302.78,Drainage!O399,302.78,Drainage!A399,Drainage,excavation|trench|depth_2.5-2.75m
+360,360,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,333.61,Drainage!O400,333.61,Drainage!A400,Drainage,excavation|trench|depth_2.75-3.0m
+361,361,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,582.96,Drainage!O401,582.96,Drainage!A401,Drainage,excavation|trench|depth_3.0-3.25m
+362,362,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,632.47,Drainage!O402,632.47,Drainage!A402,Drainage,excavation|trench|depth_3.25-3.5m
+363,363,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,681.98,Drainage!O403,681.98,Drainage!A403,Drainage,excavation|trench|depth_3.5-3.75m
+364,364,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,731.49,Drainage!O404,731.49,Drainage!A404,Drainage,excavation|trench|depth_3.75-4.0m
+365,365,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,781.0,Drainage!O405,781.0,Drainage!A405,Drainage,excavation|trench|depth_4.0-4.25m
+366,366,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,830.51,Drainage!O406,830.51,Drainage!A406,Drainage,excavation|trench|depth_4.25-4.5m
+368,368,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,74.0,Drainage!O409,74.0,Drainage!A409,Drainage,excavation|trench|depth_0.5-0.75m
+369,369,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,97.64,Drainage!O410,97.64,Drainage!A410,Drainage,excavation|trench|depth_0.75-1.0m
+370,370,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,131.91,Drainage!O411,131.91,Drainage!A411,Drainage,excavation|trench|depth_1.0-1.25m
+371,371,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,162.0,Drainage!O412,162.0,Drainage!A412,Drainage,excavation|trench|depth_1.25-1.5m
+372,372,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,198.58,Drainage!O413,198.58,Drainage!A413,Drainage,excavation|trench|depth_1.5-1.75m
+373,373,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,235.16,Drainage!O414,235.16,Drainage!A414,Drainage,excavation|trench|depth_1.75-2.0m
+374,374,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,271.74,Drainage!O415,271.74,Drainage!A415,Drainage,excavation|trench|depth_2.0-2.25m
+375,375,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,308.32,Drainage!O416,308.32,Drainage!A416,Drainage,excavation|trench|depth_2.25-2.5m
+376,376,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,357.73,Drainage!O417,357.73,Drainage!A417,Drainage,excavation|trench|depth_2.5-2.75m
+377,377,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,395.57,Drainage!O418,395.57,Drainage!A418,Drainage,excavation|trench|depth_2.75-3.0m
+378,378,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,565.65,Drainage!O419,565.65,Drainage!A419,Drainage,excavation|trench|depth_3.0-3.25m
+379,379,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,615.16,Drainage!O420,615.16,Drainage!A420,Drainage,excavation|trench|depth_3.25-3.5m
+380,380,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,664.67,Drainage!O421,664.67,Drainage!A421,Drainage,excavation|trench|depth_3.5-3.75m
+381,381,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,714.18,Drainage!O422,714.18,Drainage!A422,Drainage,excavation|trench|depth_3.75-4.0m
+382,382,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,763.69,Drainage!O423,763.69,Drainage!A423,Drainage,excavation|trench|depth_4.0-4.25m
+383,383,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,813.21,Drainage!O424,813.21,Drainage!A424,Drainage,excavation|trench|depth_4.25-4.5m
+384,384,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,862.72,Drainage!O425,862.72,Drainage!A425,Drainage,excavation|trench|depth_4.5-4.75m
+385,385,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,912.23,Drainage!O426,912.23,Drainage!A426,Drainage,excavation|trench|depth_4.75-5.0m
+386,386,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,961.74,Drainage!O427,961.74,Drainage!A427,Drainage,excavation|trench|depth_5.0-5.25m
+387,387,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,1011.25,Drainage!O428,1011.25,Drainage!A428,Drainage,excavation|trench|depth_5.25-5.5m
+388,388,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,1060.76,Drainage!O429,1060.76,Drainage!A429,Drainage,excavation|trench|depth_5.5-5.75m
+390,390,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,43.76,Drainage!O433,43.76,Drainage!A433,Drainage,excavation|trench|depth_0.5-0.75m
+391,391,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,62.06,Drainage!O434,62.06,Drainage!A434,Drainage,excavation|trench|depth_0.75-1.0m
+392,392,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,91.0,Drainage!O435,91.0,Drainage!A435,Drainage,excavation|trench|depth_1.0-1.25m
+393,393,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,136.1,Drainage!O436,136.1,Drainage!A436,Drainage,excavation|trench|depth_1.25-1.5m
+394,394,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,190.35,Drainage!O437,190.35,Drainage!A437,Drainage,excavation|trench|depth_1.5-1.75m
+395,395,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,242.49,Drainage!O438,242.49,Drainage!A438,Drainage,excavation|trench|depth_1.75-2.0m
+396,396,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,275.12,Drainage!O439,275.12,Drainage!A439,Drainage,excavation|trench|depth_2.0-2.25m
+397,397,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,307.76,Drainage!O440,307.76,Drainage!A440,Drainage,excavation|trench|depth_2.25-2.5m
+398,398,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,351.49,Drainage!O441,351.49,Drainage!A441,Drainage,excavation|trench|depth_2.5-2.75m
+399,399,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,385.2,Drainage!O442,385.2,Drainage!A442,Drainage,excavation|trench|depth_2.75-3.0m
+400,400,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,801.12,Drainage!O443,801.12,Drainage!A443,Drainage,excavation|trench|depth_3.0-3.25m
+401,401,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,865.71,Drainage!O444,865.71,Drainage!A444,Drainage,excavation|trench|depth_3.25-3.5m
+402,402,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,930.3,Drainage!O445,930.3,Drainage!A445,Drainage,excavation|trench|depth_3.5-3.75m
+403,403,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,994.89,Drainage!O446,994.89,Drainage!A446,Drainage,excavation|trench|depth_3.75-4.0m
+403,403,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,51.21,Drainage!O449,51.21,Drainage!A449,Drainage,excavation|trench|depth_0.5-0.75m
+404,404,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,70.13,Drainage!O450,70.13,Drainage!A450,Drainage,excavation|trench|depth_0.75-1.0m
+405,405,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,89.06,Drainage!O451,89.06,Drainage!A451,Drainage,excavation|trench|depth_1.0-1.25m
+406,406,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,107.99,Drainage!O452,107.99,Drainage!A452,Drainage,excavation|trench|depth_1.25-1.5m
+407,407,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,126.92,Drainage!O453,126.92,Drainage!A453,Drainage,excavation|trench|depth_1.5-1.75m
+408,408,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,145.84,Drainage!O454,145.84,Drainage!A454,Drainage,excavation|trench|depth_1.75-2.0m
+411,411,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,48.96,Drainage!O460,48.96,Drainage!A460,Drainage,excavation|trench|depth_0.5-0.75m
+412,412,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,72.78,Drainage!O461,72.78,Drainage!A461,Drainage,excavation|trench|depth_0.75-1.0m
+413,413,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,139.43,Drainage!O462,139.43,Drainage!A462,Drainage,excavation|trench|depth_1.0-1.25m
+414,414,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,173.31,Drainage!O463,173.31,Drainage!A463,Drainage,excavation|trench|depth_1.25-1.5m
+415,415,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,399.51,Drainage!O464,399.51,Drainage!A464,Drainage,excavation|trench|depth_1.5-1.75m
+416,416,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,465.15,Drainage!O465,465.15,Drainage!A465,Drainage,excavation|trench|depth_1.75-2.0m
+417,417,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,530.79,Drainage!O466,530.79,Drainage!A466,Drainage,excavation|trench|depth_2.0-2.25m
+418,418,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,596.43,Drainage!O467,596.43,Drainage!A467,Drainage,excavation|trench|depth_2.25-2.5m
+419,419,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,662.07,Drainage!O468,662.07,Drainage!A468,Drainage,excavation|trench|depth_2.5-2.75m
+420,420,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,34.95,Drainage!O471,34.95,Drainage!A471,Drainage,excavation|trench|depth_0.5-0.75m
+421,421,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,54.65,Drainage!O472,54.65,Drainage!A472,Drainage,excavation|trench|depth_0.75-1.0m
+422,422,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,109.76,Drainage!O473,109.76,Drainage!A473,Drainage,excavation|trench|depth_1.0-1.25m
+423,423,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,138.15,Drainage!O474,138.15,Drainage!A474,Drainage,excavation|trench|depth_1.25-1.5m
+424,424,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,318.19,Drainage!O475,318.19,Drainage!A475,Drainage,excavation|trench|depth_1.5-1.75m
+425,425,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,372.84,Drainage!O476,372.84,Drainage!A476,Drainage,excavation|trench|depth_1.75-2.0m
+426,426,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,427.49,Drainage!O477,427.49,Drainage!A477,Drainage,excavation|trench|depth_2.0-2.25m
+427,427,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,482.14,Drainage!O478,482.14,Drainage!A478,Drainage,excavation|trench|depth_2.25-2.5m
+429,429,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,57.12,Drainage!O481,57.12,Drainage!A481,Drainage,excavation|trench|depth_0.5-0.75m
+430,430,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,84.91,Drainage!O482,84.91,Drainage!A482,Drainage,excavation|trench|depth_0.75-1.0m
+431,431,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,139.43,Drainage!O483,139.43,Drainage!A483,Drainage,excavation|trench|depth_1.0-1.25m
+432,432,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,173.31,Drainage!O484,173.31,Drainage!A484,Drainage,excavation|trench|depth_1.25-1.5m
+433,433,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,399.51,Drainage!O485,399.51,Drainage!A485,Drainage,excavation|trench|depth_1.5-1.75m
+434,434,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,465.15,Drainage!O486,465.15,Drainage!A486,Drainage,excavation|trench|depth_1.75-2.0m
+435,435,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,530.79,Drainage!O487,530.79,Drainage!A487,Drainage,excavation|trench|depth_2.0-2.25m
+436,436,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,596.43,Drainage!O488,596.43,Drainage!A488,Drainage,excavation|trench|depth_2.25-2.5m
+437,437,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,662.07,Drainage!O489,662.07,Drainage!A489,Drainage,excavation|trench|depth_2.5-2.75m
+438,438,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,727.71,Drainage!O490,727.71,Drainage!A490,Drainage,excavation|trench|depth_2.75-3.0m
+439,439,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,793.35,Drainage!O491,793.35,Drainage!A491,Drainage,excavation|trench|depth_3.0-3.25m
+440,440,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,858.99,Drainage!O492,858.99,Drainage!A492,Drainage,excavation|trench|depth_3.25-3.5m
+441,441,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,924.63,Drainage!O493,924.63,Drainage!A493,Drainage,excavation|trench|depth_3.5-3.75m
+443,443,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,65.28,Drainage!O496,65.28,Drainage!A496,Drainage,excavation|trench|depth_0.5-0.75m
+444,444,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,97.04,Drainage!O497,97.04,Drainage!A497,Drainage,excavation|trench|depth_0.75-1.0m
+445,445,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,139.43,Drainage!O498,139.43,Drainage!A498,Drainage,excavation|trench|depth_1.0-1.25m
+446,446,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,173.31,Drainage!O499,173.31,Drainage!A499,Drainage,excavation|trench|depth_1.25-1.5m
+447,447,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,399.51,Drainage!O500,399.51,Drainage!A500,Drainage,excavation|trench|depth_1.5-1.75m
+448,448,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,465.15,Drainage!O501,465.15,Drainage!A501,Drainage,excavation|trench|depth_1.75-2.0m
+449,449,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,530.79,Drainage!O502,530.79,Drainage!A502,Drainage,excavation|trench|depth_2.0-2.25m
+450,450,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,596.43,Drainage!O503,596.43,Drainage!A503,Drainage,excavation|trench|depth_2.25-2.5m
+451,451,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,662.07,Drainage!O504,662.07,Drainage!A504,Drainage,excavation|trench|depth_2.5-2.75m
+452,452,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,727.71,Drainage!O505,727.71,Drainage!A505,Drainage,excavation|trench|depth_2.75-3.0m
+454,454,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,81.6,Drainage!O508,81.6,Drainage!A508,Drainage,excavation|trench|depth_0.5-0.75m
+455,455,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,121.3,Drainage!O509,121.3,Drainage!A509,Drainage,excavation|trench|depth_0.75-1.0m
+456,456,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,161.0,Drainage!O510,161.0,Drainage!A510,Drainage,excavation|trench|depth_1.0-1.25m
+457,457,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,200.69,Drainage!O511,200.69,Drainage!A511,Drainage,excavation|trench|depth_1.25-1.5m
+458,458,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,384.62,Drainage!O512,384.62,Drainage!A512,Drainage,excavation|trench|depth_1.5-1.75m
+459,459,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,448.13,Drainage!O513,448.13,Drainage!A513,Drainage,excavation|trench|depth_1.75-2.0m
+460,460,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,511.65,Drainage!O514,511.65,Drainage!A514,Drainage,excavation|trench|depth_2.0-2.25m
+461,461,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,575.16,Drainage!O515,575.16,Drainage!A515,Drainage,excavation|trench|depth_2.25-2.5m
+462,462,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,638.67,Drainage!O516,638.67,Drainage!A516,Drainage,excavation|trench|depth_2.5-2.75m
+463,463,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,702.19,Drainage!O517,702.19,Drainage!A517,Drainage,excavation|trench|depth_2.75-3.0m
+464,464,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,1276.17,Drainage!O518,1276.17,Drainage!A518,Drainage,excavation|trench|depth_3.0-3.25m
+466,466,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,12.86,Drainage!O521,12.86,Drainage!A521,Drainage,excavation|trench|depth_0.5-0.75m
+467,467,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,16.88,Drainage!O522,16.88,Drainage!A522,Drainage,excavation|trench|depth_0.75-1.0m
+468,468,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,20.9,Drainage!O523,20.9,Drainage!A523,Drainage,excavation|trench|depth_1.0-1.25m
+469,469,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,24.91,Drainage!O524,24.91,Drainage!A524,Drainage,excavation|trench|depth_1.25-1.5m
+470,470,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,57.87,Drainage!O525,57.87,Drainage!A525,Drainage,excavation|trench|depth_1.5-1.75m
+471,471,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,65.91,Drainage!O526,65.91,Drainage!A526,Drainage,excavation|trench|depth_1.75-2.0m
+472,472,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,73.95,Drainage!O527,73.95,Drainage!A527,Drainage,excavation|trench|depth_2.0-2.25m
+473,473,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,81.99,Drainage!O528,81.99,Drainage!A528,Drainage,excavation|trench|depth_2.25-2.5m
+474,474,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,90.03,Drainage!O529,90.03,Drainage!A529,Drainage,excavation|trench|depth_2.5-2.75m
+475,475,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,98.07,Drainage!O530,98.07,Drainage!A530,Drainage,excavation|trench|depth_2.75-3.0m
+476,476,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,176.84,Drainage!O531,176.84,Drainage!A531,Drainage,excavation|trench|depth_3.0-3.25m
+477,477,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,190.24,Drainage!O532,190.24,Drainage!A532,Drainage,excavation|trench|depth_3.25-3.5m
+478,478,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,203.64,Drainage!O533,203.64,Drainage!A533,Drainage,excavation|trench|depth_3.5-3.75m
+479,479,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,217.04,Drainage!O534,217.04,Drainage!A534,Drainage,excavation|trench|depth_3.75-4.0m
+480,480,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,230.44,Drainage!O535,230.44,Drainage!A535,Drainage,excavation|trench|depth_4.0-4.25m
+481,481,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,243.84,Drainage!O536,243.84,Drainage!A536,Drainage,excavation|trench|depth_4.25-4.5m
+482,482,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,257.24,Drainage!O537,257.24,Drainage!A537,Drainage,excavation|trench|depth_4.5-4.75m
+483,483,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,270.64,Drainage!O538,270.64,Drainage!A538,Drainage,excavation|trench|depth_4.75-5.0m
+484,484,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,284.04,Drainage!O539,284.04,Drainage!A539,Drainage,excavation|trench|depth_5.0-5.25m
+485,485,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,297.43,Drainage!O540,297.43,Drainage!A540,Drainage,excavation|trench|depth_5.25-5.5m
+486,486,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,310.83,Drainage!O541,310.83,Drainage!A541,Drainage,excavation|trench|depth_5.5-5.75m
+487,487,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,324.23,Drainage!O542,324.23,Drainage!A542,Drainage,excavation|trench|depth_5.75-6.0m
+489,489,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,49.66,Drainage!O545,49.66,Drainage!A545,Drainage,excavation|trench|depth_0.5-0.75m
+490,490,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,65.01,Drainage!O546,65.01,Drainage!A546,Drainage,excavation|trench|depth_0.75-1.0m
+491,491,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,91.0,Drainage!O547,91.0,Drainage!A547,Drainage,excavation|trench|depth_1.0-1.25m
+492,492,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,108.48,Drainage!O548,108.48,Drainage!A548,Drainage,excavation|trench|depth_1.25-1.5m
+493,493,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,237.04,Drainage!O549,237.04,Drainage!A549,Drainage,excavation|trench|depth_1.5-1.75m
+494,494,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,269.88,Drainage!O550,269.88,Drainage!A550,Drainage,excavation|trench|depth_1.75-2.0m
+495,495,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,302.72,Drainage!O551,302.72,Drainage!A551,Drainage,excavation|trench|depth_2.0-2.25m
+496,496,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,335.55,Drainage!O552,335.55,Drainage!A552,Drainage,excavation|trench|depth_2.25-2.5m
+497,497,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,380.18,Drainage!O553,380.18,Drainage!A553,Drainage,excavation|trench|depth_2.5-2.75m
+498,498,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,414.17,Drainage!O554,414.17,Drainage!A554,Drainage,excavation|trench|depth_2.75-3.0m
+499,499,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,722.46,Drainage!O555,722.46,Drainage!A555,Drainage,excavation|trench|depth_3.0-3.25m
+500,500,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,777.21,Drainage!O556,777.21,Drainage!A556,Drainage,excavation|trench|depth_3.25-3.5m
+501,501,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,831.97,Drainage!O557,831.97,Drainage!A557,Drainage,excavation|trench|depth_3.5-3.75m
+502,502,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,886.72,Drainage!O558,886.72,Drainage!A558,Drainage,excavation|trench|depth_3.75-4.0m
+503,503,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,941.48,Drainage!O559,941.48,Drainage!A559,Drainage,excavation|trench|depth_4.0-4.25m
+504,504,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,996.24,Drainage!O560,996.24,Drainage!A560,Drainage,excavation|trench|depth_4.25-4.5m
+505,505,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,1050.99,Drainage!O561,1050.99,Drainage!A561,Drainage,excavation|trench|depth_4.5-4.75m
+506,506,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,1105.75,Drainage!O562,1105.75,Drainage!A562,Drainage,excavation|trench|depth_4.75-5.0m
+507,507,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,1160.5,Drainage!O563,1160.5,Drainage!A563,Drainage,excavation|trench|depth_5.0-5.25m
+508,508,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,1215.26,Drainage!O564,1215.26,Drainage!A564,Drainage,excavation|trench|depth_5.25-5.5m
+509,509,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,1270.02,Drainage!O565,1270.02,Drainage!A565,Drainage,excavation|trench|depth_5.5-5.75m
+510,510,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,1324.77,Drainage!O566,1324.77,Drainage!A566,Drainage,excavation|trench|depth_5.75-6.0m
+511,511,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,1379.53,Drainage!O567,1379.53,Drainage!A567,Drainage,excavation|trench|depth_6.0-6.25m
+513,513,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,169.32,Drainage!O570,169.32,Drainage!A570,Drainage,excavation|trench|depth_0.5-0.75m
+514,514,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,225.76,Drainage!O571,225.76,Drainage!A571,Drainage,excavation|trench|depth_0.75-1.0m
+515,515,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,282.2,Drainage!O572,282.2,Drainage!A572,Drainage,excavation|trench|depth_1.0-1.25m
+516,516,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,338.64,Drainage!O573,338.64,Drainage!A573,Drainage,excavation|trench|depth_1.25-1.5m
+517,517,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,395.08,Drainage!O574,395.08,Drainage!A574,Drainage,excavation|trench|depth_1.5-1.75m
+518,518,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,451.52,Drainage!O575,451.52,Drainage!A575,Drainage,excavation|trench|depth_1.75-2.0m
+519,519,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,507.96,Drainage!O576,507.96,Drainage!A576,Drainage,excavation|trench|depth_2.0-2.25m
+520,520,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,564.4,Drainage!O577,564.4,Drainage!A577,Drainage,excavation|trench|depth_2.25-2.5m
+521,521,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,620.84,Drainage!O578,620.84,Drainage!A578,Drainage,excavation|trench|depth_2.5-2.75m
+522,522,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,677.28,Drainage!O579,677.28,Drainage!A579,Drainage,excavation|trench|depth_2.75-3.0m
+606,606,100 x 100 branch,item,Drainage,Drainage,60.74,Drainage!O680,60.74,Drainage!A680,Drainage,
+620,620,Paved area gully; SDG2/1,item,Drainage,Gullies,172.65,Drainage!O694,172.65,Drainage!A694,Drainage,
+621,621,Access gully; SG3/1,item,Drainage,Gullies,163.33,Drainage!O695,163.33,Drainage!A695,Drainage,
+636,636,150 x 100 branch,item,Drainage,Drainage,95.2,Drainage!O711,95.2,Drainage!A711,Drainage,
+637,637,150 x 100 reducer,item,Drainage,Drainage,86.46,Drainage!O712,86.46,Drainage!A712,Drainage,
+638,638,150 x 150 branch,item,Drainage,Drainage,105.91,Drainage!O713,105.91,Drainage!A713,Drainage,
+658,658,225 x 100/150 branch,item,Drainage,Drainage,268.7,Drainage!O734,268.7,Drainage!A734,Drainage,
+659,659,225 x 225 branch,item,Drainage,Drainage,318.36,Drainage!O735,318.36,Drainage!A735,Drainage,
+668,668,300 x 100/150 branch,item,Drainage,Drainage,610.21,Drainage!O745,610.21,Drainage!A745,Drainage,
+669,669,300 x 225 branch,item,Drainage,Drainage,540.16,Drainage!O746,540.16,Drainage!A746,Drainage,
+670,670,300 x 300 branch,item,Drainage,Drainage,679.63,Drainage!O747,679.63,Drainage!A747,Drainage,
+757,757,110 x 110 branch,item,Drainage,Drainage,20.1,Drainage!O852,20.1,Drainage!A852,Drainage,
+764,764,Paved area gully 4D860,item,Drainage,Gullies,84.13,Drainage!O859,84.13,Drainage!A859,Drainage,
+777,777,160 x 100 branch,item,Drainage,Drainage,38.38,Drainage!O873,38.38,Drainage!A873,Drainage,
+778,778,160 x 160 branch,item,Drainage,Drainage,46.82,Drainage!O874,46.82,Drainage!A874,Drainage,
+779,779,160 x 100 reducer,item,Drainage,Drainage,24.18,Drainage!O875,24.18,Drainage!A875,Drainage,
+792,792,150 x 100 branch,item,Drainage,Drainage,57.56,Drainage!O890,57.56,Drainage!A890,Drainage,
+793,793,150 x 150 branch,item,Drainage,Drainage,60.21,Drainage!O891,60.21,Drainage!A891,Drainage,
+794,794,150 x 100 reducer,item,Drainage,Drainage,20.08,Drainage!O892,20.08,Drainage!A892,Drainage,
+801,801,225 x 100 branch,item,Drainage,Drainage,188.11,Drainage!O900,188.11,Drainage!A900,Drainage,
+802,802,225 x 150 branch,item,Drainage,Drainage,193.49,Drainage!O901,193.49,Drainage!A901,Drainage,
+803,803,225 x 225 branch,item,Drainage,Drainage,265.13,Drainage!O902,265.13,Drainage!A902,Drainage,
+809,809,300 x 160 branch,item,Drainage,Drainage,409.67,Drainage!O909,409.67,Drainage!A909,Drainage,
+810,810,300 x 225 branch,item,Drainage,Drainage,576.42,Drainage!O910,576.42,Drainage!A910,Drainage,
+811,811,300 x 300 branch,item,Drainage,Drainage,604.8,Drainage!O911,604.8,Drainage!A911,Drainage,
+812,812,300 x 225 reducer,item,Drainage,Drainage,106.86,Drainage!O912,106.86,Drainage!A912,Drainage,
+825,825,375 x 150 branch,item,Drainage,Drainage,283.58,Drainage!O931,283.58,Drainage!A931,Drainage,
+826,826,375 x 375 branch,item,Drainage,Drainage,906.29,Drainage!O932,906.29,Drainage!A932,Drainage,
+834,834,100 x 100 branch,item,Drainage,Drainage,99.34,Drainage!O942,99.34,Drainage!A942,Drainage,
+859,859,150 x 100 branch,item,Drainage,Drainage,186.51,Drainage!O968,186.51,Drainage!A968,Drainage,
+860,860,150 x 150 branch,item,Drainage,Drainage,205.24,Drainage!O969,205.24,Drainage!A969,Drainage,
+868,868,Blanking plug,item,Drainage,Drainage,242.38,Drainage!O977,242.38,Drainage!A977,Drainage,
+873,873,200 x 100 branch,item,Drainage,Drainage,400.12,Drainage!O984,400.12,Drainage!A984,Drainage,
+874,874,200 x 150 branch,item,Drainage,Drainage,417.25,Drainage!O985,417.25,Drainage!A985,Drainage,
+875,875,200 x 200 branch,item,Drainage,Drainage,483.74,Drainage!O986,483.74,Drainage!A986,Drainage,
+876,876,200-150 reducer,item,Drainage,Drainage,235.27,Drainage!O987,235.27,Drainage!A987,Drainage,
+880,880,250 x 200 branch,item,Drainage,Drainage,644.28,Drainage!O992,644.28,Drainage!A992,Drainage,
+881,881,250 x 250 branch,item,Drainage,Drainage,828.65,Drainage!O993,828.65,Drainage!A993,Drainage,
+882,882,250-200 reducer,item,Drainage,Drainage,395.58,Drainage!O994,395.58,Drainage!A994,Drainage,
+887,887,300 x 300 branch,item,Drainage,Drainage,1131.33,Drainage!O1000,1131.33,Drainage!A1000,Drainage,
+888,888,300-250 reducer,item,Drainage,Drainage,533.92,Drainage!O1001,533.92,Drainage!A1001,Drainage,
+892,892,400 x 400 branch,item,Drainage,Drainage,2356.87,Drainage!O1006,2356.87,Drainage!A1006,Drainage,
+893,893,400-300 reducer,item,Drainage,Drainage,963.33,Drainage!O1007,963.33,Drainage!A1007,Drainage,
+902,902,100 x 100 branch,item,Drainage,Drainage,149.18,Drainage!O1020,149.18,Drainage!A1020,Drainage,
+909,909,Reducer pipe; 150 - 100,item,Drainage,Pipes,121.53,Drainage!O1028,121.53,Drainage!A1028,Drainage,
+910,910,150 x 100 branch,item,Drainage,Drainage,235.15,Drainage!O1029,235.15,Drainage!A1029,Drainage,
+911,911,150 x 150 branch,item,Drainage,Drainage,259.16,Drainage!O1030,259.16,Drainage!A1030,Drainage,
+915,915,Reducer pipe; 225 - 150,item,Drainage,Pipes,258.96,Drainage!O1035,258.96,Drainage!A1035,Drainage,
+916,916,225 x 100 branch,item,Drainage,Drainage,574.14,Drainage!O1036,574.14,Drainage!A1036,Drainage,
+917,917,225 x 150 branch,item,Drainage,Drainage,605.28,Drainage!O1037,605.28,Drainage!A1037,Drainage,
+918,918,225 x 225 branch,item,Drainage,Drainage,690.14,Drainage!O1038,690.14,Drainage!A1038,Drainage,
+923,923,100 x 100 branch,item,Drainage,Drainage,143.12,Drainage!O1045,143.12,Drainage!A1045,Drainage,
+928,928,150 x 100 branch,item,Drainage,Drainage,231.31,Drainage!O1051,231.31,Drainage!A1051,Drainage,
+929,929,150 x 150 branch,item,Drainage,Drainage,248.35,Drainage!O1052,248.35,Drainage!A1052,Drainage,
+894,894,Clay; Paved area gully; SDG2/1,item,Drainage,Gullies,93.29,Drainage!O1101,93.29,Drainage!A1101,Drainage,
+895,895,Clay; Access gully; SG3/1,item,Drainage,Gullies,90.53,Drainage!O1102,90.53,Drainage!A1102,Drainage,
+901,901,UPVC; Yard gully 4D701,item,Drainage,Gullies,81.39,Drainage!O1108,81.39,Drainage!A1108,Drainage,
+923,923,Ends,item,Drainage,Drainage,36.04,Drainage!O1134,36.04,Drainage!A1134,Drainage,
+926,926,Ends,item,Drainage,Drainage,23.7,Drainage!O1140,23.7,Drainage!A1140,Drainage,
+929,929,Ends,item,Drainage,Drainage,21.88,Drainage!O1143,21.88,Drainage!A1143,Drainage,
+933,933,Ends,item,Drainage,Drainage,22.92,Drainage!O1147,22.92,Drainage!A1147,Drainage,
+937,937,Ends,item,Drainage,Drainage,33.87,Drainage!O1151,33.87,Drainage!A1151,Drainage,
+941,941,Ends,item,Drainage,Drainage,33.87,Drainage!O1155,33.87,Drainage!A1155,Drainage,
+945,945,Ends,item,Drainage,Drainage,46.19,Drainage!O1159,46.19,Drainage!A1159,Drainage,
+948,948,Ends,item,Drainage,Drainage,70.74,Drainage!O1162,70.74,Drainage!A1162,Drainage,
+951,951,Ends,item,Drainage,Drainage,84.7,Drainage!O1165,84.7,Drainage!A1165,Drainage,
+954,954,Ends,item,Drainage,Drainage,18.63,Drainage!O1168,18.63,Drainage!A1168,Drainage,
+955,955,Angles,item,Drainage,Drainage,54.62,Drainage!O1169,54.62,Drainage!A1169,Drainage,
+957,957,Kerb drain; ACO KD255HB,item,Drainage,Drainage,76.93,Drainage!O1171,76.93,Drainage!A1171,Drainage,
+958,958,Kerb drain; ACO KD255HB; curved,item,Drainage,Drainage,95.25,Drainage!O1172,95.25,Drainage!A1172,Drainage,
+959,959,Kerb drain; ACO KD305HB,item,Drainage,Drainage,84.75,Drainage!O1173,84.75,Drainage!A1173,Drainage,
+960,960,Kerb drain; ACO KD305HB; curved,item,Drainage,Drainage,106.19,Drainage!O1174,106.19,Drainage!A1174,Drainage,
+961,961,Kerb drain; ACO KD405HB,item,Drainage,Drainage,99.96,Drainage!O1175,99.96,Drainage!A1175,Drainage,
+962,962,Kerb drain; ACO KD405HB; curved,item,Drainage,Drainage,127.49,Drainage!O1176,127.49,Drainage!A1176,Drainage,
+963,963,Kerb drain; ACO KD480HB,item,Drainage,Drainage,111.37,Drainage!O1177,111.37,Drainage!A1177,Drainage,
+964,964,Kerb drain; ACO KD480HB; curved,item,Drainage,Drainage,143.47,Drainage!O1178,143.47,Drainage!A1178,Drainage,
+965,965,Ends,item,Drainage,Drainage,28.07,Drainage!O1179,28.07,Drainage!A1179,Drainage,
+967,967,Kerb drain; ACO SP380,item,Drainage,Drainage,82.68,Drainage!O1181,82.68,Drainage!A1181,Drainage,
+968,968,Kerb drain; ACO SP380; curved,item,Drainage,Drainage,100.93,Drainage!O1182,100.93,Drainage!A1182,Drainage,
+969,969,Ends,item,Drainage,Drainage,28.07,Drainage!O1183,28.07,Drainage!A1183,Drainage,
+971,971,Beany block drainage kerb,item,Drainage,Drainage,119.52,Drainage!O1185,119.52,Drainage!A1185,Drainage,
+972,972,Beany block drainage kerb; radius/curved on plan,item,Drainage,Drainage,157.73,Drainage!O1186,157.73,Drainage!A1186,Drainage,
+974,974,Beany block end cap,item,Drainage,Drainage,43.69,Drainage!O1188,43.69,Drainage!A1188,Drainage,
+984,984,Ends,item,Drainage,Drainage,18.34,Drainage!O1198,18.34,Drainage!A1198,Drainage,
+998,998,Ends,item,Drainage,Drainage,18.63,Drainage!O1214,18.63,Drainage!A1214,Drainage,
+1009,1009,Working space,item,Drainage,Drainage,19.29,Drainage!O1229,19.29,Drainage!A1229,Drainage,
+1010,1010,EWS,item,Drainage,Drainage,11.93,Drainage!O1230,11.93,Drainage!A1230,Drainage,
+1016,1016,L&C surface of fill,item,Drainage,Drainage,0.52,Drainage!O1236,0.52,Drainage!A1236,Drainage,
+1019,1019,Pea shingle bed & surround,item,Drainage,Drainage,67.98,Drainage!O1239,67.98,Drainage!A1239,Drainage,
+1027,1027,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,162.69,Drainage!O1251,162.69,Drainage!A1251,Drainage,excavation|trench|depth_0.5-0.75m
+1029,1029,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,278.99,Drainage!O1255,278.99,Drainage!A1255,Drainage,excavation|trench|depth_0.5-0.75m
+1028,1028,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,186.5,Drainage!O1259,186.5,Drainage!A1259,Drainage,excavation|trench|depth_0.5-0.75m
+1023,1023,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,245.72,Drainage!O1263,245.72,Drainage!A1263,Drainage,excavation|trench|depth_0.5-0.75m
+1024,1024,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,291.67,Drainage!O1264,291.67,Drainage!A1264,Drainage,excavation|trench|depth_0.75-1.0m
+1025,1025,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,337.62,Drainage!O1265,337.62,Drainage!A1265,Drainage,excavation|trench|depth_1.0-1.25m
+1028,1028,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,255.94,Drainage!O1270,255.94,Drainage!A1270,Drainage,excavation|trench|depth_0.5-0.75m
+1029,1029,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,301.51,Drainage!O1271,301.51,Drainage!A1271,Drainage,excavation|trench|depth_0.75-1.0m
+1030,1030,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,347.07,Drainage!O1272,347.07,Drainage!A1272,Drainage,excavation|trench|depth_1.0-1.25m
+1033,1033,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,484.84,Drainage!O1277,484.84,Drainage!A1277,Drainage,excavation|trench|depth_0.5-0.75m
+1034,1034,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,531.44,Drainage!O1278,531.44,Drainage!A1278,Drainage,excavation|trench|depth_0.75-1.0m
+1035,1035,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,611.08,Drainage!O1279,611.08,Drainage!A1279,Drainage,excavation|trench|depth_1.0-1.25m
+1038,1038,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,505.64,Drainage!O1284,505.64,Drainage!A1284,Drainage,excavation|trench|depth_0.5-0.75m
+1039,1039,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,548.2,Drainage!O1285,548.2,Drainage!A1285,Drainage,excavation|trench|depth_0.75-1.0m
+1040,1040,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,627.84,Drainage!O1286,627.84,Drainage!A1286,Drainage,excavation|trench|depth_1.0-1.25m
+1043,1043,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,302.26,Drainage!O1291,302.26,Drainage!A1291,Drainage,excavation|trench|depth_0.5-0.75m
+1044,1044,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,338.03,Drainage!O1292,338.03,Drainage!A1292,Drainage,excavation|trench|depth_0.75-1.0m
+1045,1045,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,373.79,Drainage!O1293,373.79,Drainage!A1293,Drainage,excavation|trench|depth_1.0-1.25m
+1046,1046,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,409.56,Drainage!O1294,409.56,Drainage!A1294,Drainage,excavation|trench|depth_1.25-1.5m
+1047,1047,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,445.33,Drainage!O1295,445.33,Drainage!A1295,Drainage,excavation|trench|depth_1.5-1.75m
+1048,1048,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,481.1,Drainage!O1296,481.1,Drainage!A1296,Drainage,excavation|trench|depth_1.75-2.0m
+1051,1051,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,302.26,Drainage!O1301,302.26,Drainage!A1301,Drainage,excavation|trench|depth_0.5-0.75m
+1052,1052,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,338.03,Drainage!O1302,338.03,Drainage!A1302,Drainage,excavation|trench|depth_0.75-1.0m
+1053,1053,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,373.79,Drainage!O1303,373.79,Drainage!A1303,Drainage,excavation|trench|depth_1.0-1.25m
+1054,1054,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,409.56,Drainage!O1304,409.56,Drainage!A1304,Drainage,excavation|trench|depth_1.25-1.5m
+1055,1055,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,445.33,Drainage!O1305,445.33,Drainage!A1305,Drainage,excavation|trench|depth_1.5-1.75m
+1056,1056,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,481.1,Drainage!O1306,481.1,Drainage!A1306,Drainage,excavation|trench|depth_1.75-2.0m
+1050,1050,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,591.03,Drainage!O1311,591.03,Drainage!A1311,Drainage,excavation|trench|depth_0.5-0.75m
+1051,1051,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,637.11,Drainage!O1312,637.11,Drainage!A1312,Drainage,excavation|trench|depth_0.75-1.0m
+1052,1052,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,683.2,Drainage!O1313,683.2,Drainage!A1313,Drainage,excavation|trench|depth_1.0-1.25m
+1053,1053,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,729.29,Drainage!O1314,729.29,Drainage!A1314,Drainage,excavation|trench|depth_1.25-1.5m
+1054,1054,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,775.37,Drainage!O1315,775.37,Drainage!A1315,Drainage,excavation|trench|depth_1.5-1.75m
+1055,1055,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,821.46,Drainage!O1316,821.46,Drainage!A1316,Drainage,excavation|trench|depth_1.75-2.0m
+1063,1063,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,570.73,Drainage!O1326,570.73,Drainage!A1326,Drainage,excavation|trench|depth_0.5-0.75m
+1064,1064,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,630.35,Drainage!O1327,630.35,Drainage!A1327,Drainage,excavation|trench|depth_0.75-1.0m
+1065,1065,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,689.97,Drainage!O1328,689.97,Drainage!A1328,Drainage,excavation|trench|depth_1.0-1.25m
+1066,1066,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,749.59,Drainage!O1329,749.59,Drainage!A1329,Drainage,excavation|trench|depth_1.25-1.5m
+1067,1067,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,809.21,Drainage!O1330,809.21,Drainage!A1330,Drainage,excavation|trench|depth_1.5-1.75m
+1068,1068,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,868.83,Drainage!O1331,868.83,Drainage!A1331,Drainage,excavation|trench|depth_1.75-2.0m
+1076,1076,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,1121.33,Drainage!O1341,1121.33,Drainage!A1341,Drainage,excavation|trench|depth_0.5-0.75m
+1077,1077,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1180.95,Drainage!O1342,1180.95,Drainage!A1342,Drainage,excavation|trench|depth_0.75-1.0m
+1078,1078,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1240.57,Drainage!O1343,1240.57,Drainage!A1343,Drainage,excavation|trench|depth_1.0-1.25m
+1079,1079,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1300.19,Drainage!O1344,1300.19,Drainage!A1344,Drainage,excavation|trench|depth_1.25-1.5m
+1080,1080,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1359.81,Drainage!O1345,1359.81,Drainage!A1345,Drainage,excavation|trench|depth_1.5-1.75m
+1081,1081,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,1419.43,Drainage!O1346,1419.43,Drainage!A1346,Drainage,excavation|trench|depth_1.75-2.0m
+1086,1086,EO for 225 dia channel,item,Drainage,Drainage,16.33,Drainage!O1351,16.33,Drainage!A1351,Drainage,
+1087,1087,EO for 300 dia channel,item,Drainage,Drainage,32.6,Drainage!O1352,32.6,Drainage!A1352,Drainage,
+1090,1090,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,988.62,Drainage!O1357,988.62,Drainage!A1357,Drainage,excavation|trench|depth_0.5-0.75m
+1091,1091,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1182.71,Drainage!O1358,1182.71,Drainage!A1358,Drainage,excavation|trench|depth_0.75-1.0m
+1092,1092,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1376.8,Drainage!O1359,1376.8,Drainage!A1359,Drainage,excavation|trench|depth_1.0-1.25m
+1093,1093,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1570.89,Drainage!O1360,1570.89,Drainage!A1360,Drainage,excavation|trench|depth_1.25-1.5m
+1094,1094,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1764.97,Drainage!O1361,1764.97,Drainage!A1361,Drainage,excavation|trench|depth_1.5-1.75m
+1095,1095,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,1959.06,Drainage!O1362,1959.06,Drainage!A1362,Drainage,excavation|trench|depth_1.75-2.0m
+1096,1096,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,2153.15,Drainage!O1363,2153.15,Drainage!A1363,Drainage,excavation|trench|depth_2.0-2.25m
+1097,1097,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,2347.24,Drainage!O1364,2347.24,Drainage!A1364,Drainage,excavation|trench|depth_2.25-2.5m
+1098,1098,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,2541.33,Drainage!O1365,2541.33,Drainage!A1365,Drainage,excavation|trench|depth_2.5-2.75m
+1099,1099,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,2735.42,Drainage!O1366,2735.42,Drainage!A1366,Drainage,excavation|trench|depth_2.75-3.0m
+1101,1101,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,1130.56,Drainage!O1369,1130.56,Drainage!A1369,Drainage,excavation|trench|depth_0.5-0.75m
+1102,1102,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1357.69,Drainage!O1370,1357.69,Drainage!A1370,Drainage,excavation|trench|depth_0.75-1.0m
+1103,1103,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1584.81,Drainage!O1371,1584.81,Drainage!A1371,Drainage,excavation|trench|depth_1.0-1.25m
+1104,1104,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1811.94,Drainage!O1372,1811.94,Drainage!A1372,Drainage,excavation|trench|depth_1.25-1.5m
+1105,1105,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,2039.06,Drainage!O1373,2039.06,Drainage!A1373,Drainage,excavation|trench|depth_1.5-1.75m
+1106,1106,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,2266.19,Drainage!O1374,2266.19,Drainage!A1374,Drainage,excavation|trench|depth_1.75-2.0m
+1107,1107,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,799.06,Drainage!O1376,799.06,Drainage!A1376,Drainage,excavation|trench|depth_0.5-0.75m
+1108,1108,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,946.45,Drainage!O1377,946.45,Drainage!A1377,Drainage,excavation|trench|depth_0.75-1.0m
+1109,1109,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1093.84,Drainage!O1378,1093.84,Drainage!A1378,Drainage,excavation|trench|depth_1.0-1.25m
+1110,1110,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1241.23,Drainage!O1379,1241.23,Drainage!A1379,Drainage,excavation|trench|depth_1.25-1.5m
+1111,1111,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1388.62,Drainage!O1380,1388.62,Drainage!A1380,Drainage,excavation|trench|depth_1.5-1.75m
+1112,1112,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,1536.01,Drainage!O1381,1536.01,Drainage!A1381,Drainage,excavation|trench|depth_1.75-2.0m
+1113,1113,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,884.32,Drainage!O1383,884.32,Drainage!A1383,Drainage,excavation|trench|depth_0.5-0.75m
+1114,1114,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1050.55,Drainage!O1384,1050.55,Drainage!A1384,Drainage,excavation|trench|depth_0.75-1.0m
+1115,1115,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1216.77,Drainage!O1385,1216.77,Drainage!A1385,Drainage,excavation|trench|depth_1.0-1.25m
+1116,1116,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1382.99,Drainage!O1386,1382.99,Drainage!A1386,Drainage,excavation|trench|depth_1.25-1.5m
+1117,1117,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1549.22,Drainage!O1387,1549.22,Drainage!A1387,Drainage,excavation|trench|depth_1.5-1.75m
+1118,1118,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,1715.44,Drainage!O1388,1715.44,Drainage!A1388,Drainage,excavation|trench|depth_1.75-2.0m
+1119,1119,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,987.17,Drainage!O1390,987.17,Drainage!A1390,Drainage,excavation|trench|depth_0.5-0.75m
+1120,1120,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1179.38,Drainage!O1391,1179.38,Drainage!A1391,Drainage,excavation|trench|depth_0.75-1.0m
+1121,1121,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1371.59,Drainage!O1392,1371.59,Drainage!A1392,Drainage,excavation|trench|depth_1.0-1.25m
+1122,1122,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1563.79,Drainage!O1393,1563.79,Drainage!A1393,Drainage,excavation|trench|depth_1.25-1.5m
+1123,1123,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1756.0,Drainage!O1394,1756.0,Drainage!A1394,Drainage,excavation|trench|depth_1.5-1.75m
+1124,1124,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,1948.21,Drainage!O1395,1948.21,Drainage!A1395,Drainage,excavation|trench|depth_1.75-2.0m
+1125,1125,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,1100.43,Drainage!O1397,1100.43,Drainage!A1397,Drainage,excavation|trench|depth_0.5-0.75m
+1126,1126,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1319.24,Drainage!O1398,1319.24,Drainage!A1398,Drainage,excavation|trench|depth_0.75-1.0m
+1127,1127,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1538.05,Drainage!O1399,1538.05,Drainage!A1399,Drainage,excavation|trench|depth_1.0-1.25m
+1128,1128,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1756.87,Drainage!O1400,1756.87,Drainage!A1400,Drainage,excavation|trench|depth_1.25-1.5m
+1129,1129,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1975.68,Drainage!O1401,1975.68,Drainage!A1401,Drainage,excavation|trench|depth_1.5-1.75m
+1130,1130,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,2194.49,Drainage!O1402,2194.49,Drainage!A1402,Drainage,excavation|trench|depth_1.75-2.0m
+1131,1131,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,2413.3,Drainage!O1403,2413.3,Drainage!A1403,Drainage,excavation|trench|depth_2.0-2.25m
+1132,1132,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,2632.11,Drainage!O1404,2632.11,Drainage!A1404,Drainage,excavation|trench|depth_2.25-2.5m
+1133,1133,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,2850.93,Drainage!O1405,2850.93,Drainage!A1405,Drainage,excavation|trench|depth_2.5-2.75m
+1134,1134,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,3069.74,Drainage!O1406,3069.74,Drainage!A1406,Drainage,excavation|trench|depth_2.75-3.0m
+1135,1135,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,3288.55,Drainage!O1407,3288.55,Drainage!A1407,Drainage,excavation|trench|depth_3.0-3.25m
+1136,1136,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,3507.36,Drainage!O1408,3507.36,Drainage!A1408,Drainage,excavation|trench|depth_3.25-3.5m
+1137,1137,Excavation depth: 0.25-0.5m,m,Drainage,Excavation,765.62,Drainage!O1410,765.62,Drainage!A1410,Drainage,excavation|trench|depth_0.25-0.5m
+1138,1138,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,856.13,Drainage!O1411,856.13,Drainage!A1411,Drainage,excavation|trench|depth_0.5-0.75m
+1139,1139,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1005.64,Drainage!O1412,1005.64,Drainage!A1412,Drainage,excavation|trench|depth_0.75-1.0m
+1140,1140,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1155.15,Drainage!O1413,1155.15,Drainage!A1413,Drainage,excavation|trench|depth_1.0-1.25m
+1141,1141,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1304.66,Drainage!O1414,1304.66,Drainage!A1414,Drainage,excavation|trench|depth_1.25-1.5m
+1142,1142,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1454.17,Drainage!O1415,1454.17,Drainage!A1415,Drainage,excavation|trench|depth_1.5-1.75m
+1143,1143,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,1603.68,Drainage!O1416,1603.68,Drainage!A1416,Drainage,excavation|trench|depth_1.75-2.0m
+1144,1144,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,1753.2,Drainage!O1417,1753.2,Drainage!A1417,Drainage,excavation|trench|depth_2.0-2.25m
+1145,1145,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,1902.71,Drainage!O1418,1902.71,Drainage!A1418,Drainage,excavation|trench|depth_2.25-2.5m
+1146,1146,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,2052.22,Drainage!O1419,2052.22,Drainage!A1419,Drainage,excavation|trench|depth_2.5-2.75m
+1147,1147,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,2201.73,Drainage!O1420,2201.73,Drainage!A1420,Drainage,excavation|trench|depth_2.75-3.0m
+1148,1148,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,2351.24,Drainage!O1421,2351.24,Drainage!A1421,Drainage,excavation|trench|depth_3.0-3.25m
+1149,1149,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,2500.75,Drainage!O1422,2500.75,Drainage!A1422,Drainage,excavation|trench|depth_3.25-3.5m
+1150,1150,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,2650.26,Drainage!O1423,2650.26,Drainage!A1423,Drainage,excavation|trench|depth_3.5-3.75m
+1151,1151,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,2799.77,Drainage!O1424,2799.77,Drainage!A1424,Drainage,excavation|trench|depth_3.75-4.0m
+1152,1152,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,2949.29,Drainage!O1425,2949.29,Drainage!A1425,Drainage,excavation|trench|depth_4.0-4.25m
+1152,1152,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,1128.45,Drainage!O1427,1128.45,Drainage!A1427,Drainage,excavation|trench|depth_0.5-0.75m
+1150,1150,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1310.66,Drainage!O1428,1310.66,Drainage!A1428,Drainage,excavation|trench|depth_0.75-1.0m
+1151,1151,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1492.88,Drainage!O1429,1492.88,Drainage!A1429,Drainage,excavation|trench|depth_1.0-1.25m
+1152,1152,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1675.09,Drainage!O1430,1675.09,Drainage!A1430,Drainage,excavation|trench|depth_1.25-1.5m
+1153,1153,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1857.3,Drainage!O1431,1857.3,Drainage!A1431,Drainage,excavation|trench|depth_1.5-1.75m
+1154,1154,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,2039.51,Drainage!O1432,2039.51,Drainage!A1432,Drainage,excavation|trench|depth_1.75-2.0m
+1155,1155,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,2221.72,Drainage!O1433,2221.72,Drainage!A1433,Drainage,excavation|trench|depth_2.0-2.25m
+1156,1156,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,2403.94,Drainage!O1434,2403.94,Drainage!A1434,Drainage,excavation|trench|depth_2.25-2.5m
+1157,1157,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,2586.15,Drainage!O1435,2586.15,Drainage!A1435,Drainage,excavation|trench|depth_2.5-2.75m
+1158,1158,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,2768.36,Drainage!O1436,2768.36,Drainage!A1436,Drainage,excavation|trench|depth_2.75-3.0m
+1159,1159,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,2950.57,Drainage!O1437,2950.57,Drainage!A1437,Drainage,excavation|trench|depth_3.0-3.25m
+1160,1160,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,3132.78,Drainage!O1438,3132.78,Drainage!A1438,Drainage,excavation|trench|depth_3.25-3.5m
+1161,1161,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,3315.0,Drainage!O1439,3315.0,Drainage!A1439,Drainage,excavation|trench|depth_3.5-3.75m
+1162,1162,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,3497.21,Drainage!O1440,3497.21,Drainage!A1440,Drainage,excavation|trench|depth_3.75-4.0m
+1173,1173,EO B125 C&F for recessed,item,Drainage,Drainage,35.4,Drainage!O1452,35.4,Drainage!A1452,Drainage,
+1174,1174,EO B125 C&F for double seal,item,Drainage,Drainage,23.6,Drainage!O1453,23.6,Drainage!A1453,Drainage,
+1175,1175,EO B125 C&F for recessed & double seal,item,Drainage,Drainage,47.2,Drainage!O1454,47.2,Drainage!A1454,Drainage,
+1176,1176,EO B125 C&F for D400,item,Drainage,Drainage,47.2,Drainage!O1455,47.2,Drainage!A1455,Drainage,
+1177,1177,EO B125 C&F for recessed D400,item,Drainage,Drainage,82.6,Drainage!O1456,82.6,Drainage!A1456,Drainage,
+1178,1178,EO B125 C&F for recessed & double seal D400,item,Drainage,Drainage,129.8,Drainage!O1457,129.8,Drainage!A1457,Drainage,
+1179,1179,EO B125 C&F for F900,item,Drainage,Drainage,283.2,Drainage!O1458,283.2,Drainage!A1458,Drainage,
+1180,1180,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1576.95,Drainage!O1461,1576.95,Drainage!A1461,Drainage,excavation|trench|depth_0.75-1.0m
+1181,1181,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1847.14,Drainage!O1462,1847.14,Drainage!A1462,Drainage,excavation|trench|depth_1.0-1.25m
+1182,1182,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,2117.33,Drainage!O1463,2117.33,Drainage!A1463,Drainage,excavation|trench|depth_1.25-1.5m
+1183,1183,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,2387.52,Drainage!O1464,2387.52,Drainage!A1464,Drainage,excavation|trench|depth_1.5-1.75m
+1184,1184,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,2657.71,Drainage!O1465,2657.71,Drainage!A1465,Drainage,excavation|trench|depth_1.75-2.0m
+1185,1185,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,2927.9,Drainage!O1466,2927.9,Drainage!A1466,Drainage,excavation|trench|depth_2.0-2.25m
+1186,1186,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,3198.09,Drainage!O1467,3198.09,Drainage!A1467,Drainage,excavation|trench|depth_2.25-2.5m
+1187,1187,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,3468.28,Drainage!O1468,3468.28,Drainage!A1468,Drainage,excavation|trench|depth_2.5-2.75m
+1188,1188,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,3738.47,Drainage!O1469,3738.47,Drainage!A1469,Drainage,excavation|trench|depth_2.75-3.0m
+1189,1189,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,4008.65,Drainage!O1470,4008.65,Drainage!A1470,Drainage,excavation|trench|depth_3.0-3.25m
+1190,1190,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,4278.84,Drainage!O1471,4278.84,Drainage!A1471,Drainage,excavation|trench|depth_3.25-3.5m
+1191,1191,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,4549.03,Drainage!O1472,4549.03,Drainage!A1472,Drainage,excavation|trench|depth_3.5-3.75m
+1192,1192,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,4819.22,Drainage!O1473,4819.22,Drainage!A1473,Drainage,excavation|trench|depth_3.75-4.0m
+1193,1193,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,5089.41,Drainage!O1474,5089.41,Drainage!A1474,Drainage,excavation|trench|depth_4.0-4.25m
+1194,1194,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,5359.92,Drainage!O1475,5359.92,Drainage!A1475,Drainage,excavation|trench|depth_4.25-4.5m
+1195,1195,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,5630.11,Drainage!O1476,5630.11,Drainage!A1476,Drainage,excavation|trench|depth_4.5-4.75m
+1196,1196,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,5900.3,Drainage!O1477,5900.3,Drainage!A1477,Drainage,excavation|trench|depth_4.75-5.0m
+1197,1197,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1684.89,Drainage!O1479,1684.89,Drainage!A1479,Drainage,excavation|trench|depth_0.75-1.0m
+1198,1198,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1919.24,Drainage!O1480,1919.24,Drainage!A1480,Drainage,excavation|trench|depth_1.0-1.25m
+1199,1199,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,2153.6,Drainage!O1481,2153.6,Drainage!A1481,Drainage,excavation|trench|depth_1.25-1.5m
+1200,1200,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,2387.95,Drainage!O1482,2387.95,Drainage!A1482,Drainage,excavation|trench|depth_1.5-1.75m
+1201,1201,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,2622.3,Drainage!O1483,2622.3,Drainage!A1483,Drainage,excavation|trench|depth_1.75-2.0m
+1202,1202,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,2856.66,Drainage!O1484,2856.66,Drainage!A1484,Drainage,excavation|trench|depth_2.0-2.25m
+1203,1203,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,3091.01,Drainage!O1485,3091.01,Drainage!A1485,Drainage,excavation|trench|depth_2.25-2.5m
+1204,1204,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,3325.36,Drainage!O1486,3325.36,Drainage!A1486,Drainage,excavation|trench|depth_2.5-2.75m
+1205,1205,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,3559.72,Drainage!O1487,3559.72,Drainage!A1487,Drainage,excavation|trench|depth_2.75-3.0m
+1206,1206,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,3794.07,Drainage!O1488,3794.07,Drainage!A1488,Drainage,excavation|trench|depth_3.0-3.25m
+1207,1207,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,4028.42,Drainage!O1489,4028.42,Drainage!A1489,Drainage,excavation|trench|depth_3.25-3.5m
+1208,1208,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,4262.78,Drainage!O1490,4262.78,Drainage!A1490,Drainage,excavation|trench|depth_3.5-3.75m
+1209,1209,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,4497.13,Drainage!O1491,4497.13,Drainage!A1491,Drainage,excavation|trench|depth_3.75-4.0m
+1210,1210,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,4731.48,Drainage!O1492,4731.48,Drainage!A1492,Drainage,excavation|trench|depth_4.0-4.25m
+1211,1211,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,4965.84,Drainage!O1493,4965.84,Drainage!A1493,Drainage,excavation|trench|depth_4.25-4.5m
+1212,1212,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,5200.19,Drainage!O1494,5200.19,Drainage!A1494,Drainage,excavation|trench|depth_4.5-4.75m
+1213,1213,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,5434.55,Drainage!O1495,5434.55,Drainage!A1495,Drainage,excavation|trench|depth_4.75-5.0m
+1214,1214,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,5668.9,Drainage!O1496,5668.9,Drainage!A1496,Drainage,excavation|trench|depth_5.0-5.25m
+1215,1215,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,5903.25,Drainage!O1497,5903.25,Drainage!A1497,Drainage,excavation|trench|depth_5.25-5.5m
+1216,1216,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,6137.61,Drainage!O1498,6137.61,Drainage!A1498,Drainage,excavation|trench|depth_5.5-5.75m
+1217,1217,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,6371.96,Drainage!O1499,6371.96,Drainage!A1499,Drainage,excavation|trench|depth_5.75-6.0m
+1218,1218,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,6606.31,Drainage!O1500,6606.31,Drainage!A1500,Drainage,excavation|trench|depth_6.0-6.25m
+1219,1219,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,6840.67,Drainage!O1501,6840.67,Drainage!A1501,Drainage,excavation|trench|depth_6.25-6.5m
+1220,1220,EO 1350 for 1500 dia,item,Drainage,Drainage,82.6,Drainage!O1503,82.6,Drainage!A1503,Drainage,
+1221,1221,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,2141.51,Drainage!O1507,2141.51,Drainage!A1507,Drainage,excavation|trench|depth_0.75-1.0m
+1222,1222,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,2440.63,Drainage!O1508,2440.63,Drainage!A1508,Drainage,excavation|trench|depth_1.0-1.25m
+1223,1223,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,2739.74,Drainage!O1509,2739.74,Drainage!A1509,Drainage,excavation|trench|depth_1.25-1.5m
+1224,1224,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,3038.86,Drainage!O1510,3038.86,Drainage!A1510,Drainage,excavation|trench|depth_1.5-1.75m
+1225,1225,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,3337.98,Drainage!O1511,3337.98,Drainage!A1511,Drainage,excavation|trench|depth_1.75-2.0m
+1226,1226,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,3637.09,Drainage!O1512,3637.09,Drainage!A1512,Drainage,excavation|trench|depth_2.0-2.25m
+1227,1227,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,3936.21,Drainage!O1513,3936.21,Drainage!A1513,Drainage,excavation|trench|depth_2.25-2.5m
+1228,1228,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,4235.33,Drainage!O1514,4235.33,Drainage!A1514,Drainage,excavation|trench|depth_2.5-2.75m
+1229,1229,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,4534.45,Drainage!O1515,4534.45,Drainage!A1515,Drainage,excavation|trench|depth_2.75-3.0m
+1230,1230,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,4833.56,Drainage!O1516,4833.56,Drainage!A1516,Drainage,excavation|trench|depth_3.0-3.25m
+1231,1231,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,5132.68,Drainage!O1517,5132.68,Drainage!A1517,Drainage,excavation|trench|depth_3.25-3.5m
+1232,1232,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,5431.8,Drainage!O1518,5431.8,Drainage!A1518,Drainage,excavation|trench|depth_3.5-3.75m
+1233,1233,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,5730.91,Drainage!O1519,5730.91,Drainage!A1519,Drainage,excavation|trench|depth_3.75-4.0m
+1234,1234,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,6030.03,Drainage!O1520,6030.03,Drainage!A1520,Drainage,excavation|trench|depth_4.0-4.25m
+1235,1235,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,6329.15,Drainage!O1521,6329.15,Drainage!A1521,Drainage,excavation|trench|depth_4.25-4.5m
+1236,1236,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,6628.27,Drainage!O1522,6628.27,Drainage!A1522,Drainage,excavation|trench|depth_4.5-4.75m
+1237,1237,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,6927.38,Drainage!O1523,6927.38,Drainage!A1523,Drainage,excavation|trench|depth_4.75-5.0m
+1238,1238,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,7226.5,Drainage!O1524,7226.5,Drainage!A1524,Drainage,excavation|trench|depth_5.0-5.25m
+1239,1239,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,7525.62,Drainage!O1525,7525.62,Drainage!A1525,Drainage,excavation|trench|depth_5.25-5.5m
+1240,1240,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,7824.73,Drainage!O1526,7824.73,Drainage!A1526,Drainage,excavation|trench|depth_5.5-5.75m
+1241,1241,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,8123.85,Drainage!O1527,8123.85,Drainage!A1527,Drainage,excavation|trench|depth_5.75-6.0m
+1242,1242,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,8422.97,Drainage!O1528,8422.97,Drainage!A1528,Drainage,excavation|trench|depth_6.0-6.25m
+1243,1243,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,8722.08,Drainage!O1529,8722.08,Drainage!A1529,Drainage,excavation|trench|depth_6.25-6.5m
+1244,1244,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,3419.24,Drainage!O1531,3419.24,Drainage!A1531,Drainage,excavation|trench|depth_0.75-1.0m
+1245,1245,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,3868.8,Drainage!O1532,3868.8,Drainage!A1532,Drainage,excavation|trench|depth_1.0-1.25m
+1246,1246,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,4318.36,Drainage!O1533,4318.36,Drainage!A1533,Drainage,excavation|trench|depth_1.25-1.5m
+1247,1247,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,4767.92,Drainage!O1534,4767.92,Drainage!A1534,Drainage,excavation|trench|depth_1.5-1.75m
+1248,1248,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,5217.48,Drainage!O1535,5217.48,Drainage!A1535,Drainage,excavation|trench|depth_1.75-2.0m
+1249,1249,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,5667.04,Drainage!O1536,5667.04,Drainage!A1536,Drainage,excavation|trench|depth_2.0-2.25m
+1250,1250,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,6116.6,Drainage!O1537,6116.6,Drainage!A1537,Drainage,excavation|trench|depth_2.25-2.5m
+1251,1251,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,6566.16,Drainage!O1538,6566.16,Drainage!A1538,Drainage,excavation|trench|depth_2.5-2.75m
+1252,1252,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,7015.72,Drainage!O1539,7015.72,Drainage!A1539,Drainage,excavation|trench|depth_2.75-3.0m
+1253,1253,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,7465.28,Drainage!O1540,7465.28,Drainage!A1540,Drainage,excavation|trench|depth_3.0-3.25m
+1254,1254,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,7914.84,Drainage!O1541,7914.84,Drainage!A1541,Drainage,excavation|trench|depth_3.25-3.5m
+1255,1255,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,8364.4,Drainage!O1542,8364.4,Drainage!A1542,Drainage,excavation|trench|depth_3.5-3.75m
+1256,1256,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,8813.96,Drainage!O1543,8813.96,Drainage!A1543,Drainage,excavation|trench|depth_3.75-4.0m
+1257,1257,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,9263.52,Drainage!O1544,9263.52,Drainage!A1544,Drainage,excavation|trench|depth_4.0-4.25m
+1258,1258,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,9713.08,Drainage!O1545,9713.08,Drainage!A1545,Drainage,excavation|trench|depth_4.25-4.5m
+1259,1259,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,1550.2328912,Drainage!S1546,1550.2328912,Drainage!A1546,Drainage,excavation|trench|depth_4.5-4.75m
+1260,1260,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,1618.8097741999998,Drainage!S1547,1618.8097741999998,Drainage!A1547,Drainage,excavation|trench|depth_4.75-5.0m
+1261,1261,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,1687.3866572000002,Drainage!S1548,1687.3866572000002,Drainage!A1548,Drainage,excavation|trench|depth_5.0-5.25m
+1262,1262,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,1755.9635402,Drainage!S1549,1755.9635402,Drainage!A1549,Drainage,excavation|trench|depth_5.25-5.5m
+1263,1263,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,1824.5404231999999,Drainage!S1550,1824.5404231999999,Drainage!A1550,Drainage,excavation|trench|depth_5.5-5.75m
+1264,1264,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,1893.1173062,Drainage!S1551,1893.1173062,Drainage!A1551,Drainage,excavation|trench|depth_5.75-6.0m
+1265,1265,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,1961.6941892,Drainage!S1552,1961.6941892,Drainage!A1552,Drainage,excavation|trench|depth_6.0-6.25m
+1266,1266,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,2030.2710722000002,Drainage!S1553,2030.2710722000002,Drainage!A1553,Drainage,excavation|trench|depth_6.25-6.5m
+1267,1267,Excavation depth: 6.5-6.75m,m,Drainage,Excavation,2098.8479552,Drainage!S1554,2098.8479552,Drainage!A1554,Drainage,excavation|trench|depth_6.5-6.75m
+1268,1268,Excavation depth: 6.75-7.0m,m,Drainage,Excavation,2167.4248381999996,Drainage!S1555,2167.4248381999996,Drainage!A1555,Drainage,excavation|trench|depth_6.75-7.0m
+1269,1269,Excavation depth: 7.0-7.25m,m,Drainage,Excavation,2236.0017212,Drainage!S1556,2236.0017212,Drainage!A1556,Drainage,excavation|trench|depth_7.0-7.25m
+1270,1270,Excavation depth: 7.25-7.5m,m,Drainage,Excavation,2304.5786042,Drainage!S1557,2304.5786042,Drainage!A1557,Drainage,excavation|trench|depth_7.25-7.5m
+1271,1271,Excavation depth: 7.5-7.75m,m,Drainage,Excavation,2373.1554871999992,Drainage!S1558,2373.1554871999992,Drainage!A1558,Drainage,excavation|trench|depth_7.5-7.75m
+1272,1272,Excavation depth: 7.75-8.0m,m,Drainage,Excavation,2441.7323702,Drainage!S1559,2441.7323702,Drainage!A1559,Drainage,excavation|trench|depth_7.75-8.0m
+1273,1273,Excavation depth: 8.0-8.25m,m,Drainage,Excavation,2510.3092532,Drainage!S1560,2510.3092532,Drainage!A1560,Drainage,excavation|trench|depth_8.0-8.25m
+1274,1274,Excavation depth: 8.25-8.5m,m,Drainage,Excavation,2578.8861362,Drainage!S1561,2578.8861362,Drainage!A1561,Drainage,excavation|trench|depth_8.25-8.5m
+1275,1275,Excavation depth: 8.5-8.75m,m,Drainage,Excavation,2647.4630192,Drainage!S1562,2647.4630192,Drainage!A1562,Drainage,excavation|trench|depth_8.5-8.75m
+1276,1276,Excavation depth: 8.75-9.0m,m,Drainage,Excavation,2716.0399021999997,Drainage!S1563,2716.0399021999997,Drainage!A1563,Drainage,excavation|trench|depth_8.75-9.0m
+1277,1277,Excavation depth: 9.0-9.25m,m,Drainage,Excavation,2784.6167851999994,Drainage!S1564,2784.6167851999994,Drainage!A1564,Drainage,excavation|trench|depth_9.0-9.25m
+1278,1278,Excavation depth: 9.25-9.5m,m,Drainage,Excavation,2853.1936682,Drainage!S1565,2853.1936682,Drainage!A1565,Drainage,excavation|trench|depth_9.25-9.5m
+1279,1279,Excavation depth: 9.5-9.75m,m,Drainage,Excavation,2921.7705512,Drainage!S1566,2921.7705512,Drainage!A1566,Drainage,excavation|trench|depth_9.5-9.75m
+1280,1280,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,5491.54,Drainage!O1569,5491.54,Drainage!A1569,Drainage,excavation|trench|depth_0.75-1.0m
+1281,1281,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,6195.88,Drainage!O1570,6195.88,Drainage!A1570,Drainage,excavation|trench|depth_1.0-1.25m
+1282,1282,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,6900.23,Drainage!O1571,6900.23,Drainage!A1571,Drainage,excavation|trench|depth_1.25-1.5m
+1283,1283,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,7604.57,Drainage!O1572,7604.57,Drainage!A1572,Drainage,excavation|trench|depth_1.5-1.75m
+1284,1284,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,8308.91,Drainage!O1573,8308.91,Drainage!A1573,Drainage,excavation|trench|depth_1.75-2.0m
+1285,1285,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,9013.25,Drainage!O1574,9013.25,Drainage!A1574,Drainage,excavation|trench|depth_2.0-2.25m
+1286,1286,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,9717.59,Drainage!O1575,9717.59,Drainage!A1575,Drainage,excavation|trench|depth_2.25-2.5m
+1287,1287,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,1589.785569643333,Drainage!S1576,1589.785569643333,Drainage!A1576,Drainage,excavation|trench|depth_2.5-2.75m
+1288,1288,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,1697.2273386849995,Drainage!S1577,1697.2273386849995,Drainage!A1577,Drainage,excavation|trench|depth_2.75-3.0m
+1289,1289,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,1804.6691077266669,Drainage!S1578,1804.6691077266669,Drainage!A1578,Drainage,excavation|trench|depth_3.0-3.25m
+1290,1290,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,1912.1108767683334,Drainage!S1579,1912.1108767683334,Drainage!A1579,Drainage,excavation|trench|depth_3.25-3.5m
+1291,1291,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,2019.5526458099998,Drainage!S1580,2019.5526458099998,Drainage!A1580,Drainage,excavation|trench|depth_3.5-3.75m
+1292,1292,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,2126.9944148516665,Drainage!S1581,2126.9944148516665,Drainage!A1581,Drainage,excavation|trench|depth_3.75-4.0m
+1293,1293,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,2234.4361838933332,Drainage!S1582,2234.4361838933332,Drainage!A1582,Drainage,excavation|trench|depth_4.0-4.25m
+1294,1294,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,2341.877952935,Drainage!S1583,2341.877952935,Drainage!A1583,Drainage,excavation|trench|depth_4.25-4.5m
+1295,1295,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,2449.3197219766666,Drainage!S1584,2449.3197219766666,Drainage!A1584,Drainage,excavation|trench|depth_4.5-4.75m
+1296,1296,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,2556.7614910183333,Drainage!S1585,2556.7614910183333,Drainage!A1585,Drainage,excavation|trench|depth_4.75-5.0m
+1297,1297,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,2664.20326006,Drainage!S1586,2664.20326006,Drainage!A1586,Drainage,excavation|trench|depth_5.0-5.25m
+1298,1298,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,2771.6450291016663,Drainage!S1587,2771.6450291016663,Drainage!A1587,Drainage,excavation|trench|depth_5.25-5.5m
+1299,1299,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,2879.086798143333,Drainage!S1588,2879.086798143333,Drainage!A1588,Drainage,excavation|trench|depth_5.5-5.75m
+1300,1300,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,2986.5285671849997,Drainage!S1589,2986.5285671849997,Drainage!A1589,Drainage,excavation|trench|depth_5.75-6.0m
+1301,1301,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,9070.66,Drainage!O1592,9070.66,Drainage!A1592,Drainage,excavation|trench|depth_0.75-1.0m
+1302,1302,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1545.8100673333333,Drainage!S1593,1545.8100673333333,Drainage!A1593,Drainage,excavation|trench|depth_1.0-1.25m
+1303,1303,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1707.959378,Drainage!S1594,1707.959378,Drainage!A1594,Drainage,excavation|trench|depth_1.25-1.5m
+1304,1304,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1870.1086886666665,Drainage!S1595,1870.1086886666665,Drainage!A1595,Drainage,excavation|trench|depth_1.5-1.75m
+1305,1305,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,2032.257999333333,Drainage!S1596,2032.257999333333,Drainage!A1596,Drainage,excavation|trench|depth_1.75-2.0m
+1306,1306,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,2194.4073099999996,Drainage!S1597,2194.4073099999996,Drainage!A1597,Drainage,excavation|trench|depth_2.0-2.25m
+1307,1307,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,2356.5566206666667,Drainage!S1598,2356.5566206666667,Drainage!A1598,Drainage,excavation|trench|depth_2.25-2.5m
+1308,1308,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,2518.7059313333334,Drainage!S1599,2518.7059313333334,Drainage!A1599,Drainage,excavation|trench|depth_2.5-2.75m
+1309,1309,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,2680.855242,Drainage!S1600,2680.855242,Drainage!A1600,Drainage,excavation|trench|depth_2.75-3.0m
+1310,1310,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,2843.0045526666668,Drainage!S1601,2843.0045526666668,Drainage!A1601,Drainage,excavation|trench|depth_3.0-3.25m
+1311,1311,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,3005.153863333333,Drainage!S1602,3005.153863333333,Drainage!A1602,Drainage,excavation|trench|depth_3.25-3.5m
+1312,1312,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,3167.303174,Drainage!S1603,3167.303174,Drainage!A1603,Drainage,excavation|trench|depth_3.5-3.75m
+1313,1313,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,3329.452484666667,Drainage!S1604,3329.452484666667,Drainage!A1604,Drainage,excavation|trench|depth_3.75-4.0m
+1314,1314,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,3491.6017953333335,Drainage!S1605,3491.6017953333335,Drainage!A1605,Drainage,excavation|trench|depth_4.0-4.25m
+1315,1315,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,3653.751106,Drainage!S1606,3653.751106,Drainage!A1606,Drainage,excavation|trench|depth_4.25-4.5m
+1316,1316,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,3815.9004166666673,Drainage!S1607,3815.9004166666673,Drainage!A1607,Drainage,excavation|trench|depth_4.5-4.75m
+1317,1317,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,3978.0497273333335,Drainage!S1608,3978.0497273333335,Drainage!A1608,Drainage,excavation|trench|depth_4.75-5.0m
+1318,1318,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,4140.199038000001,Drainage!S1609,4140.199038000001,Drainage!A1609,Drainage,excavation|trench|depth_5.0-5.25m
+1319,1319,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,4302.348348666666,Drainage!S1610,4302.348348666666,Drainage!A1610,Drainage,excavation|trench|depth_5.25-5.5m
+1320,1320,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,4464.497659333333,Drainage!S1611,4464.497659333333,Drainage!A1611,Drainage,excavation|trench|depth_5.5-5.75m
+1321,1321,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,4626.646970000001,Drainage!S1612,4626.646970000001,Drainage!A1612,Drainage,excavation|trench|depth_5.75-6.0m
+1322,1322,Excavation depth: 0.25-0.5m,m,Drainage,Excavation,336.37,Drainage!O1615,336.37,Drainage!A1615,Drainage,excavation|trench|depth_0.25-0.5m
+1323,1323,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,375.66,Drainage!O1616,375.66,Drainage!A1616,Drainage,excavation|trench|depth_0.5-0.75m
+1324,1324,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,414.95,Drainage!O1617,414.95,Drainage!A1617,Drainage,excavation|trench|depth_0.75-1.0m
+1325,1325,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,454.24,Drainage!O1618,454.24,Drainage!A1618,Drainage,excavation|trench|depth_1.0-1.25m
+1326,1326,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,493.53,Drainage!O1619,493.53,Drainage!A1619,Drainage,excavation|trench|depth_1.25-1.5m
+1327,1327,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,532.82,Drainage!O1620,532.82,Drainage!A1620,Drainage,excavation|trench|depth_1.5-1.75m
+1328,1328,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,572.11,Drainage!O1621,572.11,Drainage!A1621,Drainage,excavation|trench|depth_1.75-2.0m
+1329,1329,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,611.4,Drainage!O1622,611.4,Drainage!A1622,Drainage,excavation|trench|depth_2.0-2.25m
+1330,1330,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,650.69,Drainage!O1623,650.69,Drainage!A1623,Drainage,excavation|trench|depth_2.25-2.5m
+1331,1331,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,689.98,Drainage!O1624,689.98,Drainage!A1624,Drainage,excavation|trench|depth_2.5-2.75m
+1332,1332,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,729.27,Drainage!O1625,729.27,Drainage!A1625,Drainage,excavation|trench|depth_2.75-3.0m
+1333,1333,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,768.56,Drainage!O1626,768.56,Drainage!A1626,Drainage,excavation|trench|depth_3.0-3.25m
+1334,1334,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,807.85,Drainage!O1627,807.85,Drainage!A1627,Drainage,excavation|trench|depth_3.25-3.5m
+1335,1335,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,847.14,Drainage!O1628,847.14,Drainage!A1628,Drainage,excavation|trench|depth_3.5-3.75m
+1336,1336,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,886.43,Drainage!O1629,886.43,Drainage!A1629,Drainage,excavation|trench|depth_3.75-4.0m
+1337,1337,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,925.72,Drainage!O1630,925.72,Drainage!A1630,Drainage,excavation|trench|depth_4.0-4.25m
+1338,1338,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,965.01,Drainage!O1631,965.01,Drainage!A1631,Drainage,excavation|trench|depth_4.25-4.5m
+1339,1339,Excavation depth: 0.25-0.5m,m,Drainage,Excavation,377.06,Drainage!O1633,377.06,Drainage!A1633,Drainage,excavation|trench|depth_0.25-0.5m
+1340,1340,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,424.51,Drainage!O1634,424.51,Drainage!A1634,Drainage,excavation|trench|depth_0.5-0.75m
+1341,1341,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,471.96,Drainage!O1635,471.96,Drainage!A1635,Drainage,excavation|trench|depth_0.75-1.0m
+1342,1342,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,519.42,Drainage!O1636,519.42,Drainage!A1636,Drainage,excavation|trench|depth_1.0-1.25m
+1343,1343,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,566.87,Drainage!O1637,566.87,Drainage!A1637,Drainage,excavation|trench|depth_1.25-1.5m
+1344,1344,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,614.32,Drainage!O1638,614.32,Drainage!A1638,Drainage,excavation|trench|depth_1.5-1.75m
+1345,1345,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,661.77,Drainage!O1639,661.77,Drainage!A1639,Drainage,excavation|trench|depth_1.75-2.0m
+1346,1346,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,709.22,Drainage!O1640,709.22,Drainage!A1640,Drainage,excavation|trench|depth_2.0-2.25m
+1347,1347,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,756.68,Drainage!O1641,756.68,Drainage!A1641,Drainage,excavation|trench|depth_2.25-2.5m
+1348,1348,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,804.13,Drainage!O1642,804.13,Drainage!A1642,Drainage,excavation|trench|depth_2.5-2.75m
+1349,1349,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,851.58,Drainage!O1643,851.58,Drainage!A1643,Drainage,excavation|trench|depth_2.75-3.0m
+1350,1350,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,899.03,Drainage!O1644,899.03,Drainage!A1644,Drainage,excavation|trench|depth_3.0-3.25m
+1351,1351,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,946.48,Drainage!O1645,946.48,Drainage!A1645,Drainage,excavation|trench|depth_3.25-3.5m
+1352,1352,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,993.94,Drainage!O1646,993.94,Drainage!A1646,Drainage,excavation|trench|depth_3.5-3.75m
+1353,1353,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,1041.39,Drainage!O1647,1041.39,Drainage!A1647,Drainage,excavation|trench|depth_3.75-4.0m
+1354,1354,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,1088.84,Drainage!O1648,1088.84,Drainage!A1648,Drainage,excavation|trench|depth_4.0-4.25m
+1355,1355,Excavation depth: 0.25-0.5m,m,Drainage,Excavation,1633.93,Drainage!O1650,1633.93,Drainage!A1650,Drainage,excavation|trench|depth_0.25-0.5m
+1356,1356,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,1712.96,Drainage!O1651,1712.96,Drainage!A1651,Drainage,excavation|trench|depth_0.5-0.75m
+1357,1357,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,1791.99,Drainage!O1652,1791.99,Drainage!A1652,Drainage,excavation|trench|depth_0.75-1.0m
+1358,1358,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1871.01,Drainage!O1653,1871.01,Drainage!A1653,Drainage,excavation|trench|depth_1.0-1.25m
+1359,1359,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1950.04,Drainage!O1654,1950.04,Drainage!A1654,Drainage,excavation|trench|depth_1.25-1.5m
+1360,1360,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,2029.06,Drainage!O1655,2029.06,Drainage!A1655,Drainage,excavation|trench|depth_1.5-1.75m
+1361,1361,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,2108.09,Drainage!O1656,2108.09,Drainage!A1656,Drainage,excavation|trench|depth_1.75-2.0m
+1362,1362,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,2187.12,Drainage!O1657,2187.12,Drainage!A1657,Drainage,excavation|trench|depth_2.0-2.25m
+1363,1363,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,2266.14,Drainage!O1658,2266.14,Drainage!A1658,Drainage,excavation|trench|depth_2.25-2.5m
+1364,1364,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,2345.17,Drainage!O1659,2345.17,Drainage!A1659,Drainage,excavation|trench|depth_2.5-2.75m
+1365,1365,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,2424.2,Drainage!O1660,2424.2,Drainage!A1660,Drainage,excavation|trench|depth_2.75-3.0m
+1366,1366,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,2503.22,Drainage!O1661,2503.22,Drainage!A1661,Drainage,excavation|trench|depth_3.0-3.25m
+1368,1368,EO for 225 flap valve,item,Drainage,Drainage,321.42,Drainage!O1664,321.42,Drainage!A1664,Drainage,
+1369,1369,EO B125 C&F for D400,item,Drainage,Drainage,35.4,Drainage!O1665,35.4,Drainage!A1665,Drainage,
+1370,1370,EO B125 C&F for F900,item,Drainage,Drainage,283.2,Drainage!O1666,283.2,Drainage!A1666,Drainage,
+1371,1371,EO for double seal C&F,item,Drainage,Drainage,17.7,Drainage!O1667,17.7,Drainage!A1667,Drainage,
+1372,1372,Excavation depth: 0.5-0.75m,m,Drainage,Excavation,3016.75,Drainage!O1670,3016.75,Drainage!A1670,Drainage,excavation|trench|depth_0.5-0.75m
+1372,1372,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,3497.43,Drainage!O1671,3497.43,Drainage!A1671,Drainage,excavation|trench|depth_0.75-1.0m
+1373,1373,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,4059.32,Drainage!O1672,4059.32,Drainage!A1672,Drainage,excavation|trench|depth_1.0-1.25m
+1374,1374,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,4556.24,Drainage!O1673,4556.24,Drainage!A1673,Drainage,excavation|trench|depth_1.25-1.5m
+1375,1375,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,5053.17,Drainage!O1674,5053.17,Drainage!A1674,Drainage,excavation|trench|depth_1.5-1.75m
+1376,1376,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,5550.09,Drainage!O1675,5550.09,Drainage!A1675,Drainage,excavation|trench|depth_1.75-2.0m
+1377,1377,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,6209.73,Drainage!O1676,6209.73,Drainage!A1676,Drainage,excavation|trench|depth_2.0-2.25m
+1387,1387,Excavation depth: 0.75-1.0m,m,Drainage,Excavation,6994.87,Drainage!O1690,6994.87,Drainage!A1690,Drainage,excavation|trench|depth_0.75-1.0m
+1388,1388,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,8118.64,Drainage!O1691,8118.64,Drainage!A1691,Drainage,excavation|trench|depth_1.0-1.25m
+1389,1389,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,9112.48,Drainage!O1692,9112.48,Drainage!A1692,Drainage,excavation|trench|depth_1.25-1.5m
+1390,1390,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1541.6439874592,Drainage!S1693,1541.6439874592,Drainage!A1693,Drainage,excavation|trench|depth_1.5-1.75m
+1391,1391,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,1693.2478962954715,Drainage!S1694,1693.2478962954715,Drainage!A1694,Drainage,excavation|trench|depth_1.75-2.0m
+1392,1392,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,1894.4926551317424,Drainage!S1695,1894.4926551317424,Drainage!A1695,Drainage,excavation|trench|depth_2.0-2.25m
+1426,1426,Benching; 1050 dia,item,Drainage,Drainage,124.8,Drainage!O1733,124.8,Drainage!A1733,Drainage,
+1427,1427,Benching; 1200 dia,item,Drainage,Drainage,184.03,Drainage!O1734,184.03,Drainage!A1734,Drainage,
+1428,1428,Benching; 1500 dia,item,Drainage,Drainage,311.99,Drainage!O1735,311.99,Drainage!A1735,Drainage,
+1429,1429,Benching; 1800 dia,item,Drainage,Drainage,488.76,Drainage!O1736,488.76,Drainage!A1736,Drainage,
+1430,1430,Benching; 2100 dia,item,Drainage,Drainage,684.14,Drainage!O1737,684.14,Drainage!A1737,Drainage,
+1440,1440,Caisson rings; 3600 dia,item,Drainage,Drainage,2783.21,Drainage!O1747,2783.21,Drainage!A1747,Drainage,
+1441,1441,Caisson rings; 4000 dia,item,Drainage,Drainage,5775.6,Drainage!O1748,5775.6,Drainage!A1748,Drainage,
+1442,1442,Cover slabs; 900 dia,item,Drainage,Drainage,138.73,Drainage!O1749,138.73,Drainage!A1749,Drainage,
+1443,1443,Cover slabs; 1050 dia,item,Drainage,Drainage,141.13,Drainage!O1750,141.13,Drainage!A1750,Drainage,
+1444,1444,Cover slabs; 1200 dia,item,Drainage,Drainage,170.74,Drainage!O1751,170.74,Drainage!A1751,Drainage,
+1445,1445,Cover slabs; 1500 dia,item,Drainage,Drainage,258.6,Drainage!O1752,258.6,Drainage!A1752,Drainage,
+1446,1446,Cover slabs; 1800 dia,item,Drainage,Drainage,374.32,Drainage!O1753,374.32,Drainage!A1753,Drainage,
+1447,1447,Cover slabs; 2100 dia,item,Drainage,Drainage,691.51,Drainage!O1754,691.51,Drainage!A1754,Drainage,
+1448,1448,Cover slabs; 2400 dia,item,Drainage,Drainage,958.68,Drainage!O1755,958.68,Drainage!A1755,Drainage,
+1449,1449,Cover slabs; 2700 dia,item,Drainage,Drainage,1512.75,Drainage!O1756,1512.75,Drainage!A1756,Drainage,
+1450,1450,Cover slabs; 3000 dia,item,Drainage,Drainage,1812.04,Drainage!O1757,1812.04,Drainage!A1757,Drainage,
+1451,1451,Cover slabs; 3600 dia,item,Drainage,Drainage,3796.95,Drainage!O1758,3796.95,Drainage!A1758,Drainage,
+1452,1452,Cover slabs; 4000 dia,item,Drainage,Drainage,4245.34,Drainage!O1759,4245.34,Drainage!A1759,Drainage,
+1458,1458,Branch bends; 100 dia,item,Drainage,Drainage,38.74,Drainage!O1765,38.74,Drainage!A1765,Drainage,
+1459,1459,Branch bends; 150 dia,item,Drainage,Drainage,59.49,Drainage!O1766,59.49,Drainage!A1766,Drainage,
+1460,1460,Branch bends; 225 dia,item,Drainage,Drainage,111.61,Drainage!O1767,111.61,Drainage!A1767,Drainage,
+1469,1469,Build in ends of pipe; 100 dia,item,Drainage,Pipes,28.84,Drainage!O1776,28.84,Drainage!A1776,Drainage,
+1470,1470,Build in ends of pipe; 150 dia,item,Drainage,Pipes,43.27,Drainage!O1777,43.27,Drainage!A1777,Drainage,
+1471,1471,Build in ends of pipe; 225 dia,item,Drainage,Pipes,57.69,Drainage!O1778,57.69,Drainage!A1778,Drainage,
+1472,1472,Build in ends of pipe; 300 dia,item,Drainage,Pipes,86.53,Drainage!O1779,86.53,Drainage!A1779,Drainage,
+1473,1473,Build in ends of pipe; 450 dia,item,Drainage,Pipes,115.38,Drainage!O1780,115.38,Drainage!A1780,Drainage,
+1481,1481,L&C surface of fill,item,Drainage,Drainage,1.56,Drainage!O1788,1.56,Drainage!A1788,Drainage,
+1549,1549,EO recessed,item,Drainage,Drainage,29.5,Drainage!O1858,29.5,Drainage!A1858,Drainage,
+1550,1550,EO double sealed,item,Drainage,Drainage,17.7,Drainage!O1859,17.7,Drainage!A1859,Drainage,
+1566,1566,CI pipe reducers; 150 x 100,item,Drainage,Pipes,132.82,Drainage!O1877,132.82,Drainage!A1877,Drainage,
+1567,1567,CI pipe reducers; 225 x 100,item,Drainage,Pipes,253.06,Drainage!O1878,253.06,Drainage!A1878,Drainage,
+1568,1568,CI pipe reducers; 225 x 150,item,Drainage,Pipes,257.79,Drainage!O1879,257.79,Drainage!A1879,Drainage,
+1569,1569,CI blanking cap; 100dia,item,Drainage,Drainage,69.19,Drainage!O1880,69.19,Drainage!A1880,Drainage,
+1570,1570,CI blanking cap; 150dia,item,Drainage,Drainage,90.24,Drainage!O1881,90.24,Drainage!A1881,Drainage,
+1571,1571,CI blanking cap; 225dia,item,Drainage,Drainage,248.9,Drainage!O1882,248.9,Drainage!A1882,Drainage,
+1572,1572,CI puddle flange; 100dia,item,Drainage,Drainage,107.34,Drainage!O1883,107.34,Drainage!A1883,Drainage,
+1573,1573,CI puddle flange; 150dia,item,Drainage,Drainage,111.01,Drainage!O1884,111.01,Drainage!A1884,Drainage,
+1574,1574,CI puddle flange; 225dia,item,Drainage,Drainage,207.11,Drainage!O1885,207.11,Drainage!A1885,Drainage,
+1595,1595,Working space,item,Drainage,Drainage,134.4,Drainage!L1913,134.4,Drainage!A1913,Drainage,
+1596,1596,EWS,item,Drainage,Drainage,134.4,Drainage!L1914,134.4,Drainage!A1914,Drainage,
+1602,1602,L&C surface of fill,item,Drainage,Drainage,240.0,Drainage!L1920,240.0,Drainage!A1920,Drainage,
+1612,1612,Access,item,Drainage,Drainage,0.0,,0.0,Drainage!A1931,Drainage,
+1615,1615,Working space,item,Drainage,Drainage,638.4,Drainage!L1937,638.4,Drainage!A1937,Drainage,
+1616,1616,EWS,item,Drainage,Drainage,638.4,Drainage!L1938,638.4,Drainage!A1938,Drainage,
+1622,1622,L&C surface of fill,item,Drainage,Drainage,111.0,Drainage!L1944,111.0,Drainage!A1944,Drainage,
+1632,1632,Access,item,Drainage,Drainage,0.0,,0.0,Drainage!A1956,Drainage,
+1635,1635,Working space,item,Drainage,Drainage,524.4,Drainage!L1961,524.4,Drainage!A1961,Drainage,
+1636,1636,EWS,item,Drainage,Drainage,524.4,Drainage!L1962,524.4,Drainage!A1962,Drainage,
+1642,1642,L&C surface of fill,item,Drainage,Drainage,91.0,Drainage!L1968,91.0,Drainage!A1968,Drainage,
+1655,1655,Working space,item,Drainage,Drainage,45.942,Drainage!L1984,45.942,Drainage!A1984,Drainage,
+1656,1656,EWS,item,Drainage,Drainage,45.942,Drainage!L1985,45.942,Drainage!A1985,Drainage,
+1662,1662,L&C surface of fill,item,Drainage,Drainage,22.0,Drainage!L1991,22.0,Drainage!A1991,Drainage,
+1674,1674,Working space,item,Drainage,Drainage,103.18,Drainage!L2006,103.18,Drainage!A2006,Drainage,
+1675,1675,EWS,item,Drainage,Drainage,103.18,Drainage!L2007,103.18,Drainage!A2007,Drainage,
+1681,1681,L&C surface of fill,item,Drainage,Drainage,54.0,Drainage!L2013,54.0,Drainage!A2013,Drainage,
+1693,1693,Working space,item,Drainage,Drainage,128.0,Drainage!L2028,128.0,Drainage!A2028,Drainage,
+1694,1694,EWS,item,Drainage,Drainage,128.0,Drainage!L2029,128.0,Drainage!A2029,Drainage,
+1700,1700,L&C surface of fill,item,Drainage,Drainage,100.0,Drainage!L2035,100.0,Drainage!A2035,Drainage,
+1712,1712,Working space,item,Drainage,Drainage,128.8,Drainage!L2050,128.8,Drainage!A2050,Drainage,
+1713,1713,EWS,item,Drainage,Drainage,128.8,Drainage!L2051,128.8,Drainage!A2051,Drainage,
+1719,1719,L&C surface of fill,item,Drainage,Drainage,132.0,Drainage!L2057,132.0,Drainage!A2057,Drainage,
+1731,1731,Working space,item,Drainage,Drainage,82.80000000000001,Drainage!L2072,82.80000000000001,Drainage!A2072,Drainage,
+1732,1732,EWS,item,Drainage,Drainage,82.80000000000001,Drainage!L2073,82.80000000000001,Drainage!A2073,Drainage,
+1738,1738,L&C surface of fill,item,Drainage,Drainage,72.0,Drainage!L2079,72.0,Drainage!A2079,Drainage,
+1691,1691,L&C surface of fill,item,Drainage,Drainage,280.0,Drainage!L2115,280.0,Drainage!A2115,Drainage,
+1701,1701,L&C surface of fill,item,Drainage,Drainage,64.0,Drainage!L2128,64.0,Drainage!A2128,Drainage,
+1704,1704,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,0.0,,0.0,Drainage!A2134,Drainage,excavation|trench|depth_2.25-2.5m
+1721,1721,EO for kiosk,item,Drainage,Drainage,814.2,Drainage!O2155,814.2,Drainage!A2155,Drainage,
+1731,1731,NSBE040; 4.253.230 lg x 1.92 dia x 3.185 hgh; 225 dia pipework,item,Drainage,Pipes,10319.53,Drainage!O2172,10319.53,Drainage!A2172,Drainage,
+1758,1758,Handover service,item,Drainage,Drainage,407.1,Drainage!O2206,407.1,Drainage!A2206,Drainage,
+1768,1768,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,1480.58,Drainage!O2222,1480.58,Drainage!A2222,Drainage,excavation|trench|depth_1.0-1.25m
+1769,1769,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,1485.3,Drainage!O2223,1485.3,Drainage!A2223,Drainage,excavation|trench|depth_1.25-1.5m
+1770,1770,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,1490.02,Drainage!O2224,1490.02,Drainage!A2224,Drainage,excavation|trench|depth_1.5-1.75m
+1771,1771,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,1494.74,Drainage!O2225,1494.74,Drainage!A2225,Drainage,excavation|trench|depth_1.75-2.0m
+1772,1772,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,1499.46,Drainage!O2226,1499.46,Drainage!A2226,Drainage,excavation|trench|depth_2.0-2.25m
+1773,1773,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,1504.18,Drainage!O2227,1504.18,Drainage!A2227,Drainage,excavation|trench|depth_2.25-2.5m
+1774,1774,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,1516.04,Drainage!O2228,1516.04,Drainage!A2228,Drainage,excavation|trench|depth_2.5-2.75m
+1775,1775,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,1520.76,Drainage!O2229,1520.76,Drainage!A2229,Drainage,excavation|trench|depth_2.75-3.0m
+1776,1776,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,1525.48,Drainage!O2230,1525.48,Drainage!A2230,Drainage,excavation|trench|depth_3.0-3.25m
+1777,1777,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,1530.2,Drainage!O2231,1530.2,Drainage!A2231,Drainage,excavation|trench|depth_3.25-3.5m
+1778,1778,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,1534.92,Drainage!O2232,1534.92,Drainage!A2232,Drainage,excavation|trench|depth_3.5-3.75m
+1779,1779,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,1539.64,Drainage!O2233,1539.64,Drainage!A2233,Drainage,excavation|trench|depth_3.75-4.0m
+1780,1780,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,1544.36,Drainage!O2234,1544.36,Drainage!A2234,Drainage,excavation|trench|depth_4.0-4.25m
+1781,1781,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,1549.08,Drainage!O2235,1549.08,Drainage!A2235,Drainage,excavation|trench|depth_4.25-4.5m
+1782,1782,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,1553.8,Drainage!O2236,1553.8,Drainage!A2236,Drainage,excavation|trench|depth_4.5-4.75m
+1783,1783,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,1558.52,Drainage!O2237,1558.52,Drainage!A2237,Drainage,excavation|trench|depth_4.75-5.0m
+1786,1786,Excavation depth: 1.0-1.25m,m,Drainage,Excavation,724.24,Drainage!O2241,724.24,Drainage!A2241,Drainage,excavation|trench|depth_1.0-1.25m
+1787,1787,Excavation depth: 1.25-1.5m,m,Drainage,Excavation,733.09,Drainage!O2242,733.09,Drainage!A2242,Drainage,excavation|trench|depth_1.25-1.5m
+1788,1788,Excavation depth: 1.5-1.75m,m,Drainage,Excavation,741.94,Drainage!O2243,741.94,Drainage!A2243,Drainage,excavation|trench|depth_1.5-1.75m
+1789,1789,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,750.79,Drainage!O2244,750.79,Drainage!A2244,Drainage,excavation|trench|depth_1.75-2.0m
+1790,1790,Excavation depth: 2.0-2.25m,m,Drainage,Excavation,759.64,Drainage!O2245,759.64,Drainage!A2245,Drainage,excavation|trench|depth_2.0-2.25m
+1791,1791,Excavation depth: 2.25-2.5m,m,Drainage,Excavation,768.49,Drainage!O2246,768.49,Drainage!A2246,Drainage,excavation|trench|depth_2.25-2.5m
+1792,1792,Excavation depth: 2.5-2.75m,m,Drainage,Excavation,777.34,Drainage!O2247,777.34,Drainage!A2247,Drainage,excavation|trench|depth_2.5-2.75m
+1793,1793,Excavation depth: 2.75-3.0m,m,Drainage,Excavation,786.19,Drainage!O2248,786.19,Drainage!A2248,Drainage,excavation|trench|depth_2.75-3.0m
+1794,1794,Excavation depth: 3.0-3.25m,m,Drainage,Excavation,795.04,Drainage!O2249,795.04,Drainage!A2249,Drainage,excavation|trench|depth_3.0-3.25m
+1795,1795,Excavation depth: 3.25-3.5m,m,Drainage,Excavation,803.89,Drainage!O2250,803.89,Drainage!A2250,Drainage,excavation|trench|depth_3.25-3.5m
+1796,1796,Excavation depth: 3.5-3.75m,m,Drainage,Excavation,812.74,Drainage!O2251,812.74,Drainage!A2251,Drainage,excavation|trench|depth_3.5-3.75m
+1797,1797,Excavation depth: 3.75-4.0m,m,Drainage,Excavation,821.59,Drainage!O2252,821.59,Drainage!A2252,Drainage,excavation|trench|depth_3.75-4.0m
+1798,1798,Excavation depth: 4.0-4.25m,m,Drainage,Excavation,830.44,Drainage!O2253,830.44,Drainage!A2253,Drainage,excavation|trench|depth_4.0-4.25m
+1799,1799,Excavation depth: 4.25-4.5m,m,Drainage,Excavation,839.29,Drainage!O2254,839.29,Drainage!A2254,Drainage,excavation|trench|depth_4.25-4.5m
+1800,1800,Excavation depth: 4.5-4.75m,m,Drainage,Excavation,848.14,Drainage!O2255,848.14,Drainage!A2255,Drainage,excavation|trench|depth_4.5-4.75m
+1801,1801,Excavation depth: 4.75-5.0m,m,Drainage,Excavation,856.99,Drainage!O2256,856.99,Drainage!A2256,Drainage,excavation|trench|depth_4.75-5.0m
+1802,1802,Excavation depth: 5.0-5.25m,m,Drainage,Excavation,865.84,Drainage!O2257,865.84,Drainage!A2257,Drainage,excavation|trench|depth_5.0-5.25m
+1803,1803,Excavation depth: 5.25-5.5m,m,Drainage,Excavation,874.69,Drainage!O2258,874.69,Drainage!A2258,Drainage,excavation|trench|depth_5.25-5.5m
+1804,1804,Excavation depth: 5.5-5.75m,m,Drainage,Excavation,883.54,Drainage!O2259,883.54,Drainage!A2259,Drainage,excavation|trench|depth_5.5-5.75m
+1805,1805,Excavation depth: 5.75-6.0m,m,Drainage,Excavation,892.39,Drainage!O2260,892.39,Drainage!A2260,Drainage,excavation|trench|depth_5.75-6.0m
+1806,1806,Excavation depth: 6.0-6.25m,m,Drainage,Excavation,901.24,Drainage!O2261,901.24,Drainage!A2261,Drainage,excavation|trench|depth_6.0-6.25m
+1807,1807,Excavation depth: 6.25-6.5m,m,Drainage,Excavation,910.09,Drainage!O2262,910.09,Drainage!A2262,Drainage,excavation|trench|depth_6.25-6.5m
+1801,1801,Excavation depth: 1.75-2.0m,m,Drainage,Excavation,2801.23,Drainage!O2272,2801.23,Drainage!A2272,Drainage,excavation|trench|depth_1.75-2.0m
+1804,1804,Excavation depth: 75.0-150.0m,mm,Drainage,Excavation,163.23,Drainage!O2277,163.23,Drainage!A2277,Drainage,excavation|trench|depth_75.0-150.0m
+1805,1805,Excavation depth: 150.0-225.0m,mm,Drainage,Excavation,234.03,Drainage!O2278,234.03,Drainage!A2278,Drainage,excavation|trench|depth_150.0-225.0m
+1837,1837,Full road closure,item,Drainage,Drainage,4248.0,Drainage!O2321,4248.0,Drainage!A2321,Drainage,
+1844,1844,Jersey blocks,item,Drainage,Drainage,59.66,Drainage!O2330,59.66,Drainage!A2330,Drainage,
