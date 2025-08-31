@@ -403,60 +403,219 @@ class ServicesExtractor:
         
         return unique_keywords[:6]
     
+    def is_row_bold(self, row_idx):
+        """Check if column B in a row is bold"""
+        try:
+            from openpyxl import load_workbook
+            if not hasattr(self, 'worksheet'):
+                wb = load_workbook(self.excel_file, read_only=True, data_only=True)
+                self.worksheet = wb[self.sheet_name]
+            
+            cell = self.worksheet.cell(row=row_idx + 1, column=2)  # Column B
+            if cell and cell.font and cell.font.bold:
+                return True
+            return False
+        except:
+            return False
+    
     def extract_items(self):
         """Main extraction method"""
         if self.df is None:
             self.load_sheet()
         
         print(f"\nExtracting items from {self.sheet_name}...")
-        data_rows = self.identify_data_rows()
-        print(f"Found {len(data_rows)} potential data rows")
+        
+        # Load worksheet for bold detection
+        try:
+            from openpyxl import load_workbook
+            wb = load_workbook(self.excel_file, read_only=True, data_only=True)
+            self.worksheet = wb[self.sheet_name]
+        except:
+            self.worksheet = None
         
         items = []
         current_id = 1
+        current_header = None  # Track current header description
+        current_subcategory = "General Services"  # Default subcategory
         
-        for row_idx in data_rows:
+        # Process all rows starting from row 10
+        for row_idx in range(10, len(self.df)):
             row = self.df.iloc[row_idx]
             
-            # Extract basic fields
-            code = self.extract_code(row)
-            description = self.extract_description(row)
+            # Determine which section we're in and apply appropriate logic
+            if 12 <= row_idx <= 307:  # Rows 13-308 (0-indexed: 12-307)
+                # Section 1: Header + Range pattern
+                # Check if this row has a header description in column B
+                if pd.notna(row[1]):
+                    desc_text = str(row[1]).strip()
+                    # Check if it's a header (has text but no code in column A)
+                    if pd.isna(row[0]) and len(desc_text) > 10:
+                        # Skip certain rows
+                        if not any(skip in desc_text.lower() for skip in ['description', 'preambles', 'all items below']):
+                            current_header = desc_text
+                            continue
             
-            # Skip if no valid description
-            if not description or len(description) < 10:
+            elif 309 <= row_idx <= 345:  # Rows 310-346 (0-indexed: 309-345)
+                # Section 2: Normal pattern with bold subcategories
+                # Reset header when entering this section
+                if row_idx == 309:
+                    current_header = None
+                
+                # Check for bold subcategory
+                if pd.notna(row[1]) and self.is_row_bold(row_idx):
+                    current_subcategory = str(row[1]).strip()
+                    continue
+                
+                # Special handling for row 346 - set subcategory if not already set
+                if row_idx == 345:  # Row 346 (0-indexed)
+                    if current_subcategory == "General Services":
+                        current_subcategory = "Services Works"
+            
+            elif 347 <= row_idx <= 687:  # Rows 348-688 (0-indexed: 347-687)
+                # Section 3: Header + column C pattern
+                # Check if this is a header row (bold text in column B)
+                if pd.notna(row[1]) and self.is_row_bold(row_idx):
+                    current_header = str(row[1]).strip()
+                    continue
+            
+            elif 689 <= row_idx <= 806:  # Rows 690-807 (0-indexed: 689-806)
+                # Section 4: Normal pattern with bold subcategories
+                # Check for bold subcategory
+                if pd.notna(row[1]) and self.is_row_bold(row_idx):
+                    current_subcategory = str(row[1]).strip()
+                    continue
+            
+            # Check if this row has a code in column A
+            code = self.extract_code(row)
+            if not code:
                 continue
             
+            # Build description based on section
+            description = None
+            
+            if 12 <= row_idx <= 307:  # Section 1: Header + Range
+                # Check if this is a range-based row (has data in columns C-E)
+                has_range = (pd.notna(row[2]) or pd.notna(row[3]) or pd.notna(row[4]))
+                
+                if has_range and current_header:
+                    # This is a range row - combine header with range info
+                    # Collect non-empty range parts
+                    col_c = str(row[2]).strip() if pd.notna(row[2]) else None
+                    col_d = str(row[3]).strip() if pd.notna(row[3]) else None
+                    col_e = str(row[4]).strip() if pd.notna(row[4]) else None
+                    
+                    # Build the range/value string based on what's present
+                    if current_header.endswith(':'):
+                        # Header ends with colon, append directly
+                        if 'depth' in current_header.lower():
+                            # This is a depth range (e.g., "depth to invert:")
+                            if col_c and col_e:
+                                if col_d == '-':
+                                    # Range format: "ne - 0.5" or "0.5 - 0.75"
+                                    range_str = f"{col_c} - {col_e}"
+                                else:
+                                    # Just use what's there
+                                    range_str = f"{col_c} {col_d} {col_e}".strip()
+                            elif col_c:
+                                range_str = col_c
+                            else:
+                                range_str = col_e if col_e else ""
+                            
+                            # Add 'm' suffix for depth measurements
+                            description = f"{current_header} {range_str} m".strip()
+                        else:
+                            # Generic case
+                            value_str = ' '.join(filter(None, [col_c, col_d, col_e]))
+                            description = f"{current_header} {value_str}".strip()
+                    else:
+                        # Header doesn't end with colon, use semicolon separator
+                        value_str = ' '.join(filter(None, [col_c, col_d, col_e]))
+                        description = f"{current_header}; {value_str}".strip()
+                elif pd.notna(row[1]):
+                    # Has its own description in column B
+                    description = self.extract_description(row)
+                else:
+                    # No description available - skip
+                    continue
+            
+            elif 309 <= row_idx <= 345:  # Section 2: Normal pattern
+                # Normal items with description in column B
+                if pd.notna(row[1]):
+                    description = self.extract_description(row)
+                else:
+                    continue
+            
+            elif 347 <= row_idx <= 687:  # Section 3: Header + column C
+                # Combine header with column C value
+                if current_header and pd.notna(row[2]):  # Column C has the value
+                    col_c = str(row[2]).strip()
+                    if current_header.endswith(':'):
+                        description = f"{current_header} {col_c}".strip()
+                    else:
+                        description = f"{current_header}; {col_c}".strip()
+                elif pd.notna(row[1]):
+                    # Has its own description in column B
+                    description = self.extract_description(row)
+                else:
+                    continue
+            
+            elif 689 <= row_idx <= 806:  # Section 4: Normal pattern with bold subcategories
+                # Check if description is in column B or C
+                if pd.notna(row[1]):
+                    description = self.extract_description(row)
+                elif pd.notna(row[2]):
+                    # Description is in column C for this section
+                    description = str(row[2]).strip()
+                else:
+                    continue
+            else:
+                # Default case - try to get description from column B
+                if pd.notna(row[1]):
+                    description = self.extract_description(row)
+                else:
+                    continue
+            
+            # Skip if no valid description
+            if not description or len(description) < 5:
+                continue
+            
+            # Extract rate from column I (index 8)
+            rate = None
+            rate_cell_ref = None
+            rate_value = None
+            
+            if len(row) > 8 and pd.notna(row[8]):
+                try:
+                    value = float(str(row[8]).replace(',', '').replace('£', ''))
+                    if value > 0:
+                        rate = value
+                        rate_value = value
+                        rate_cell_ref = f"Services!{self.get_cell_reference(row_idx, 8)}"
+                except:
+                    pass
+            
+            # Get unit
             unit = self.extract_unit(row)
-            rate = self.extract_rate(row)
             
             # Determine categories
-            subcategory = self.determine_subcategory(description)
+            # Use current_subcategory for sections 2 and 4, otherwise determine from description
+            if (309 <= row_idx <= 345) or (689 <= row_idx <= 806):
+                subcategory = current_subcategory
+            else:
+                subcategory = self.determine_subcategory(description)
+            
             work_type = self.determine_work_type(description, subcategory)
             
             # Generate keywords
             keywords = self.generate_keywords(description, subcategory)
             
             # Get cell references
-            excel_ref = self.get_cell_reference(row_idx, 0)
-            rate_cell_ref = None
-            rate_value = None
-            
-            # Find rate cell reference
-            for col_idx in range(3, min(7, len(row))):
-                if pd.notna(row[col_idx]):
-                    try:
-                        value = float(str(row[col_idx]).replace(',', '').replace('£', ''))
-                        if value > 0:
-                            rate_cell_ref = self.get_cell_reference(row_idx, col_idx)
-                            rate_value = value
-                            break
-                    except:
-                        continue
+            excel_ref = f"Services!{self.get_cell_reference(row_idx, 0)}"
             
             # Create item
             item = {
                 'id': f"SV{current_id:04d}",
-                'code': code if code else f"SV{current_id:04d}",
+                'code': code,  # Use actual code from Excel
                 'original_code': code,
                 'description': description,
                 'unit': unit,
