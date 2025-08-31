@@ -1,0 +1,62 @@
+PRICELIST COMBINED SUMMARY REPORT
+============================================================
+Generated: 2025-09-01 00:21:28
+
+OVERALL STATISTICS
+----------------------------------------
+Total items: 6085
+Items with rates: 6003 (98.7%)
+Rate range: £0.11 - £989288.40
+Average rate: £1472.27
+Median rate: £96.76
+
+ITEMS BY CATEGORY
+----------------------------------------
+Drainage               2057 items ( 33.8%)
+RC works               1409 items ( 23.2%)
+External Works          914 items ( 15.0%)
+Groundworks             893 items ( 14.7%)
+Services                650 items ( 10.7%)
+Underpinning            162 items (  2.7%)
+
+TOP 20 SUBCATEGORIES
+----------------------------------------
+Pipework                          948 items
+General Drainage                  678 items
+General Services                  418 items
+Formwork; Basic Finish            396 items
+Manholes                          291 items
+Sundries                          200 items
+Paving                            197 items
+Excavation                        185 items
+Groundworks                       142 items
+Kerbs & Edgings                   136 items
+Plumbing Works                    126 items
+Street Furniture                  101 items
+Plain Concrete FND2                93 items
+Manholes, chambers, etc - Component measure     84 items
+Pre-cast Concrete & twin wall units     82 items
+Attendance                         77 items
+Joints                             76 items
+Gullies                            69 items
+Concrete unformed finishes         69 items
+Clay Heave & Gas Venting           64 items
+
+UNIT DISTRIBUTION
+----------------------------------------
+m            2911 items ( 47.8%)
+m2           1136 items ( 18.7%)
+m3            725 items ( 11.9%)
+nr            713 items ( 11.7%)
+item          501 items (  8.2%)
+tonnes         37 items (  0.6%)
+m³             26 items (  0.4%)
+kg             17 items (  0.3%)
+kw              6 items (  0.1%)
+mm              3 items (  0.0%)
+week            3 items (  0.0%)
+Twinwall pipe; perforated      2 items (  0.0%)
+day             2 items (  0.0%)
+Twinwall perforated      1 items (  0.0%)
+hour            1 items (  0.0%)
+sum             1 items (  0.0%)
