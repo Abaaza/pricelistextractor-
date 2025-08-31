@@ -61,16 +61,16 @@ class ExternalWorksExtractor(BaseExtractor):
                 continue
                 
             # Look for patterns that indicate a data row
-            # Groundworks typically has: Code | Description | Unit | Rate columns
+            # External Works typically has: Code | Description | Unit | Rate columns
             
             # Check if first column might be a code
             code_col = row[0] if 0 < len(row) else None
             if pd.notna(code_col):
                 code_str = str(code_col).strip()
-                # Groundworks codes often start with numbers or specific prefixes
+                # External Works codes often start with numbers or specific prefixes
                 if (re.match(r'^\d+', code_str) or 
                     re.match(r'^[A-Z]\d+', code_str) or
-                    re.match(r'^GW', code_str, re.I)):
+                    re.match(r'^EW', code_str, re.I)):
                     data_rows.append(idx)
                     continue
             
@@ -79,11 +79,11 @@ class ExternalWorksExtractor(BaseExtractor):
                 cell = row[col_idx]
                 if pd.notna(cell):
                     cell_str = str(cell).strip().lower()
-                    # Groundworks keywords
+                    # External Works keywords
                     if any(keyword in cell_str for keyword in 
-                           ['excavat', 'fill', 'disposal', 'earthwork', 'trench', 
-                            'foundation', 'hardcore', 'topsoil', 'subsoil', 'rock',
-                            'compact', 'level', 'grade', 'strip', 'cart away']):
+                           ['paving', 'kerb', 'edging', 'fence', 'gate', 
+                            'tarmac', 'asphalt', 'concrete', 'block', 'slab',
+                            'drainage', 'channel', 'gulley', 'bollard', 'signage']):
                         data_rows.append(idx)
                         break
         
@@ -100,33 +100,30 @@ class ExternalWorksExtractor(BaseExtractor):
         return None
     
     def extract_description(self, row, start_col=1):
-        """Extract and clean description"""
+        """Extract and clean description from columns B and C primarily"""
         description_parts = []
         
-        # Collect description from multiple columns if needed
-        for col_idx in range(start_col, min(start_col + 3, len(row))):
-            if pd.notna(row[col_idx]):
-                part = str(row[col_idx]).strip()
-                # Skip if it's a number (likely rate) or unit
-                if not re.match(r'^[\d,\.]+$', part) and not self.is_unit(part):
-                    description_parts.append(part)
+        # Column B (index 1) is usually the main description
+        if len(row) > 1 and pd.notna(row[1]):
+            desc = str(row[1]).strip()
+            if desc and not self.is_unit(desc):
+                description_parts.append(desc)
+        
+        # Column C (index 2) might have continuation or additional info
+        if len(row) > 2 and pd.notna(row[2]):
+            part = str(row[2]).strip()
+            # Only add if it's not a unit and not a number
+            if part and not self.is_unit(part) and not re.match(r'^[\d,\.]+$', part):
+                description_parts.append(part)
         
         description = ' '.join(description_parts)
         
-        # Clean and expand abbreviations specific to groundworks
+        # Clean common abbreviations
         replacements = {
-            ' exc ': ' excavation ',
             ' ne ': ' not exceeding ',
             ' n.e. ': ' not exceeding ',
-            ' disp ': ' disposal ',
-            ' fdn ': ' foundation ',
-            ' u/s ': ' underside ',
-            ' c/away': ' cart away',
             ' incl ': ' including ',
             ' excl ': ' excluding ',
-            ' approx ': ' approximately ',
-            ' max ': ' maximum ',
-            ' min ': ' minimum ',
             ' thk ': ' thick ',
             ' dp ': ' deep ',
             ' w ': ' wide ',
@@ -135,12 +132,10 @@ class ExternalWorksExtractor(BaseExtractor):
         
         for old, new in replacements.items():
             description = description.replace(old, new)
-            description = description.replace(old.upper(), new)
         
-        # Fix patterns like "150thk" -> "150mm thick"
+        # Fix patterns
         description = re.sub(r'(\d+)thk', r'\1mm thick', description)
         description = re.sub(r'(\d+)dp', r'\1m deep', description)
-        description = re.sub(r'(\d+)w\b', r'\1m wide', description)
         
         # Clean up spaces
         description = ' '.join(description.split())
@@ -159,30 +154,41 @@ class ExternalWorksExtractor(BaseExtractor):
         
         return value_str in units
     
-    def extract_unit(self, row, expected_col=None):
-        """Extract unit from row"""
-        # Try expected column first
-        if expected_col is not None and expected_col < len(row):
-            if pd.notna(row[expected_col]):
-                value = str(row[expected_col]).strip()
-                if self.is_unit(value):
-                    return self.standardize_unit(value)
+    def extract_unit(self, row):
+        """Extract unit from row - primarily column E (index 4)"""
+        # Check column E first (index 4) - this is the primary unit column
+        if len(row) > 4 and pd.notna(row[4]):
+            value = str(row[4]).strip()
+            if self.is_unit(value):
+                return self.standardize_unit(value)
         
-        # Search for unit in other columns
-        for col_idx in range(2, min(6, len(row))):
-            if pd.notna(row[col_idx]):
+        # Then check columns C and D as fallback
+        for col_idx in [2, 3]:
+            if col_idx < len(row) and pd.notna(row[col_idx]):
                 value = str(row[col_idx]).strip()
                 if self.is_unit(value):
                     return self.standardize_unit(value)
         
-        # Infer from description
-        return self.infer_unit_from_description(row)
+        # Infer from description if not found
+        desc = self.extract_description(row)
+        desc_lower = desc.lower()
+        
+        if any(word in desc_lower for word in ['paving', 'surfacing', 'tarmac']):
+            return 'm2'
+        elif any(word in desc_lower for word in ['kerb', 'edging', 'channel']):
+            return 'm'
+        elif any(word in desc_lower for word in ['bollard', 'sign', 'gate', 'post']):
+            return 'nr'
+        elif 'fence' in desc_lower or 'fencing' in desc_lower:
+            return 'm'
+        
+        return 'item'
     
     def standardize_unit(self, unit):
         """Standardize unit format"""
         unit_map = {
-            'm2': 'm²', 'sqm': 'm²', 'sq.m': 'm²',
-            'm3': 'm³', 'cum': 'm³', 'cu.m': 'm³',
+            'm2': 'm2', 'sqm': 'm2', 'm²': 'm2',
+            'm3': 'm3', 'cum': 'm3', 'm³': 'm3',
             'no': 'nr', 'no.': 'nr', 'each': 'nr',
             't': 'tonnes', 'tonne': 'tonnes',
             'lm': 'm', 'lin.m': 'm', 'l.m': 'm',
