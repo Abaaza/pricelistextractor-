@@ -14,21 +14,19 @@ import re
 
 @dataclass
 class DrainageItem:
-    """Schema matching the complete pricelist structure"""
-    id: str
+    """Schema matching the standard pricelist structure"""
+    id: int
     code: str
-    original_code: str
     description: str
     unit: str
     category: str
     subcategory: str
-    work_type: str
     rate: Optional[float] = 0.0
-    cellRate_reference: Optional[str] = None
+    cellRate_reference: Optional[str] = ''
     cellRate_rate: Optional[float] = 0.0
     excelCellReference: Optional[str] = None
     sourceSheetName: str = "Drainage"
-    keywords: Optional[str] = None
+    keywords: Optional[str] = ''
 
 class DrainageExtractor:
     """Extract drainage items with range-based descriptions"""
@@ -114,7 +112,7 @@ class DrainageExtractor:
             if pattern in description.lower():
                 keywords.append(pattern)
         
-        return '|'.join(keywords[:8])  # Limit to 8 keywords
+        return ','.join(keywords[:8])  # Limit to 8 keywords
     
     def extract_items(self):
         """Extract all drainage items with combined descriptions"""
@@ -172,8 +170,8 @@ class DrainageExtractor:
             full_description = full_description.replace(';;', ';')    # Remove double semicolons
             
             # Generate item ID and code
-            item_id = f"DR_{item_counter:04d}_Drainage"
-            code = f"DR{item_counter:04d}"
+            item_id = item_counter  # Simple numeric ID
+            code = str(item_code)  # Use actual Excel code
             
             # Get rate from column O (column 15)
             rate_value = self.worksheet.cell(row=row, column=15).value
@@ -193,9 +191,8 @@ class DrainageExtractor:
             # Get cell reference for the item
             cell_ref = f"Drainage!{get_column_letter(1)}{row}"
             
-            # Determine subcategory and work type
+            # Determine subcategory
             subcategory = self.determine_subcategory(full_description)
-            work_type = "Drainage Works"
             
             # Extract keywords
             keywords = self.extract_keywords(full_description)
@@ -204,15 +201,13 @@ class DrainageExtractor:
             item = DrainageItem(
                 id=item_id,
                 code=code,
-                original_code=str(item_code),
                 description=full_description,
                 unit=unit,
                 category="Drainage",
                 subcategory=subcategory,
-                work_type=work_type,
                 rate=rate,
-                cellRate_reference=rate_cell_ref,
-                cellRate_rate=rate,
+                cellRate_reference=rate_cell_ref if rate_cell_ref else '',
+                cellRate_rate=rate if rate else 0.0,
                 excelCellReference=cell_ref,
                 sourceSheetName="Drainage",
                 keywords=keywords
