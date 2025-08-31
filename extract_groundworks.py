@@ -112,9 +112,10 @@ class GroundworksExtractor(BaseExtractor):
             if col_idx < len(row) and pd.notna(row[col_idx]):
                 value = str(row[col_idx]).strip()
                 if self.is_unit(value):
-                    # Standardize unit format
+                    # Standardize unit format - using plain text for compatibility
                     unit_map = {
-                        'm2': 'm²', 'sqm': 'm²', 'm3': 'm³', 'cum': 'm³',
+                        'm2': 'm2', 'sqm': 'm2', 'm²': 'm2',
+                        'm3': 'm3', 'cum': 'm3', 'm³': 'm3',
                         'no': 'nr', 'no.': 'nr', 'each': 'nr'
                     }
                     return unit_map.get(value.lower(), value)
@@ -125,12 +126,12 @@ class GroundworksExtractor(BaseExtractor):
         
         if any(word in desc_lower for word in ['excavat', 'disposal', 'fill']):
             if 'surface' in desc_lower or 'strip' in desc_lower:
-                return 'm²'
-            return 'm³'
+                return 'm2'
+            return 'm3'
         elif 'trench' in desc_lower or 'drain' in desc_lower:
             return 'm'
         elif 'area' in desc_lower or 'slab' in desc_lower:
-            return 'm²'
+            return 'm2'
         
         return 'item'
     

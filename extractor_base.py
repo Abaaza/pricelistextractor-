@@ -71,13 +71,13 @@ class BaseExtractor:
         return value_str in units
     
     def standardize_unit(self, unit):
-        """Standardize unit format"""
+        """Standardize unit format - using plain text for better compatibility"""
         if not unit:
             return 'item'
             
         unit_map = {
-            'm2': 'm²', 'sqm': 'm²', 'sq.m': 'm²', 'sq m': 'm²',
-            'm3': 'm³', 'cum': 'm³', 'cu.m': 'm³', 'cu m': 'm³',
+            'm2': 'm2', 'sqm': 'm2', 'sq.m': 'm2', 'sq m': 'm2', 'm²': 'm2',
+            'm3': 'm3', 'cum': 'm3', 'cu.m': 'm3', 'cu m': 'm3', 'm³': 'm3',
             'no': 'nr', 'no.': 'nr', 'each': 'nr', 'number': 'nr',
             't': 'tonnes', 'ton': 'tonnes', 'tonne': 'tonnes',
             'lm': 'm', 'lin.m': 'm', 'l.m': 'm', 'lin m': 'm',
