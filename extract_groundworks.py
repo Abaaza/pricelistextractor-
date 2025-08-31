@@ -200,8 +200,8 @@ class GroundworksExtractor(BaseExtractor):
         for row_idx in range(start_row, len(self.df)):
             row = self.df.iloc[row_idx]
             
-            # Skip if row is mostly empty
-            if row.notna().sum() < 2:
+            # Skip if row is completely empty (but allow single-cell rows for potential headers)
+            if row.notna().sum() < 1:
                 continue
             
             # Check if this row is bold (potential subcategory header)
