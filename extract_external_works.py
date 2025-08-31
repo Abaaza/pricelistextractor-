@@ -5,6 +5,7 @@ Handles the specific structure and format of the External Works pricelist
 
 from extractor_base import BaseExtractor
 import pandas as pd
+import json
 import re
 from openpyxl import load_workbook
 
@@ -197,28 +198,11 @@ class ExternalWorksExtractor(BaseExtractor):
         unit_lower = unit.lower()
         return unit_map.get(unit_lower, unit_lower)
     
-    def infer_unit_from_description(self, row):
-        """Infer unit from description content"""
-        desc = self.extract_description(row)
-        desc_lower = desc.lower()
-        
-        # Groundworks specific patterns
-        if any(word in desc_lower for word in ['excavat', 'disposal', 'fill', 'earthwork']):
-            if 'surface' in desc_lower or 'strip' in desc_lower:
-                return 'm²'
-            return 'm³'
-        elif any(word in desc_lower for word in ['trench', 'drain', 'edge', 'kerb']):
-            return 'm'
-        elif any(word in desc_lower for word in ['area', 'slab', 'bed']):
-            return 'm²'
-        elif any(word in desc_lower for word in ['volume', 'bulk', 'mass']):
-            return 'm³'
-        
-        return 'item'
     
-    def extract_rate(self, row, start_col=3):
-        """Extract rate value"""
-        for col_idx in range(start_col, min(start_col + 4, len(row))):
+    def extract_rate(self, row):
+        """Extract rate value and column index"""
+        # Look for rate in typical columns (starting from column F/index 5)
+        for col_idx in range(5, min(15, len(row))):
             if pd.notna(row[col_idx]):
                 value = str(row[col_idx]).strip()
                 # Check if it's a number
@@ -226,80 +210,49 @@ class ExternalWorksExtractor(BaseExtractor):
                 try:
                     rate = float(value_clean)
                     if rate > 0:  # Valid rate
-                        return rate
+                        return rate, col_idx
                 except:
                     continue
-        return None
+        return None, None
     
-    def get_cell_reference(self, row_idx, col_idx):
-        """Convert row and column index to Excel cell reference"""
-        if col_idx < 26:
-            col_letter = string.ascii_uppercase[col_idx]
-        else:
-            col_letter = string.ascii_uppercase[col_idx // 26 - 1] + string.ascii_uppercase[col_idx % 26]
-        
-        return f"{col_letter}{row_idx + 1}"
     
     def determine_subcategory(self, description):
         """Determine subcategory based on description"""
         desc_lower = description.lower()
         
-        # Groundworks subcategories
-        if 'excavat' in desc_lower:
-            if 'reduced level' in desc_lower:
-                return 'Reduced Level Excavation'
-            elif 'foundation' in desc_lower or 'fdn' in desc_lower:
-                return 'Foundation Excavation'
-            elif 'trench' in desc_lower:
-                return 'Trench Excavation'
-            elif 'basement' in desc_lower:
-                return 'Basement Excavation'
+        # External Works subcategories
+        if 'paving' in desc_lower or 'paved' in desc_lower:
+            if 'block' in desc_lower:
+                return 'Block Paving'
+            elif 'slab' in desc_lower:
+                return 'Slab Paving'
             else:
-                return 'General Excavation'
-        elif 'fill' in desc_lower:
-            if 'hardcore' in desc_lower:
-                return 'Hardcore Filling'
-            elif 'selected' in desc_lower:
-                return 'Selected Fill'
-            elif 'imported' in desc_lower:
-                return 'Imported Fill'
-            else:
-                return 'General Filling'
-        elif 'disposal' in desc_lower or 'cart away' in desc_lower:
-            return 'Disposal'
-        elif 'compact' in desc_lower:
-            return 'Compaction'
-        elif 'level' in desc_lower or 'grade' in desc_lower:
-            return 'Leveling and Grading'
-        elif 'surface' in desc_lower or 'strip' in desc_lower:
-            return 'Surface Preparation'
-        elif 'rock' in desc_lower:
-            return 'Rock Excavation'
-        elif 'support' in desc_lower or 'shore' in desc_lower:
-            return 'Earthwork Support'
+                return 'Paving'
+        elif 'kerb' in desc_lower:
+            return 'Kerbs and Edging'
+        elif 'edging' in desc_lower:
+            return 'Kerbs and Edging'
+        elif 'fence' in desc_lower or 'fencing' in desc_lower:
+            return 'Fencing'
+        elif 'gate' in desc_lower:
+            return 'Gates and Barriers'
+        elif 'tarmac' in desc_lower or 'asphalt' in desc_lower:
+            return 'Tarmac and Asphalt'
+        elif 'concrete' in desc_lower:
+            return 'Concrete Works'
+        elif 'drainage' in desc_lower or 'gulley' in desc_lower or 'channel' in desc_lower:
+            return 'Surface Drainage'
+        elif 'bollard' in desc_lower:
+            return 'Street Furniture'
+        elif 'sign' in desc_lower or 'signage' in desc_lower:
+            return 'Signage'
+        elif 'marking' in desc_lower or 'line' in desc_lower:
+            return 'Road Markings'
         else:
-            return 'General Groundworks'
+            return 'External Works'
     
-    def determine_work_type(self, description, subcategory):
-        """Determine work type"""
-        desc_lower = description.lower()
-        
-        if 'excavat' in desc_lower:
-            return 'Excavation'
-        elif 'fill' in desc_lower:
-            return 'Filling'
-        elif 'disposal' in desc_lower:
-            return 'Disposal'
-        elif 'compact' in desc_lower:
-            return 'Compaction'
-        elif 'level' in desc_lower or 'grade' in desc_lower:
-            return 'Site Preparation'
-        elif 'support' in desc_lower:
-            return 'Temporary Works'
-        else:
-            return 'Groundworks'
     
-    def generate_keywords(self, description, subcategory):
+    def generate_keywords(self, description):
         """Generate search keywords"""
         keywords = []
         desc_lower = description.lower()
@@ -308,109 +261,164 @@ class ExternalWorksExtractor(BaseExtractor):
         measurements = re.findall(r'\d+(?:mm|m|kg|tonnes?)\b', desc_lower)
         keywords.extend(measurements[:2])
         
-        # Extract depths
-        depths = re.findall(r'(?:ne|not exceeding)\s*(\d+)m?\b', desc_lower)
-        for depth in depths[:1]:
-            keywords.append(f"depth_{depth}m")
-        
-        # Key groundworks terms
-        terms = ['excavation', 'filling', 'disposal', 'hardcore', 'topsoil', 
-                 'foundation', 'trench', 'basement', 'rock', 'compact']
+        # Key External Works terms
+        terms = ['paving', 'kerb', 'edging', 'fence', 'gate', 
+                 'tarmac', 'asphalt', 'concrete', 'bollard', 'drainage']
         
         for term in terms:
             if term in desc_lower:
                 keywords.append(term)
         
-        # Add subcategory keyword
-        if subcategory:
-            keywords.append(subcategory.lower().replace(' ', '_'))
+        return keywords[:5]
+    
+    def create_item(self, row_idx, row, code, description, unit, subcategory, rate, rate_col_idx, keywords, current_id):
+        """Create an item dictionary with proper formatting"""
+        # Get cell references
+        excel_ref = self.get_sheet_cell_reference(row_idx, 0)  # Reference to code cell
+        rate_cell_ref = ''
+        rate_value = 0.0
         
-        # Limit and remove duplicates
-        seen = set()
-        unique_keywords = []
-        for kw in keywords:
-            if kw not in seen:
-                seen.add(kw)
-                unique_keywords.append(kw)
+        if rate and rate_col_idx is not None:
+            rate_cell_ref = self.get_sheet_cell_reference(row_idx, rate_col_idx)
+            rate_value = rate
         
-        return unique_keywords[:6]
+        # Create item matching Groundworks format
+        item = {
+            'id': current_id,  # Simple numeric ID
+            'code': code if code else str(current_id),
+            'description': description,
+            'unit': unit,
+            'category': 'External Works',
+            'subcategory': subcategory,
+            'rate': rate if rate else 0.0,
+            'cellRate_reference': rate_cell_ref,
+            'cellRate_rate': rate_value,
+            'excelCellReference': excel_ref,
+            'sourceSheetName': self.sheet_name,
+            'keywords': ','.join(keywords) if keywords else ''
+        }
+        
+        return item
     
     def extract_items(self):
-        """Main extraction method"""
+        """Main extraction method with bold subcategory detection"""
         if self.df is None:
             self.load_sheet()
         
+        # Load workbook for formatting detection
+        self.load_workbook_for_formatting()
+        
         print(f"\nExtracting items from {self.sheet_name}...")
-        data_rows = self.identify_data_rows()
-        print(f"Found {len(data_rows)} potential data rows")
+        print(f"Starting from row 10...")
         
         items = []
-        current_id = 1
+        current_subcategory = 'External Works'  # Default subcategory
+        rows_processed = 0
+        rows_skipped = 0
         
-        for row_idx in data_rows:
+        # Process all rows starting from row 10
+        start_row = 9  # Row 10 in Excel (0-indexed)
+        
+        for row_idx in range(start_row, len(self.df)):
             row = self.df.iloc[row_idx]
             
-            # Extract basic fields
+            # Skip if row is completely empty
+            if row.notna().sum() < 1:
+                continue
+            
+            # Check if this row is bold (potential subcategory header)
+            if self.is_row_bold(row_idx):
+                # Extract text from the row to use as subcategory
+                subcategory_text = ''
+                for col_idx in range(min(5, len(row))):
+                    if pd.notna(row[col_idx]):
+                        text = str(row[col_idx]).strip()
+                        if text and not self.is_unit(text):
+                            subcategory_text = text
+                            break
+                
+                if subcategory_text:
+                    current_subcategory = subcategory_text
+                    print(f"Found subcategory at row {row_idx + 1}: {current_subcategory}")
+                    continue  # Skip this row as it's a header
+            
+            # Check if this is a data row
+            first_col = row[0] if 0 < len(row) else None
+            second_col = row[1] if len(row) > 1 else None
+            
+            # Skip if column A is empty
+            if pd.isna(first_col):
+                continue
+                
+            # Skip if column B is empty or too short
+            if pd.isna(second_col):
+                continue
+                
+            first_str = str(first_col).strip()
+            second_str = str(second_col).strip()
+            
+            # Skip if column A has nothing meaningful
+            if not first_str or first_str.lower() in ['', 'nan', 'none']:
+                continue
+                
+            # Skip if column B is too short to be a description
+            if len(second_str) < 5:
+                continue
+                
+            # Skip if column B is just a unit
+            if self.is_unit(second_str):
+                continue
+            
+            rows_processed += 1
+            
+            # Extract code (actual Excel value)
             code = self.extract_code(row)
+            
+            # Extract description
             description = self.extract_description(row)
             
             # Skip if no valid description
-            if not description or len(description) < 10:
+            if not description or len(description) < 5:
+                rows_skipped += 1
                 continue
             
+            # Extract unit
             unit = self.extract_unit(row)
-            rate = self.extract_rate(row)
             
-            # Determine categories
-            subcategory = self.determine_subcategory(description)
-            work_type = self.determine_work_type(description, subcategory)
+            # Extract rate and column index
+            rate, rate_col_idx = self.extract_rate(row)
+            
+            # Use current subcategory (from bold header) or determine from keywords as fallback
+            if current_subcategory and current_subcategory != 'External Works':
+                subcategory = current_subcategory
+            else:
+                subcategory = self.determine_subcategory(description)
             
             # Generate keywords
-            keywords = self.generate_keywords(description, subcategory)
+            keywords = self.generate_keywords(description)
             
-            # Get cell references
-            excel_ref = self.get_cell_reference(row_idx, 0)  # Reference to code cell
-            rate_cell_ref = None
-            rate_value = None
-            
-            # Find rate cell reference
-            for col_idx in range(3, min(7, len(row))):
-                if pd.notna(row[col_idx]):
-                    try:
-                        value = float(str(row[col_idx]).replace(',', '').replace('£', ''))
-                        if value > 0:
-                            rate_cell_ref = self.get_cell_reference(row_idx, col_idx)
-                            rate_value = value
-                            break
-                    except:
-                        continue
-            
-            # Create item
-            item = {
-                'id': f"GW{current_id:04d}",
-                'code': code if code else f"GW{current_id:04d}",
-                'original_code': code,
-                'description': description,
-                'unit': unit,
-                'category': 'Groundworks',
-                'subcategory': subcategory,
-                'work_type': work_type,
-                'rate': rate,
-                'cellRate_reference': rate_cell_ref,
-                'cellRate_rate': rate_value,
-                'excelCellReference': excel_ref,
-                'sourceSheetName': self.sheet_name,
-                'keywords': keywords
-            }
+            # Create item with actual code
+            item = self.create_item(
+                row_idx=row_idx,
+                row=row,
+                code=code,
+                description=description,
+                unit=unit,
+                subcategory=subcategory,
+                rate=rate,
+                rate_col_idx=rate_col_idx,
+                keywords=keywords,
+                current_id=len(items) + 1
+            )
             
             items.append(item)
-            current_id += 1
         
         self.extracted_items = items
+        print(f"Processed {rows_processed} rows, skipped {rows_skipped} due to short descriptions")
         print(f"Extracted {len(items)} valid items from {self.sheet_name}")
         return items
     
-    def save_output(self, output_prefix='groundworks'):
+    def save_output(self, output_prefix='external_works'):
         """Save extracted data"""
         if not self.extracted_items:
             print("No items to save")
@@ -424,7 +432,7 @@ class ExternalWorksExtractor(BaseExtractor):
         
         # Save CSV
         df = pd.DataFrame(self.extracted_items)
-        df['keywords'] = df['keywords'].apply(lambda x: '|'.join(x) if x else '')
+        # Keywords are already formatted as comma-separated strings
         csv_file = f"{output_prefix}_extracted.csv"
         df.to_csv(csv_file, index=False)
         print(f"Saved CSV: {csv_file}")
