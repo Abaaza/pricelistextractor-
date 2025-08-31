@@ -1,0 +1,312 @@
+id,code,original_code,description,unit,category,subcategory,work_type,rate,cellRate_reference,cellRate_rate,excelCellReference,sourceSheetName,keywords
+SV0001,198,198,EO service trenches for hand excavation,m³,Services,General Services,Excavation,,,,A310,Services,general_services
+SV0002,199,199,EO exc exploratory trench to locate existing service,m³,Services,General Services,Services Works,,,,A311,Services,general_services
+SV0003,200,200,EO trenches for breaking out existing tarmac road surface & reinstating on completion,m³,Services,General Services,Services Works,,,,A312,Services,general_services
+SV0004,201,201,EO drain trenches for breaking out existing tarmac road surface & reinstating on completion; provisional,m³,Services,General Services,Services Works,,,,A313,Services,general_services
+SV0005,202,202,EO drain trenches for breaking out existing tarmac footpath surface & reinstating on completion; provisional,m³,Services,General Services,Services Works,,,,A314,Services,general_services
+SV0006,203,203,EO trenches for covering with road plates,m³,Services,General Services,Services Works,,,,A315,Services,general_services
+SV0007,204,204,EO trenches for breaking out underground obstructions; reinforced concrete,m³,Services,General Services,Services Works,,,,A316,Services,general_services
+SV0008,205,205,EO trenches for breaking out underground obstructions; plain concrete,m³,Services,General Services,Services Works,,,,A317,Services,general_services
+SV0009,206,206,EO trenches for breaking out underground obstructions; rock,m³,Services,General Services,Services Works,,,,A318,Services,general_services
+SV0010,207,207,EO trenches for breaking out underground obstructions; brickwork,m³,Services,General Services,Services Works,,,,A319,Services,general_services
+SV0011,208,208,EO trenches for excavating by hand around existing services,m³,Services,General Services,Services Works,,,,A320,Services,general_services
+SV0012,209,209,EO trenches for vacuum excavation,m³,Services,General Services,Excavation,,,,A321,Services,general_services
+SV0013,210,210,Vacuum excavation; 1 day visit (27m3 max),m³,Services,General Services,Excavation,,,,A322,Services,general_services
+SV0014,211,211,EO trenches for attending M&E contractor installing pipework in trenches,m,Services,Plumbing Works,Installation,,,,A323,Services,pipe|plumbing_works
+SV0015,212,212,EO excs for exc below grd water level (prov),item,Services,Plumbing Works,Services Works,,,,A324,Services,plumbing_works
+SV0016,213,213,EO excs for exc next to extg services (prov),item,Services,General Services,Services Works,,,,A325,Services,general_services
+SV0017,214,214,EO excs for exc around extg services crossing trench (prov),m³,Services,General Services,Services Works,,,,A326,Services,general_services
+SV0018,215,215,EO for dewatering; surface & ground water; generally,item,Services,Plumbing Works,Services Works,,,,A327,Services,plumbing_works
+SV0019,216,216,EO disposal of arisings from trenches for non hazardous material (prov),m³,Services,General Services,Services Works,,,,A328,Services,general_services
+SV0020,217,217,EO disposal of arisings from trenches for hazardous material (prov),m³,Services,General Services,Services Works,,,,A329,Services,general_services
+SV0021,218,218,EO for warning tape,item,Services,General Services,Services Works,,,,A330,Services,general_services
+SV0022,219,219,EO for metal/magnetic warning tape,item,Services,General Services,Services Works,,,,A331,Services,general_services
+SV0023,220,220,EO for cable protection tile,m,Services,Cables and Wiring,Services Works,,,,A332,Services,cable|cables_and_wiring
+SV0024,221,221,EO for draw cord,item,Services,General Services,Services Works,,,,A333,Services,general_services
+SV0025,222,222,EO service trenches for attendance on others laying pipes and leave trenches open whilst services are installed,m,Services,Plumbing Works,Installation,,,,A334,Services,pipe|plumbing_works
+SV0026,223,223,EO service trenches for excavating extra space for jointing pit at pipe joints,m,Services,Plumbing Works,Services Works,,,,A335,Services,pipe|plumbing_works
+SV0027,224,224,Attendance item; offload and distribute pipes for District Heating installer,m,Services,Plumbing Works,Installation,,,,A336,Services,pipe|plumbing_works
+SV0028,223,223,"EO trenches, backfill, beds, surrounds & pipes to Project Specification for works to specification suitable for adoption",m,Services,Plumbing Works,Services Works,,,,A339,Services,pipe|plumbing_works
+SV0029,224,224,Installing heras fencing / barriers around open trenches,m³,Services,General Services,Installation,,,,A340,Services,general_services
+SV0030,225,225,Installing road plates over open trenches,m³,Services,General Services,Installation,,,,A341,Services,general_services
+SV0031,226,226,Traffic management scheme,item,Services,General Services,Services Works,,,,A342,Services,general_services
+SV0032,227,227,Pedestrian management scheme,item,Services,General Services,Services Works,,,,A343,Services,general_services
+SV0033,228,228,"Apply, obtain & install partial road closure",item,Services,General Services,Installation,,,,A344,Services,general_services
+SV0034,229,229,"Apply, obtain & install road closure",item,Services,General Services,Installation,,,,A345,Services,general_services
+SV0035,230,230,Licences/Fees/Liason with Statutory Authorities,item,Services,General Services,Services Works,,,,A346,Services,general_services
+SV0036,232,232,2nr services in 1 trench; 600x400,m³,Services,General Services,Services Works,,,,A350,Services,general_services
+SV0037,233,233,3-4nr services in 1 trench; 600x550,m³,Services,General Services,Services Works,,,,A351,Services,general_services
+SV0038,234,234,5-6nr services in 1 trench; 750x550,m³,Services,General Services,Services Works,,,,A352,Services,general_services
+SV0039,235,235,7-8nr services in 1 trench; 950x550,m³,Services,General Services,Services Works,,,,A353,Services,general_services
+SV0040,236,236,9nr services in 1 trench; 750x750,m³,Services,General Services,Services Works,,,,A354,Services,general_services
+SV0041,237,237,10-12nr services in 1 trench; 950x750,m³,Services,General Services,Services Works,,,,A355,Services,general_services
+SV0042,238,238,13-15nr services in 1 trench; 1150x750,m³,Services,General Services,Services Works,,,,A356,Services,general_services
+SV0043,239,239,8nr services in 1 trench; laid flat; 3200x600,m³,Services,General Services,Services Works,,,,A357,Services,general_services
+SV0044,248,248,Sand bed & surround; various,item,Services,General Services,Services Works,,,,A366,Services,general_services
+SV0045,259,259,100mm diameter,nr,Services,General Services,Services Works,,,,A382,Services,100mm|general_services
+SV0046,260,260,150mm diameter,nr,Services,General Services,Services Works,,,,A383,Services,150mm|general_services
+SV0047,261,261,225mm diameter,nr,Services,General Services,Services Works,,,,A384,Services,225mm|general_services
+SV0048,262,262,300mm diameter,nr,Services,General Services,Services Works,,,,A385,Services,300mm|general_services
+SV0049,262,262,50mm diameter,nr,Services,General Services,Services Works,,,,A387,Services,50mm|general_services
+SV0050,263,263,63mm diameter,nr,Services,General Services,Services Works,,,,A388,Services,63mm|general_services
+SV0051,264,264,80mm diameter,nr,Services,General Services,Services Works,,,,A389,Services,80mm|general_services
+SV0052,265,265,90mm diameter,nr,Services,General Services,Services Works,,,,A390,Services,90mm|general_services
+SV0053,266,266,110mm diameter,nr,Services,General Services,Services Works,,,,A391,Services,110mm|general_services
+SV0054,267,267,110mm diameter; lay only free issue,nr,Services,General Services,Services Works,,,,A392,Services,110mm|general_services
+SV0055,268,268,125mm diameter,nr,Services,General Services,Services Works,,,,A393,Services,125mm|general_services
+SV0056,269,269,125mm diameter,nr,Services,General Services,Services Works,,,,A394,Services,125mm|general_services
+SV0057,270,270,160mm diameter,nr,Services,General Services,Services Works,,,,A395,Services,160mm|general_services
+SV0058,271,271,200mm diameter,nr,Services,General Services,Services Works,,,,A396,Services,200mm|general_services
+SV0059,272,272,250mm diameter,nr,Services,General Services,Services Works,,,,A397,Services,250mm|general_services
+SV0060,273,273,315mm diameter,nr,Services,General Services,Services Works,,,,A398,Services,315mm|general_services
+SV0061,274,274,400mm diameter,nr,Services,General Services,Services Works,,,,A399,Services,400mm|general_services
+SV0062,275,275,100mm diameter,nr,Services,General Services,Services Works,,,,A401,Services,100mm|general_services
+SV0063,276,276,150mm diameter,nr,Services,General Services,Services Works,,,,A402,Services,150mm|general_services
+SV0064,277,277,250mm diameter,nr,Services,General Services,Services Works,,,,A403,Services,250mm|general_services
+SV0065,278,278,20mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A406,Services,20mm|pipe|plumbing_works
+SV0066,279,279,20mm diameter; elbow,nr,Services,General Services,Services Works,,,,A407,Services,20mm|general_services
+SV0067,280,280,20x20mm tee,item,Services,General Services,Services Works,,,,A408,Services,general_services
+SV0068,281,281,25mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A410,Services,25mm|pipe|plumbing_works
+SV0069,282,282,25mm diameter; elbow,nr,Services,General Services,Services Works,,,,A411,Services,25mm|general_services
+SV0070,283,283,25x25mm tee,item,Services,General Services,Services Works,,,,A412,Services,general_services
+SV0071,284,284,25 to 20 reducer,item,Services,General Services,Services Works,,,,A413,Services,general_services
+SV0072,285,285,25mm long radius entry including duct through substructure,m,Services,General Services,Services Works,,,,A414,Services,general_services
+SV0073,286,286,32mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A416,Services,32mm|pipe|plumbing_works
+SV0074,287,287,32mm diameter; elbow,nr,Services,General Services,Services Works,,,,A417,Services,32mm|general_services
+SV0075,288,288,32x32mm tee,item,Services,General Services,Services Works,,,,A418,Services,general_services
+SV0076,289,289,32x25mm tee,item,Services,General Services,Services Works,,,,A419,Services,general_services
+SV0077,290,290,32 to 25 reducer,item,Services,General Services,Services Works,,,,A420,Services,general_services
+SV0078,291,291,50mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A422,Services,50mm|pipe|plumbing_works
+SV0079,292,292,50mm diameter; elbow,nr,Services,General Services,Services Works,,,,A423,Services,50mm|general_services
+SV0080,293,293,50x50mm tee,item,Services,General Services,Services Works,,,,A424,Services,general_services
+SV0081,294,294,50x32mm tee,item,Services,General Services,Services Works,,,,A425,Services,general_services
+SV0082,295,295,50 to 32 reducer,item,Services,General Services,Services Works,,,,A426,Services,general_services
+SV0083,296,296,63mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A428,Services,63mm|pipe|plumbing_works
+SV0084,297,297,63mm diameter; elbow,nr,Services,General Services,Services Works,,,,A429,Services,63mm|general_services
+SV0085,298,298,63x63mm tee,item,Services,General Services,Services Works,,,,A430,Services,general_services
+SV0086,299,299,63x50/32/25mm tee,item,Services,General Services,Services Works,,,,A431,Services,general_services
+SV0087,300,300,63 to 50 reducer,item,Services,General Services,Services Works,,,,A432,Services,general_services
+SV0088,301,301,90mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A434,Services,90mm|pipe|plumbing_works
+SV0089,302,302,90mm diameter; elbow,nr,Services,General Services,Services Works,,,,A435,Services,90mm|general_services
+SV0090,303,303,90x90mm tee,item,Services,General Services,Services Works,,,,A436,Services,general_services
+SV0091,304,304,90 to 63 reducer,item,Services,General Services,Services Works,,,,A437,Services,general_services
+SV0092,305,305,90mm diameter; SV stop valve,nr,Services,General Services,Services Works,,,,A438,Services,90mm|valve|general_services
+SV0093,306,306,110mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A440,Services,110mm|pipe|plumbing_works
+SV0094,307,307,110mm diameter; elbow,nr,Services,General Services,Services Works,,,,A441,Services,110mm|general_services
+SV0095,308,308,110x110mm tee,item,Services,General Services,Services Works,,,,A442,Services,general_services
+SV0096,309,309,110 to 90 reducer,item,Services,General Services,Services Works,,,,A443,Services,general_services
+SV0097,310,310,125mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A445,Services,125mm|pipe|plumbing_works
+SV0098,311,311,125mm diameter; elbow,nr,Services,General Services,Services Works,,,,A446,Services,125mm|general_services
+SV0099,312,312,125x125mm tee,item,Services,General Services,Services Works,,,,A447,Services,general_services
+SV0100,313,313,125 to 110 reducer,item,Services,General Services,Services Works,,,,A448,Services,general_services
+SV0101,314,314,125mm diameter; SV stop valve,nr,Services,General Services,Services Works,,,,A449,Services,125mm|valve|general_services
+SV0102,315,315,160mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A451,Services,160mm|pipe|plumbing_works
+SV0103,316,316,160mm diameter; bend,nr,Services,General Services,Services Works,,,,A452,Services,160mm|general_services
+SV0104,317,317,160x50/32/25mm tee,item,Services,General Services,Services Works,,,,A453,Services,general_services
+SV0105,318,318,160 to 110 reducer,item,Services,General Services,Services Works,,,,A454,Services,general_services
+SV0106,319,319,25mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A457,Services,25mm|pipe|plumbing_works
+SV0107,320,320,25mm diametermeter bend,nr,Services,General Services,Services Works,,,,A458,Services,25mm|general_services
+SV0108,321,321,25mm diametermeter equal branch,nr,Services,General Services,Services Works,,,,A459,Services,25mm|general_services
+SV0109,322,322,25mm diametermeter gate valve,nr,Services,General Services,Services Works,,,,A460,Services,25mm|valve|general_services
+SV0110,323,323,32mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A462,Services,32mm|pipe|plumbing_works
+SV0111,324,324,32mm diametermeter bend,nr,Services,General Services,Services Works,,,,A463,Services,32mm|general_services
+SV0112,325,325,32mm diametermeter equal branch,nr,Services,General Services,Services Works,,,,A464,Services,32mm|general_services
+SV0113,326,326,32mm diametermeter gate valve,nr,Services,General Services,Services Works,,,,A465,Services,32mm|valve|general_services
+SV0114,327,327,42mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A467,Services,42mm|pipe|plumbing_works
+SV0115,328,328,50mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A468,Services,50mm|pipe|plumbing_works
+SV0116,329,329,63mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A470,Services,63mm|pipe|plumbing_works
+SV0117,330,330,63mm diametermeter bend,nr,Services,General Services,Services Works,,,,A471,Services,63mm|general_services
+SV0118,331,331,63mm diametermeter equal branch,nr,Services,General Services,Services Works,,,,A472,Services,63mm|general_services
+SV0119,332,332,63 diameter gate valve,nr,Services,General Services,Services Works,,,,A473,Services,valve|general_services
+SV0120,333,333,90mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A475,Services,90mm|pipe|plumbing_works
+SV0121,334,334,90mm diametermeter bend,nr,Services,General Services,Services Works,,,,A476,Services,90mm|general_services
+SV0122,335,335,90mm diametermeter equal branch,nr,Services,General Services,Services Works,,,,A477,Services,90mm|general_services
+SV0123,336,336,90mm diameter gate valve,nr,Services,General Services,Services Works,,,,A478,Services,90mm|valve|general_services
+SV0124,333,333,100mm diametermeter pipe,m,Services,Plumbing Works,Services Works,,,,A480,Services,100mm|pipe|plumbing_works
+SV0125,334,334,100mm diameter; bend,nr,Services,General Services,Services Works,,,,A483,Services,100mm|general_services
+SV0126,335,335,100mm diameter; rocker,nr,Services,General Services,Services Works,,,,A484,Services,100mm|general_services
+SV0127,336,336,100mm diameter; vertical pipework; inc conc surround,m,Services,Plumbing Works,Services Works,,,,A485,Services,100mm|pipe|plumbing_works
+SV0128,337,337,100x100 branch,item,Services,General Services,Services Works,,,,A486,Services,general_services
+SV0129,338,338,150mm diameter; bend,nr,Services,General Services,Services Works,,,,A487,Services,150mm|general_services
+SV0130,339,339,150mm diameter; rocker,nr,Services,General Services,Services Works,,,,A488,Services,150mm|general_services
+SV0131,340,340,150x100 branch,item,Services,General Services,Services Works,,,,A489,Services,general_services
+SV0132,341,341,150x150 branch,item,Services,General Services,Services Works,,,,A490,Services,general_services
+SV0133,342,342,150mm diameter; vertical pipework; inc conc surround,m,Services,Plumbing Works,Services Works,,,,A491,Services,150mm|pipe|plumbing_works
+SV0134,343,343,225mm diameter; bend,nr,Services,General Services,Services Works,,,,A492,Services,225mm|general_services
+SV0135,344,344,225mm diameter; rest bend,nr,Services,General Services,Services Works,,,,A493,Services,225mm|general_services
+SV0136,345,345,225mm diameter; rocker,nr,Services,General Services,Services Works,,,,A494,Services,225mm|general_services
+SV0137,346,346,225x100/150 branch,item,Services,General Services,Services Works,,,,A495,Services,general_services
+SV0138,347,347,225x225 branch,item,Services,General Services,Services Works,,,,A496,Services,general_services
+SV0139,348,348,80mm diametermeter rising main with mechanical joints; class C - 9bar rating; bend,nr,Services,General Services,Services Works,,,,A499,Services,80mm|general_services
+SV0140,349,349,80mm diametermeter rising main with mechanical joints; class C - 9bar rating; coupling to plain end/termination,nr,Services,General Services,Connection,,,,A500,Services,80mm|general_services
+SV0141,350,350,50mm diameter; bend,nr,Services,General Services,Services Works,,,,A501,Services,50mm|general_services
+SV0142,351,351,63mm diameter; bend,nr,Services,General Services,Services Works,,,,A502,Services,63mm|general_services
+SV0143,352,352,80mm diameter; bend,nr,Services,General Services,Services Works,,,,A503,Services,80mm|general_services
+SV0144,353,353,100mm diameter; bend,nr,Services,General Services,Services Works,,,,A504,Services,100mm|general_services
+SV0145,354,354,100mm diameter; bend; lay only free issue,nr,Services,General Services,Services Works,,,,A505,Services,100mm|general_services
+SV0146,355,355,100mm diameter; long radius bend,nr,Services,General Services,Services Works,,,,A506,Services,100mm|general_services
+SV0147,356,356,100mm diameter; rest bend,nr,Services,General Services,Services Works,,,,A507,Services,100mm|general_services
+SV0148,357,357,100mm diameter; rocker,nr,Services,General Services,Services Works,,,,A508,Services,100mm|general_services
+SV0149,358,358,100mm diameter; vertical pipework; inc conc surround,m,Services,Plumbing Works,Services Works,,,,A509,Services,100mm|pipe|plumbing_works
+SV0150,359,359,100x100 branch,item,Services,General Services,Services Works,,,,A510,Services,general_services
+SV0151,360,360,125mm diameter; bend,nr,Services,General Services,Services Works,,,,A511,Services,125mm|general_services
+SV0152,361,361,125mm diameter; long radius bend,nr,Services,General Services,Services Works,,,,A512,Services,125mm|general_services
+SV0153,362,362,125mm diameter; rocker,nr,Services,General Services,Services Works,,,,A513,Services,125mm|general_services
+SV0154,363,363,160mm diameter; bend,nr,Services,General Services,Services Works,,,,A514,Services,160mm|general_services
+SV0155,364,364,160mm diameter; long radius bend,nr,Services,General Services,Services Works,,,,A515,Services,160mm|general_services
+SV0156,365,365,160mm diameter; rest bend,nr,Services,General Services,Services Works,,,,A516,Services,160mm|general_services
+SV0157,366,366,160mm diameter; rocker,nr,Services,General Services,Services Works,,,,A517,Services,160mm|general_services
+SV0158,367,367,160x100 branch,item,Services,General Services,Services Works,,,,A518,Services,general_services
+SV0159,368,368,160x160 branch,item,Services,General Services,Services Works,,,,A519,Services,general_services
+SV0160,369,369,160mm diameter; vertical pipework; inc conc surround,m,Services,Plumbing Works,Services Works,,,,A520,Services,160mm|pipe|plumbing_works
+SV0161,370,370,200mm diameter; bend,nr,Services,General Services,Services Works,,,,A521,Services,200mm|general_services
+SV0162,371,371,200mm diameter; rocker,nr,Services,General Services,Services Works,,,,A522,Services,200mm|general_services
+SV0163,372,372,200x100/160 branch,item,Services,General Services,Services Works,,,,A523,Services,general_services
+SV0164,373,373,200x200 branch,item,Services,General Services,Services Works,,,,A524,Services,general_services
+SV0165,374,374,250mm diameter; bend,nr,Services,General Services,Services Works,,,,A525,Services,250mm|general_services
+SV0166,375,375,250mm diameter; rocker,nr,Services,General Services,Services Works,,,,A526,Services,250mm|general_services
+SV0167,376,376,250x100/160 branch,item,Services,General Services,Services Works,,,,A527,Services,general_services
+SV0168,377,377,250x250 branch,item,Services,General Services,Services Works,,,,A528,Services,general_services
+SV0169,378,378,100mm diameter; bend,nr,Services,General Services,Services Works,,,,A530,Services,100mm|general_services
+SV0170,379,379,100mm diameter; rest bend,nr,Services,General Services,Services Works,,,,A531,Services,100mm|general_services
+SV0171,380,380,100mm diameter; rocker,nr,Services,General Services,Services Works,,,,A532,Services,100mm|general_services
+SV0172,381,381,100mm diameter; vertical pipework; inc conc surround,m,Services,Plumbing Works,Services Works,,,,A533,Services,100mm|pipe|plumbing_works
+SV0173,382,382,100x100 branch,item,Services,General Services,Services Works,,,,A534,Services,general_services
+SV0174,383,383,150mm diameter; bend,nr,Services,General Services,Services Works,,,,A535,Services,150mm|general_services
+SV0175,384,384,150mm diameter; rest bend,nr,Services,General Services,Services Works,,,,A536,Services,150mm|general_services
+SV0176,385,385,150mm diameter; rocker,nr,Services,General Services,Services Works,,,,A537,Services,150mm|general_services
+SV0177,386,386,150x100 branch,item,Services,General Services,Services Works,,,,A538,Services,general_services
+SV0178,387,387,150x150 branch,item,Services,General Services,Services Works,,,,A539,Services,general_services
+SV0179,388,388,150mm diameter; vertical pipework; inc conc surround,m,Services,Plumbing Works,Services Works,,,,A540,Services,150mm|pipe|plumbing_works
+SV0180,389,389,250mm diameter; bend,nr,Services,General Services,Services Works,,,,A541,Services,250mm|general_services
+SV0181,390,390,250mm diameter; rocker,nr,Services,General Services,Services Works,,,,A542,Services,250mm|general_services
+SV0182,391,391,250x250 branch,item,Services,General Services,Services Works,,,,A543,Services,general_services
+SV0183,392,392,"0.50m deep trench b/fill wi SEM, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,Services Works,,,,A546,Services,pvc|general_services
+SV0184,393,393,"0.75m deep trench b/fill wi SEM, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,Services Works,,,,A547,Services,pvc|general_services
+SV0185,394,394,"1.0m deep trench b/fill wi SEM, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,Services Works,,,,A548,Services,pvc|general_services
+SV0186,395,395,"0.50m deep trench b/fill wi 6F2, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,Services Works,,,,A549,Services,pvc|general_services
+SV0187,396,396,"0.75m deep trench b/fill wi 6F2, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,Services Works,,,,A550,Services,pvc|general_services
+SV0188,397,397,"1.0m deep trench b/fill wi 6F2, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,Services Works,,,,A551,Services,pvc|general_services
+SV0189,398,398,"0.75m deep trench b/fill wi SEM, pipe ne 100 diameter by others, sand B&S & warning tape",m,Services,Plumbing Works,Services Works,,,,A553,Services,pipe|plumbing_works
+SV0190,399,399,"1.0m deep trench b/fill wi SEM, pipe ne 100 diameter by others, sand B&S & warning tape",m,Services,Plumbing Works,Services Works,,,,A554,Services,pipe|plumbing_works
+SV0191,400,400,"0.75m deep trench b/fill wi 6F2, pipe ne 100 diameter by others, sand B&S & warning tape",m,Services,Plumbing Works,Services Works,,,,A555,Services,pipe|plumbing_works
+SV0192,401,401,"1.00m deep trench b/fill wi 6F2, pipe ne 100 diameter by others, sand B&S & warning tape",m,Services,Plumbing Works,Services Works,,,,A556,Services,pipe|plumbing_works
+SV0193,401,401,Instal only Lighting Bollard,nr,Services,General Services,Services Works,,,,A581,Services,light|general_services
+SV0194,402,402,Instal only Lamp column,item,Services,General Services,Services Works,,,,A582,Services,general_services
+SV0195,403,403,Instal only Feeder Pillars,item,Services,General Services,Services Works,,,,A583,Services,general_services
+SV0196,404,404,Temporary marker posts,item,Services,General Services,Services Works,,,,A584,Services,general_services
+SV0197,413,413,EO for B125 cover & frame,item,Services,General Services,Services Works,,,,A596,Services,general_services
+SV0198,SV0198,,UPVC Draw pit/valve pit/fire hydrant pit; 600x600mm; A15 C&F; depth to invert:-,nr,Services,Fire Protection,Services Works,,,,A597,Services,pvc|valve|fire_protection
+SV0199,418,418,EO for C250 cover & frame,item,Services,General Services,Services Works,,,,A602,Services,general_services
+SV0200,419,419,EO for D400 cover & frame,item,Services,General Services,Services Works,,,,A603,Services,general_services
+SV0201,SV0201,,Fix only free issue UPVC Draw pit/valve pit/fire hydrant pit; 450x600mm; A15 C&F; depth to invert:-,nr,Services,Fire Protection,Services Works,,,,A604,Services,pvc|valve|fire_protection
+SV0202,SV0202,,UPVC Draw pit/valve pit/fire hydrant pit; 600x750mm; A15 C&F; depth to invert:-,nr,Services,Fire Protection,Services Works,,,,A609,Services,pvc|valve|fire_protection
+SV0203,SV0203,,UPVC Draw pit/valve pit/fire hydrant pit; 600x1000mm; A15 C&F; depth to invert:-,nr,Services,Fire Protection,Services Works,,,,A614,Services,pvc|valve|fire_protection
+SV0204,SV0204,,"RC cable trench, PC concrete base and sides; D400 cover",m,Services,Cables and Wiring,Services Works,,,,A634,Services,cable|cables_and_wiring
+SV0205,441,441,1000 wde x 500 dp,item,Services,General Services,Services Works,,,,A635,Services,general_services
+SV0206,488,488,Excavate pits; ne 1m dp,item,Services,General Services,Services Works,,,,A691,Services,general_services
+SV0207,489,489,Excavate pits; ne 2m dp,item,Services,General Services,Services Works,,,,A692,Services,general_services
+SV0208,490,490,Excavate pits; ne 4m dp,item,Services,General Services,Services Works,,,,A693,Services,general_services
+SV0209,491,491,Excavate pits; ne 6m dp,item,Services,General Services,Services Works,,,,A694,Services,general_services
+SV0210,492,492,Excavate pits; ne 8m dp,item,Services,General Services,Services Works,,,,A695,Services,general_services
+SV0211,493,493,EO exc for break out concrete,item,Services,General Services,Services Works,,,,A696,Services,general_services
+SV0212,494,494,EO exc for break out tarmac; 150mm thk,item,Services,General Services,Services Works,,,,A697,Services,general_services
+SV0213,495,495,Dispose of arisings off site,item,Services,General Services,Services Works,,,,A698,Services,general_services
+SV0214,496,496,EWS; ne 1m dp,item,Services,General Services,Services Works,,,,A699,Services,general_services
+SV0215,497,497,EWS; ne 2m dp,item,Services,General Services,Services Works,,,,A700,Services,general_services
+SV0216,498,498,EWS; ne 4m dp,item,Services,General Services,Services Works,,,,A701,Services,general_services
+SV0217,499,499,EWS; ne 6m dp,item,Services,General Services,Services Works,,,,A702,Services,general_services
+SV0218,500,500,EWS; ne 8m dp,item,Services,General Services,Services Works,,,,A703,Services,general_services
+SV0219,501,501,Working space; backfill with SEM,item,Services,General Services,Services Works,,,,A704,Services,general_services
+SV0220,502,502,Working space; backfill with type 1,item,Services,General Services,Services Works,,,,A705,Services,general_services
+SV0221,503,503,L&C bottom of excavation,m³,Services,General Services,Excavation,,,,A706,Services,general_services
+SV0222,504,504,GEN1 blinding; 50mm thk,item,Services,General Services,Services Works,,,,A707,Services,general_services
+SV0223,505,505,GEN1 blinding; 50mm thk,item,Services,General Services,Services Works,,,,A708,Services,general_services
+SV0224,506,506,Pln concrete bed; 150-450mm thk,item,Services,General Services,Services Works,,,,A709,Services,general_services
+SV0225,507,507,Watertight conc in in-situ base slab; C40 Pudlo,item,Services,Plumbing Works,Services Works,,,,A710,Services,plumbing_works
+SV0226,508,508,Formwork; edge of bed; ne 250mm; curved,item,Services,General Services,Services Works,,,,A711,Services,general_services
+SV0227,509,509,Formwork; edge of bed; 250-500mm,item,Services,General Services,Services Works,,,,A712,Services,general_services
+SV0228,510,510,Reinforcement; in base slab; allow 150kg/m3,item,Services,General Services,Services Works,,,,A713,Services,general_services
+SV0229,511,511,Surface finishes; tamp finish,item,Services,General Services,Services Works,,,,A714,Services,general_services
+SV0230,512,512,Benching; 1050 dia,item,Services,General Services,Services Works,,,,A715,Services,general_services
+SV0231,513,513,Benching; 1200 dia,item,Services,General Services,Services Works,,,,A716,Services,general_services
+SV0232,514,514,Benching; 1500 dia,item,Services,General Services,Services Works,,,,A717,Services,general_services
+SV0233,515,515,Benching; 1800 dia,item,Services,General Services,Services Works,,,,A718,Services,general_services
+SV0234,516,516,Benching; 2100 dia,item,Services,General Services,Services Works,,,,A719,Services,general_services
+SV0235,517,517,Manhole rings; 900 dia,item,Services,General Services,Services Works,,,,A720,Services,general_services
+SV0236,518,518,Manhole rings; 1050 dia,item,Services,General Services,Services Works,,,,A721,Services,general_services
+SV0237,519,519,Manhole rings; 1200 dia,item,Services,General Services,Services Works,,,,A722,Services,general_services
+SV0238,520,520,Manhole rings; 1500 dia,item,Services,General Services,Services Works,,,,A723,Services,general_services
+SV0239,521,521,Manhole rings; 1800 dia,item,Services,General Services,Services Works,,,,A724,Services,general_services
+SV0240,522,522,Manhole rings; 2100 dia,item,Services,General Services,Services Works,,,,A725,Services,general_services
+SV0241,523,523,Manhole rings; 2400 dia,item,Services,General Services,Services Works,,,,A726,Services,general_services
+SV0242,524,524,Manhole rings; 2700 dia,item,Services,General Services,Services Works,,,,A727,Services,general_services
+SV0243,525,525,Manhole rings; 3000 dia,item,Services,General Services,Services Works,,,,A728,Services,general_services
+SV0244,526,526,Caisson rings; 3600 dia,item,Services,General Services,Services Works,,,,A729,Services,general_services
+SV0245,527,527,Caisson rings; 4000 dia,item,Services,General Services,Services Works,,,,A730,Services,general_services
+SV0246,528,528,Cover slabs; 900 dia,item,Services,General Services,Services Works,,,,A731,Services,general_services
+SV0247,529,529,Cover slabs; 1050 dia,item,Services,General Services,Services Works,,,,A732,Services,general_services
+SV0248,530,530,Cover slabs; 1200 dia,item,Services,General Services,Services Works,,,,A733,Services,general_services
+SV0249,531,531,Cover slabs; 1500 dia,item,Services,General Services,Services Works,,,,A734,Services,general_services
+SV0250,532,532,Cover slabs; 1800 dia,item,Services,General Services,Services Works,,,,A735,Services,general_services
+SV0251,533,533,Cover slabs; 2100 dia,item,Services,General Services,Services Works,,,,A736,Services,general_services
+SV0252,534,534,Cover slabs; 2400 dia,item,Services,General Services,Services Works,,,,A737,Services,general_services
+SV0253,535,535,Cover slabs; 2700 dia,item,Services,General Services,Services Works,,,,A738,Services,general_services
+SV0254,536,536,Cover slabs; 3000 dia,item,Services,General Services,Services Works,,,,A739,Services,general_services
+SV0255,537,537,Cover slabs; 3600 dia,item,Services,General Services,Services Works,,,,A740,Services,general_services
+SV0256,538,538,Cover slabs; 4000 dia,item,Services,General Services,Services Works,,,,A741,Services,general_services
+SV0257,539,539,Main channel; 100 dia,item,Services,General Services,Services Works,,,,A742,Services,general_services
+SV0258,540,540,Main channel; 150 dia,item,Services,General Services,Services Works,,,,A743,Services,general_services
+SV0259,541,541,Main channel; 225 dia,item,Services,General Services,Services Works,,,,A744,Services,general_services
+SV0260,542,542,Main channel; 300 dia,item,Services,General Services,Services Works,,,,A745,Services,general_services
+SV0261,543,543,Main channel; 450 dia,item,Services,General Services,Services Works,,,,A746,Services,general_services
+SV0262,544,544,Branch bends; 100 dia,item,Services,General Services,Services Works,,,,A747,Services,general_services
+SV0263,545,545,Branch bends; 150 dia,item,Services,General Services,Services Works,,,,A748,Services,general_services
+SV0264,546,546,Branch bends; 225 dia,item,Services,General Services,Services Works,,,,A749,Services,general_services
+SV0265,547,547,Brickwork; engineering bricks; 1B thick in c.m.,kw,Services,General Services,Services Works,,,,A750,Services,general_services
+SV0266,548,548,Watertight conc in in-situ walls; C40 Pudlo,item,Services,Plumbing Works,Services Works,,,,A751,Services,plumbing_works
+SV0267,549,549,Formwork to MH walls,item,Services,General Services,Services Works,,,,A752,Services,general_services
+SV0268,550,550,Reinforcement; in walls; allow 200kg/m3,item,Services,General Services,Services Works,,,,A753,Services,general_services
+SV0269,551,551,Watertight concrete in cover slab; C40 Pudlo,item,Services,Plumbing Works,Services Works,,,,A754,Services,plumbing_works
+SV0270,552,552,Formwork to soffit of cover slab,item,Services,General Services,Services Works,,,,A755,Services,general_services
+SV0271,553,553,Form opening in slab; slab 250-500; opening 2-3m gth,item,Services,General Services,Services Works,,,,A756,Services,general_services
+SV0272,554,554,Form rebate to suit C&F; 2-3m girth,item,Services,General Services,Services Works,,,,A757,Services,general_services
+SV0273,555,555,Build in ends of pipe; 100 dia,m,Services,Plumbing Works,Services Works,,,,A758,Services,pipe|plumbing_works
+SV0274,556,556,Build in ends of pipe; 150 dia,m,Services,Plumbing Works,Services Works,,,,A759,Services,pipe|plumbing_works
+SV0275,557,557,Build in ends of pipe; 225 dia,m,Services,Plumbing Works,Services Works,,,,A760,Services,pipe|plumbing_works
+SV0276,558,558,Build in ends of pipe; 300 dia,m,Services,Plumbing Works,Services Works,,,,A761,Services,pipe|plumbing_works
+SV0277,559,559,Build in ends of pipe; 450 dia,m,Services,Plumbing Works,Services Works,,,,A762,Services,pipe|plumbing_works
+SV0278,560,560,Step irons; built into brickwork,kw,Services,General Services,Services Works,,,,A763,Services,general_services
+SV0279,561,561,Step irons; built into pre-cast manhole sections,item,Services,General Services,Services Works,,,,A764,Services,general_services
+SV0280,562,562,EO for steel ladder in lieu of step irons,item,Services,General Services,Services Works,,,,A765,Services,steel|general_services
+SV0281,563,563,Concrete surround; 150-450mm thk,item,Services,General Services,Services Works,,,,A766,Services,general_services
+SV0282,564,564,Formwork; to concrete surround; curved,item,Services,General Services,Services Works,,,,A767,Services,general_services
+SV0283,565,565,Fill with SEM,item,Services,General Services,Services Works,,,,A768,Services,general_services
+SV0284,566,566,Imported granular fill; type 1,item,Services,General Services,Services Works,,,,A769,Services,general_services
+SV0285,567,567,L&C surface of fill,item,Services,General Services,Services Works,,,,A770,Services,general_services
+SV0286,568,568,Brickwork kerb; 225mm high; eng bricks; 1B thick in c.m.,kw,Services,General Services,Services Works,,,,A771,Services,general_services
+SV0287,569,569,A15 cover & frame; 600x600/450; inc 3 courses of brickwork,kw,Services,General Services,Services Works,,,,A772,Services,general_services
+SV0288,570,570,B125 cover & frame; 600x600/450; inc 3 courses of brickwork,kw,Services,General Services,Services Works,,,,A773,Services,general_services
+SV0289,571,571,D400 cover & frame; 600x600/450; inc 3 courses of brickwork,kw,Services,General Services,Services Works,,,,A774,Services,general_services
+SV0290,572,572,"Supply and install Harton Pod 7500 (Groundworks and concrete surround meas sep); including exc, C/A, EWS, W/S, conc, fwk, rebar, chambers, C&Fs, sump pump discharge, vent pipe, etc; Commission on completion",m,Services,Plumbing Works,Installation,,,,A777,Services,pipe|pump|plumbing_works
+SV0291,573,573,Supply and install Harton Pod 7500 (Groundworks and concrete surround meas sep); grdwks meas sep; Commission on completion,item,Services,General Services,Installation,,,,A778,Services,general_services
+SV0292,574,574,M& E connections and supplies to Harton Pod (meas sep),item,Services,General Services,Connection,,,,A779,Services,general_services
+SV0293,575,575,Servicing and maintenance of Harton Pod,item,Services,General Services,Maintenance,,,,A780,Services,general_services
+SV0294,576,576,Attendance on installation team; maintain open trenches,m³,Services,General Services,Installation,,,,A783,Services,general_services
+SV0295,577,577,Full road closure,item,Services,General Services,Services Works,,,,A786,Services,general_services
+SV0296,578,578,Partial road closure,item,Services,General Services,Services Works,,,,A787,Services,general_services
+SV0297,579,579,"Traffic diversion submission & licence, inc liase with Stats, design, proposal & approval/permission, RAMS, fees, etc",item,Services,General Services,Services Works,,,,A789,Services,general_services
+SV0298,580,580,"Pedestrian diversion submission & license, inc liase with Stats, design, proposal & approval/permissions, RAMS, fees, etc",item,Services,General Services,Services Works,,,,A790,Services,general_services
+SV0299,581,581,"Install traffic management measures, inc lights, signs, lights, notices, etc",nr,Services,General Services,Installation,,,,A791,Services,light|general_services
+SV0300,582,582,"Heras fencing, inc erect, adapt and dismantle on completion",item,Services,General Services,Services Works,,,,A793,Services,general_services
+SV0301,583,583,Pedestrian barriers,item,Services,General Services,Services Works,,,,A794,Services,general_services
+SV0302,584,584,Jersey blocks,item,Services,General Services,Services Works,,,,A795,Services,general_services
+SV0303,585,585,Road plates,item,Services,General Services,Services Works,,,,A796,Services,general_services
+SV0304,586,586,Survey existing services,item,Services,General Services,Services Works,,,,A799,Services,general_services
+SV0305,587,587,Chlorination cleaning of water system,item,Services,Plumbing Works,Services Works,,,,A800,Services,plumbing_works
+SV0306,588,588,Hydraulic testing of water main,sum,Services,Plumbing Works,Testing,,,,A801,Services,plumbing_works
+SV0307,589,589,CCTV survey,item,Services,General Services,Services Works,,,,A802,Services,general_services
+SV0308,590,590,Dispose of ground water,item,Services,Plumbing Works,Services Works,,,,A803,Services,plumbing_works
+SV0309,592,592,Test drains,item,Services,General Services,Services Works,,,,A805,Services,general_services
+SV0310,593,593,Re-test drains on completion,item,Services,General Services,Services Works,,,,A806,Services,general_services
+SV0311,594,594,CCTV survey,item,Services,General Services,Services Works,,,,A807,Services,general_services
