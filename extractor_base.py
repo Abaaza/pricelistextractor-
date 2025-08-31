@@ -36,7 +36,9 @@ class BaseExtractor:
     def get_sheet_cell_reference(self, row_idx, col_idx):
         """Get full cell reference with sheet name (e.g., 'Groundworks!F20')"""
         cell_ref = self.get_cell_reference(row_idx, col_idx)
-        return f"{self.sheet_name}!{cell_ref}"
+        # Remove spaces from sheet name for reference
+        sheet_name_ref = self.sheet_name.replace(' ', '')
+        return f"{sheet_name_ref}!{cell_ref}"
     
     def extract_code(self, row, col_idx=0):
         """Extract code from row - tries to get actual Excel code"""

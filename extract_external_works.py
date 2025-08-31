@@ -1,20 +1,47 @@
 """
 Extraction script for External Works sheet
 Handles the specific structure and format of the External Works pricelist
+Self-contained version without external dependencies
 """
 
-from extractor_base import BaseExtractor
 import pandas as pd
 import json
 import re
+import string
 from openpyxl import load_workbook
 
-class ExternalWorksExtractor(BaseExtractor):
+class ExternalWorksExtractor:
     def __init__(self, excel_file='MJD-PRICELIST.xlsx'):
-        super().__init__(excel_file, 'External Works')
+        self.excel_file = excel_file
+        self.sheet_name = 'External Works'
+        self.df = None
+        self.extracted_items = []
         self.workbook = None
         self.worksheet = None
         self.current_subcategory = 'External Works'  # Default subcategory
+    
+    def load_sheet(self):
+        """Load the sheet"""
+        print(f"Loading {self.sheet_name} sheet...")
+        self.df = pd.read_excel(self.excel_file, sheet_name=self.sheet_name, header=None)
+        print(f"Loaded {len(self.df)} rows x {len(self.df.columns)} columns")
+        return self.df
+    
+    def get_cell_reference(self, row_idx, col_idx):
+        """Convert row and column index to Excel cell reference"""
+        if col_idx < 26:
+            col_letter = string.ascii_uppercase[col_idx]
+        else:
+            col_letter = string.ascii_uppercase[col_idx // 26 - 1] + string.ascii_uppercase[col_idx % 26]
+        
+        return f"{col_letter}{row_idx + 1}"
+    
+    def get_sheet_cell_reference(self, row_idx, col_idx):
+        """Get full cell reference with sheet name (e.g., 'ExternalWorks!F20')"""
+        cell_ref = self.get_cell_reference(row_idx, col_idx)
+        # Remove spaces from sheet name for reference
+        sheet_name_ref = self.sheet_name.replace(' ', '')
+        return f"{sheet_name_ref}!{cell_ref}"
         
     def load_workbook_for_formatting(self):
         """Load workbook with openpyxl to access formatting"""
@@ -52,51 +79,14 @@ class ExternalWorksExtractor(BaseExtractor):
         except Exception as e:
             return False
     
-    def identify_data_rows(self):
-        """Identify rows containing actual pricelist data"""
-        data_rows = []
-        
-        for idx, row in self.df.iterrows():
-            # Skip if row is mostly empty
-            if row.notna().sum() < 3:
-                continue
-                
-            # Look for patterns that indicate a data row
-            # External Works typically has: Code | Description | Unit | Rate columns
-            
-            # Check if first column might be a code
-            code_col = row[0] if 0 < len(row) else None
-            if pd.notna(code_col):
-                code_str = str(code_col).strip()
-                # External Works codes often start with numbers or specific prefixes
-                if (re.match(r'^\d+', code_str) or 
-                    re.match(r'^[A-Z]\d+', code_str) or
-                    re.match(r'^EW', code_str, re.I)):
-                    data_rows.append(idx)
-                    continue
-            
-            # Check if row has description-like content
-            for col_idx in range(1, min(5, len(row))):
-                cell = row[col_idx]
-                if pd.notna(cell):
-                    cell_str = str(cell).strip().lower()
-                    # External Works keywords
-                    if any(keyword in cell_str for keyword in 
-                           ['paving', 'kerb', 'edging', 'fence', 'gate', 
-                            'tarmac', 'asphalt', 'concrete', 'block', 'slab',
-                            'drainage', 'channel', 'gulley', 'bollard', 'signage']):
-                        data_rows.append(idx)
-                        break
-        
-        return data_rows
-    
     def extract_code(self, row, col_idx=0):
-        """Extract code from row"""
+        """Extract code from row - tries to get actual Excel code"""
         if col_idx < len(row) and pd.notna(row[col_idx]):
             code = str(row[col_idx]).strip()
-            # Clean up code
-            code = re.sub(r'\s+', '', code)  # Remove spaces
-            if code and not code.lower() in ['nan', 'none', '-', '']:
+            # Clean up code but keep the actual value
+            if code and not code.lower() in ['nan', 'none', '']:
+                # Remove only excessive whitespace, keep the code as-is
+                code = ' '.join(code.split())
                 return code
         return None
     
@@ -156,19 +146,24 @@ class ExternalWorksExtractor(BaseExtractor):
         return value_str in units
     
     def extract_unit(self, row):
-        """Extract unit from row - primarily column E (index 4)"""
-        # Check column E first (index 4) - this is the primary unit column
+        """Extract unit from row - primarily column D (index 3)"""
+        # Check column D first (index 3) - this is the primary unit column
+        if len(row) > 3 and pd.notna(row[3]):
+            value = str(row[3]).strip()
+            if self.is_unit(value):
+                return self.standardize_unit(value)
+        
+        # Then check column E as fallback
         if len(row) > 4 and pd.notna(row[4]):
             value = str(row[4]).strip()
             if self.is_unit(value):
                 return self.standardize_unit(value)
         
-        # Then check columns C and D as fallback
-        for col_idx in [2, 3]:
-            if col_idx < len(row) and pd.notna(row[col_idx]):
-                value = str(row[col_idx]).strip()
-                if self.is_unit(value):
-                    return self.standardize_unit(value)
+        # Then check column C as another fallback
+        if len(row) > 2 and pd.notna(row[2]):
+            value = str(row[2]).strip()
+            if self.is_unit(value):
+                return self.standardize_unit(value)
         
         # Infer from description if not found
         desc = self.extract_description(row)
@@ -198,11 +193,10 @@ class ExternalWorksExtractor(BaseExtractor):
         unit_lower = unit.lower()
         return unit_map.get(unit_lower, unit_lower)
     
-    
     def extract_rate(self, row):
         """Extract rate value and column index"""
-        # Look for rate in typical columns (starting from column F/index 5)
-        for col_idx in range(5, min(15, len(row))):
+        # Look for rate in typical columns (starting from column E/index 4)
+        for col_idx in range(4, min(15, len(row))):
             if pd.notna(row[col_idx]):
                 value = str(row[col_idx]).strip()
                 # Check if it's a number
@@ -214,7 +208,6 @@ class ExternalWorksExtractor(BaseExtractor):
                 except:
                     continue
         return None, None
-    
     
     def determine_subcategory(self, description):
         """Determine subcategory based on description"""
@@ -250,7 +243,6 @@ class ExternalWorksExtractor(BaseExtractor):
             return 'Road Markings'
         else:
             return 'External Works'
-    
     
     def generate_keywords(self, description):
         """Generate search keywords"""
@@ -458,7 +450,7 @@ def main():
             print(f"  Subcategory: {item['subcategory']}")
             print(f"  Rate: {item['rate']}")
             print(f"  Cell Ref: {item['cellRate_reference']}")
-            print(f"  Keywords: {', '.join(item['keywords'][:3])}")
+            print(f"  Keywords: {item['keywords']}")
         
         extractor.save_output()
         

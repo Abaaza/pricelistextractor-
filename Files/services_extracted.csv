@@ -1,0 +1,651 @@
+id,code,description,unit,category,subcategory,rate,cellRate_reference,cellRate_rate,excelCellReference,sourceSheetName,keywords
+1,1,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,18.01,Services!I19,18.01,Services!A19,Services,"200mm,general_services"
+2,2,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,22.61,Services!I20,22.61,Services!A20,Services,"200mm,general_services"
+3,3,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,27.22,Services!I21,27.22,Services!A21,Services,"200mm,general_services"
+4,4,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,45.44,Services!I22,45.44,Services!A22,Services,"200mm,general_services"
+5,5,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,52.77,Services!I23,52.77,Services!A23,Services,"200mm,general_services"
+6,6,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,70.36,Services!I24,70.36,Services!A24,Services,"200mm,general_services"
+7,7,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,78.84,Services!I25,78.84,Services!A25,Services,"200mm,general_services"
+8,8,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 2 - 2.25 m,m,Services,General Services,108.26,Services!I26,108.26,Services!A26,Services,"200mm,general_services"
+9,9,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 2.25 - 2.5 m,m,Services,General Services,118.66,Services!I27,118.66,Services!A27,Services,"200mm,general_services"
+10,10,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 2.5 - 2.75 m,m,Services,General Services,129.06,Services!I28,129.06,Services!A28,Services,"200mm,general_services"
+11,11,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 2.75 - 3.0 m,m,Services,General Services,139.46,Services!I29,139.46,Services!A29,Services,"200mm,general_services"
+12,12,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 3 - 3.25 m,m,Services,General Services,264.31,Services!I30,264.31,Services!A30,Services,"200mm,general_services"
+13,13,Excavate trenches for ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 3.25 - 3.5 m,m,Services,General Services,282.39,Services!I31,282.39,Services!A31,Services,"200mm,general_services"
+14,14,Excavate trenches for 2nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,23.45,Services!I33,23.45,Services!A33,Services,"200mm,general_services"
+15,15,Excavate trenches for 2nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,30.78,Services!I34,30.78,Services!A34,Services,"200mm,general_services"
+16,16,Excavate trenches for 2nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,38.11,Services!I35,38.11,Services!A35,Services,"200mm,general_services"
+17,17,Excavate trenches for 2nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,45.44,Services!I36,45.44,Services!A36,Services,"200mm,general_services"
+18,18,Excavate trenches for 2nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,52.77,Services!I37,52.77,Services!A37,Services,"200mm,general_services"
+19,19,Excavate trenches for 2nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,101.14,Services!I38,101.14,Services!A38,Services,"200mm,general_services"
+20,20,Excavate trenches for 2nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,113.07,Services!I39,113.07,Services!A39,Services,"200mm,general_services"
+21,21,Excavate trenches for 4nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,36.96,Services!I41,36.96,Services!A41,Services,"200mm,general_services"
+22,22,Excavate trenches for 4nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,47.74,Services!I42,47.74,Services!A42,Services,"200mm,general_services"
+23,23,Excavate trenches for 4nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,58.53,Services!I43,58.53,Services!A43,Services,"200mm,general_services"
+24,24,Excavate trenches for 4nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,69.31,Services!I44,69.31,Services!A44,Services,"200mm,general_services"
+25,25,Excavate trenches for 4nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,80.1,Services!I45,80.1,Services!A45,Services,"200mm,general_services"
+26,26,Excavate trenches for 4nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,101.14,Services!I46,101.14,Services!A46,Services,"200mm,general_services"
+27,27,Excavate trenches for 4nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,113.07,Services!I47,113.07,Services!A47,Services,"200mm,general_services"
+28,28,Excavate trenches for 6nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,48.96,Services!I49,48.96,Services!A49,Services,"200mm,general_services"
+29,29,Excavate trenches for 6nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,62.82,Services!I50,62.82,Services!A50,Services,"200mm,general_services"
+30,30,Excavate trenches for 6nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,76.67,Services!I51,76.67,Services!A51,Services,"200mm,general_services"
+31,31,Excavate trenches for 6nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,90.53,Services!I52,90.53,Services!A52,Services,"200mm,general_services"
+32,32,Excavate trenches for 6nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,104.38,Services!I53,104.38,Services!A53,Services,"200mm,general_services"
+33,33,Excavate trenches for 6nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,118.24,Services!I54,118.24,Services!A54,Services,"200mm,general_services"
+34,34,Excavate trenches for 6nr ducts ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,132.09,Services!I55,132.09,Services!A55,Services,"200mm,general_services"
+35,35,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,19.4,Services!I58,19.4,Services!A58,Services,"225mm,general_services"
+36,36,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,24.01,Services!I59,24.01,Services!A59,Services,"225mm,general_services"
+37,37,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,28.62,Services!I60,28.62,Services!A60,Services,"225mm,general_services"
+38,38,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,46.84,Services!I61,46.84,Services!A61,Services,"225mm,general_services"
+39,39,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,54.17,Services!I62,54.17,Services!A62,Services,"225mm,general_services"
+40,40,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,103.94,Services!I63,103.94,Services!A63,Services,"225mm,general_services"
+41,41,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,115.87,Services!I64,115.87,Services!A64,Services,"225mm,general_services"
+42,42,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2 - 2.25 m,m,Services,General Services,127.81,Services!I65,127.81,Services!A65,Services,"225mm,general_services"
+43,43,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2.25 - 2.5 m,m,Services,General Services,139.74,Services!I66,139.74,Services!A66,Services,"225mm,general_services"
+44,44,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2.5 - 2.75 m,m,Services,General Services,151.68,Services!I67,151.68,Services!A67,Services,"225mm,general_services"
+45,45,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2.75 - 3.0 m,m,Services,General Services,163.62,Services!I68,163.62,Services!A68,Services,"225mm,general_services"
+46,46,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 3 - 3.25 m,m,Services,General Services,175.55,Services!I69,175.55,Services!A69,Services,"225mm,general_services"
+47,47,Excavate trenches for 225mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 3.25 - 3.5 m,m,Services,General Services,187.49,Services!I70,187.49,Services!A70,Services,"225mm,general_services"
+48,48,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,20.8,Services!I72,20.8,Services!A72,Services,"300mm,general_services"
+49,49,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,25.41,Services!I73,25.41,Services!A73,Services,"300mm,general_services"
+50,50,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,30.01,Services!I74,30.01,Services!A74,Services,"300mm,general_services"
+51,51,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,48.24,Services!I75,48.24,Services!A75,Services,"300mm,general_services"
+52,52,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,55.57,Services!I76,55.57,Services!A76,Services,"300mm,general_services"
+53,53,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,106.73,Services!I77,106.73,Services!A77,Services,"300mm,general_services"
+54,54,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,118.67,Services!I78,118.67,Services!A78,Services,"300mm,general_services"
+55,55,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2 - 2.25 m,m,Services,General Services,130.61,Services!I79,130.61,Services!A79,Services,"300mm,general_services"
+56,56,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2.25 - 2.5 m,m,Services,General Services,142.54,Services!I80,142.54,Services!A80,Services,"300mm,general_services"
+57,57,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2.5 - 2.75 m,m,Services,General Services,154.48,Services!I81,154.48,Services!A81,Services,"300mm,general_services"
+58,58,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2.75 - 3.0 m,m,Services,General Services,166.41,Services!I82,166.41,Services!A82,Services,"300mm,general_services"
+59,59,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 3 - 3.25 m,m,Services,General Services,178.35,Services!I83,178.35,Services!A83,Services,"300mm,general_services"
+60,60,Excavate trenches for 300mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 3.25 - 3.5 m,m,Services,General Services,190.29,Services!I84,190.29,Services!A84,Services,"300mm,general_services"
+61,61,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,29.5,Services!I86,29.5,Services!A86,Services,"450mm,general_services"
+62,62,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,35.26,Services!I87,35.26,Services!A87,Services,"450mm,general_services"
+63,63,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,41.02,Services!I88,41.02,Services!A88,Services,"450mm,general_services"
+64,64,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,60.4,Services!I89,60.4,Services!A89,Services,"450mm,general_services"
+65,65,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,68.88,Services!I90,68.88,Services!A90,Services,"450mm,general_services"
+66,66,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,112.33,Services!I91,112.33,Services!A91,Services,"450mm,general_services"
+67,67,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,124.27,Services!I92,124.27,Services!A92,Services,"450mm,general_services"
+68,68,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2 - 2.25 m,m,Services,General Services,136.2,Services!I93,136.2,Services!A93,Services,"450mm,general_services"
+69,69,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2.25 - 2.5 m,m,Services,General Services,148.14,Services!I94,148.14,Services!A94,Services,"450mm,general_services"
+70,70,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2.5 - 2.75 m,m,Services,General Services,160.08,Services!I95,160.08,Services!A95,Services,"450mm,general_services"
+71,71,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 2.75 - 3.0 m,m,Services,General Services,172.01,Services!I96,172.01,Services!A96,Services,"450mm,general_services"
+72,72,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 3 - 3.25 m,m,Services,General Services,183.95,Services!I97,183.95,Services!A97,Services,"450mm,general_services"
+73,73,Excavate trenches for 450mm dia ducts; backfill with SEM; dispose of surplus off site; depth to invert: 3.25 - 3.5 m,m,Services,General Services,195.88,Services!I98,195.88,Services!A98,Services,"450mm,general_services"
+74,74,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,Plumbing Works,39.6,Services!I100,39.6,Services!A100,Services,"600mm,pipe,plumbing_works"
+75,75,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,Plumbing Works,46.51,Services!I101,46.51,Services!A101,Services,"600mm,pipe,plumbing_works"
+76,76,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,Plumbing Works,53.42,Services!I102,53.42,Services!A102,Services,"600mm,pipe,plumbing_works"
+77,77,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,Plumbing Works,73.95,Services!I103,73.95,Services!A103,Services,"600mm,pipe,plumbing_works"
+78,78,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,Plumbing Works,83.58,Services!I104,83.58,Services!A104,Services,"600mm,pipe,plumbing_works"
+79,79,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,Plumbing Works,117.93,Services!I105,117.93,Services!A105,Services,"600mm,pipe,plumbing_works"
+80,80,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,Plumbing Works,129.86,Services!I106,129.86,Services!A106,Services,"600mm,pipe,plumbing_works"
+81,81,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 2 - 2.25 m,m,Services,Plumbing Works,141.8,Services!I107,141.8,Services!A107,Services,"600mm,pipe,plumbing_works"
+82,82,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 2.25 - 2.5 m,m,Services,Plumbing Works,153.74,Services!I108,153.74,Services!A108,Services,"600mm,pipe,plumbing_works"
+83,83,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 2.5 - 2.75 m,m,Services,Plumbing Works,165.67,Services!I109,165.67,Services!A109,Services,"600mm,pipe,plumbing_works"
+84,84,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 2.75 - 3.0 m,m,Services,Plumbing Works,177.61,Services!I110,177.61,Services!A110,Services,"600mm,pipe,plumbing_works"
+85,85,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 3 - 3.25 m,m,Services,Plumbing Works,189.54,Services!I111,189.54,Services!A111,Services,"600mm,pipe,plumbing_works"
+86,86,Excavate trenches for 600mm dia pipes; backfill with SEM; dispose of surplus off site; depth to invert: 3.25 - 3.5 m,m,Services,Plumbing Works,201.48,Services!I112,201.48,Services!A112,Services,"600mm,pipe,plumbing_works"
+87,87,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,23.99,Services!I115,23.99,Services!A115,Services,"200mm,general_services"
+88,88,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,38.56,Services!I116,38.56,Services!A116,Services,"200mm,general_services"
+89,89,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,53.13,Services!I117,53.13,Services!A117,Services,"200mm,general_services"
+90,90,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,81.33,Services!I118,81.33,Services!A118,Services,"200mm,general_services"
+91,91,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,98.63,Services!I119,98.63,Services!A119,Services,"200mm,general_services"
+92,92,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,212.79,Services!I120,212.79,Services!A120,Services,"200mm,general_services"
+93,93,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,244.66,Services!I121,244.66,Services!A121,Services,"200mm,general_services"
+94,94,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 2 - 2.25 m,m,Services,General Services,276.53,Services!I122,276.53,Services!A122,Services,"200mm,general_services"
+95,95,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 2.25 - 2.5 m,m,Services,General Services,308.4,Services!I123,308.4,Services!A123,Services,"200mm,general_services"
+96,96,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 2.5 - 2.75 m,m,Services,General Services,340.28,Services!I124,340.28,Services!A124,Services,"200mm,general_services"
+97,97,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 2.75 - 3.0 m,m,Services,General Services,372.15,Services!I125,372.15,Services!A125,Services,"200mm,general_services"
+98,98,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 3 - 3.25 m,m,Services,General Services,404.02,Services!I126,404.02,Services!A126,Services,"200mm,general_services"
+99,99,Excavate trenches for ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 3.25 - 3.5 m,m,Services,General Services,435.9,Services!I127,435.9,Services!A127,Services,"200mm,general_services"
+100,100,Excavate trenches for 2nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,29.44,Services!I129,29.44,Services!A129,Services,"200mm,general_services"
+101,101,Excavate trenches for 2nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,46.73,Services!I130,46.73,Services!A130,Services,"200mm,general_services"
+102,102,Excavate trenches for 2nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,69.93,Services!I131,69.93,Services!A131,Services,"200mm,general_services"
+103,103,Excavate trenches for 2nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,81.33,Services!I132,81.33,Services!A132,Services,"200mm,general_services"
+104,104,Excavate trenches for 2nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,104.53,Services!I133,104.53,Services!A133,Services,"200mm,general_services"
+105,105,Excavate trenches for 2nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,212.79,Services!I134,212.79,Services!A134,Services,"200mm,general_services"
+106,106,Excavate trenches for 2nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,244.66,Services!I135,244.66,Services!A135,Services,"200mm,general_services"
+107,107,Excavate trenches for 3nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,37.43,Services!I137,37.43,Services!A137,Services,"200mm,general_services"
+108,108,Excavate trenches for 3nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,59.59,Services!I138,59.59,Services!A138,Services,"200mm,general_services"
+109,109,Excavate trenches for 3nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,81.74,Services!I139,81.74,Services!A139,Services,"200mm,general_services"
+110,110,Excavate trenches for 3nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,103.9,Services!I140,103.9,Services!A140,Services,"200mm,general_services"
+111,111,Excavate trenches for 3nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,126.06,Services!I141,126.06,Services!A141,Services,"200mm,general_services"
+112,112,Excavate trenches for 3nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,212.79,Services!I142,212.79,Services!A142,Services,"200mm,general_services"
+113,113,Excavate trenches for 3nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,244.66,Services!I143,244.66,Services!A143,Services,"200mm,general_services"
+114,114,Excavate trenches for 4nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,47.42,Services!I146,47.42,Services!A146,Services,"200mm,general_services"
+115,115,Excavate trenches for 4nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,75.65,Services!I147,75.65,Services!A147,Services,"200mm,general_services"
+116,116,Excavate trenches for 4nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,103.88,Services!I148,103.88,Services!A148,Services,"200mm,general_services"
+117,117,Excavate trenches for 4nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,132.11,Services!I149,132.11,Services!A149,Services,"200mm,general_services"
+118,118,Excavate trenches for 4nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,160.34,Services!I150,160.34,Services!A150,Services,"200mm,general_services"
+119,119,Excavate trenches for 4nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,212.79,Services!I151,212.79,Services!A151,Services,"200mm,general_services"
+120,120,Excavate trenches for 4nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,244.66,Services!I152,244.66,Services!A152,Services,"200mm,general_services"
+121,121,Excavate trenches for 6nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,63.42,Services!I155,63.42,Services!A155,Services,"200mm,general_services"
+122,122,Excavate trenches for 6nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,101.36,Services!I156,101.36,Services!A156,Services,"200mm,general_services"
+123,123,Excavate trenches for 6nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,139.31,Services!I157,139.31,Services!A157,Services,"200mm,general_services"
+124,124,Excavate trenches for 6nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,177.25,Services!I158,177.25,Services!A158,Services,"200mm,general_services"
+125,125,Excavate trenches for 6nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,215.2,Services!I159,215.2,Services!A159,Services,"200mm,general_services"
+126,126,Excavate trenches for 6nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,253.14,Services!I160,253.14,Services!A160,Services,"200mm,general_services"
+127,127,Excavate trenches for 6nr ducts ne 200mm dia; backfill with 6F2; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,291.09,Services!I161,291.09,Services!A161,Services,"200mm,general_services"
+128,129,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: ne - 0.5 m,m,Services,General Services,19.6,Services!I164,19.6,Services!A164,Services,"225mm,general_services"
+129,130,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 0.5 - 0.75 m,m,Services,General Services,32.35,Services!I165,32.35,Services!A165,Services,"225mm,general_services"
+130,131,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 0.75 - 1.0 m,m,Services,General Services,45.1,Services!I166,45.1,Services!A166,Services,"225mm,general_services"
+131,132,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 1 - 1.25 m,m,Services,General Services,79.74,Services!I167,79.74,Services!A167,Services,"225mm,general_services"
+132,133,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 1.25 - 1.5 m,m,Services,General Services,97.04,Services!I168,97.04,Services!A168,Services,"225mm,general_services"
+133,134,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 1.5 - 1.75 m,m,Services,General Services,209.6,Services!I169,209.6,Services!A169,Services,"225mm,general_services"
+134,135,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 1.75 - 2.0 m,m,Services,General Services,241.48,Services!I170,241.48,Services!A170,Services,"225mm,general_services"
+135,136,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 2 - 2.25 m,m,Services,General Services,273.35,Services!I171,273.35,Services!A171,Services,"225mm,general_services"
+136,137,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 2.25 - 2.5 m,m,Services,General Services,305.22,Services!I172,305.22,Services!A172,Services,"225mm,general_services"
+137,138,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 2.5 - 2.75 m,m,Services,General Services,337.09,Services!I173,337.09,Services!A173,Services,"225mm,general_services"
+138,139,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 2.75 - 3.0 m,m,Services,General Services,368.97,Services!I174,368.97,Services!A174,Services,"225mm,general_services"
+139,140,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 3 - 3.25 m,m,Services,General Services,400.84,Services!I175,400.84,Services!A175,Services,"225mm,general_services"
+140,141,Excavate trenches for 225mm dia ducts; backfill with 6F2; dispose of surplus off site; depth to invert: 3.25 - 3.5 m,m,Services,General Services,432.71,Services!I176,432.71,Services!A176,Services,"225mm,general_services"
+141,142,Excavate trenches for multiple ducts; 750mm (3) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,33.27,Services!I179,33.27,Services!A179,Services,general_services
+142,143,Excavate trenches for multiple ducts; 750mm (3) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,54.21,Services!I180,54.21,Services!A180,Services,general_services
+143,144,Excavate trenches for multiple ducts; 750mm (3) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,75.15,Services!I181,75.15,Services!A181,Services,general_services
+144,145,Excavate trenches for multiple ducts; 750mm (3) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,96.1,Services!I182,96.1,Services!A182,Services,general_services
+145,146,Excavate trenches for multiple ducts; 750mm (3) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,117.04,Services!I183,117.04,Services!A183,Services,general_services
+146,147,Excavate trenches for multiple ducts; 750mm (3) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.5 - 1.75 m,m,Services,General Services,137.98,Services!I184,137.98,Services!A184,Services,general_services
+147,148,Excavate trenches for multiple ducts; 750mm (3) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.75 - 2.0 m,m,Services,General Services,158.92,Services!I185,158.92,Services!A185,Services,general_services
+148,149,Excavate trenches for multiple ducts; 900mm (4) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,38.83,Services!I188,38.83,Services!A188,Services,general_services
+149,150,Excavate trenches for multiple ducts; 900mm (4) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,63.42,Services!I189,63.42,Services!A189,Services,general_services
+150,151,Excavate trenches for multiple ducts; 900mm (4) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,88.0,Services!I190,88.0,Services!A190,Services,general_services
+151,152,Excavate trenches for multiple ducts; 900mm (4) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,112.59,Services!I191,112.59,Services!A191,Services,general_services
+152,153,Excavate trenches for multiple ducts; 900mm (4) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,137.18,Services!I192,137.18,Services!A192,Services,general_services
+153,154,Excavate trenches for multiple ducts; 900mm (4) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.5 - 1.75 m,m,Services,General Services,161.76,Services!I193,161.76,Services!A193,Services,general_services
+154,155,Excavate trenches for multiple ducts; 900mm (4) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.75 - 2.0 m,m,Services,General Services,186.35,Services!I194,186.35,Services!A194,Services,general_services
+155,156,Excavate trenches for multiple ducts; 1050mm (5) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,46.25,Services!I197,46.25,Services!A197,Services,general_services
+156,157,Excavate trenches for multiple ducts; 1050mm (5) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,75.69,Services!I198,75.69,Services!A198,Services,general_services
+157,158,Excavate trenches for multiple ducts; 1050mm (5) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,105.14,Services!I199,105.14,Services!A199,Services,general_services
+158,159,Excavate trenches for multiple ducts; 1050mm (5) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,134.58,Services!I200,134.58,Services!A200,Services,general_services
+159,160,Excavate trenches for multiple ducts; 1050mm (5) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,164.03,Services!I201,164.03,Services!A201,Services,general_services
+160,161,Excavate trenches for multiple ducts; 1050mm (5) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.5 - 1.75 m,m,Services,General Services,193.47,Services!I202,193.47,Services!A202,Services,general_services
+161,162,Excavate trenches for multiple ducts; 1050mm (5) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.75 - 2.0 m,m,Services,General Services,222.91,Services!I203,222.91,Services!A203,Services,general_services
+162,163,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,48.11,Services!I206,48.11,Services!A206,Services,general_services
+163,164,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,78.76,Services!I207,78.76,Services!A207,Services,general_services
+164,165,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,109.42,Services!I208,109.42,Services!A208,Services,general_services
+165,166,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,140.08,Services!I209,140.08,Services!A209,Services,general_services
+166,167,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,170.74,Services!I210,170.74,Services!A210,Services,general_services
+167,168,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.5 - 1.75 m,m,Services,General Services,201.4,Services!I211,201.4,Services!A211,Services,general_services
+168,169,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.75 - 2.0 m,m,Services,General Services,232.06,Services!I212,232.06,Services!A212,Services,general_services
+169,170,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,53.67,Services!I215,53.67,Services!A215,Services,general_services
+170,171,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,87.97,Services!I216,87.97,Services!A216,Services,general_services
+171,172,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,122.27,Services!I217,122.27,Services!A217,Services,general_services
+172,173,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,156.57,Services!I218,156.57,Services!A218,Services,general_services
+173,174,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,190.88,Services!I219,190.88,Services!A219,Services,general_services
+174,175,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.5 - 1.75 m,m,Services,General Services,225.18,Services!I220,225.18,Services!A220,Services,general_services
+175,176,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.75 - 2.0 m,m,Services,General Services,259.48,Services!I221,259.48,Services!A221,Services,general_services
+176,177,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,59.23,Services!I224,59.23,Services!A224,Services,general_services
+177,178,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,97.18,Services!I225,97.18,Services!A225,Services,general_services
+178,179,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,135.12,Services!I226,135.12,Services!A226,Services,general_services
+179,180,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,173.07,Services!I227,173.07,Services!A227,Services,general_services
+180,181,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,211.01,Services!I228,211.01,Services!A228,Services,general_services
+181,182,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.5 - 1.75 m,m,Services,General Services,248.96,Services!I229,248.96,Services!A229,Services,general_services
+182,183,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.75 - 2.0 m,m,Services,General Services,286.91,Services!I230,286.91,Services!A230,Services,general_services
+183,170,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,66.65,Services!I233,66.65,Services!A233,Services,general_services
+184,171,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,109.46,Services!I234,109.46,Services!A234,Services,general_services
+185,172,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,152.26,Services!I235,152.26,Services!A235,Services,general_services
+186,173,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,195.06,Services!I236,195.06,Services!A236,Services,general_services
+187,174,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,237.87,Services!I237,237.87,Services!A237,Services,general_services
+188,175,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.5 - 1.75 m,m,Services,General Services,280.67,Services!I238,280.67,Services!A238,Services,general_services
+189,176,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.75 - 2.0 m,m,Services,General Services,323.47,Services!I239,323.47,Services!A239,Services,general_services
+190,177,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,74.07,Services!I242,74.07,Services!A242,Services,general_services
+191,178,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,121.73,Services!I243,121.73,Services!A243,Services,general_services
+192,179,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,169.39,Services!I244,169.39,Services!A244,Services,general_services
+193,180,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,217.05,Services!I245,217.05,Services!A245,Services,general_services
+194,181,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,264.72,Services!I246,264.72,Services!A246,Services,general_services
+195,182,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.5 - 1.75 m,m,Services,General Services,312.38,Services!I247,312.38,Services!A247,Services,general_services
+196,183,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.75 - 2.0 m,m,Services,General Services,360.04,Services!I248,360.04,Services!A248,Services,general_services
+197,184,Excavate trenches for multiple ducts; 2400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,94.47,Services!I251,94.47,Services!A251,Services,general_services
+198,185,Excavate trenches for multiple ducts; 2400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,155.49,Services!I252,155.49,Services!A252,Services,general_services
+199,186,Excavate trenches for multiple ducts; 2400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,216.51,Services!I253,216.51,Services!A253,Services,general_services
+200,187,Excavate trenches for multiple ducts; 2400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,277.53,Services!I254,277.53,Services!A254,Services,general_services
+201,188,Excavate trenches for multiple ducts; 2400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,338.56,Services!I255,338.56,Services!A255,Services,general_services
+202,189,Excavate trenches for multiple ducts; 2400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.5 - 1.75 m,m,Services,General Services,399.58,Services!I256,399.58,Services!A256,Services,general_services
+203,190,Excavate trenches for multiple ducts; 2400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.75 - 2.0 m,m,Services,General Services,460.6,Services!I257,460.6,Services!A257,Services,general_services
+204,191,Excavate trenches for multiple ducts; 3400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,131.56,Services!I260,131.56,Services!A260,Services,general_services
+205,192,Excavate trenches for multiple ducts; 3400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,216.87,Services!I261,216.87,Services!A261,Services,general_services
+206,193,Excavate trenches for multiple ducts; 3400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,302.19,Services!I262,302.19,Services!A262,Services,general_services
+207,194,Excavate trenches for multiple ducts; 3400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,387.5,Services!I263,387.5,Services!A263,Services,general_services
+208,195,Excavate trenches for multiple ducts; 3400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,472.81,Services!I264,472.81,Services!A264,Services,general_services
+209,196,Excavate trenches for multiple ducts; 3400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.5 - 1.75 m,m,Services,General Services,558.12,Services!I265,558.12,Services!A265,Services,general_services
+210,197,Excavate trenches for multiple ducts; 3400mm wide; backfill with 6F2; dispose of surplus off site; depth to trench invert: 1.75 - 2.0 m,m,Services,General Services,643.43,Services!I266,643.43,Services!A266,Services,general_services
+211,198,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with lean mix concrete; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,72.09,Services!I269,72.09,Services!A269,Services,general_services
+212,199,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with lean mix concrete; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,137.21,Services!I270,137.21,Services!A270,Services,general_services
+213,200,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with lean mix concrete; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,202.32,Services!I271,202.32,Services!A271,Services,general_services
+214,201,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with lean mix concrete; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,267.43,Services!I272,267.43,Services!A272,Services,general_services
+215,202,Excavate trenches for multiple ducts; 1150mm (6) wide; backfill with lean mix concrete; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,332.54,Services!I273,332.54,Services!A273,Services,general_services
+216,203,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,80.79,Services!I276,80.79,Services!A276,Services,general_services
+217,204,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,154.04,Services!I277,154.04,Services!A277,Services,general_services
+218,205,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,227.28,Services!I278,227.28,Services!A278,Services,general_services
+219,206,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,300.53,Services!I279,300.53,Services!A279,Services,general_services
+220,207,Excavate trenches for multiple ducts; 1300mm (7) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,373.78,Services!I280,373.78,Services!A280,Services,general_services
+221,208,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,89.48,Services!I283,89.48,Services!A283,Services,general_services
+222,209,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,170.87,Services!I284,170.87,Services!A284,Services,general_services
+223,210,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,252.25,Services!I285,252.25,Services!A285,Services,general_services
+224,211,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,333.64,Services!I286,333.64,Services!A286,Services,general_services
+225,212,Excavate trenches for multiple ducts; 1450mm (8) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,415.02,Services!I287,415.02,Services!A287,Services,general_services
+226,199,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,98.49,Services!I290,98.49,Services!A290,Services,general_services
+227,200,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,189.66,Services!I291,189.66,Services!A291,Services,general_services
+228,201,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,280.82,Services!I292,280.82,Services!A292,Services,general_services
+229,202,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,371.98,Services!I293,371.98,Services!A293,Services,general_services
+230,203,Excavate trenches for multiple ducts; 1650mm (9) wide; backfill with lean mix conc; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,463.14,Services!I294,463.14,Services!A294,Services,general_services
+231,204,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with conc; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,112.66,Services!I297,112.66,Services!A297,Services,general_services
+232,205,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with conc; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,215.75,Services!I298,215.75,Services!A298,Services,general_services
+233,206,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with conc; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,318.83,Services!I299,318.83,Services!A299,Services,general_services
+234,207,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with conc; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,421.92,Services!I300,421.92,Services!A300,Services,general_services
+235,208,Excavate trenches for multiple ducts; 1850mm (10) wide; backfill with conc; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,525.0,Services!I301,525.0,Services!A301,Services,general_services
+236,209,Excavate trenches for multiple ducts; 2400mm wide; backfill with conc; dispose of surplus off site; depth to trench invert: ne - 0.5 m,m,Services,General Services,144.53,Services!I304,144.53,Services!A304,Services,general_services
+237,210,Excavate trenches for multiple ducts; 2400mm wide; backfill with conc; dispose of surplus off site; depth to trench invert: 0.5 - 0.75 m,m,Services,General Services,277.46,Services!I305,277.46,Services!A305,Services,general_services
+238,211,Excavate trenches for multiple ducts; 2400mm wide; backfill with conc; dispose of surplus off site; depth to trench invert: 0.75 - 1.0 m,m,Services,General Services,410.38,Services!I306,410.38,Services!A306,Services,general_services
+239,212,Excavate trenches for multiple ducts; 2400mm wide; backfill with conc; dispose of surplus off site; depth to trench invert: 1 - 1.25 m,m,Services,General Services,543.3,Services!I307,543.3,Services!A307,Services,general_services
+240,213,Excavate trenches for multiple ducts; 2400mm wide; backfill with conc; dispose of surplus off site; depth to trench invert: 1.25 - 1.5 m,m,Services,General Services,676.22,Services!I308,676.22,Services!A308,Services,general_services
+241,198,EO service trenches for hand excavation,m³,Services,General Services,73.7,Services!I310,73.7,Services!A310,Services,general_services
+242,199,EO exc exploratory trench to locate existing service,m³,Services,General Services,57.73,Services!I311,57.73,Services!A311,Services,general_services
+243,200,EO trenches for breaking out existing tarmac road surface & reinstating on completion,m³,Services,General Services,141.38,Services!I312,141.38,Services!A312,Services,general_services
+244,201,EO drain trenches for breaking out existing tarmac road surface & reinstating on completion; provisional,m³,Services,General Services,123.58,Services!I313,123.58,Services!A313,Services,general_services
+245,202,EO drain trenches for breaking out existing tarmac footpath surface & reinstating on completion; provisional,m³,Services,General Services,78.23,Services!I314,78.23,Services!A314,Services,general_services
+246,203,EO trenches for covering with road plates,m³,Services,General Services,5.22,Services!I315,5.22,Services!A315,Services,general_services
+247,204,EO trenches for breaking out underground obstructions; reinforced concrete,m³,Services,General Services,66.77,Services!I316,66.77,Services!A316,Services,general_services
+248,205,EO trenches for breaking out underground obstructions; plain concrete,m³,Services,General Services,48.56,Services!I317,48.56,Services!A317,Services,general_services
+249,206,EO trenches for breaking out underground obstructions; rock,m³,Services,General Services,35.61,Services!I318,35.61,Services!A318,Services,general_services
+250,207,EO trenches for breaking out underground obstructions; brickwork,m³,Services,General Services,35.61,Services!I319,35.61,Services!A319,Services,general_services
+251,208,EO trenches for excavating by hand around existing services,m³,Services,General Services,80.99,Services!I320,80.99,Services!A320,Services,general_services
+252,209,EO trenches for vacuum excavation,m³,Services,General Services,110.66,Services!I321,110.66,Services!A321,Services,general_services
+253,210,Vacuum excavation; 1 day visit (27m3 max),m³,Services,General Services,3681.6,Services!I322,3681.6,Services!A322,Services,general_services
+254,211,EO trenches for attending M&E contractor installing pipework in trenches,m,Services,General Services,10.68,Services!I323,10.68,Services!A323,Services,"pipe,general_services"
+255,212,EO excs for exc below grd water level (prov),item,Services,General Services,17.79,Services!I324,17.79,Services!A324,Services,general_services
+256,213,EO excs for exc next to extg services (prov),item,Services,General Services,10.71,Services!I325,10.71,Services!A325,Services,general_services
+257,214,EO excs for exc around extg services crossing trench (prov),m³,Services,General Services,33.2,Services!I326,33.2,Services!A326,Services,general_services
+258,215,EO for dewatering; surface & ground water; generally,item,Services,General Services,1613.24,Services!I327,1613.24,Services!A327,Services,general_services
+259,216,EO disposal of arisings from trenches for non hazardous material (prov),m³,Services,General Services,13.88,Services!I328,13.88,Services!A328,Services,general_services
+260,217,EO disposal of arisings from trenches for hazardous material (prov),m³,Services,General Services,166.59,Services!I329,166.59,Services!A329,Services,general_services
+261,218,EO for warning tape,item,Services,General Services,0.53,Services!I330,0.53,Services!A330,Services,general_services
+262,219,EO for metal/magnetic warning tape,item,Services,General Services,0.82,Services!I331,0.82,Services!A331,Services,general_services
+263,220,EO for cable protection tile,m,Services,General Services,2.35,Services!I332,2.35,Services!A332,Services,"cable,general_services"
+264,221,EO for draw cord,item,Services,General Services,1.05,Services!I333,1.05,Services!A333,Services,general_services
+265,222,EO service trenches for attendance on others laying pipes and leave trenches open whilst services are installed,m,Services,General Services,4.02,Services!I334,4.02,Services!A334,Services,"pipe,general_services"
+266,223,EO service trenches for excavating extra space for jointing pit at pipe joints,m,Services,General Services,16.08,Services!I335,16.08,Services!A335,Services,"pipe,general_services"
+267,224,Attendance item; offload and distribute pipes for District Heating installer,m,Services,General Services,4.02,Services!I336,4.02,Services!A336,Services,"pipe,general_services"
+268,231,Bed & surround; sand; for duct size: 100,item,Services,General Services,19.8,Services!I349,19.8,Services!A349,Services,general_services
+269,232,Bed & surround; sand; for duct size: 2nr services in 1 trench; 600 x 400,m³,Services,General Services,23.34,Services!I350,23.34,Services!A350,Services,general_services
+270,233,Bed & surround; sand; for duct size: 3-4nr services in 1 trench; 600 x 550,m³,Services,General Services,25.44,Services!I351,25.44,Services!A351,Services,general_services
+271,234,Bed & surround; sand; for duct size: 5-6nr services in 1 trench; 750 x 550,m³,Services,General Services,32.33,Services!I352,32.33,Services!A352,Services,general_services
+272,235,Bed & surround; sand; for duct size: 7-8nr services in 1 trench; 950 x 550,m³,Services,General Services,41.57,Services!I353,41.57,Services!A353,Services,general_services
+273,236,Bed & surround; sand; for duct size: 9nr services in 1 trench; 750 x 750,m³,Services,General Services,45.23,Services!I354,45.23,Services!A354,Services,general_services
+274,237,Bed & surround; sand; for duct size: 10-12nr services in 1 trench; 950 x 750,m³,Services,General Services,58.06,Services!I355,58.06,Services!A355,Services,general_services
+275,238,Bed & surround; sand; for duct size: 13-15nr services in 1 trench; 1150 x 750,m³,Services,General Services,70.88,Services!I356,70.88,Services!A356,Services,general_services
+276,239,Bed & surround; sand; for duct size: 8nr services in 1 trench; laid flat; 3200 x 600,m³,Services,General Services,161.28,Services!I357,161.28,Services!A357,Services,general_services
+277,240,Bed & surround; sand; for duct size: 125,item,Services,General Services,15.24,Services!I358,15.24,Services!A358,Services,general_services
+278,241,Bed & surround; sand; for duct size: 150,item,Services,General Services,15.71,Services!I359,15.71,Services!A359,Services,general_services
+279,242,Bed & surround; sand; for duct size: 225,item,Services,General Services,19.95,Services!I360,19.95,Services!A360,Services,general_services
+280,243,Bed & surround; sand; for duct size: 300,item,Services,General Services,24.36,Services!I361,24.36,Services!A361,Services,general_services
+281,244,Bed & surround; sand; for duct size: 375,item,Services,General Services,29.21,Services!I362,29.21,Services!A362,Services,general_services
+282,245,Bed & surround; sand; for duct size: 450,item,Services,General Services,33.65,Services!I363,33.65,Services!A363,Services,general_services
+283,246,Bed & surround; sand; for duct size: 525,item,Services,General Services,38.54,Services!I364,38.54,Services!A364,Services,general_services
+284,247,Bed & surround; sand; for duct size: 600,item,Services,General Services,43.58,Services!I365,43.58,Services!A365,Services,general_services
+285,248,Bed & surround; sand; for duct size: Sand bed & surround; various,item,Services,General Services,109.27,Services!I366,109.27,Services!A366,Services,general_services
+286,248,Bed & surround; concrete; for duct size: 100,item,Services,General Services,18.35,Services!I369,18.35,Services!A369,Services,general_services
+287,249,Bed & surround; concrete; for duct size: 150,item,Services,General Services,19.79,Services!I370,19.79,Services!A370,Services,general_services
+288,250,Bed & surround; concrete; for duct size: 225,item,Services,General Services,21.65,Services!I371,21.65,Services!A371,Services,general_services
+289,251,Bed & surround; concrete; for duct size: 300,item,Services,General Services,22.51,Services!I372,22.51,Services!A372,Services,general_services
+290,252,Bed & surround; concrete; for duct size: 375,item,Services,General Services,26.91,Services!I373,26.91,Services!A373,Services,general_services
+291,253,Bed & surround; concrete; for duct size: 450,item,Services,General Services,31.52,Services!I374,31.52,Services!A374,Services,general_services
+292,254,Bed & surround; concrete; for duct size: 525,item,Services,General Services,36.33,Services!I375,36.33,Services!A375,Services,general_services
+293,255,Bed & surround; concrete; for duct size: 600,item,Services,General Services,41.35,Services!I376,41.35,Services!A376,Services,general_services
+294,256,Sleeve through foundation; for duct size: 100,item,Services,General Services,33.52,Services!I378,33.52,Services!A378,Services,general_services
+295,257,Sleeve through foundation; for duct size: 150,item,Services,General Services,34.1,Services!I379,34.1,Services!A379,Services,general_services
+296,258,Sleeve through foundation; for duct size: 225,item,Services,General Services,36.0,Services!I380,36.0,Services!A380,Services,general_services
+297,259,Ducts in trenches; clay; size: 100mm dia,nr,Services,General Services,12.03,Services!I382,12.03,Services!A382,Services,"100mm,general_services"
+298,260,Ducts in trenches; clay; size: 150mm dia,nr,Services,General Services,22.06,Services!I383,22.06,Services!A383,Services,"150mm,general_services"
+299,261,Ducts in trenches; clay; size: 225mm dia,nr,Services,General Services,36.06,Services!I384,36.06,Services!A384,Services,"225mm,general_services"
+300,262,Ducts in trenches; clay; size: 300mm dia,nr,Services,General Services,60.26,Services!I385,60.26,Services!A385,Services,"300mm,general_services"
+301,262,Ducts in trenches; UPVC; size: 50mm dia,nr,Services,General Services,5.48,Services!I387,5.48,Services!A387,Services,"50mm,pvc,general_services"
+302,263,Ducts in trenches; UPVC; size: 63mm dia,nr,Services,General Services,5.61,Services!I388,5.61,Services!A388,Services,"63mm,pvc,general_services"
+303,264,Ducts in trenches; UPVC; size: 80mm dia,nr,Services,General Services,5.87,Services!I389,5.87,Services!A389,Services,"80mm,pvc,general_services"
+304,265,Ducts in trenches; UPVC; size: 90mm dia,nr,Services,General Services,8.15,Services!I390,8.15,Services!A390,Services,"90mm,pvc,general_services"
+305,266,Ducts in trenches; UPVC; size: 110mm dia,nr,Services,General Services,8.73,Services!I391,8.73,Services!A391,Services,"110mm,pvc,general_services"
+306,267,Ducts in trenches; UPVC; size: 110mm dia; lay only free issue,nr,Services,General Services,3.61,Services!I392,3.61,Services!A392,Services,"110mm,pvc,general_services"
+307,268,Ducts in trenches; UPVC; size: 125mm dia,nr,Services,General Services,10.89,Services!I393,10.89,Services!A393,Services,"125mm,pvc,general_services"
+308,269,Ducts in trenches; UPVC; size: 125mm dia,nr,Services,General Services,13.19,Services!I394,13.19,Services!A394,Services,"125mm,pvc,general_services"
+309,270,Ducts in trenches; UPVC; size: 160mm dia,nr,Services,General Services,17.53,Services!I395,17.53,Services!A395,Services,"160mm,pvc,general_services"
+310,271,Ducts in trenches; UPVC; size: 200mm dia,nr,Services,General Services,26.75,Services!I396,26.75,Services!A396,Services,"200mm,pvc,general_services"
+311,272,Ducts in trenches; UPVC; size: 250mm dia,nr,Services,General Services,39.61,Services!I397,39.61,Services!A397,Services,"250mm,pvc,general_services"
+312,273,Ducts in trenches; UPVC; size: 315mm dia,nr,Services,General Services,54.28,Services!I398,54.28,Services!A398,Services,"315mm,pvc,general_services"
+313,274,Ducts in trenches; UPVC; size: 400mm dia,nr,Services,General Services,60.0,Services!I399,60.0,Services!A399,Services,"400mm,pvc,general_services"
+314,275,Pipes in trenches; cast iron; Ensign; size: 100mm dia,nr,Services,Plumbing Works,42.62,Services!I401,42.62,Services!A401,Services,"100mm,pipe,plumbing_works"
+315,276,Pipes in trenches; cast iron; Ensign; size: 150mm dia,nr,Services,Plumbing Works,75.05,Services!I402,75.05,Services!A402,Services,"150mm,pipe,plumbing_works"
+316,277,Pipes in trenches; cast iron; Ensign; size: 250mm dia,nr,Services,Plumbing Works,155.04,Services!I403,155.04,Services!A403,Services,"250mm,pipe,plumbing_works"
+317,278,Pipes in trenches; MDPE; pressurised main; size: 20mm dia pipe,m,Services,Plumbing Works,5.48,Services!I406,5.48,Services!A406,Services,"20mm,pipe,plumbing_works"
+318,279,Pipes in trenches; MDPE; pressurised main; size: 20mm dia; elbow,nr,Services,Plumbing Works,14.85,Services!I407,14.85,Services!A407,Services,"20mm,pipe,plumbing_works"
+319,280,Pipes in trenches; MDPE; pressurised main; size: 20 x 20mm tee,item,Services,Plumbing Works,21.3,Services!I408,21.3,Services!A408,Services,"pipe,plumbing_works"
+320,281,Pipes in trenches; MDPE; pressurised main; size: 25mm dia pipe,m,Services,Plumbing Works,6.32,Services!I410,6.32,Services!A410,Services,"25mm,pipe,plumbing_works"
+321,282,Pipes in trenches; MDPE; pressurised main; size: 25mm dia; elbow,nr,Services,Plumbing Works,19.35,Services!I411,19.35,Services!A411,Services,"25mm,pipe,plumbing_works"
+322,283,Pipes in trenches; MDPE; pressurised main; size: 25 x 25mm tee,item,Services,Plumbing Works,25.19,Services!I412,25.19,Services!A412,Services,"pipe,plumbing_works"
+323,284,Pipes in trenches; MDPE; pressurised main; size: 25 to 20 reducer,item,Services,Plumbing Works,17.4,Services!I413,17.4,Services!A413,Services,"pipe,plumbing_works"
+324,285,Pipes in trenches; MDPE; pressurised main; size: 25mm long radius entry including duct through substructure,m,Services,Plumbing Works,76.4,Services!I414,76.4,Services!A414,Services,"pipe,plumbing_works"
+325,286,Pipes in trenches; MDPE; pressurised main; size: 32mm dia pipe,m,Services,Plumbing Works,9.38,Services!I416,9.38,Services!A416,Services,"32mm,pipe,plumbing_works"
+326,287,Pipes in trenches; MDPE; pressurised main; size: 32mm dia; elbow,nr,Services,Plumbing Works,20.0,Services!I417,20.0,Services!A417,Services,"32mm,pipe,plumbing_works"
+327,288,Pipes in trenches; MDPE; pressurised main; size: 32 x 32mm tee,item,Services,Plumbing Works,37.79,Services!I418,37.79,Services!A418,Services,"pipe,plumbing_works"
+328,289,Pipes in trenches; MDPE; pressurised main; size: 32 x 25mm tee,item,Services,Plumbing Works,37.79,Services!I419,37.79,Services!A419,Services,"pipe,plumbing_works"
+329,290,Pipes in trenches; MDPE; pressurised main; size: 32 to 25 reducer,item,Services,Plumbing Works,21.3,Services!I420,21.3,Services!A420,Services,"pipe,plumbing_works"
+330,291,Pipes in trenches; MDPE; pressurised main; size: 50mm dia pipe,m,Services,Plumbing Works,14.85,Services!I422,14.85,Services!A422,Services,"50mm,pipe,plumbing_works"
+331,292,Pipes in trenches; MDPE; pressurised main; size: 50mm dia; elbow,nr,Services,Plumbing Works,33.89,Services!I423,33.89,Services!A423,Services,"50mm,pipe,plumbing_works"
+332,293,Pipes in trenches; MDPE; pressurised main; size: 50 x 50mm tee,item,Services,Plumbing Works,56.87,Services!I424,56.87,Services!A424,Services,"pipe,plumbing_works"
+333,294,Pipes in trenches; MDPE; pressurised main; size: 50 x 32mm tee,item,Services,Plumbing Works,51.68,Services!I425,51.68,Services!A425,Services,"pipe,plumbing_works"
+334,295,Pipes in trenches; MDPE; pressurised main; size: 50 to 32 reducer,item,Services,Plumbing Works,33.89,Services!I426,33.89,Services!A426,Services,"pipe,plumbing_works"
+335,296,Pipes in trenches; MDPE; pressurised main; size: 63mm dia pipe,m,Services,Plumbing Works,20.91,Services!I428,20.91,Services!A428,Services,"63mm,pipe,plumbing_works"
+336,297,Pipes in trenches; MDPE; pressurised main; size: 63mm dia; elbow,nr,Services,Plumbing Works,45.19,Services!I429,45.19,Services!A429,Services,"63mm,pipe,plumbing_works"
+337,298,Pipes in trenches; MDPE; pressurised main; size: 63 x 63mm tee,item,Services,Plumbing Works,80.76,Services!I430,80.76,Services!A430,Services,"pipe,plumbing_works"
+338,299,Pipes in trenches; MDPE; pressurised main; size: 63 x 50/32/25mm tee,item,Services,Plumbing Works,80.76,Services!I431,80.76,Services!A431,Services,"pipe,plumbing_works"
+339,300,Pipes in trenches; MDPE; pressurised main; size: 63 to 50 reducer,item,Services,Plumbing Works,61.29,Services!I432,61.29,Services!A432,Services,"pipe,plumbing_works"
+340,301,Pipes in trenches; MDPE; pressurised main; size: 90mm dia pipe,m,Services,Plumbing Works,29.93,Services!I434,29.93,Services!A434,Services,"90mm,pipe,plumbing_works"
+341,302,Pipes in trenches; MDPE; pressurised main; size: 90mm dia; elbow,nr,Services,Plumbing Works,87.25,Services!I435,87.25,Services!A435,Services,"90mm,pipe,plumbing_works"
+342,303,Pipes in trenches; MDPE; pressurised main; size: 90 x 90mm tee,item,Services,Plumbing Works,132.68,Services!I436,132.68,Services!A436,Services,"pipe,plumbing_works"
+343,304,Pipes in trenches; MDPE; pressurised main; size: 90 to 63 reducer,item,Services,Plumbing Works,87.25,Services!I437,87.25,Services!A437,Services,"pipe,plumbing_works"
+344,305,Pipes in trenches; MDPE; pressurised main; size: 90mm dia; SV stop valve,nr,Services,Plumbing Works,288.44,Services!I438,288.44,Services!A438,Services,"90mm,pipe,valve,plumbing_works"
+345,306,Pipes in trenches; MDPE; pressurised main; size: 110mm dia pipe,m,Services,Plumbing Works,45.02,Services!I440,45.02,Services!A440,Services,"110mm,pipe,plumbing_works"
+346,307,Pipes in trenches; MDPE; pressurised main; size: 110mm dia; elbow,nr,Services,Plumbing Works,132.68,Services!I441,132.68,Services!A441,Services,"110mm,pipe,plumbing_works"
+347,308,Pipes in trenches; MDPE; pressurised main; size: 110 x 110mm tee,item,Services,Plumbing Works,197.58,Services!I442,197.58,Services!A442,Services,"pipe,plumbing_works"
+348,309,Pipes in trenches; MDPE; pressurised main; size: 110 to 90 reducer,item,Services,Plumbing Works,106.72,Services!I443,106.72,Services!A443,Services,"pipe,plumbing_works"
+349,310,Pipes in trenches; MDPE; pressurised main; size: 125mm dia pipe,m,Services,Plumbing Works,71.61,Services!I445,71.61,Services!A445,Services,"125mm,pipe,plumbing_works"
+350,311,Pipes in trenches; MDPE; pressurised main; size: 125mm dia; elbow,nr,Services,Plumbing Works,145.66,Services!I446,145.66,Services!A446,Services,"125mm,pipe,plumbing_works"
+351,312,Pipes in trenches; MDPE; pressurised main; size: 125 x 125mm tee,item,Services,Plumbing Works,236.52,Services!I447,236.52,Services!A447,Services,"pipe,plumbing_works"
+352,313,Pipes in trenches; MDPE; pressurised main; size: 125 to 110 reducer,item,Services,Plumbing Works,132.68,Services!I448,132.68,Services!A448,Services,"pipe,plumbing_works"
+353,314,Pipes in trenches; MDPE; pressurised main; size: 125mm dia; SV stop valve,nr,Services,Plumbing Works,353.34,Services!I449,353.34,Services!A449,Services,"125mm,pipe,valve,plumbing_works"
+354,315,Pipes in trenches; MDPE; pressurised main; size: 160mm dia pipe,m,Services,Plumbing Works,93.98,Services!I451,93.98,Services!A451,Services,"160mm,pipe,plumbing_works"
+355,316,Pipes in trenches; MDPE; pressurised main; size: 160mm dia; bend,nr,Services,Plumbing Works,158.64,Services!I452,158.64,Services!A452,Services,"160mm,pipe,plumbing_works"
+356,317,Pipes in trenches; MDPE; pressurised main; size: 160 x 50/32/25mm tee,item,Services,Plumbing Works,367.77,Services!I453,367.77,Services!A453,Services,"pipe,plumbing_works"
+357,318,Pipes in trenches; MDPE; pressurised main; size: 160 to 110 reducer,item,Services,Plumbing Works,145.66,Services!I454,145.66,Services!A454,Services,"pipe,plumbing_works"
+358,319,Pipes in trenches; MDPE; Barrier pressurised main; size: 25mm dia pipe,m,Services,Plumbing Works,14.37,Services!I457,14.37,Services!A457,Services,"25mm,pipe,plumbing_works"
+359,320,Pipes in trenches; MDPE; Barrier pressurised main; size: 25mm dia bend,nr,Services,Plumbing Works,31.6,Services!I458,31.6,Services!A458,Services,"25mm,pipe,plumbing_works"
+360,321,Pipes in trenches; MDPE; Barrier pressurised main; size: 25mm dia equal branch,nr,Services,Plumbing Works,60.95,Services!I459,60.95,Services!A459,Services,"25mm,pipe,plumbing_works"
+361,322,Pipes in trenches; MDPE; Barrier pressurised main; size: 25mm dia gate valve,nr,Services,Plumbing Works,162.13,Services!I460,162.13,Services!A460,Services,"25mm,pipe,valve,plumbing_works"
+362,323,Pipes in trenches; MDPE; Barrier pressurised main; size: 32mm dia pipe,m,Services,Plumbing Works,18.17,Services!I462,18.17,Services!A462,Services,"32mm,pipe,plumbing_works"
+363,324,Pipes in trenches; MDPE; Barrier pressurised main; size: 32mm dia bend,nr,Services,Plumbing Works,70.53,Services!I463,70.53,Services!A463,Services,"32mm,pipe,plumbing_works"
+364,325,Pipes in trenches; MDPE; Barrier pressurised main; size: 32mm dia equal branch,nr,Services,Plumbing Works,92.69,Services!I464,92.69,Services!A464,Services,"32mm,pipe,plumbing_works"
+365,326,Pipes in trenches; MDPE; Barrier pressurised main; size: 32mm dia gate valve,nr,Services,Plumbing Works,202.25,Services!I465,202.25,Services!A465,Services,"32mm,pipe,valve,plumbing_works"
+366,327,Pipes in trenches; MDPE; Barrier pressurised main; size: 42mm dia pipe,m,Services,Plumbing Works,33.11,Services!I467,33.11,Services!A467,Services,"42mm,pipe,plumbing_works"
+367,328,Pipes in trenches; MDPE; Barrier pressurised main; size: 50mm dia pipe,m,Services,Plumbing Works,40.21,Services!I468,40.21,Services!A468,Services,"50mm,pipe,plumbing_works"
+368,329,Pipes in trenches; MDPE; Barrier pressurised main; size: 63mm dia pipe,m,Services,Plumbing Works,46.18,Services!I470,46.18,Services!A470,Services,"63mm,pipe,plumbing_works"
+369,330,Pipes in trenches; MDPE; Barrier pressurised main; size: 63mm dia bend,nr,Services,Plumbing Works,154.43,Services!I471,154.43,Services!A471,Services,"63mm,pipe,plumbing_works"
+370,331,Pipes in trenches; MDPE; Barrier pressurised main; size: 63mm dia equal branch,nr,Services,Plumbing Works,199.84,Services!I472,199.84,Services!A472,Services,"63mm,pipe,plumbing_works"
+371,332,Pipes in trenches; MDPE; Barrier pressurised main; size: 63 dia gate valve,nr,Services,Plumbing Works,389.21,Services!I473,389.21,Services!A473,Services,"pipe,valve,plumbing_works"
+372,333,Pipes in trenches; MDPE; Barrier pressurised main; size: 90mm dia pipe,m,Services,Plumbing Works,52.64,Services!I475,52.64,Services!A475,Services,"90mm,pipe,plumbing_works"
+373,334,Pipes in trenches; MDPE; Barrier pressurised main; size: 90mm dia bend,nr,Services,Plumbing Works,145.66,Services!I476,145.66,Services!A476,Services,"90mm,pipe,plumbing_works"
+374,335,Pipes in trenches; MDPE; Barrier pressurised main; size: 90mm dia equal branch,nr,Services,Plumbing Works,236.52,Services!I477,236.52,Services!A477,Services,"90mm,pipe,plumbing_works"
+375,336,Pipes in trenches; MDPE; Barrier pressurised main; size: 90dia gate valve,nr,Services,Plumbing Works,548.04,Services!I478,548.04,Services!A478,Services,"pipe,valve,plumbing_works"
+376,333,Pipes in trenches; MDPE; Barrier pressurised main; size: 100mm dia pipe,m,Services,Plumbing Works,95.71,Services!I480,95.71,Services!A480,Services,"100mm,pipe,plumbing_works"
+377,334,Ductwork accessories & fittings; clay; 100mm dia; bend,nr,Services,General Services,13.62,Services!I483,13.62,Services!A483,Services,"100mm,general_services"
+378,335,Ductwork accessories & fittings; clay; 100mm dia; rocker,nr,Services,General Services,16.9,Services!I484,16.9,Services!A484,Services,"100mm,general_services"
+379,336,Ductwork accessories & fittings; clay; 100mm dia; vertical pipework; inc conc surround,m,Services,Plumbing Works,61.89,Services!I485,61.89,Services!A485,Services,"100mm,pipe,plumbing_works"
+380,337,Ductwork accessories & fittings; clay; 100 x 100 branch,item,Services,General Services,31.84,Services!I486,31.84,Services!A486,Services,general_services
+381,338,Ductwork accessories & fittings; clay; 150mm dia; bend,nr,Services,General Services,25.55,Services!I487,25.55,Services!A487,Services,"150mm,general_services"
+382,339,Ductwork accessories & fittings; clay; 150mm dia; rocker,nr,Services,General Services,29.13,Services!I488,29.13,Services!A488,Services,"150mm,general_services"
+383,340,Ductwork accessories & fittings; clay; 150 x 100 branch,item,Services,General Services,45.41,Services!I489,45.41,Services!A489,Services,general_services
+384,341,Ductwork accessories & fittings; clay; 150 x 150 branch,item,Services,General Services,47.16,Services!I490,47.16,Services!A490,Services,general_services
+385,342,Ductwork accessories & fittings; clay; 150mm dia; vertical pipework; inc conc surround,m,Services,Plumbing Works,81.71,Services!I491,81.71,Services!A491,Services,"150mm,pipe,plumbing_works"
+386,343,Ductwork accessories & fittings; clay; 225mm dia; bend,nr,Services,General Services,84.04,Services!I492,84.04,Services!A492,Services,"225mm,general_services"
+387,344,Ductwork accessories & fittings; clay; 225mm dia; rest bend,nr,Services,General Services,103.97,Services!I493,103.97,Services!A493,Services,"225mm,general_services"
+388,345,Ductwork accessories & fittings; clay; 225mm dia; rocker,nr,Services,General Services,49.21,Services!I494,49.21,Services!A494,Services,"225mm,general_services"
+389,346,Ductwork accessories & fittings; clay; 225 x 100/150 branch,item,Services,General Services,135.79,Services!I495,135.79,Services!A495,Services,general_services
+390,347,Ductwork accessories & fittings; clay; 225 x 225 branch,item,Services,General Services,167.61,Services!I496,167.61,Services!A496,Services,general_services
+391,348,Pipework accessories & fittings; UPVC; 80mm dia rising main with mechanical joints; class C - 9bar rating; bend,nr,Services,Plumbing Works,66.25,Services!I499,66.25,Services!A499,Services,"80mm,pvc,pipe,plumbing_works"
+392,349,Pipework accessories & fittings; UPVC; 80mm dia rising main with mechanical joints; class C - 9bar rating; coupling to plain end/termination,nr,Services,Plumbing Works,61.62,Services!I500,61.62,Services!A500,Services,"80mm,pvc,pipe,plumbing_works"
+393,350,Pipework accessories & fittings; UPVC; 50mm dia; bend,nr,Services,Plumbing Works,15.64,Services!I501,15.64,Services!A501,Services,"50mm,pvc,pipe,plumbing_works"
+394,351,Pipework accessories & fittings; UPVC; 63mm dia; bend,nr,Services,Plumbing Works,16.59,Services!I502,16.59,Services!A502,Services,"63mm,pvc,pipe,plumbing_works"
+395,352,Pipework accessories & fittings; UPVC; 80mm dia; bend,nr,Services,Plumbing Works,17.06,Services!I503,17.06,Services!A503,Services,"80mm,pvc,pipe,plumbing_works"
+396,353,Pipework accessories & fittings; UPVC; 100mm dia; bend,nr,Services,Plumbing Works,17.25,Services!I504,17.25,Services!A504,Services,"100mm,pvc,pipe,plumbing_works"
+397,354,Pipework accessories & fittings; UPVC; 100mm dia; bend; lay only free issue,nr,Services,Plumbing Works,3.61,Services!I505,3.61,Services!A505,Services,"100mm,pvc,pipe,plumbing_works"
+398,355,Pipework accessories & fittings; UPVC; 100mm dia; long radius bend,nr,Services,Plumbing Works,27.14,Services!I506,27.14,Services!A506,Services,"100mm,pvc,pipe,plumbing_works"
+399,356,Pipework accessories & fittings; UPVC; 100mm dia; rest bend,nr,Services,Plumbing Works,27.14,Services!I507,27.14,Services!A507,Services,"100mm,pvc,pipe,plumbing_works"
+400,357,Pipework accessories & fittings; UPVC; 100mm dia; rocker,nr,Services,Plumbing Works,19.2,Services!I508,19.2,Services!A508,Services,"100mm,pvc,pipe,plumbing_works"
+401,358,Pipework accessories & fittings; UPVC; 100mm dia; vertical pipework; inc conc surround,m,Services,Plumbing Works,57.62,Services!I509,57.62,Services!A509,Services,"100mm,pvc,pipe,plumbing_works"
+402,359,Pipework accessories & fittings; UPVC; 100 x 100 branch,item,Services,Plumbing Works,24.77,Services!I510,24.77,Services!A510,Services,"pvc,pipe,plumbing_works"
+403,360,Pipework accessories & fittings; UPVC; 125mm dia; bend,nr,Services,Plumbing Works,20.66,Services!I511,20.66,Services!A511,Services,"125mm,pvc,pipe,plumbing_works"
+404,361,Pipework accessories & fittings; UPVC; 125mm dia; long radius bend,nr,Services,Plumbing Works,26.62,Services!I512,26.62,Services!A512,Services,"125mm,pvc,pipe,plumbing_works"
+405,362,Pipework accessories & fittings; UPVC; 125mm dia; rocker,nr,Services,Plumbing Works,19.2,Services!I513,19.2,Services!A513,Services,"125mm,pvc,pipe,plumbing_works"
+406,363,Pipework accessories & fittings; UPVC; 160mm dia; bend,nr,Services,Plumbing Works,37.07,Services!I514,37.07,Services!A514,Services,"160mm,pvc,pipe,plumbing_works"
+407,364,Pipework accessories & fittings; UPVC; 160mm dia; long radius bend,nr,Services,Plumbing Works,37.07,Services!I515,37.07,Services!A515,Services,"160mm,pvc,pipe,plumbing_works"
+408,365,Pipework accessories & fittings; UPVC; 160mm dia; rest bend,nr,Services,Plumbing Works,41.86,Services!I516,41.86,Services!A516,Services,"160mm,pvc,pipe,plumbing_works"
+409,366,Pipework accessories & fittings; UPVC; 160mm dia; rocker,nr,Services,Plumbing Works,35.49,Services!I517,35.49,Services!A517,Services,"160mm,pvc,pipe,plumbing_works"
+410,367,Pipework accessories & fittings; UPVC; 160 x 100 branch,item,Services,Plumbing Works,53.12,Services!I518,53.12,Services!A518,Services,"pvc,pipe,plumbing_works"
+411,368,Pipework accessories & fittings; UPVC; 160 x 160 branch,item,Services,Plumbing Works,69.44,Services!I519,69.44,Services!A519,Services,"pvc,pipe,plumbing_works"
+412,369,Pipework accessories & fittings; UPVC; 160mm dia; vertical pipework; inc conc surround,m,Services,Plumbing Works,86.88,Services!I520,86.88,Services!A520,Services,"160mm,pvc,pipe,plumbing_works"
+413,370,Pipework accessories & fittings; UPVC; 200mm dia; bend,nr,Services,Plumbing Works,105.51,Services!I521,105.51,Services!A521,Services,"200mm,pvc,pipe,plumbing_works"
+414,371,Pipework accessories & fittings; UPVC; 200mm dia; rocker,nr,Services,Plumbing Works,106.21,Services!I522,106.21,Services!A522,Services,"200mm,pvc,pipe,plumbing_works"
+415,372,Pipework accessories & fittings; UPVC; 200 x 100/160 branch,item,Services,Plumbing Works,75.63,Services!I523,75.63,Services!A523,Services,"pvc,pipe,plumbing_works"
+416,373,Pipework accessories & fittings; UPVC; 200 x 200 branch,item,Services,Plumbing Works,89.92,Services!I524,89.92,Services!A524,Services,"pvc,pipe,plumbing_works"
+417,374,Pipework accessories & fittings; UPVC; 250mm dia; bend,nr,Services,Plumbing Works,366.56,Services!I525,366.56,Services!A525,Services,"250mm,pvc,pipe,plumbing_works"
+418,375,Pipework accessories & fittings; UPVC; 250mm dia; rocker,nr,Services,Plumbing Works,172.67,Services!I526,172.67,Services!A526,Services,"250mm,pvc,pipe,plumbing_works"
+419,376,Pipework accessories & fittings; UPVC; 250 x 100/160 branch,item,Services,Plumbing Works,183.94,Services!I527,183.94,Services!A527,Services,"pvc,pipe,plumbing_works"
+420,377,Pipework accessories & fittings; UPVC; 250 x 250 branch,item,Services,Plumbing Works,267.83,Services!I528,267.83,Services!A528,Services,"pvc,pipe,plumbing_works"
+421,378,Pipework accessories & fittings; Cast Iron; Ensign; 100mm dia; bend,nr,Services,Plumbing Works,58.27,Services!I530,58.27,Services!A530,Services,"100mm,pipe,plumbing_works"
+422,379,Pipework accessories & fittings; Cast Iron; Ensign; 100mm dia; rest bend,nr,Services,Plumbing Works,68.54,Services!I531,68.54,Services!A531,Services,"100mm,pipe,plumbing_works"
+423,380,Pipework accessories & fittings; Cast Iron; Ensign; 100mm dia; rocker,nr,Services,Plumbing Works,42.86,Services!I532,42.86,Services!A532,Services,"100mm,pipe,plumbing_works"
+424,381,Pipework accessories & fittings; Cast Iron; Ensign; 100mm dia; vertical pipework; inc conc surround,m,Services,Plumbing Works,96.86,Services!I533,96.86,Services!A533,Services,"100mm,pipe,plumbing_works"
+425,382,Pipework accessories & fittings; Cast Iron; Ensign; 100 x 100 branch,item,Services,Plumbing Works,70.71,Services!I534,70.71,Services!A534,Services,"pipe,plumbing_works"
+426,383,Pipework accessories & fittings; Cast Iron; Ensign; 150mm dia; bend,nr,Services,Plumbing Works,147.41,Services!I535,147.41,Services!A535,Services,"150mm,pipe,plumbing_works"
+427,384,Pipework accessories & fittings; Cast Iron; Ensign; 150mm dia; rest bend,nr,Services,Plumbing Works,151.69,Services!I536,151.69,Services!A536,Services,"150mm,pipe,plumbing_works"
+428,385,Pipework accessories & fittings; Cast Iron; Ensign; 150mm dia; rocker,nr,Services,Plumbing Works,81.66,Services!I537,81.66,Services!A537,Services,"150mm,pipe,plumbing_works"
+429,386,Pipework accessories & fittings; Cast Iron; Ensign; 150 x 100 branch,item,Services,Plumbing Works,156.27,Services!I538,156.27,Services!A538,Services,"pipe,plumbing_works"
+430,387,Pipework accessories & fittings; Cast Iron; Ensign; 150 x 150 branch,item,Services,Plumbing Works,167.85,Services!I539,167.85,Services!A539,Services,"pipe,plumbing_works"
+431,388,Pipework accessories & fittings; Cast Iron; Ensign; 150mm dia; vertical pipework; inc conc surround,m,Services,Plumbing Works,139.76,Services!I540,139.76,Services!A540,Services,"150mm,pipe,plumbing_works"
+432,389,Pipework accessories & fittings; Cast Iron; Ensign; 250mm dia; bend,nr,Services,Plumbing Works,279.0,Services!I541,279.0,Services!A541,Services,"250mm,pipe,plumbing_works"
+433,390,Pipework accessories & fittings; Cast Iron; Ensign; 250mm dia; rocker,nr,Services,Plumbing Works,200.19,Services!I542,200.19,Services!A542,Services,"250mm,pipe,plumbing_works"
+434,391,Pipework accessories & fittings; Cast Iron; Ensign; 250 x 250 branch,item,Services,Plumbing Works,533.29,Services!I543,533.29,Services!A543,Services,"pipe,plumbing_works"
+435,392,"Composite all in rates; 0.50m deep trench b/fill wi SEM, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,48.42,Services!I546,48.42,Services!A546,Services,"pvc,general_services"
+436,393,"Composite all in rates; 0.75m deep trench b/fill wi SEM, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,53.02,Services!I547,53.02,Services!A547,Services,"pvc,general_services"
+437,394,"Composite all in rates; 1.0m deep trench b/fill wi SEM, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,57.63,Services!I548,57.63,Services!A548,Services,"pvc,general_services"
+438,395,"Composite all in rates; 0.50m deep trench b/fill wi 6F2, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,54.4,Services!I549,54.4,Services!A549,Services,"pvc,general_services"
+439,396,"Composite all in rates; 0.75m deep trench b/fill wi 6F2, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,68.97,Services!I550,68.97,Services!A550,Services,"pvc,general_services"
+440,397,"Composite all in rates; 1.0m deep trench b/fill wi 6F2, 100 UPVC duct, sand B&S, warning tape & draw cord",m,Services,General Services,83.55,Services!I551,83.55,Services!A551,Services,"pvc,general_services"
+441,398,"Composite all in rates; 0.75m deep trench b/fill wi SEM, pipe ne 100 dia by others, sand B&S & warning tape",m,Services,Plumbing Works,43.24,Services!I553,43.24,Services!A553,Services,"pipe,plumbing_works"
+442,399,"Composite all in rates; 1.0m deep trench b/fill wi SEM, pipe ne 100 dia by others, sand B&S & warning tape",m,Services,Plumbing Works,47.84,Services!I554,47.84,Services!A554,Services,"pipe,plumbing_works"
+443,400,"Composite all in rates; 0.75m deep trench b/fill wi 6F2, pipe ne 100 dia by others, sand B&S & warning tape",m,Services,Plumbing Works,59.19,Services!I555,59.19,Services!A555,Services,"pipe,plumbing_works"
+444,401,"Composite all in rates; 1.00m deep trench b/fill wi 6F2, pipe ne 100 dia by others, sand B&S & warning tape",m,Services,Plumbing Works,73.76,Services!I556,73.76,Services!A556,Services,"pipe,plumbing_works"
+445,392,"Draw pits, chambers, inspection pits, etc; ne",m,Services,General Services,176.45,Services!I560,176.45,Services!A560,Services,general_services
+446,393,"Draw pits, chambers, inspection pits, etc; ne",m,Services,General Services,88.31,Services!I568,88.31,Services!A568,Services,general_services
+447,394,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,113.41,Services!I569,113.41,Services!A569,Services,general_services
+448,395,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,138.51,Services!I570,138.51,Services!A570,Services,general_services
+449,396,"Draw pits, chambers, inspection pits, etc; ne",m,Services,General Services,140.36,Services!I574,140.36,Services!A574,Services,general_services
+450,397,"Draw pits, chambers, inspection pits, etc; ne",item,Services,General Services,154.39,Services!I576,154.39,Services!A576,Services,general_services
+451,398,"Draw pits, chambers, inspection pits, etc; 100",item,Services,General Services,177.99,Services!I577,177.99,Services!A577,Services,general_services
+452,399,"Draw pits, chambers, inspection pits, etc; 150",item,Services,General Services,231.09,Services!I578,231.09,Services!A578,Services,general_services
+453,400,"Draw pits, chambers, inspection pits, etc; 200",item,Services,General Services,284.19,Services!I579,284.19,Services!A579,Services,general_services
+454,401,"Draw pits, chambers, inspection pits, etc; Instal only Lighting Bollard",nr,Services,General Services,100.32,Services!I581,100.32,Services!A581,Services,"light,general_services"
+455,402,"Draw pits, chambers, inspection pits, etc; Instal only Lamp column",item,Services,General Services,237.02,Services!I582,237.02,Services!A582,Services,general_services
+456,403,"Draw pits, chambers, inspection pits, etc; Instal only Feeder Pillars",item,Services,General Services,238.13,Services!I583,238.13,Services!A583,Services,general_services
+457,404,"Draw pits, chambers, inspection pits, etc; Temporary marker posts",item,Services,General Services,71.47,Services!I584,71.47,Services!A584,Services,general_services
+458,405,"Draw pits, chambers, inspection pits, etc; 900",item,Services,General Services,114.08,Services!I586,114.08,Services!A586,Services,general_services
+459,406,"Draw pits, chambers, inspection pits, etc; ne",m,Services,General Services,315.11,Services!I589,315.11,Services!A589,Services,general_services
+460,407,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,376.15,Services!I590,376.15,Services!A590,Services,general_services
+461,408,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,437.19,Services!I591,437.19,Services!A591,Services,general_services
+462,409,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,498.23,Services!I592,498.23,Services!A592,Services,general_services
+463,410,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,559.27,Services!I593,559.27,Services!A593,Services,general_services
+464,411,"Draw pits, chambers, inspection pits, etc; 1.5",m,Services,General Services,620.31,Services!I594,620.31,Services!A594,Services,general_services
+465,412,"Draw pits, chambers, inspection pits, etc; 1.75",m,Services,General Services,681.34,Services!I595,681.34,Services!A595,Services,general_services
+466,413,"Draw pits, chambers, inspection pits, etc; EO for B125 cover & frame",item,Services,General Services,21.83,Services!I596,21.83,Services!A596,Services,general_services
+467,414,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,406.82,Services!I598,406.82,Services!A598,Services,general_services
+468,415,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,472.44,Services!I599,472.44,Services!A599,Services,general_services
+469,416,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,538.05,Services!I600,538.05,Services!A600,Services,general_services
+470,417,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,603.66,Services!I601,603.66,Services!A601,Services,general_services
+471,418,"Draw pits, chambers, inspection pits, etc; EO for C250 cover & frame",item,Services,General Services,53.1,Services!I602,53.1,Services!A602,Services,general_services
+472,419,"Draw pits, chambers, inspection pits, etc; EO for D400 cover & frame",item,Services,General Services,112.1,Services!I603,112.1,Services!A603,Services,general_services
+473,419,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,274.26,Services!I605,274.26,Services!A605,Services,general_services
+474,420,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,322.02,Services!I606,322.02,Services!A606,Services,general_services
+475,421,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,369.79,Services!I607,369.79,Services!A607,Services,general_services
+476,422,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,417.55,Services!I608,417.55,Services!A608,Services,general_services
+477,423,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,508.53,Services!I610,508.53,Services!A610,Services,general_services
+478,424,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,590.55,Services!I611,590.55,Services!A611,Services,general_services
+479,425,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,672.56,Services!I612,672.56,Services!A612,Services,general_services
+480,426,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,754.58,Services!I613,754.58,Services!A613,Services,general_services
+481,427,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,675.33,Services!I615,675.33,Services!A615,Services,general_services
+482,428,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,784.25,Services!I616,784.25,Services!A616,Services,general_services
+483,429,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,893.16,Services!I617,893.16,Services!A617,Services,general_services
+484,430,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,1002.08,Services!I618,1002.08,Services!A618,Services,general_services
+485,431,"Draw pits, chambers, inspection pits, etc; ne",m,Services,General Services,785.98,Services!I620,785.98,Services!A620,Services,general_services
+486,432,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,976.77,Services!I621,976.77,Services!A621,Services,general_services
+487,433,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,1167.57,Services!I622,1167.57,Services!A622,Services,general_services
+488,434,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,1358.37,Services!I623,1358.37,Services!A623,Services,general_services
+489,435,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,1549.17,Services!I624,1549.17,Services!A624,Services,general_services
+490,436,"Draw pits, chambers, inspection pits, etc; ne",m,Services,General Services,894.04,Services!I626,894.04,Services!A626,Services,general_services
+491,437,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,1117.56,Services!I627,1117.56,Services!A627,Services,general_services
+492,438,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,1341.07,Services!I628,1341.07,Services!A628,Services,general_services
+493,439,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,1564.58,Services!I629,1564.58,Services!A629,Services,general_services
+494,440,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,1788.09,Services!I630,1788.09,Services!A630,Services,general_services
+495,441,"Draw pits, chambers, inspection pits, etc; 1.5",m,Services,General Services,2011.6,Services!I631,2011.6,Services!A631,Services,general_services
+496,442,"Draw pits, chambers, inspection pits, etc; 1.75",m,Services,General Services,2235.11,Services!I632,2235.11,Services!A632,Services,general_services
+497,443,"Draw pits, chambers, inspection pits, etc; 2",m,Services,General Services,2458.63,Services!I633,2458.63,Services!A633,Services,general_services
+498,441,"Draw pits, chambers, inspection pits, etc; 1000 wde x 500 dp",item,Services,General Services,849.6,Services!I635,849.6,Services!A635,Services,general_services
+499,442,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,783.51,Services!I637,783.51,Services!A637,Services,general_services
+500,443,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,926.74,Services!I638,926.74,Services!A638,Services,general_services
+501,444,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,1069.98,Services!I639,1069.98,Services!A639,Services,general_services
+502,445,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,1213.22,Services!I640,1213.22,Services!A640,Services,general_services
+503,446,"Draw pits, chambers, inspection pits, etc; 1.5",m,Services,General Services,1356.46,Services!I641,1356.46,Services!A641,Services,general_services
+504,447,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,868.05,Services!I643,868.05,Services!A643,Services,general_services
+505,448,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,1029.99,Services!I644,1029.99,Services!A644,Services,general_services
+506,449,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,1191.93,Services!I645,1191.93,Services!A645,Services,general_services
+507,450,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,1353.87,Services!I646,1353.87,Services!A646,Services,general_services
+508,451,"Draw pits, chambers, inspection pits, etc; 1.5",m,Services,General Services,1515.81,Services!I647,1515.81,Services!A647,Services,general_services
+509,452,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,970.09,Services!I649,970.09,Services!A649,Services,general_services
+510,453,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,1157.86,Services!I650,1157.86,Services!A650,Services,general_services
+511,454,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,1345.64,Services!I651,1345.64,Services!A651,Services,general_services
+512,455,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,1533.41,Services!I652,1533.41,Services!A652,Services,general_services
+513,456,"Draw pits, chambers, inspection pits, etc; 1.5",m,Services,General Services,1721.19,Services!I653,1721.19,Services!A653,Services,general_services
+514,457,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,1044.3,Services!I655,1044.3,Services!A655,Services,general_services
+515,458,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,1249.71,Services!I656,1249.71,Services!A656,Services,general_services
+516,459,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,1455.12,Services!I657,1455.12,Services!A657,Services,general_services
+517,460,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,1660.53,Services!I658,1660.53,Services!A658,Services,general_services
+518,461,"Draw pits, chambers, inspection pits, etc; 1.5",m,Services,General Services,1865.94,Services!I659,1865.94,Services!A659,Services,general_services
+519,462,"Draw pits, chambers, inspection pits, etc; 0.5",m,Services,General Services,942.82,Services!I661,942.82,Services!A661,Services,general_services
+520,463,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,1109.95,Services!I662,1109.95,Services!A662,Services,general_services
+521,464,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,1277.08,Services!I663,1277.08,Services!A663,Services,general_services
+522,465,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,1444.2,Services!I664,1444.2,Services!A664,Services,general_services
+523,466,"Draw pits, chambers, inspection pits, etc; 1.5",m,Services,General Services,1611.33,Services!I665,1611.33,Services!A665,Services,general_services
+524,467,"Draw pits, chambers, inspection pits, etc; 1.75",m,Services,General Services,1778.46,Services!I666,1778.46,Services!A666,Services,general_services
+525,468,"Draw pits, chambers, inspection pits, etc; 2",m,Services,General Services,1945.59,Services!I667,1945.59,Services!A667,Services,general_services
+526,469,"Draw pits, chambers, inspection pits, etc; 2.25",m,Services,General Services,2112.72,Services!I668,2112.72,Services!A668,Services,general_services
+527,470,"Draw pits, chambers, inspection pits, etc; 2.5",m,Services,General Services,2279.85,Services!I669,2279.85,Services!A669,Services,general_services
+528,471,"Draw pits, chambers, inspection pits, etc; 2.75",m,Services,General Services,2446.97,Services!I670,2446.97,Services!A670,Services,general_services
+529,472,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,1297.35,Services!I672,1297.35,Services!A672,Services,general_services
+530,473,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,1489.21,Services!I673,1489.21,Services!A673,Services,general_services
+531,474,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,1681.06,Services!I674,1681.06,Services!A674,Services,general_services
+532,475,"Draw pits, chambers, inspection pits, etc; 1.5",m,Services,General Services,1872.92,Services!I675,1872.92,Services!A675,Services,general_services
+533,476,"Draw pits, chambers, inspection pits, etc; 1.75",m,Services,General Services,2064.77,Services!I676,2064.77,Services!A676,Services,general_services
+534,477,"Draw pits, chambers, inspection pits, etc; 2",m,Services,General Services,2256.63,Services!I677,2256.63,Services!A677,Services,general_services
+535,478,"Draw pits, chambers, inspection pits, etc; 2.25",m,Services,General Services,2448.48,Services!I678,2448.48,Services!A678,Services,general_services
+536,479,"Draw pits, chambers, inspection pits, etc; 2.5",m,Services,General Services,2640.34,Services!I679,2640.34,Services!A679,Services,general_services
+537,480,"Draw pits, chambers, inspection pits, etc; 2.75",m,Services,General Services,2832.2,Services!I680,2832.2,Services!A680,Services,general_services
+538,481,"Draw pits, chambers, inspection pits, etc; 3",m,Services,General Services,3024.05,Services!I681,3024.05,Services!A681,Services,general_services
+539,482,"Draw pits, chambers, inspection pits, etc; 3.25",m,Services,General Services,3215.91,Services!I682,3215.91,Services!A682,Services,general_services
+540,483,"Draw pits, chambers, inspection pits, etc; 0.75",m,Services,General Services,2044.5,Services!I684,2044.5,Services!A684,Services,general_services
+541,484,"Draw pits, chambers, inspection pits, etc; 1",m,Services,General Services,2328.88,Services!I685,2328.88,Services!A685,Services,general_services
+542,485,"Draw pits, chambers, inspection pits, etc; 1.25",m,Services,General Services,2613.26,Services!I686,2613.26,Services!A686,Services,general_services
+543,486,"Draw pits, chambers, inspection pits, etc; 1.5",m,Services,General Services,2897.63,Services!I687,2897.63,Services!A687,Services,general_services
+544,487,"Draw pits, chambers, inspection pits, etc; 1.75",m,Services,General Services,3182.01,Services!I688,3182.01,Services!A688,Services,general_services
+545,488,Excavate pits; ne 1m dp,item,Services,"Manholes, chambers, etc - Component measure",20.07,Services!I691,20.07,Services!A691,Services,"manholes,_chambers,_etc_-_component_measure"
+546,489,Excavate pits; ne 2m dp,item,Services,"Manholes, chambers, etc - Component measure",22.58,Services!I692,22.58,Services!A692,Services,"manholes,_chambers,_etc_-_component_measure"
+547,490,Excavate pits; ne 4m dp,item,Services,"Manholes, chambers, etc - Component measure",25.8,Services!I693,25.8,Services!A693,Services,"manholes,_chambers,_etc_-_component_measure"
+548,491,Excavate pits; ne 6m dp,item,Services,"Manholes, chambers, etc - Component measure",41.05,Services!I694,41.05,Services!A694,Services,"manholes,_chambers,_etc_-_component_measure"
+549,492,Excavate pits; ne 8m dp,item,Services,"Manholes, chambers, etc - Component measure",72.25,Services!I695,72.25,Services!A695,Services,"manholes,_chambers,_etc_-_component_measure"
+550,493,EO exc for break out concrete,item,Services,"Manholes, chambers, etc - Component measure",48.56,Services!I696,48.56,Services!A696,Services,"manholes,_chambers,_etc_-_component_measure"
+551,494,EO exc for break out tarmac; 150mm thk,item,Services,"Manholes, chambers, etc - Component measure",3.97,Services!I697,3.97,Services!A697,Services,"manholes,_chambers,_etc_-_component_measure"
+552,495,Dispose of arisings off site,item,Services,"Manholes, chambers, etc - Component measure",44.25,Services!I698,44.25,Services!A698,Services,"manholes,_chambers,_etc_-_component_measure"
+553,496,EWS; ne 1m dp,item,Services,"Manholes, chambers, etc - Component measure",1.02,Services!I699,1.02,Services!A699,Services,"manholes,_chambers,_etc_-_component_measure"
+554,497,EWS; ne 2m dp,item,Services,"Manholes, chambers, etc - Component measure",10.16,Services!I700,10.16,Services!A700,Services,"manholes,_chambers,_etc_-_component_measure"
+555,498,EWS; ne 4m dp,item,Services,"Manholes, chambers, etc - Component measure",18.62,Services!I701,18.62,Services!A701,Services,"manholes,_chambers,_etc_-_component_measure"
+556,499,EWS; ne 6m dp,item,Services,"Manholes, chambers, etc - Component measure",50.08,Services!I702,50.08,Services!A702,Services,"manholes,_chambers,_etc_-_component_measure"
+557,500,EWS; ne 8m dp,item,Services,"Manholes, chambers, etc - Component measure",139.63,Services!I703,139.63,Services!A703,Services,"manholes,_chambers,_etc_-_component_measure"
+558,501,Working space; backfill with SEM,item,Services,"Manholes, chambers, etc - Component measure",83.48,Services!I704,83.48,Services!A704,Services,"manholes,_chambers,_etc_-_component_measure"
+559,502,Working space; backfill with type 1,item,Services,"Manholes, chambers, etc - Component measure",27.9,Services!I705,27.9,Services!A705,Services,"manholes,_chambers,_etc_-_component_measure"
+560,503,L&C bottom of excavation,m³,Services,"Manholes, chambers, etc - Component measure",1.51,Services!I706,1.51,Services!A706,Services,"manholes,_chambers,_etc_-_component_measure"
+561,504,GEN1 blinding; 50mm thk,item,Services,"Manholes, chambers, etc - Component measure",9.41,Services!I707,9.41,Services!A707,Services,"manholes,_chambers,_etc_-_component_measure"
+562,505,GEN1 blinding; 50mm thk,item,Services,"Manholes, chambers, etc - Component measure",188.16,Services!I708,188.16,Services!A708,Services,"manholes,_chambers,_etc_-_component_measure"
+563,506,Pln concrete bed; 150-450mm thk,item,Services,"Manholes, chambers, etc - Component measure",20.5,Services!I709,20.5,Services!A709,Services,"manholes,_chambers,_etc_-_component_measure"
+564,507,Watertight conc in in-situ base slab; C40 Pudlo,item,Services,"Manholes, chambers, etc - Component measure",240.07,Services!I710,240.07,Services!A710,Services,"manholes,_chambers,_etc_-_component_measure"
+565,508,Formwork; edge of bed; ne 250mm; curved,item,Services,"Manholes, chambers, etc - Component measure",15.6,Services!I711,15.6,Services!A711,Services,"manholes,_chambers,_etc_-_component_measure"
+566,509,Formwork; edge of bed; 250-500mm,item,Services,"Manholes, chambers, etc - Component measure",18.57,Services!I712,18.57,Services!A712,Services,"manholes,_chambers,_etc_-_component_measure"
+567,510,Reinforcement; in base slab; allow 150kg/m3,item,Services,"Manholes, chambers, etc - Component measure",1769.62,Services!I713,1769.62,Services!A713,Services,"manholes,_chambers,_etc_-_component_measure"
+568,511,Surface finishes; tamp finish,item,Services,"Manholes, chambers, etc - Component measure",1.46,Services!I714,1.46,Services!A714,Services,"manholes,_chambers,_etc_-_component_measure"
+569,512,Benching; 1050 dia,item,Services,"Manholes, chambers, etc - Component measure",31.2,Services!I715,31.2,Services!A715,Services,"manholes,_chambers,_etc_-_component_measure"
+570,513,Benching; 1200 dia,item,Services,"Manholes, chambers, etc - Component measure",39.6,Services!I716,39.6,Services!A716,Services,"manholes,_chambers,_etc_-_component_measure"
+571,514,Benching; 1500 dia,item,Services,"Manholes, chambers, etc - Component measure",62.41,Services!I717,62.41,Services!A717,Services,"manholes,_chambers,_etc_-_component_measure"
+572,515,Benching; 1800 dia,item,Services,"Manholes, chambers, etc - Component measure",92.43,Services!I718,92.43,Services!A718,Services,"manholes,_chambers,_etc_-_component_measure"
+573,516,Benching; 2100 dia,item,Services,"Manholes, chambers, etc - Component measure",122.46,Services!I719,122.46,Services!A719,Services,"manholes,_chambers,_etc_-_component_measure"
+574,517,Manhole rings; 900 dia,item,Services,"Manholes, chambers, etc - Component measure",194.72,Services!I720,194.72,Services!A720,Services,"manholes,_chambers,_etc_-_component_measure"
+575,518,Manhole rings; 1050 dia,item,Services,"Manholes, chambers, etc - Component measure",202.55,Services!I721,202.55,Services!A721,Services,"manholes,_chambers,_etc_-_component_measure"
+576,519,Manhole rings; 1200 dia,item,Services,"Manholes, chambers, etc - Component measure",233.22,Services!I722,233.22,Services!A722,Services,"manholes,_chambers,_etc_-_component_measure"
+577,520,Manhole rings; 1500 dia,item,Services,"Manholes, chambers, etc - Component measure",340.57,Services!I723,340.57,Services!A723,Services,"manholes,_chambers,_etc_-_component_measure"
+578,521,Manhole rings; 1800 dia,item,Services,"Manholes, chambers, etc - Component measure",426.78,Services!I724,426.78,Services!A724,Services,"manholes,_chambers,_etc_-_component_measure"
+579,522,Manhole rings; 2100 dia,item,Services,"Manholes, chambers, etc - Component measure",696.59,Services!I725,696.59,Services!A725,Services,"manholes,_chambers,_etc_-_component_measure"
+580,523,Manhole rings; 2400 dia,item,Services,"Manholes, chambers, etc - Component measure",870.34,Services!I726,870.34,Services!A726,Services,"manholes,_chambers,_etc_-_component_measure"
+581,524,Manhole rings; 2700 dia,item,Services,"Manholes, chambers, etc - Component measure",1046.37,Services!I727,1046.37,Services!A727,Services,"manholes,_chambers,_etc_-_component_measure"
+582,525,Manhole rings; 3000 dia,item,Services,"Manholes, chambers, etc - Component measure",1427.29,Services!I728,1427.29,Services!A728,Services,"manholes,_chambers,_etc_-_component_measure"
+583,526,Caisson rings; 3600 dia,item,Services,"Manholes, chambers, etc - Component measure",2776.6,Services!I729,2776.6,Services!A729,Services,"manholes,_chambers,_etc_-_component_measure"
+584,527,Caisson rings; 4000 dia,item,Services,"Manholes, chambers, etc - Component measure",5767.01,Services!I730,5767.01,Services!A730,Services,"manholes,_chambers,_etc_-_component_measure"
+585,528,Cover slabs; 900 dia,item,Services,"Manholes, chambers, etc - Component measure",137.08,Services!I731,137.08,Services!A731,Services,"manholes,_chambers,_etc_-_component_measure"
+586,529,Cover slabs; 1050 dia,item,Services,"Manholes, chambers, etc - Component measure",139.47,Services!I732,139.47,Services!A732,Services,"manholes,_chambers,_etc_-_component_measure"
+587,530,Cover slabs; 1200 dia,item,Services,"Manholes, chambers, etc - Component measure",168.93,Services!I733,168.93,Services!A733,Services,"manholes,_chambers,_etc_-_component_measure"
+588,531,Cover slabs; 1500 dia,item,Services,"Manholes, chambers, etc - Component measure",256.46,Services!I734,256.46,Services!A734,Services,"manholes,_chambers,_etc_-_component_measure"
+589,532,Cover slabs; 1800 dia,item,Services,"Manholes, chambers, etc - Component measure",371.85,Services!I735,371.85,Services!A735,Services,"manholes,_chambers,_etc_-_component_measure"
+590,533,Cover slabs; 2100 dia,item,Services,"Manholes, chambers, etc - Component measure",689.03,Services!I736,689.03,Services!A736,Services,"manholes,_chambers,_etc_-_component_measure"
+591,534,Cover slabs; 2400 dia,item,Services,"Manholes, chambers, etc - Component measure",956.21,Services!I737,956.21,Services!A737,Services,"manholes,_chambers,_etc_-_component_measure"
+592,535,Cover slabs; 2700 dia,item,Services,"Manholes, chambers, etc - Component measure",1510.27,Services!I738,1510.27,Services!A738,Services,"manholes,_chambers,_etc_-_component_measure"
+593,536,Cover slabs; 3000 dia,item,Services,"Manholes, chambers, etc - Component measure",1809.56,Services!I739,1809.56,Services!A739,Services,"manholes,_chambers,_etc_-_component_measure"
+594,537,Cover slabs; 3600 dia,item,Services,"Manholes, chambers, etc - Component measure",3794.47,Services!I740,3794.47,Services!A740,Services,"manholes,_chambers,_etc_-_component_measure"
+595,538,Cover slabs; 4000 dia,item,Services,"Manholes, chambers, etc - Component measure",4242.86,Services!I741,4242.86,Services!A741,Services,"manholes,_chambers,_etc_-_component_measure"
+596,539,Main channel; 100 dia,item,Services,"Manholes, chambers, etc - Component measure",34.31,Services!I742,34.31,Services!A742,Services,"manholes,_chambers,_etc_-_component_measure"
+597,540,Main channel; 150 dia,item,Services,"Manholes, chambers, etc - Component measure",52.46,Services!I743,52.46,Services!A743,Services,"manholes,_chambers,_etc_-_component_measure"
+598,541,Main channel; 225 dia,item,Services,"Manholes, chambers, etc - Component measure",89.9,Services!I744,89.9,Services!A744,Services,"manholes,_chambers,_etc_-_component_measure"
+599,542,Main channel; 300 dia,item,Services,"Manholes, chambers, etc - Component measure",154.39,Services!I745,154.39,Services!A745,Services,"manholes,_chambers,_etc_-_component_measure"
+600,543,Main channel; 450 dia,item,Services,"Manholes, chambers, etc - Component measure",257.95,Services!I746,257.95,Services!A746,Services,"manholes,_chambers,_etc_-_component_measure"
+601,544,Branch bends; 100 dia,item,Services,"Manholes, chambers, etc - Component measure",38.74,Services!I747,38.74,Services!A747,Services,"manholes,_chambers,_etc_-_component_measure"
+602,545,Branch bends; 150 dia,item,Services,"Manholes, chambers, etc - Component measure",59.49,Services!I748,59.49,Services!A748,Services,"manholes,_chambers,_etc_-_component_measure"
+603,546,Branch bends; 225 dia,item,Services,"Manholes, chambers, etc - Component measure",111.61,Services!I749,111.61,Services!A749,Services,"manholes,_chambers,_etc_-_component_measure"
+604,547,Brickwork; engineering bricks; 1B thk in c.m.,kw,Services,"Manholes, chambers, etc - Component measure",128.27,Services!I750,128.27,Services!A750,Services,"manholes,_chambers,_etc_-_component_measure"
+605,548,Watertight conc in in-situ walls; C40 Pudlo,item,Services,"Manholes, chambers, etc - Component measure",262.58,Services!I751,262.58,Services!A751,Services,"manholes,_chambers,_etc_-_component_measure"
+606,549,Formwork to MH walls,item,Services,"Manholes, chambers, etc - Component measure",54.82,Services!I752,54.82,Services!A752,Services,"manholes,_chambers,_etc_-_component_measure"
+607,550,Reinforcement; in walls; allow 200kg/m3,item,Services,"Manholes, chambers, etc - Component measure",1769.62,Services!I753,1769.62,Services!A753,Services,"manholes,_chambers,_etc_-_component_measure"
+608,551,Watertight concrete in cover slab; C40 Pudlo,item,Services,"Manholes, chambers, etc - Component measure",241.68,Services!I754,241.68,Services!A754,Services,"manholes,_chambers,_etc_-_component_measure"
+609,552,Formwork to soffit of cover slab,item,Services,"Manholes, chambers, etc - Component measure",74.21,Services!I755,74.21,Services!A755,Services,"manholes,_chambers,_etc_-_component_measure"
+610,553,Form opening in slab; slab 250-500; opening 2-3m gth,item,Services,"Manholes, chambers, etc - Component measure",52.24,Services!I756,52.24,Services!A756,Services,"manholes,_chambers,_etc_-_component_measure"
+611,554,Form rebate to suit C&F; 2-3m girth,item,Services,"Manholes, chambers, etc - Component measure",8.0,Services!I757,8.0,Services!A757,Services,"manholes,_chambers,_etc_-_component_measure"
+612,555,Build in ends of pipe; 100 dia,m,Services,"Manholes, chambers, etc - Component measure",28.84,Services!I758,28.84,Services!A758,Services,"pipe,manholes,_chambers,_etc_-_component_measure"
+613,556,Build in ends of pipe; 150 dia,m,Services,"Manholes, chambers, etc - Component measure",43.27,Services!I759,43.27,Services!A759,Services,"pipe,manholes,_chambers,_etc_-_component_measure"
+614,557,Build in ends of pipe; 225 dia,m,Services,"Manholes, chambers, etc - Component measure",57.69,Services!I760,57.69,Services!A760,Services,"pipe,manholes,_chambers,_etc_-_component_measure"
+615,558,Build in ends of pipe; 300 dia,m,Services,"Manholes, chambers, etc - Component measure",86.53,Services!I761,86.53,Services!A761,Services,"pipe,manholes,_chambers,_etc_-_component_measure"
+616,559,Build in ends of pipe; 450 dia,m,Services,"Manholes, chambers, etc - Component measure",115.38,Services!I762,115.38,Services!A762,Services,"pipe,manholes,_chambers,_etc_-_component_measure"
+617,560,Step irons; built into brickwork,kw,Services,"Manholes, chambers, etc - Component measure",15.0,Services!I763,15.0,Services!A763,Services,"manholes,_chambers,_etc_-_component_measure"
+618,561,Step irons; built into pre-cast manhole sections,item,Services,"Manholes, chambers, etc - Component measure",7.08,Services!I764,7.08,Services!A764,Services,"manholes,_chambers,_etc_-_component_measure"
+619,562,EO for steel ladder in lieu of step irons,item,Services,"Manholes, chambers, etc - Component measure",115.6,Services!I765,115.6,Services!A765,Services,"steel,manholes,_chambers,_etc_-_component_measure"
+620,563,Concrete surround; 150-450mm thk,item,Services,"Manholes, chambers, etc - Component measure",38.11,Services!I766,38.11,Services!A766,Services,"manholes,_chambers,_etc_-_component_measure"
+621,564,Formwork; to concrete surround; curved,item,Services,"Manholes, chambers, etc - Component measure",10.86,Services!I767,10.86,Services!A767,Services,"manholes,_chambers,_etc_-_component_measure"
+622,565,Fill with SEM,item,Services,"Manholes, chambers, etc - Component measure",9.03,Services!I768,9.03,Services!A768,Services,"manholes,_chambers,_etc_-_component_measure"
+623,566,Imported granular fill; type 1,item,Services,"Manholes, chambers, etc - Component measure",10.0,Services!I769,10.0,Services!A769,Services,"manholes,_chambers,_etc_-_component_measure"
+624,567,L&C surface of fill,item,Services,"Manholes, chambers, etc - Component measure",1.51,Services!I770,1.51,Services!A770,Services,"manholes,_chambers,_etc_-_component_measure"
+625,568,Brickwork kerb; 225mm high; eng bricks; 1B thk in c.m.,kw,Services,"Manholes, chambers, etc - Component measure",33.06,Services!I771,33.06,Services!A771,Services,"manholes,_chambers,_etc_-_component_measure"
+626,569,A15 cover & frame; 600 x 600/450; inc 3 courses of brickwork,kw,Services,"Manholes, chambers, etc - Component measure",187.61,Services!I772,187.61,Services!A772,Services,"manholes,_chambers,_etc_-_component_measure"
+627,570,B125 cover & frame; 600 x 600/450; inc 3 courses of brickwork,kw,Services,"Manholes, chambers, etc - Component measure",195.87,Services!I773,195.87,Services!A773,Services,"manholes,_chambers,_etc_-_component_measure"
+628,571,D400 cover & frame; 600 x 600/450; inc 3 courses of brickwork,kw,Services,"Manholes, chambers, etc - Component measure",231.27,Services!I774,231.27,Services!A774,Services,"manholes,_chambers,_etc_-_component_measure"
+629,572,"Supply and install Harton Pod 7500 (Groundworks and concrete surround meas sep); including exc, C/A, EWS, W/S, conc, fwk, rebar, chambers, C&Fs, sump pump discharge, vent pipe, etc; Commission on completion",m,Services,Harton Pod,88527.71,Services!I777,88527.71,Services!A777,Services,"pipe,pump,harton_pod"
+630,573,Supply and install Harton Pod 7500 (Groundworks and concrete surround meas sep); grdwks meas sep; Commission on completion,item,Services,Harton Pod,55000.98,Services!I778,55000.98,Services!A778,Services,harton_pod
+631,574,M& E connections and supplies to Harton Pod (meas sep),item,Services,Harton Pod,0.0,,0.0,Services!A779,Services,harton_pod
+632,575,Servicing and maintenance of  Harton Pod,item,Services,Harton Pod,0.0,,0.0,Services!A780,Services,harton_pod
+633,576,Attendance on installation team; maintain open trenches,m³,Services,Attendance on District Heating,7.12,Services!I783,7.12,Services!A783,Services,attendance_on_district_heating
+634,577,Full road closure,item,Services,"Road closure for service runs or connection in road, including liason with Council, TFL & other Stats, licenses, permissions, fees, etc",4248.0,Services!I786,4248.0,Services!A786,Services,"road_closure_for_service_runs_or_connection_in_road,_including_liason_with_council,_tfl_&_other_stats,_licenses,_permissions,_fees,_etc"
+635,578,Partial road closure,item,Services,"Road closure for service runs or connection in road, including liason with Council, TFL & other Stats, licenses, permissions, fees, etc",2360.0,Services!I787,2360.0,Services!A787,Services,"road_closure_for_service_runs_or_connection_in_road,_including_liason_with_council,_tfl_&_other_stats,_licenses,_permissions,_fees,_etc"
+636,579,"Traffic diversion submission & licence, inc liase with Stats, design, proposal & approval/permission, RAMS, fees, etc",item,Services,Traffic management for service runs or connection in Road,1770.0,Services!I789,1770.0,Services!A789,Services,traffic_management_for_service_runs_or_connection_in_road
+637,580,"Pedestrian diversion submission & license, inc liase with Stats, design, proposal & approval/permissions, RAMS, fees, etc",item,Services,Traffic management for service runs or connection in Road,1416.0,Services!I790,1416.0,Services!A790,Services,traffic_management_for_service_runs_or_connection_in_road
+638,581,"Install traffic management measures, inc lights, signs, lights, notices, etc",nr,Services,Traffic management for service runs or connection in Road,2183.0,Services!I791,2183.0,Services!A791,Services,"light,traffic_management_for_service_runs_or_connection_in_road"
+639,582,"Heras fencing, inc erect, adapt and dismantle on completion",item,Services,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",36.09,Services!I793,36.09,Services!A793,Services,"temporary_fencing,_heras,_barriers,_sleepers,_road_plates,_etc"
+640,583,Pedestrian barriers,item,Services,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",42.81,Services!I794,42.81,Services!A794,Services,"temporary_fencing,_heras,_barriers,_sleepers,_road_plates,_etc"
+641,584,Jersey blocks,item,Services,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",59.66,Services!I795,59.66,Services!A795,Services,"temporary_fencing,_heras,_barriers,_sleepers,_road_plates,_etc"
+642,585,Road plates,item,Services,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",58.34,Services!I796,58.34,Services!A796,Services,"temporary_fencing,_heras,_barriers,_sleepers,_road_plates,_etc"
+643,586,Survey existing services,item,Services,Testing,1180.0,Services!I799,1180.0,Services!A799,Services,testing
+644,587,Chlorination cleaning of water system,item,Services,Testing,2950.0,Services!I800,2950.0,Services!A800,Services,testing
+645,588,Hydraulic testing of water main,sum,Services,Testing,1180.0,Services!I801,1180.0,Services!A801,Services,testing
+646,589,CCTV survey,item,Services,Testing,2124.0,Services!I802,2124.0,Services!A802,Services,testing
+647,590,Dispose of ground water,item,Services,Testing,2173.21,Services!I803,2173.21,Services!A803,Services,testing
+648,592,Test drains,item,Services,Testing,1.53,Services!I805,1.53,Services!A805,Services,testing
+649,593,Re-test drains on completion,item,Services,Testing,1.53,Services!I806,1.53,Services!A806,Services,testing
+650,594,CCTV survey,item,Services,Testing,3.55,Services!I807,3.55,Services!A807,Services,testing
