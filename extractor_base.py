@@ -67,7 +67,8 @@ class BaseExtractor:
                  'kg', 'tonnes', 't', 'lm', 'sqm', 'cum', 'each', 'set',
                  'l.s.', 'ls', 'hour', 'hr', 'day', 'week', 'month']
         
-        return value_str in units or any(unit in value_str for unit in units)
+        # Check for exact match only
+        return value_str in units
     
     def standardize_unit(self, unit):
         """Standardize unit format"""
@@ -88,7 +89,11 @@ class BaseExtractor:
         return unit_map.get(unit_lower, unit_lower)
     
     def extract_rate(self, row, start_col=3, end_col=10):
-        """Extract rate value from typical rate columns"""
+        """Extract rate value from typical rate columns - always returns a column index"""
+        rate_value = None
+        rate_col = None
+        
+        # Try to find a valid rate
         for col_idx in range(start_col, min(end_col, len(row))):
             if pd.notna(row[col_idx]):
                 value = str(row[col_idx]).strip()
@@ -96,11 +101,29 @@ class BaseExtractor:
                 value_clean = value.replace(',', '').replace('£', '').replace('$', '')
                 try:
                     rate = float(value_clean)
-                    if rate > 0 and rate < 1000000:  # Sanity check
-                        return rate, col_idx  # Return both rate and column index
+                    if rate >= 0 and rate < 1000000:  # Allow 0 rates, sanity check for upper bound
+                        rate_value = rate
+                        rate_col = col_idx
+                        break  # Found a valid rate
                 except:
                     continue
-        return None, None
+        
+        # If no rate found, still return the expected rate column
+        # For most sheets, rate is in column F (index 5)
+        if rate_col is None:
+            # Default to column F (index 5) which is typical for rate columns
+            rate_col = 5  
+            rate_value = 0
+            
+            # But check if column F exists
+            if rate_col >= len(row):
+                # If not, try column E (index 4)
+                rate_col = 4
+                if rate_col >= len(row):
+                    # Last resort - column D (index 3)
+                    rate_col = 3
+        
+        return rate_value, rate_col
     
     def create_item(self, row_idx, row, code=None, description='', unit='item', 
                    subcategory='', rate=None, rate_col_idx=None, keywords=None):

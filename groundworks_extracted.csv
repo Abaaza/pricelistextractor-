@@ -1,11 +1,894 @@
 id,code,description,unit,category,subcategory,rate,cellRate_reference,cellRate_rate,excelCellReference,sourceSheetName,keywords
-36,36,Bollard,nr,Groundworks,Groundworks,33.91,Groundworks!F48,33.91,Groundworks!A48,Groundworks,
-107,107,Design,item,Groundworks,Groundworks,1180.0,Groundworks!F125,1180.0,Groundworks!A125,Groundworks,
-139,139,Design,item,Groundworks,Groundworks,2950.0,Groundworks!F157,2950.0,Groundworks!A157,Groundworks,
-144,144,Piles for crane base,nr,Groundworks,Groundworks,1770.0,Groundworks!F162,1770.0,Groundworks!A162,Groundworks,
-224,224,Exc ancilliaries; prepare surfaces,m²,Groundworks,Groundworks,0.11,Groundworks!F256,0.11,Groundworks!A256,Groundworks,
-225,225,Exc ancilliaries; prepare surfaces; sloping,m²,Groundworks,Groundworks,1.08,Groundworks!F257,1.08,Groundworks!A257,Groundworks,
-269,269,EO for using a conveyor,m³,Groundworks,Groundworks,11.85,Groundworks!F303,11.85,Groundworks!A303,Groundworks,
-407,407,Welder,days,Groundworks,Groundworks,147.5,Groundworks!F448,147.5,Groundworks!A448,Groundworks,
-697,697,Seal & dress around pile,nr,Groundworks,Groundworks,24.46,Groundworks!F768,24.46,Groundworks!A768,Groundworks,
-794,794,Seal & dress around pile,nr,Groundworks,Groundworks,14.78,Groundworks!F878,14.78,Groundworks!A878,Groundworks,
+1,1,Excavation quantities based on existing ground level being m OD,item,Groundworks,Preambles,0.0,Groundworks!G11,0.0,Groundworks!A11,Groundworks,excavation
+2,2,No allowance has been made for dealing with contaminated ground,item,Groundworks,Preambles,0.0,Groundworks!G12,0.0,Groundworks!A12,Groundworks,
+3,3,Tender based on drawings:,item,Groundworks,Preambles,0.0,Groundworks!G13,0.0,Groundworks!A13,Groundworks,
+4,4,Demolish existing timber & plaster partitions/floors/roofs (Reduce elements to solid m3),m³,Groundworks,Demolition,158.66,Groundworks!F16,158.66,Groundworks!A16,Groundworks,
+5,5,Demolish existing brickwork/blockwork/plaster (Reduce walls to solid m3),m³,Groundworks,Demolition,120.3,Groundworks!F17,120.3,Groundworks!A17,Groundworks,
+6,6,"Demolish existing RC structure inc breakup, load & C/A (reduce to solid m3)",m³,Groundworks,Demolition,209.55,Groundworks!F18,209.55,Groundworks!A18,Groundworks,
+7,7,Break up & remove existing GF concrete slabs,m³,Groundworks,Demolition,74.67,Groundworks!F19,74.67,Groundworks!A19,Groundworks,
+8,8,Grub up & remove existing foundations and underground obstructions and backfill voids with structural granular fill well compacted in layers,m³,Groundworks,Demolition,133.85,Groundworks!F20,133.85,Groundworks!A20,Groundworks,foundation|compact
+9,9,Grub up & remove existing foundations and underground obstructions and backfill voids with structural granular fill well compacted in layers,m³,Groundworks,Demolition,109.21,Groundworks!F21,109.21,Groundworks!A21,Groundworks,foundation|compact
+10,10,Grub up & remove existing basements and underground structures and backfill voids with structural granular fill well compacted in layers; total gross volume m3,m³,Groundworks,Demolition,75.34,Groundworks!F22,75.34,Groundworks!A22,Groundworks,compact
+11,11,Temporary works required for demolition,m²,Groundworks,Demolition,109.28,Groundworks!F23,109.28,Groundworks!A23,Groundworks,
+12,12,Crash deck under slab break outs,m²,Groundworks,Demolition,35.11,Groundworks!F24,35.11,Groundworks!A24,Groundworks,
+13,13,Excavate by hand; inside existing buildings & get out,m³,Groundworks,Demolition,91.78,Groundworks!F25,91.78,Groundworks!A25,Groundworks,
+14,14,Excavate by hand; in confined space within building & get out,m³,Groundworks,Demolition,128.75,Groundworks!F26,128.75,Groundworks!A26,Groundworks,
+15,15,"Demolish by hand brickwork/blockwork/etc inc breakup, load & C/A (solid m3)",m³,Groundworks,Demolition,415.77,Groundworks!F27,415.77,Groundworks!A27,Groundworks,
+16,16,"Demolish by hand RC structure inc breakup, load & C/A (solid m3) slabs slabs",m³,Groundworks,Demolition,547.55,Groundworks!F28,547.55,Groundworks!A28,Groundworks,
+17,17,"Demolish by hand RC structure inc breakup, load & C/A (solid m3) walls walls",m³,Groundworks,Demolition,547.55,Groundworks!F29,547.55,Groundworks!A29,Groundworks,
+18,18,Exc 100mm dp; b/o tarmac; C/A; b/fill with 6F2; L&C,m²,Groundworks,Demolition,11.2,Groundworks!F30,11.2,Groundworks!A30,Groundworks,100mm
+19,19,Exc 100mm dp; b/o tarmac; C/A; b/fill with 6F2; L&C,m²,Groundworks,Demolition,31.52,Groundworks!F31,31.52,Groundworks!A31,Groundworks,100mm
+20,20,Saw cut concrete; not exceeding 100mm,m,Groundworks,Demolition,8.97,Groundworks!F32,8.97,Groundworks!A32,Groundworks,100mm
+21,21,Saw cut concrete; not exceeding 200mm,m,Groundworks,Demolition,17.94,Groundworks!F33,17.94,Groundworks!A33,Groundworks,200mm
+22,22,Saw cut concrete; not exceeding 300mm,m,Groundworks,Demolition,26.9,Groundworks!F34,26.9,Groundworks!A34,Groundworks,300mm
+23,23,Saw cut concrete; not exceeding 400mm,m,Groundworks,Demolition,35.87,Groundworks!F35,35.87,Groundworks!A35,Groundworks,400mm
+24,24,Saw cut concrete; not exceeding 500mm,m,Groundworks,Demolition,44.84,Groundworks!F36,44.84,Groundworks!A36,Groundworks,500mm
+25,25,Remove any existing redundant drains and services; prov 1.5m dp,m,Groundworks,Demolition,108.48,Groundworks!F37,108.48,Groundworks!A37,Groundworks,5m
+26,26,Breakout and remove extg manhole; prov 1.5m dp,nr,Groundworks,Demolition,338.64,Groundworks!F38,338.64,Groundworks!A38,Groundworks,5m
+27,27,Divert any live drains or services that encrouch on position of new building and working space around.,item,Groundworks,Demolition,0.0,Groundworks!F39,0.0,Groundworks!A39,Groundworks,
+28,28,Demolish existing sub station,nr,Groundworks,Demolition,5906.56,Groundworks!F40,5906.56,Groundworks!A40,Groundworks,
+29,29,Electric diversion,nr,Groundworks,Demolition,2360.0,Groundworks!F41,2360.0,Groundworks!A41,Groundworks,
+30,30,Cat scan site,nr,Groundworks,Demolition,1180.0,Groundworks!F42,1180.0,Groundworks!A42,Groundworks,
+31,31,Remove existing handrails; 1.2m high galv/painted steel,m,Groundworks,Demolition,98.86,Groundworks!F43,98.86,Groundworks!A43,Groundworks,2m
+32,32,Remove existing handrails; 1.0m high galv/painted steel,m,Groundworks,Demolition,95.32,Groundworks!F44,95.32,Groundworks!A44,Groundworks,0m
+33,33,Remove existing metal fencing; not exceeding 1.0m high,m,Groundworks,Demolition,73.61,Groundworks!F45,73.61,Groundworks!A45,Groundworks,0m
+34,34,Remove lamposts,m²,Groundworks,Demolition,137.9,Groundworks!F46,137.9,Groundworks!A46,Groundworks,
+35,35,Remove wooden fencing; 1.80m high,m,Groundworks,Demolition,67.55,Groundworks!F47,67.55,Groundworks!A47,Groundworks,80m
+36,36,Bollard,nr,Groundworks,Demolition,33.91,Groundworks!F48,33.91,Groundworks!A48,Groundworks,
+37,37,CCTV columns,nr,Groundworks,Demolition,137.9,Groundworks!F49,137.9,Groundworks!A49,Groundworks,
+38,38,Car park barrier and payment machine,nr,Groundworks,Demolition,310.83,Groundworks!F50,310.83,Groundworks!A50,Groundworks,
+39,39,Load and cart fly tipped materials left on site,m³,Groundworks,Demolition,73.23,Groundworks!F51,73.23,Groundworks!A51,Groundworks,
+40,40,Heras fencing as tree protection (per tree),nr,Groundworks,Enabling Works,44.02,Groundworks!F54,44.02,Groundworks!A54,Groundworks,
+41,41,Site clearance,m²,Groundworks,Enabling Works,0.97,Groundworks!F55,0.97,Groundworks!A55,Groundworks,
+42,42,Excavate to reduce levels,m³,Groundworks,Enabling Works,3.94,Groundworks!F56,3.94,Groundworks!A56,Groundworks,
+43,43,Excavate to reduce levels,m³,Groundworks,Enabling Works,3.94,Groundworks!F57,3.94,Groundworks!A57,Groundworks,
+44,44,Dispose of excavation arisings off site; clean inert material,m³,Groundworks,Enabling Works,41.65,Groundworks!F59,41.65,Groundworks!A59,Groundworks,excavation
+45,45,Dispose of excavation arisings off site; clean inert material,m³,Groundworks,Enabling Works,41.65,Groundworks!F60,41.65,Groundworks!A60,Groundworks,excavation
+46,46,Level & compact bottom of excavation,m²,Groundworks,Enabling Works,0.53,Groundworks!F61,0.53,Groundworks!A61,Groundworks,excavation|compact
+47,47,Level & compact bottom of excavation,m²,Groundworks,Enabling Works,0.34,Groundworks!F62,0.34,Groundworks!A62,Groundworks,excavation|compact
+48,48,Terram,m²,Groundworks,Enabling Works,1.47,Groundworks!F63,1.47,Groundworks!A63,Groundworks,
+49,49,Imported fill; hardcore / crushed concrete in piling mat,m³,Groundworks,Enabling Works,27.78,Groundworks!F64,27.78,Groundworks!A64,Groundworks,hardcore
+50,50,Imported fill; hardcore / crushed concrete in piling mat,m³,Groundworks,Enabling Works,28.55,Groundworks!F65,28.55,Groundworks!A65,Groundworks,hardcore
+51,51,Piling mat; imported hardcore; 600mm thk,m²,Groundworks,Enabling Works,16.67,Groundworks!F66,16.67,Groundworks!A66,Groundworks,600mm|hardcore
+52,52,Haul roads; imported Type 1; 300mm thk,m³,Groundworks,Enabling Works,47.63,Groundworks!F67,47.63,Groundworks!A67,Groundworks,300mm
+53,53,Hardstandings; imported Type 2; 250mm thick,m³,Groundworks,Enabling Works,44.85,Groundworks!F68,44.85,Groundworks!A68,Groundworks,250mm
+54,54,Level & compact fill,m²,Groundworks,Enabling Works,0.53,Groundworks!F69,0.53,Groundworks!A69,Groundworks,compact
+55,55,Level & compact fill,m²,Groundworks,Enabling Works,0.53,Groundworks!F70,0.53,Groundworks!A70,Groundworks,compact
+56,56,Install protective matting,m²,Groundworks,Enabling Works,0.0,Groundworks!G71,0.0,Groundworks!A71,Groundworks,
+57,57,Erect hoardings,m,Groundworks,Enabling Works,95.5,Groundworks!F72,95.5,Groundworks!A72,Groundworks,
+58,58,Double gate; vehicle access,nr,Groundworks,Enabling Works,1422.59,Groundworks!F73,1422.59,Groundworks!A73,Groundworks,
+59,59,EO for Pedestrian gate,nr,Groundworks,Enabling Works,381.04,Groundworks!F74,381.04,Groundworks!A74,Groundworks,
+60,60,Temporary gates during piling; Double gate; vehicle access,nr,Groundworks,Enabling Works,1422.59,Groundworks!F75,1422.59,Groundworks!A75,Groundworks,
+61,61,Heras Fencing (tree protection),m,Groundworks,Enabling Works,25.38,Groundworks!F76,25.38,Groundworks!A76,Groundworks,
+62,62,Isolate & remove live services,item,Groundworks,Enabling Works,2031.96,Groundworks!F77,2031.96,Groundworks!A77,Groundworks,
+63,63,"Survey for services, etc",item,Groundworks,Enabling Works,2360.0,Groundworks!F78,2360.0,Groundworks!A78,Groundworks,
+64,64,Trial pit to locate services,nr,Groundworks,Enabling Works,78.93,Groundworks!F79,78.93,Groundworks!A79,Groundworks,
+65,65,Level & compact ground,m²,Groundworks,Piling & Piling Attendance,0.53,Groundworks!F82,0.53,Groundworks!A82,Groundworks,compact
+66,66,CBR test to establish piling mat capacity,nr,Groundworks,Piling & Piling Attendance,383.5,Groundworks!F83,383.5,Groundworks!A83,Groundworks,
+67,67,"Excavate to reduce levels, for piling mat; not exceeding 1m dp",m³,Groundworks,Piling & Piling Attendance,3.8,Groundworks!F84,3.8,Groundworks!A84,Groundworks,1m
+68,68,Level & compact bottom of excavation,m²,Groundworks,Piling & Piling Attendance,0.5,Groundworks!F85,0.5,Groundworks!A85,Groundworks,excavation|compact
+69,69,Excavate to remove piling mat,m³,Groundworks,Piling & Piling Attendance,3.8,Groundworks!F86,3.8,Groundworks!A86,Groundworks,
+70,70,Scrape off top of piling mat & dispose off site; not exceeding 100mm thk,m²,Groundworks,Piling & Piling Attendance,4.95,Groundworks!F87,4.95,Groundworks!A87,Groundworks,100mm
+71,71,Excavate to remove piling mat & dispose off site; 300mm thk,m²,Groundworks,Piling & Piling Attendance,14.42,Groundworks!F88,14.42,Groundworks!A88,Groundworks,300mm
+72,72,Excavate to remove piling mat & dispose off site; 400mm thk,m²,Groundworks,Piling & Piling Attendance,19.22,Groundworks!F89,19.22,Groundworks!A89,Groundworks,400mm
+73,73,Excavate to remove piling mat & dispose off site; 500mm thk,m²,Groundworks,Piling & Piling Attendance,24.03,Groundworks!F90,24.03,Groundworks!A90,Groundworks,500mm
+74,74,Excavate to remove piling mat & dispose off site; 600mm thk,m²,Groundworks,Piling & Piling Attendance,28.83,Groundworks!F91,28.83,Groundworks!A91,Groundworks,600mm
+75,75,Excavate to remove piling mat & dispose off site; 750mm thk,m²,Groundworks,Piling & Piling Attendance,36.04,Groundworks!F92,36.04,Groundworks!A92,Groundworks,750mm
+76,76,Excavate to remove piling mat & dispose off site,m³,Groundworks,Piling & Piling Attendance,48.05,Groundworks!F93,48.05,Groundworks!A93,Groundworks,
+77,77,Inert disposal rate fluctuating based on prime cost of:,m³,Groundworks,Piling & Piling Attendance,300.0,Groundworks!F94,300.0,Groundworks!A94,Groundworks,disposal
+78,78,Dispose of excavation arisings off site; clean inert material,m³,Groundworks,Piling & Piling Attendance,44.25,Groundworks!F95,44.25,Groundworks!A95,Groundworks,excavation
+79,79,Dispose of hardcore (from piling mat) off site,m³,Groundworks,Piling & Piling Attendance,19.67,Groundworks!F96,19.67,Groundworks!A96,Groundworks,hardcore
+80,80,Haul & deposit on site; max 50m,m³,Groundworks,Piling & Piling Attendance,5.06,Groundworks!F97,5.06,Groundworks!A97,Groundworks,50m
+81,81,Piling mat design,item,Groundworks,Piling & Piling Attendance,1180.0,Groundworks!F98,1180.0,Groundworks!A98,Groundworks,
+82,82,Filling with free issue materials from site stockpile; load & haul max 50m,m³,Groundworks,Piling & Piling Attendance,9.93,Groundworks!F99,9.93,Groundworks!A99,Groundworks,50m|filling
+83,83,Imported fill; hardcore / crushed concrete in piling mat,m³,Groundworks,Piling & Piling Attendance,27.78,Groundworks!F100,27.78,Groundworks!A100,Groundworks,hardcore
+84,84,Imported fill; 6F2 in piling mat,m³,Groundworks,Piling & Piling Attendance,36.05,Groundworks!F101,36.05,Groundworks!A101,Groundworks,
+85,85,Filling with free issue materials from site stockpile; to form piling mat; load & haul max 50m,m³,Groundworks,Piling & Piling Attendance,9.81,Groundworks!F102,9.81,Groundworks!A102,Groundworks,50m|filling
+86,86,Form ramp between different levels of pile mat,nr,Groundworks,Piling & Piling Attendance,646.35,Groundworks!F103,646.35,Groundworks!A103,Groundworks,
+87,87,Credit free issue materials for piling mat,m³,Groundworks,Piling & Piling Attendance,0.0,Groundworks!G104,0.0,Groundworks!A104,Groundworks,
+88,88,Imported fill; hardcore / crushed concrete in piling mat; not exceeding 100mm thick,m²,Groundworks,Piling & Piling Attendance,3.15,Groundworks!F105,3.15,Groundworks!A105,Groundworks,100mm|hardcore
+89,89,Imported fill; hardcore / crushed concrete in piling mat; 300mm thick,m²,Groundworks,Piling & Piling Attendance,8.33,Groundworks!F106,8.33,Groundworks!A106,Groundworks,300mm|hardcore
+90,90,Filling with free issue materials from site stockpile; to form piling mat; load & haul max 50m; 300mm thk,m²,Groundworks,Piling & Piling Attendance,2.98,Groundworks!F107,2.98,Groundworks!A107,Groundworks,50m|300mm|filling
+91,91,Imported fill; 6F2 in piling mat; 400mm thick,m²,Groundworks,Piling & Piling Attendance,14.44,Groundworks!F108,14.44,Groundworks!A108,Groundworks,400mm
+92,92,Imported fill; 6F2 in piling mat; 500mm thick,m²,Groundworks,Piling & Piling Attendance,18.05,Groundworks!F109,18.05,Groundworks!A109,Groundworks,500mm
+93,93,Imported fill; 6F2 in piling mat; 600mm thick,m²,Groundworks,Piling & Piling Attendance,21.67,Groundworks!F110,21.67,Groundworks!A110,Groundworks,600mm
+94,94,Imported fill; 6F2 in piling mat; 750mm thick,m²,Groundworks,Piling & Piling Attendance,27.08,Groundworks!F111,27.08,Groundworks!A111,Groundworks,750mm
+95,95,Imported fill; 6F2 in piling mat; 900mm thick,m²,Groundworks,Piling & Piling Attendance,34.03,Groundworks!F112,34.03,Groundworks!A112,Groundworks,900mm
+96,96,Level & compact surface of fill,m²,Groundworks,Piling & Piling Attendance,0.52,Groundworks!F113,0.52,Groundworks!A113,Groundworks,compact
+97,97,Terram,m²,Groundworks,Piling & Piling Attendance,1.47,Groundworks!F114,1.47,Groundworks!A114,Groundworks,
+98,98,Tensar Triax geogrid,m²,Groundworks,Piling & Piling Attendance,3.22,Groundworks!F115,3.22,Groundworks!A115,Groundworks,
+99,99,Tensar Geogrid TX150,m²,Groundworks,Piling & Piling Attendance,3.05,Groundworks!F116,3.05,Groundworks!A116,Groundworks,
+100,100,E'grid 3030L geotextile,m²,Groundworks,Piling & Piling Attendance,3.96,Groundworks!F117,3.96,Groundworks!A117,Groundworks,
+101,101,Level & compact piling mat,m²,Groundworks,Piling & Piling Attendance,0.53,Groundworks!F118,0.53,Groundworks!A118,Groundworks,compact
+102,102,Piling mat maintenance,m²,Groundworks,Piling & Piling Attendance,0.62,Groundworks!F119,0.62,Groundworks!A119,Groundworks,
+103,103,"Design, mobilise, install concrete bearing piles, test & de-mobilise",item,Groundworks,Piling & Piling Attendance,989288.4,Groundworks!F120,989288.4,Groundworks!A120,Groundworks,
+104,104,"Design, mobilise, install concrete contig piles, test & de-mobilise",item,Groundworks,Piling & Piling Attendance,266880.6,Groundworks!F121,266880.6,Groundworks!A121,Groundworks,
+105,105,Mobilise,nr,Groundworks,300mm dia piles; by MBL Piling,1180.0,Groundworks!F123,1180.0,Groundworks!A123,Groundworks,
+106,106,Demobilise,nr,Groundworks,300mm dia piles; by MBL Piling,1180.0,Groundworks!F124,1180.0,Groundworks!A124,Groundworks,
+107,107,Design,item,Groundworks,300mm dia piles; by MBL Piling,1180.0,Groundworks!F125,1180.0,Groundworks!A125,Groundworks,
+108,108,Set-up at pile position,nr,Groundworks,300mm dia piles; by MBL Piling,41.37,Groundworks!F126,41.37,Groundworks!A126,Groundworks,
+109,109,Auger 300mm diameter pile,m,Groundworks,300mm dia piles; by MBL Piling,9.93,Groundworks!F127,9.93,Groundworks!A127,Groundworks,300mm
+110,110,Concrete to pile,m,Groundworks,300mm dia piles; by MBL Piling,13.41,Groundworks!F128,13.41,Groundworks!A128,Groundworks,
+111,111,Reinforcement (250kg/m3),m,Groundworks,300mm dia piles; by MBL Piling,40.25,Groundworks!F129,40.25,Groundworks!A129,Groundworks,250kg
+112,112,De-bonding reinforcement,nr,Groundworks,300mm dia piles; by MBL Piling,6.01,Groundworks!F130,6.01,Groundworks!A130,Groundworks,
+113,113,"Attendance; excavation + operator, dumper + driver",m³,Groundworks,300mm dia piles; by MBL Piling,0.0,Groundworks!F131,0.0,Groundworks!A131,Groundworks,excavation
+114,114,Attendance; dispose of pile arisigs,m³,Groundworks,300mm dia piles; by MBL Piling,0.0,Groundworks!F132,0.0,Groundworks!A132,Groundworks,
+115,115,Attendance; pile probing,nr,Groundworks,300mm dia piles; by MBL Piling,0.0,Groundworks!F133,0.0,Groundworks!A133,Groundworks,
+116,116,Integrity testing,nr,Groundworks,300mm dia piles; by MBL Piling,177.0,Groundworks!F134,177.0,Groundworks!A134,Groundworks,
+117,117,Load testing,nr,Groundworks,300mm dia piles; by MBL Piling,3904.32,Groundworks!F135,3904.32,Groundworks!A135,Groundworks,
+118,118,300dia pile; MBL Piling; 15m lg,nr,Groundworks,300mm dia piles; by MBL Piling,716.48,Groundworks!F136,716.48,Groundworks!A136,Groundworks,15m
+119,119,"300mm dia CFA pile; 12m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,487.32,Groundworks!F137,487.32,Groundworks!A137,Groundworks,300mm|12m
+120,120,"300mm dia CFA pile; 15m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,564.9,Groundworks!F138,564.9,Groundworks!A138,Groundworks,300mm|15m
+121,121,"450mm dia CFA pile; 15m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,912.33,Groundworks!F139,912.33,Groundworks!A139,Groundworks,450mm|15m
+122,122,"450mm dia CFA pile; 18m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,1071.19,Groundworks!F140,1071.19,Groundworks!A140,Groundworks,450mm|18m
+123,123,"600mm dia CFA pile; 10m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,1512.94,Groundworks!F141,1512.94,Groundworks!A141,Groundworks,600mm|10m
+124,124,"600mm dia CFA pile; 18m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,1680.69,Groundworks!F142,1680.69,Groundworks!A142,Groundworks,600mm|18m
+125,125,"600mm dia CFA pile; 35m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,3854.74,Groundworks!F143,3854.74,Groundworks!A143,Groundworks,600mm|35m
+126,126,"750mm dia CFA pile; 18m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,2660.91,Groundworks!F144,2660.91,Groundworks!A144,Groundworks,750mm|18m
+127,127,"750mm dia CFA pile; 20m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,2950.01,Groundworks!F145,2950.01,Groundworks!A145,Groundworks,750mm|20m
+128,128,"750mm dia CFA pile; 25m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,3672.76,Groundworks!F146,3672.76,Groundworks!A146,Groundworks,750mm|25m
+129,129,"900mm dia CFA pile; 25m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,6152.13,Groundworks!F147,6152.13,Groundworks!A147,Groundworks,900mm|25m
+130,130,"900mm dia CFA pile; 35m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,8584.66,Groundworks!F148,8584.66,Groundworks!A148,Groundworks,900mm|35m
+131,131,"1500mm dia CFA pile; 25m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,14136.14,Groundworks!F149,14136.14,Groundworks!A149,Groundworks,1500mm|25m
+132,132,"2000mm dia CFA pile; 25m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,25085.03,Groundworks!F150,25085.03,Groundworks!A150,Groundworks,2000mm|25m
+133,133,"900mm dia auger pile; empty bore and granular fill (bore, fill, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,98.14,Groundworks!F151,98.14,Groundworks!A151,Groundworks,900mm
+134,134,"1500mm dia auger pile; empty bore and granular fill (bore, fill, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,251.63,Groundworks!F152,251.63,Groundworks!A152,Groundworks,1500mm
+135,135,"2000mm dia auger pile; empty bore and granular fill (bore, fill, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,438.17,Groundworks!F153,438.17,Groundworks!A153,Groundworks,2000mm
+136,136,"EO piles for supply and place steel plunge column including plumb, level & line and hold in position until conc cured; allow 305 x 305 x 198kg x 16m lg",nr,Groundworks,300mm dia piles; by MBL Piling,7476.48,Groundworks!F154,7476.48,Groundworks!A154,Groundworks,198kg|16m
+137,137,EO 600 dia piles for boring and filling piles with shingle,m,Groundworks,300mm dia piles; by MBL Piling,21.69,Groundworks!F155,21.69,Groundworks!A155,Groundworks,filling
+138,138,EO 900 dia piles for boring and filling piles with shingle,m,Groundworks,300mm dia piles; by MBL Piling,48.8,Groundworks!F156,48.8,Groundworks!A156,Groundworks,filling
+139,139,Design,item,Groundworks,300mm dia piles; by MBL Piling,2950.0,Groundworks!F157,2950.0,Groundworks!A157,Groundworks,
+140,140,Mobilisation & demobilisation,item,Groundworks,300mm dia piles; by MBL Piling,11564.0,Groundworks!F158,11564.0,Groundworks!A158,Groundworks,
+141,141,Rig delays; per hour,hour,Groundworks,300mm dia piles; by MBL Piling,615.25,Groundworks!F159,615.25,Groundworks!A159,Groundworks,
+142,142,Testing; static load test,item,Groundworks,300mm dia piles; by MBL Piling,3540.0,Groundworks!F160,3540.0,Groundworks!A160,Groundworks,
+143,143,Integrity testing,item,Groundworks,300mm dia piles; by MBL Piling,1180.0,Groundworks!F161,1180.0,Groundworks!A161,Groundworks,
+144,144,Piles for crane base,nr,Groundworks,300mm dia piles; by MBL Piling,1770.0,Groundworks!F162,1770.0,Groundworks!A162,Groundworks,
+145,145,EO for pile integrity tests,nr,Groundworks,300mm dia piles; by MBL Piling,118.0,Groundworks!F163,118.0,Groundworks!A163,Groundworks,
+146,146,EO for pvc casings; 1m lg,nr,Groundworks,300mm dia piles; by MBL Piling,88.91,Groundworks!F164,88.91,Groundworks!A164,Groundworks,1m
+147,147,Debonding pile reinforcement,nr,Groundworks,300mm dia piles; by MBL Piling,94.4,Groundworks!F165,94.4,Groundworks!A165,Groundworks,
+148,148,"Design, mobilise, install steel sheet piles & de-mobilise",item,Groundworks,300mm dia piles; by MBL Piling,288610.3,Groundworks!F166,288610.3,Groundworks!A166,Groundworks,
+149,149,"600mm dia CFA pile; 18m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,1680.69,Groundworks!F167,1680.69,Groundworks!A167,Groundworks,600mm|18m
+150,150,Piling attendance; excavator & operator,m³,Groundworks,Attendance,3020.8,Groundworks!F169,3020.8,Groundworks!A169,Groundworks,
+151,151,Piling attendance; excavator & operator,day,Groundworks,Attendance,604.16,Groundworks!F170,604.16,Groundworks!A170,Groundworks,
+152,152,Piling attendance; dumper & driver,item,Groundworks,Attendance,2124.0,Groundworks!F172,2124.0,Groundworks!A172,Groundworks,
+153,153,Piling attendance; dumper & driver,day,Groundworks,Attendance,424.8,Groundworks!F173,424.8,Groundworks!A173,Groundworks,
+154,154,Piling attendance; crawler crane and operator,item,Groundworks,Attendance,4141.8,Groundworks!F174,4141.8,Groundworks!A174,Groundworks,
+155,155,Piling attendance; ride on roller,item,Groundworks,Attendance,619.5,Groundworks!F175,619.5,Groundworks!A175,Groundworks,
+156,156,Piling attendance; banksman/traffic marshall,item,Groundworks,Attendance,1200.65,Groundworks!F176,1200.65,Groundworks!A176,Groundworks,
+157,157,Piling attendance; foreman/supervisor,item,Groundworks,Attendance,1770.0,Groundworks!F177,1770.0,Groundworks!A177,Groundworks,
+158,158,Pile probing; 3m spike,nr,Groundworks,Attendance,15.49,Groundworks!F178,15.49,Groundworks!A178,Groundworks,3m
+159,159,Pile probing; 3m trench for sheet/contiguous/secant piles,m,Groundworks,Attendance,18.81,Groundworks!F179,18.81,Groundworks!A179,Groundworks,3m|trench
+160,160,Dispose of pile arisings off site; clean inert; provisionally based on ? nr x ? dia x ? depth; loaded by excavator in attendance,m³,Groundworks,Attendance,47.2,Groundworks!F181,47.2,Groundworks!A181,Groundworks,
+161,161,WAC test pile spoil to assess contamination,nr,Groundworks,Attendance,271.4,Groundworks!F182,271.4,Groundworks!A182,Groundworks,
+162,162,EO clean inert disposal for non haz,m³,Groundworks,Attendance,15.73,Groundworks!F183,15.73,Groundworks!A183,Groundworks,disposal
+163,163,Haul & deposit on site; max 100m,m³,Groundworks,Attendance,4.48,Groundworks!F184,4.48,Groundworks!A184,Groundworks,100m
+164,164,"Excavate, breakup obstruction, dispose & backfill with SEM",m³,Groundworks,Attendance,117.59,Groundworks!F185,117.59,Groundworks!A185,Groundworks,
+165,165,Leader trench for sheet piling; 1500 x 600mm dp; on centre line of sheet piles,m,Groundworks,Attendance,31.06,Groundworks!F186,31.06,Groundworks!A186,Groundworks,600mm|trench
+166,166,Secant pile guide wall; sacrificial; 600 dia piles at 450 c/s.,m,Groundworks,Attendance,325.19,Groundworks!F187,325.19,Groundworks!A187,Groundworks,
+167,167,Secant pile guide wall; sacrificial; 750 dia male & 600 dia female piles at 525 c/s.,m,Groundworks,Attendance,391.0,Groundworks!F188,391.0,Groundworks!A188,Groundworks,
+168,168,"Capping beam; 900 x 750; inc exc, C/A, L&C, EWS, W/S, C40 conc, fwk, rebar 150kg/m3, trowel. Excludes breakdown piles",m,Groundworks,Attendance,443.44,Groundworks!F189,443.44,Groundworks!A189,Groundworks,150kg
+169,169,Breakdown piles; 250 x 250 driven x max 500mm high; driven PC piles,nr,Groundworks,Attendance,50.35,Groundworks!F190,50.35,Groundworks!A190,Groundworks,500mm
+170,170,Breakdown piles; 300mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,51.47,Groundworks!F191,51.47,Groundworks!A191,Groundworks,300mm|500mm
+171,171,Breakdown piles; 350mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,52.44,Groundworks!F192,52.44,Groundworks!A192,Groundworks,350mm|500mm
+172,172,Breakdown piles; 350mm dia x max 2000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,60.84,Groundworks!F193,60.84,Groundworks!A193,Groundworks,350mm|2000mm
+173,173,Breakdown piles; 350mm dia x max 3000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,66.45,Groundworks!F194,66.45,Groundworks!A194,Groundworks,350mm|3000mm
+174,174,Breakdown piles; 350mm dia x max 4000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,72.05,Groundworks!F195,72.05,Groundworks!A195,Groundworks,350mm|4000mm
+172,172,Breakdown piles; 400mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,57.38,Groundworks!F197,57.38,Groundworks!A197,Groundworks,400mm|500mm
+173,173,Breakdown piles; 400mm dia x max 2000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,66.57,Groundworks!F198,66.57,Groundworks!A198,Groundworks,400mm|2000mm
+174,174,Breakdown piles; 450mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,63.05,Groundworks!F199,63.05,Groundworks!A199,Groundworks,450mm|500mm
+175,175,Breakdown piles; 450mm dia x max 1000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,67.1,Groundworks!F200,67.1,Groundworks!A200,Groundworks,450mm|1000mm
+176,176,Breakdown piles; 450mm dia x max 1250mm high; reinforcement de-bonded,nr,Groundworks,Attendance,69.13,Groundworks!F201,69.13,Groundworks!A201,Groundworks,450mm|1250mm
+177,177,Breakdown piles; 450mm dia x max 1500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,71.15,Groundworks!F202,71.15,Groundworks!A202,Groundworks,450mm|1500mm
+178,178,Breakdown piles; 450mm dia x max 2000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,75.2,Groundworks!F203,75.2,Groundworks!A203,Groundworks,450mm|2000mm
+179,179,Breakdown piles; 450mm dia x max 2500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,79.25,Groundworks!F204,79.25,Groundworks!A204,Groundworks,450mm|2500mm
+180,180,Breakdown piles; 450mm dia x max 4000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,91.41,Groundworks!F205,91.41,Groundworks!A205,Groundworks,450mm|4000mm
+179,179,Breakdown piles; 500mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,67.9,Groundworks!F206,67.9,Groundworks!A206,Groundworks,500mm|500mm
+180,180,Breakdown piles; 600mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,71.0,Groundworks!F207,71.0,Groundworks!A207,Groundworks,600mm|500mm
+181,181,Breakdown piles; 600mm dia x 500mm - 1.0m high; reinforcement de-bonded,nr,Groundworks,Attendance,74.56,Groundworks!F208,74.56,Groundworks!A208,Groundworks,600mm|500mm
+182,182,Breakdown piles; 600mm dia x max 1.5m high; reinforcement de-bonded,nr,Groundworks,Attendance,79.56,Groundworks!F209,79.56,Groundworks!A209,Groundworks,600mm|5m
+182,182,Breakdown piles; 600mm dia x max 1.75m high; reinforcement de-bonded,nr,Groundworks,Attendance,80.43,Groundworks!F210,80.43,Groundworks!A210,Groundworks,600mm|75m
+183,183,Breakdown piles; 600mm dia x max 2.0m high; reinforcement de-bonded,nr,Groundworks,Attendance,89.3,Groundworks!F211,89.3,Groundworks!A211,Groundworks,600mm|0m
+183,183,Breakdown piles; 600mm dia x max 2.25m high; reinforcement de-bonded,nr,Groundworks,Attendance,90.97,Groundworks!F212,90.97,Groundworks!A212,Groundworks,600mm|25m
+184,184,Breakdown piles; 600mm dia x max 2.5m high; reinforcement de-bonded,nr,Groundworks,Attendance,92.64,Groundworks!F213,92.64,Groundworks!A213,Groundworks,600mm|5m
+185,185,Breakdown piles; 600mm dia x max 3.0m high; reinforcement de-bonded,nr,Groundworks,Attendance,95.97,Groundworks!F214,95.97,Groundworks!A214,Groundworks,600mm|0m
+186,186,Breakdown piles; 600mm dia x max 3.5m high; reinforcement de-bonded,nr,Groundworks,Attendance,99.31,Groundworks!F215,99.31,Groundworks!A215,Groundworks,600mm|5m
+187,187,Breakdown piles; 600mm dia x max 4.0m high; reinforcement de-bonded,nr,Groundworks,Attendance,102.64,Groundworks!F216,102.64,Groundworks!A216,Groundworks,600mm|0m
+188,188,Breakdown piles; 600mm dia x max 4.5m high; reinforcement de-bonded,nr,Groundworks,Attendance,105.98,Groundworks!F217,105.98,Groundworks!A217,Groundworks,600mm|5m
+189,189,Breakdown piles; 600mm dia x max 5.0m high; reinforcement de-bonded,nr,Groundworks,Attendance,109.31,Groundworks!F218,109.31,Groundworks!A218,Groundworks,600mm|0m
+190,190,Breakdown piles; 600mm dia x max 5.5m high; reinforcement de-bonded,nr,Groundworks,Attendance,112.65,Groundworks!F219,112.65,Groundworks!A219,Groundworks,600mm|5m
+191,191,Breakdown piles; 600mm dia x max 6.0m high; reinforcement de-bonded,nr,Groundworks,Attendance,115.98,Groundworks!F220,115.98,Groundworks!A220,Groundworks,600mm|0m
+192,192,Breakdown piles; 600mm dia x max 6.5m high; reinforcement de-bonded,nr,Groundworks,Attendance,119.32,Groundworks!F221,119.32,Groundworks!A221,Groundworks,600mm|5m
+193,193,Breakdown piles; 600mm dia x max 8.5m high; reinforcement de-bonded,nr,Groundworks,Attendance,132.66,Groundworks!F222,132.66,Groundworks!A222,Groundworks,600mm|5m
+194,194,Breakdown piles; 750mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,98.77,Groundworks!F223,98.77,Groundworks!A223,Groundworks,750mm|500mm
+195,195,Breakdown piles; 750mm dia x max 1.0m high; reinforcement de-bonded,nr,Groundworks,Attendance,107.15,Groundworks!F224,107.15,Groundworks!A224,Groundworks,750mm|0m
+196,196,Breakdown piles; 750mm dia x max 1.5m high; reinforcement de-bonded,nr,Groundworks,Attendance,110.53,Groundworks!F225,110.53,Groundworks!A225,Groundworks,750mm|5m
+197,197,Breakdown piles; 750mm dia x max 3.5m high; reinforcement de-bonded,nr,Groundworks,Attendance,128.92,Groundworks!F226,128.92,Groundworks!A226,Groundworks,750mm|5m
+198,198,Breakdown piles; 900mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,121.83,Groundworks!F227,121.83,Groundworks!A227,Groundworks,900mm|500mm
+198,198,Breakdown piles; 900mm dia x max 1000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,129.33,Groundworks!F228,129.33,Groundworks!A228,Groundworks,900mm|1000mm
+199,199,Breakdown piles; 900mm dia x max 1500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,136.84,Groundworks!F229,136.84,Groundworks!A229,Groundworks,900mm|1500mm
+200,200,Breakdown piles; 900mm dia x max 2000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,144.34,Groundworks!F230,144.34,Groundworks!A230,Groundworks,900mm|2000mm
+201,201,Breakdown piles; 900mm dia x max 22500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,148.09,Groundworks!F231,148.09,Groundworks!A231,Groundworks,900mm|22500mm
+202,202,Breakdown piles; 900mm dia x max 2500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,151.84,Groundworks!F232,151.84,Groundworks!A232,Groundworks,900mm|2500mm
+203,203,Breakdown piles; 900mm dia x max 3000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,159.35,Groundworks!F233,159.35,Groundworks!A233,Groundworks,900mm|3000mm
+204,204,Breakdown piles; 900mm dia x max 3500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,166.85,Groundworks!F234,166.85,Groundworks!A234,Groundworks,900mm|3500mm
+205,205,Breakdown piles; 900mm dia x max 4000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,174.35,Groundworks!F235,174.35,Groundworks!A235,Groundworks,900mm|4000mm
+206,206,Breakdown piles; 900mm dia x max 5500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,196.86,Groundworks!F236,196.86,Groundworks!A236,Groundworks,900mm|5500mm
+207,207,Breakdown piles; 900mm dia x max 5750mm high; reinforcement de-bonded,nr,Groundworks,Attendance,200.61,Groundworks!F237,200.61,Groundworks!A237,Groundworks,900mm|5750mm
+208,208,Breakdown piles; 900mm dia x max 6000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,204.37,Groundworks!F238,204.37,Groundworks!A238,Groundworks,900mm|6000mm
+209,209,Breakdown piles; 900mm dia x max 9500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,256.89,Groundworks!F239,256.89,Groundworks!A239,Groundworks,900mm|9500mm
+210,210,Breakdown piles; 1050mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,142.14,Groundworks!F240,142.14,Groundworks!A240,Groundworks,1050mm|500mm
+211,211,Breakdown piles; 1050mm dia x max 4500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,223.84,Groundworks!F241,223.84,Groundworks!A241,Groundworks,1050mm|4500mm
+212,212,Breakdown piles; 1050mm dia x max 6000mm high; reinforcement de-bonded,nr,Groundworks,Attendance,262.64,Groundworks!F242,262.64,Groundworks!A242,Groundworks,1050mm|6000mm
+213,213,Breakdown piles; 1200mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,162.86,Groundworks!F243,162.86,Groundworks!A243,Groundworks,1200mm|500mm
+214,214,Breakdown piles; 1500mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,202.38,Groundworks!F244,202.38,Groundworks!A244,Groundworks,1500mm|500mm
+215,215,Breakdown piles; 2000mm dia x max 500mm high; reinforcement de-bonded,nr,Groundworks,Attendance,250.61,Groundworks!F245,250.61,Groundworks!A245,Groundworks,2000mm|500mm
+216,216,Burn off top of sheet piles,m,Groundworks,Attendance,24.78,Groundworks!F246,24.78,Groundworks!A246,Groundworks,
+217,217,B/O & dispose RC guide wall for 450dia secant piles; 750 x 600,m,Groundworks,Attendance,58.03,Groundworks!F247,58.03,Groundworks!A247,Groundworks,
+218,218,B/O & dispose RC guide wall for 600dia secant piles; 900 x 600,m,Groundworks,Attendance,69.64,Groundworks!F248,69.64,Groundworks!A248,Groundworks,
+219,219,Excavate to reduce levels; 0.5-1m,m³,Groundworks,Civil Engineering (Large Quantities),1.54,Groundworks!F251,1.54,Groundworks!A251,Groundworks,1m
+220,220,Excavate to reduce levels; 2-5m,m³,Groundworks,Civil Engineering (Large Quantities),1.41,Groundworks!F252,1.41,Groundworks!A252,Groundworks,5m
+221,221,Excavate tarmac & concrete road; 0.25-0.50m (40 surface/60 binder/150 C7.5 base),m³,Groundworks,Civil Engineering (Large Quantities),12.09,Groundworks!F253,12.09,Groundworks!A253,Groundworks,50m
+222,222,Exc ancilliaries; trimming surfaces,m²,Groundworks,Civil Engineering (Large Quantities),0.12,Groundworks!F254,0.12,Groundworks!A254,Groundworks,
+223,223,Exc ancilliaries; trimming surfaces; sloping,m²,Groundworks,Civil Engineering (Large Quantities),1.15,Groundworks!F255,1.15,Groundworks!A255,Groundworks,
+224,224,Exc ancilliaries; prepare surfaces,m²,Groundworks,Civil Engineering (Large Quantities),0.11,Groundworks!F256,0.11,Groundworks!A256,Groundworks,
+225,225,Exc ancilliaries; prepare surfaces; sloping,m²,Groundworks,Civil Engineering (Large Quantities),1.08,Groundworks!F257,1.08,Groundworks!A257,Groundworks,
+226,226,Exc ancilliaries; disposal in stockpiles on-site; not exceeding 1km,m³,Groundworks,Civil Engineering (Large Quantities),4.97,Groundworks!F258,4.97,Groundworks!A258,Groundworks,disposal
+227,227,Exc ancilliaries; load & haul; not exceeding 1km,m³,Groundworks,Civil Engineering (Large Quantities),6.51,Groundworks!F259,6.51,Groundworks!A259,Groundworks,
+228,228,Exc ancilliaries; filling with SEM,m³,Groundworks,Civil Engineering (Large Quantities),3.15,Groundworks!F260,3.15,Groundworks!A260,Groundworks,filling
+229,229,Exc ancilliaries; filling with 6F2,m³,Groundworks,Civil Engineering (Large Quantities),33.69,Groundworks!F261,33.69,Groundworks!A261,Groundworks,filling
+230,230,Soil stabilisation; lime & cement mix to C0.4/0.5; 700mm thk,m²,Groundworks,Civil Engineering (Large Quantities),16.23,Groundworks!F262,16.23,Groundworks!A262,Groundworks,700mm
+231,231,Site prep; remove tree; girth not exceeding 600,nr,Groundworks,Civil Engineering (Large Quantities),295.0,Groundworks!F265,295.0,Groundworks!A265,Groundworks,
+232,232,Site prep; remove tree; girth 600-1.5m,nr,Groundworks,Civil Engineering (Large Quantities),708.0,Groundworks!F266,708.0,Groundworks!A266,Groundworks,5m
+233,233,Site prep; remove tree; girth 1.5-3.0m,nr,Groundworks,Civil Engineering (Large Quantities),885.0,Groundworks!F267,885.0,Groundworks!A267,Groundworks,0m
+234,234,Site prep; remove tree; girth ex 3.0m,nr,Groundworks,Civil Engineering (Large Quantities),1180.0,Groundworks!F268,1180.0,Groundworks!A268,Groundworks,0m
+235,235,Site prep; remove tree stump; fill void with SEM,nr,Groundworks,Civil Engineering (Large Quantities),524.02,Groundworks!F269,524.02,Groundworks!A269,Groundworks,
+236,236,Site clearance???,m²,Groundworks,Civil Engineering (Large Quantities),0.46,Groundworks!F270,0.46,Groundworks!A270,Groundworks,
+237,237,Site prep; clear vegetation,m²,Groundworks,Civil Engineering (Large Quantities),1.06,Groundworks!F271,1.06,Groundworks!A271,Groundworks,
+238,238,"Site prep; clear vegetation, bushes, small trees",m²,Groundworks,Civil Engineering (Large Quantities),2.49,Groundworks!F272,2.49,Groundworks!A272,Groundworks,
+239,239,Excavate topsoil for preservation,m³,Groundworks,Civil Engineering (Large Quantities),6.6,Groundworks!F273,6.6,Groundworks!A273,Groundworks,topsoil
+240,240,Excavate topsoil for preservation; 150mm depth,m²,Groundworks,Civil Engineering (Large Quantities),0.99,Groundworks!F274,0.99,Groundworks!A274,Groundworks,150mm|topsoil
+241,241,Excavate to remove piling mat,m³,Groundworks,Civil Engineering (Large Quantities),3.94,Groundworks!F275,3.94,Groundworks!A275,Groundworks,
+242,242,Excavate to reduce levels; not exceeding 250mm,m³,Groundworks,Civil Engineering (Large Quantities),5.26,Groundworks!F276,5.26,Groundworks!A276,Groundworks,250mm
+243,243,Excavate to reduce levels; not exceeding 1m (large quants),m³,Groundworks,Civil Engineering (Large Quantities),1.29,Groundworks!F277,1.29,Groundworks!A277,Groundworks,1m
+244,244,Excavate to reduce levels; not exceeding 1m,m³,Groundworks,Civil Engineering (Large Quantities),4.73,Groundworks!F278,4.73,Groundworks!A278,Groundworks,1m
+245,245,Excavate to reduce levels; not exceeding 2m,m³,Groundworks,Civil Engineering (Large Quantities),4.73,Groundworks!F279,4.73,Groundworks!A279,Groundworks,2m
+246,246,Excavate to reduce levels; not exceeding 4m bulk,m³,Groundworks,Civil Engineering (Large Quantities),4.85,Groundworks!F280,4.85,Groundworks!A280,Groundworks,4m
+247,247,Excavate to reduce levels; not exceeding 4m,m³,Groundworks,Civil Engineering (Large Quantities),6.0,Groundworks!F281,6.0,Groundworks!A281,Groundworks,4m
+248,248,Excavate to reduce levels; not exceeding 6m,m³,Groundworks,Civil Engineering (Large Quantities),6.0,Groundworks!F282,6.0,Groundworks!A282,Groundworks,6m
+249,249,Excavate by hand,m³,Groundworks,Civil Engineering (Large Quantities),73.42,Groundworks!F283,73.42,Groundworks!A283,Groundworks,
+250,250,EO for excavate by hand,m³,Groundworks,Civil Engineering (Large Quantities),68.69,Groundworks!F284,68.69,Groundworks!A284,Groundworks,
+251,251,Excavate basement; not exceeding 2m dp,m³,Groundworks,Civil Engineering (Large Quantities),6.0,Groundworks!F285,6.0,Groundworks!A285,Groundworks,2m
+252,252,Excavate basement; not exceeding 4m dp,m³,Groundworks,Civil Engineering (Large Quantities),6.38,Groundworks!F286,6.38,Groundworks!A286,Groundworks,4m
+253,253,Excavate basement; not exceeding 4m deep (small/tight),m³,Groundworks,Civil Engineering (Large Quantities),6.8,Groundworks!F287,6.8,Groundworks!A287,Groundworks,4m
+254,254,"Excavate basement; not exceeding 4m deep (bulk dig, 36t excavation @ 45m3/hr)",m³,Groundworks,Civil Engineering (Large Quantities),2.92,Groundworks!F288,2.92,Groundworks!A288,Groundworks,4m|excavation
+255,255,Excavate basement; not exceeding 6m dp,m³,Groundworks,Civil Engineering (Large Quantities),7.29,Groundworks!F289,7.29,Groundworks!A289,Groundworks,6m
+256,256,Excavate basement; not exceeding 8m dp,m³,Groundworks,Civil Engineering (Large Quantities),10.2,Groundworks!F290,10.2,Groundworks!A290,Groundworks,8m
+257,257,Excavate basement; not exceeding 2m deep (dble handling),m³,Groundworks,Civil Engineering (Large Quantities),10.3,Groundworks!F291,10.3,Groundworks!A291,Groundworks,2m
+258,258,Excavate basement; not exceeding 4m deep (dble handling),m³,Groundworks,Civil Engineering (Large Quantities),10.95,Groundworks!F292,10.95,Groundworks!A292,Groundworks,4m
+259,259,Excavate basement; not exceeding 6m deep (dble handling),m³,Groundworks,Civil Engineering (Large Quantities),12.51,Groundworks!F293,12.51,Groundworks!A293,Groundworks,6m
+260,260,Excavate basement; not exceeding 8m deep (dble handling),m³,Groundworks,Civil Engineering (Large Quantities),14.6,Groundworks!F294,14.6,Groundworks!A294,Groundworks,8m
+261,261,Excavate basement; not exceeding 10m deep (dble handling),m³,Groundworks,Civil Engineering (Large Quantities),17.52,Groundworks!F295,17.52,Groundworks!A295,Groundworks,10m
+262,262,Excavate basement; not exceeding 12m deep (dble handling),m³,Groundworks,Civil Engineering (Large Quantities),21.9,Groundworks!F296,21.9,Groundworks!A296,Groundworks,12m
+263,263,Excavate basement; not exceeding 14m deep (dble handling),m³,Groundworks,Civil Engineering (Large Quantities),29.19,Groundworks!F297,29.19,Groundworks!A297,Groundworks,14m
+264,264,Excavate basement; not exceeding 16m deep (dble handling),m³,Groundworks,Civil Engineering (Large Quantities),35.03,Groundworks!F298,35.03,Groundworks!A298,Groundworks,16m
+265,265,Excavate basement; not exceeding 18m deep (dble handling),m³,Groundworks,Civil Engineering (Large Quantities),43.79,Groundworks!F299,43.79,Groundworks!A299,Groundworks,18m
+266,266,Excavate basement; not exceeding 20m deep (dble handling),m³,Groundworks,Civil Engineering (Large Quantities),58.39,Groundworks!F300,58.39,Groundworks!A300,Groundworks,20m
+267,267,Excavate basement; not exceeding 4m deep (dble handling) & get out with conveyor at 39m3/day,m³,Groundworks,Civil Engineering (Large Quantities),36.38,Groundworks!F301,36.38,Groundworks!A301,Groundworks,4m
+268,268,Excavate basement; not exceeding 6m deep (dble handling) & get out with conveyor at 39m3/day,m³,Groundworks,Civil Engineering (Large Quantities),41.05,Groundworks!F302,41.05,Groundworks!A302,Groundworks,6m
+269,269,EO for using a conveyor,m³,Groundworks,Civil Engineering (Large Quantities),11.85,Groundworks!F303,11.85,Groundworks!A303,Groundworks,
+270,270,Excavate pits in basement; dble handling & get out by conveyor,m³,Groundworks,Civil Engineering (Large Quantities),56.81,Groundworks!F304,56.81,Groundworks!A304,Groundworks,
+271,271,Form temporary ramp to 3m deep basement & remove on completion,nr,Groundworks,Civil Engineering (Large Quantities),20222.54,Groundworks!F305,20222.54,Groundworks!A305,Groundworks,3m
+272,272,Form temporary ramp to 4m deep basement & remove on completion,nr,Groundworks,Civil Engineering (Large Quantities),37628.96,Groundworks!F306,37628.96,Groundworks!A306,Groundworks,4m
+273,273,Excavate pits; not exceeding 1m dp,m³,Groundworks,Civil Engineering (Large Quantities),15.6,Groundworks!F307,15.6,Groundworks!A307,Groundworks,1m
+274,274,Excavate pits; not exceeding 2m dp,m³,Groundworks,Civil Engineering (Large Quantities),17.02,Groundworks!F308,17.02,Groundworks!A308,Groundworks,2m
+275,275,Excavate pits; not exceeding 4m dp,m³,Groundworks,Civil Engineering (Large Quantities),18.72,Groundworks!F309,18.72,Groundworks!A309,Groundworks,4m
+276,276,Excavate pits; not exceeding 6m dp,m³,Groundworks,Civil Engineering (Large Quantities),19.92,Groundworks!F310,19.92,Groundworks!A310,Groundworks,6m
+277,277,Excavate pits; not exceeding 8m dp,m³,Groundworks,Civil Engineering (Large Quantities),20.8,Groundworks!F311,20.8,Groundworks!A311,Groundworks,8m
+278,278,Excavate pits; in basement,m³,Groundworks,Civil Engineering (Large Quantities),19.35,Groundworks!F312,19.35,Groundworks!A312,Groundworks,
+279,279,Excavate pit by hand (side cast); small quants only,m³,Groundworks,Civil Engineering (Large Quantities),73.42,Groundworks!F313,73.42,Groundworks!A313,Groundworks,
+280,280,Excavate pit by hand (& load into boat skip),m³,Groundworks,Civil Engineering (Large Quantities),111.25,Groundworks!F314,111.25,Groundworks!A314,Groundworks,
+281,281,Excavate by vacuum excavator (Based on 27m3/day); excluding C/A,m³,Groundworks,Civil Engineering (Large Quantities),90.47,Groundworks!F315,90.47,Groundworks!A315,Groundworks,
+282,282,Excavate pile caps/grd beams; not exceeding 250mm dp,m³,Groundworks,Civil Engineering (Large Quantities),31.2,Groundworks!F316,31.2,Groundworks!A316,Groundworks,250mm
+283,283,Excavate pile caps/grd beams; not exceeding 1m dp,m³,Groundworks,Civil Engineering (Large Quantities),17.34,Groundworks!F317,17.34,Groundworks!A317,Groundworks,1m
+284,284,Excavate pile caps/grd beams; not exceeding 2m dp,m³,Groundworks,Civil Engineering (Large Quantities),19.1,Groundworks!F318,19.1,Groundworks!A318,Groundworks,2m
+285,285,Excavate pile caps/grd beams; not exceeding 4m dp,m³,Groundworks,Civil Engineering (Large Quantities),21.28,Groundworks!F319,21.28,Groundworks!A319,Groundworks,4m
+286,286,Excavate pile caps/grd beams; not exceeding 6m dp,m³,Groundworks,Civil Engineering (Large Quantities),22.29,Groundworks!F320,22.29,Groundworks!A320,Groundworks,6m
+287,287,Excavate pile caps/grd beams; in basement,m³,Groundworks,Civil Engineering (Large Quantities),22.1,Groundworks!F321,22.1,Groundworks!A321,Groundworks,
+288,288,EO excavate thrust block pits,m³,Groundworks,Civil Engineering (Large Quantities),15.6,Groundworks!F322,15.6,Groundworks!A322,Groundworks,
+289,289,Excavate ground / capping beam; not exceeding 1m dp,m³,Groundworks,Civil Engineering (Large Quantities),23.4,Groundworks!F323,23.4,Groundworks!A323,Groundworks,1m
+290,290,Excavate trenches; not exceeding 0.25m dp,m³,Groundworks,Civil Engineering (Large Quantities),15.87,Groundworks!F324,15.87,Groundworks!A324,Groundworks,25m|trench
+291,291,Excavate trenches; not exceeding 1m dp,m³,Groundworks,Civil Engineering (Large Quantities),13.37,Groundworks!F325,13.37,Groundworks!A325,Groundworks,1m|trench
+292,292,Excavate trenches; not exceeding 2m dp,m³,Groundworks,Civil Engineering (Large Quantities),14.4,Groundworks!F326,14.4,Groundworks!A326,Groundworks,2m|trench
+293,293,Excavate trenches; not exceeding 4m dp,m³,Groundworks,Civil Engineering (Large Quantities),15.87,Groundworks!F327,15.87,Groundworks!A327,Groundworks,4m|trench
+294,294,Excavate trenches; in basement,m³,Groundworks,Civil Engineering (Large Quantities),21.28,Groundworks!F328,21.28,Groundworks!A328,Groundworks,trench
+295,295,Excavate by hand; inside existing buildings & get out,m³,Groundworks,Civil Engineering (Large Quantities),146.84,Groundworks!F329,146.84,Groundworks!A329,Groundworks,
+296,296,Excavate by hand; in confined space within building & get out,m³,Groundworks,Civil Engineering (Large Quantities),183.82,Groundworks!F330,183.82,Groundworks!A330,Groundworks,
+297,297,"Soft spots, inc excavate, backfill with SEM & dispose off site",m³,Groundworks,Civil Engineering (Large Quantities),29.44,Groundworks!F331,29.44,Groundworks!A331,Groundworks,
+298,298,"Soft spots, inc excavate, backfill with Type 6F2 & dispose off site",m³,Groundworks,Civil Engineering (Large Quantities),93.3,Groundworks!F332,93.3,Groundworks!A332,Groundworks,
+299,299,"Soft spots, inc excavate, backfill with Type 1 & dispose off site",m³,Groundworks,Civil Engineering (Large Quantities),104.4,Groundworks!F333,104.4,Groundworks!A333,Groundworks,
+300,300,"Soft spots, inc excavate, backfill with concrete GEN1 & dispose off site",m³,Groundworks,Civil Engineering (Large Quantities),230.44,Groundworks!F334,230.44,Groundworks!A334,Groundworks,
+301,301,"Demolish RC structure inc breakup, load & C/A",m³,Groundworks,Civil Engineering (Large Quantities),128.96,Groundworks!F335,128.96,Groundworks!A335,Groundworks,
+302,302,"Demolish underground RC structure inc breakup, load, C/A & backfill with 6F2",m³,Groundworks,Civil Engineering (Large Quantities),75.34,Groundworks!F336,75.34,Groundworks!A336,Groundworks,
+303,303,EO excs for break out brickwk/blkwk obstructions (prov),m³,Groundworks,Civil Engineering (Large Quantities),37.32,Groundworks!F337,37.32,Groundworks!A337,Groundworks,
+304,304,EO excs for break out rock/stone obstructions (prov),m³,Groundworks,Civil Engineering (Large Quantities),37.32,Groundworks!F338,37.32,Groundworks!A338,Groundworks,
+305,305,EO excs for break out brickwork/rock obstructions; by hand (prov),m³,Groundworks,Civil Engineering (Large Quantities),74.65,Groundworks!F339,74.65,Groundworks!A339,Groundworks,
+306,306,EO excs for break out concrete obstructions (prov),m³,Groundworks,Civil Engineering (Large Quantities),50.89,Groundworks!F340,50.89,Groundworks!A340,Groundworks,
+307,307,EO excs for break out concrete obstructions; by hand (prov),m³,Groundworks,Civil Engineering (Large Quantities),128.01,Groundworks!F341,128.01,Groundworks!A341,Groundworks,
+308,308,EO excs for break out reinfd concrete obstructions (prov),m³,Groundworks,Civil Engineering (Large Quantities),69.98,Groundworks!F342,69.98,Groundworks!A342,Groundworks,
+309,309,EO excs for break out reinfd concrete obstructions; by hand (prov),m³,Groundworks,Civil Engineering (Large Quantities),176.02,Groundworks!F343,176.02,Groundworks!A343,Groundworks,
+310,310,EO excs for break out concrete slab; 100mm thk,m²,Groundworks,Civil Engineering (Large Quantities),3.05,Groundworks!F344,3.05,Groundworks!A344,Groundworks,100mm
+311,311,EO excs for break out concrete slab; 150mm thk,m²,Groundworks,Civil Engineering (Large Quantities),5.34,Groundworks!F345,5.34,Groundworks!A345,Groundworks,150mm
+312,312,EO excs for break out concrete slab; 250mm thk,m²,Groundworks,Civil Engineering (Large Quantities),12.09,Groundworks!F346,12.09,Groundworks!A346,Groundworks,250mm
+313,313,EO excs for break out concrete slab; 300mm thk,m²,Groundworks,Civil Engineering (Large Quantities),14.51,Groundworks!F347,14.51,Groundworks!A347,Groundworks,300mm
+314,314,EO excs for break out concrete paving; 50mm thk,m²,Groundworks,Civil Engineering (Large Quantities),1.4,Groundworks!F348,1.4,Groundworks!A348,Groundworks,50mm
+315,315,EO excs for break out tarmac paving; 50mm thk,m²,Groundworks,Civil Engineering (Large Quantities),0.93,Groundworks!F349,0.93,Groundworks!A349,Groundworks,50mm
+316,316,EO excs for break out tarmac paving; 100mm thk,m²,Groundworks,Civil Engineering (Large Quantities),1.87,Groundworks!F350,1.87,Groundworks!A350,Groundworks,100mm
+317,317,EO excs for break out tarmac paving; 150mm thk,m²,Groundworks,Civil Engineering (Large Quantities),2.8,Groundworks!F351,2.8,Groundworks!A351,Groundworks,150mm
+318,318,EO excs for break out tarmac paving; 200mm thk,m²,Groundworks,Civil Engineering (Large Quantities),3.73,Groundworks!F352,3.73,Groundworks!A352,Groundworks,200mm
+319,319,EO excs for break out PC kerb and conc bed,m,Groundworks,Civil Engineering (Large Quantities),1.49,Groundworks!F353,1.49,Groundworks!A353,Groundworks,
+320,320,"EO excs for excavation in contaminated ground, investigate and seperate arisings (prov)",m³,Groundworks,Civil Engineering (Large Quantities),3.94,Groundworks!F354,3.94,Groundworks!A354,Groundworks,excavation
+321,321,EO excs for excavation basement between tall piles installed at ground level (prov),m³,Groundworks,Civil Engineering (Large Quantities),6.31,Groundworks!F355,6.31,Groundworks!A355,Groundworks,excavation
+322,322,EO excs for excavation around temporary props,m,Groundworks,Civil Engineering (Large Quantities),11.34,Groundworks!F356,11.34,Groundworks!A356,Groundworks,excavation
+323,323,EO excs for excavation below grd water level (prov),m³,Groundworks,Civil Engineering (Large Quantities),14.92,Groundworks!F357,14.92,Groundworks!A357,Groundworks,excavation
+324,324,EO excs for excavation next to extg services (prov),m,Groundworks,Civil Engineering (Large Quantities),11.34,Groundworks!F358,11.34,Groundworks!A358,Groundworks,excavation
+325,325,EO excs for excavation around extg services crossing trench (prov),nr,Groundworks,Civil Engineering (Large Quantities),35.2,Groundworks!F359,35.2,Groundworks!A359,Groundworks,excavation|trench
+326,326,"B/O conc, excavate & cart away",m³,Groundworks,Civil Engineering (Large Quantities),94.57,Groundworks!F360,94.57,Groundworks!A360,Groundworks,
+327,327,"EO excs for getting arisings out by conveyor belt. (Conveyor hire only, 3phase by M/C)",item,Groundworks,Civil Engineering (Large Quantities),1652.0,Groundworks!F361,1652.0,Groundworks!A361,Groundworks,
+328,328,"EO excs for conveyor belt erect, dismantle, delivery, collect, scafolding support, gantry, etc",item,Groundworks,Civil Engineering (Large Quantities),4720.0,Groundworks!F362,4720.0,Groundworks!A362,Groundworks,
+329,329,"EO excs for getting arisings out by conveyor belt. (Attendance on conveyor - exc/loader, driver and 2 labs)",item,Groundworks,Civil Engineering (Large Quantities),4967.8,Groundworks!F363,4967.8,Groundworks!A363,Groundworks,
+330,330,"Form openings for conveyor, infill & mg openings. Protect openings & mg",item,Groundworks,Civil Engineering (Large Quantities),3020.8,Groundworks!F364,3020.8,Groundworks!A364,Groundworks,
+331,331,Saw cut concrete; not exceeding 100mm,m,Groundworks,Civil Engineering (Large Quantities),11.66,Groundworks!F365,11.66,Groundworks!A365,Groundworks,100mm
+332,332,Saw cut concrete; not exceeding 200mm,m,Groundworks,Civil Engineering (Large Quantities),23.32,Groundworks!F366,23.32,Groundworks!A366,Groundworks,200mm
+333,333,Saw cut concrete; not exceeding 250mm,m,Groundworks,Civil Engineering (Large Quantities),29.15,Groundworks!F367,29.15,Groundworks!A367,Groundworks,250mm
+334,334,Saw cut concrete; not exceeding 300mm,m,Groundworks,Civil Engineering (Large Quantities),34.98,Groundworks!F368,34.98,Groundworks!A368,Groundworks,300mm
+335,335,Saw cut concrete; not exceeding 400mm,m,Groundworks,Civil Engineering (Large Quantities),46.63,Groundworks!F369,46.63,Groundworks!A369,Groundworks,400mm
+336,336,Stitch drilling; 77mm dia at 60mm c/s; 200mm tk concrete.,m,Groundworks,Civil Engineering (Large Quantities),219.17,Groundworks!F370,219.17,Groundworks!A370,Groundworks,77mm|60mm
+337,337,Stitch drilling; 77mm dia at 60mm c/s; 300mm tk concrete.,m,Groundworks,Civil Engineering (Large Quantities),328.75,Groundworks!F371,328.75,Groundworks!A371,Groundworks,77mm|60mm
+338,338,Stitch drilling; 77mm dia at 60mm c/s; 1000mm tk concrete.,m,Groundworks,Civil Engineering (Large Quantities),1095.83,Groundworks!F372,1095.83,Groundworks!A372,Groundworks,77mm|60mm
+339,339,"Make good face of concrete after stitch drilling; inc break off scallops, concrete render to face and rub up to produce flat finish.",m²,Groundworks,Civil Engineering (Large Quantities),73.5,Groundworks!F373,73.5,Groundworks!A373,Groundworks,
+340,340,"Re-cycle materials; crush concrete on site & stockpile for re-use (min 1,000 m3); crusher only",m³,Groundworks,Civil Engineering (Large Quantities),4.25,Groundworks!F374,4.25,Groundworks!A374,Groundworks,
+341,341,"Re-cycle materials; crush concrete on site & stockpile for re-use (min 1,000 m3); crusher plus 2 excavators & 2 attendant labourers",m³,Groundworks,Civil Engineering (Large Quantities),13.52,Groundworks!F375,13.52,Groundworks!A375,Groundworks,
+342,342,Breakout face of 'out of tolerance' contig/secant piles; cut back 250mm,m,Groundworks,Civil Engineering (Large Quantities),42.56,Groundworks!F376,42.56,Groundworks!A376,Groundworks,250mm
+343,343,Clean face of secant/contiguous/sheet piles; exposed during excavations,m²,Groundworks,Civil Engineering (Large Quantities),16.04,Groundworks!F377,16.04,Groundworks!A377,Groundworks,excavation
+344,344,Clean face of secant/contiguous/sheet piles; exposed during excavations (large areas),m²,Groundworks,Civil Engineering (Large Quantities),8.47,Groundworks!F378,8.47,Groundworks!A378,Groundworks,excavation
+345,345,"Remove obstructions; B/O reinfd conc, excavate & C/A",m³,Groundworks,Civil Engineering (Large Quantities),133.92,Groundworks!F379,133.92,Groundworks!A379,Groundworks,
+346,346,Level & compact formation / ground,m²,Groundworks,Civil Engineering (Large Quantities),0.37,Groundworks!F380,0.37,Groundworks!A380,Groundworks,compact
+347,347,Level & compact bottom of excavation,m²,Groundworks,Civil Engineering (Large Quantities),0.52,Groundworks!F381,0.52,Groundworks!A381,Groundworks,excavation|compact
+348,348,Level & compact bottom of excavation (large areas),m²,Groundworks,Civil Engineering (Large Quantities),0.23,Groundworks!F382,0.23,Groundworks!A382,Groundworks,excavation|compact
+349,349,Proof rolling inc CBR testing,m²,Groundworks,Civil Engineering (Large Quantities),0.74,Groundworks!F383,0.74,Groundworks!A383,Groundworks,
+350,350,Level & compact bottom of excavation (by hand small areas),m²,Groundworks,Civil Engineering (Large Quantities),6.29,Groundworks!F384,6.29,Groundworks!A384,Groundworks,excavation|compact
+351,351,"Form sloping surface, grade & compact",m²,Groundworks,Civil Engineering (Large Quantities),3.02,Groundworks!F385,3.02,Groundworks!A385,Groundworks,compact
+352,352,Vibro compaction,m²,Groundworks,Civil Engineering (Large Quantities),1.03,Groundworks!F386,1.03,Groundworks!A386,Groundworks,compact
+353,353,CBR testing to establish bearing capacity,nr,Groundworks,Civil Engineering (Large Quantities),295.0,Groundworks!F387,295.0,Groundworks!A387,Groundworks,
+354,354,Apply herbicide to surface of ground; horizontal,m²,Groundworks,Civil Engineering (Large Quantities),0.25,Groundworks!F388,0.25,Groundworks!A388,Groundworks,
+355,355,Working space; reduce level exc; b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),8.59,Groundworks!F391,8.59,Groundworks!A391,Groundworks,
+356,356,Working space; basements; b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),11.15,Groundworks!F392,11.15,Groundworks!A392,Groundworks,
+357,357,Working space; pits; b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),13.25,Groundworks!F393,13.25,Groundworks!A393,Groundworks,
+358,358,Working space; pile caps; b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),14.03,Groundworks!F394,14.03,Groundworks!A394,Groundworks,
+359,359,Working space; pile caps; b/fill with SEM,m³,Groundworks,Civil Engineering (Large Quantities),33.9,Groundworks!F395,33.9,Groundworks!A395,Groundworks,
+360,360,Working space; trenches; b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),14.4,Groundworks!F396,14.4,Groundworks!A396,Groundworks,trench
+361,361,Working space; reduce level exc; b/fill with imported type 1,m²,Groundworks,Civil Engineering (Large Quantities),42.33,Groundworks!F397,42.33,Groundworks!A397,Groundworks,
+362,362,Working space; basements; b/fill with imported type 1,m²,Groundworks,Civil Engineering (Large Quantities),44.89,Groundworks!F398,44.89,Groundworks!A398,Groundworks,
+363,363,Working space; pits; b/fill with imported type 1,m²,Groundworks,Civil Engineering (Large Quantities),46.98,Groundworks!F399,46.98,Groundworks!A399,Groundworks,
+364,364,Working space; pile caps; b/fill with imported type 1,m²,Groundworks,Civil Engineering (Large Quantities),47.76,Groundworks!F400,47.76,Groundworks!A400,Groundworks,
+365,365,Working space; trenches; b/fill with imported type 1,m²,Groundworks,Civil Engineering (Large Quantities),45.98,Groundworks!F401,45.98,Groundworks!A401,Groundworks,trench
+366,366,EWS; not exceeding 1m dp; faces not exceeding 2m,m²,Groundworks,Civil Engineering (Large Quantities),0.67,Groundworks!F404,0.67,Groundworks!A404,Groundworks,1m|2m
+367,367,EWS; not exceeding 1m dp; faces 2-4m,m²,Groundworks,Civil Engineering (Large Quantities),0.84,Groundworks!F405,0.84,Groundworks!A405,Groundworks,1m|4m
+368,368,EWS; not exceeding 1m dp; faces ex 4m,m²,Groundworks,Civil Engineering (Large Quantities),1.14,Groundworks!F406,1.14,Groundworks!A406,Groundworks,1m|4m
+369,369,EWS; not exceeding 1m dp; batters b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),7.47,Groundworks!F407,7.47,Groundworks!A407,Groundworks,1m
+370,370,EWS; not exceeding 1m dp; batters b/fill with type 1,m²,Groundworks,Civil Engineering (Large Quantities),47.03,Groundworks!F408,47.03,Groundworks!A408,Groundworks,1m
+371,371,EWS; not exceeding 2m dp; faces not exceeding 2m,m²,Groundworks,Civil Engineering (Large Quantities),1.74,Groundworks!F409,1.74,Groundworks!A409,Groundworks,2m|2m
+372,372,EWS; not exceeding 2m dp; faces 2-4m,m²,Groundworks,Civil Engineering (Large Quantities),2.85,Groundworks!F410,2.85,Groundworks!A410,Groundworks,2m|4m
+373,373,EWS; not exceeding 2m dp; faces ex 4m,m²,Groundworks,Civil Engineering (Large Quantities),3.95,Groundworks!F411,3.95,Groundworks!A411,Groundworks,2m|4m
+374,374,EWS; not exceeding 2m dp; batters b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),14.93,Groundworks!F412,14.93,Groundworks!A412,Groundworks,2m
+375,375,EWS; not exceeding 2m dp; batters b/fill with type 1,m²,Groundworks,Civil Engineering (Large Quantities),94.06,Groundworks!F413,94.06,Groundworks!A413,Groundworks,2m
+376,376,EWS; not exceeding 4m dp; faces not exceeding 2m,m²,Groundworks,Civil Engineering (Large Quantities),2.85,Groundworks!F414,2.85,Groundworks!A414,Groundworks,4m|2m
+377,377,EWS; not exceeding 4m dp; faces 2-4m,m²,Groundworks,Civil Engineering (Large Quantities),9.53,Groundworks!F415,9.53,Groundworks!A415,Groundworks,4m|4m
+378,378,EWS; not exceeding 4m dp; faces ex 4m,m²,Groundworks,Civil Engineering (Large Quantities),26.16,Groundworks!F416,26.16,Groundworks!A416,Groundworks,4m|4m
+379,379,EWS; not exceeding 4m dp; batters b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),49.57,Groundworks!F417,49.57,Groundworks!A417,Groundworks,4m
+380,380,EWS; not exceeding 4m dp; batters b/fill with type 1,m²,Groundworks,Civil Engineering (Large Quantities),199.5,Groundworks!F418,199.5,Groundworks!A418,Groundworks,4m
+381,381,EWS; not exceeding 6m dp; faces not exceeding 2m,m²,Groundworks,Civil Engineering (Large Quantities),40.64,Groundworks!F419,40.64,Groundworks!A419,Groundworks,6m|2m
+382,382,EWS; not exceeding 6m dp; faces 2-4m,m²,Groundworks,Civil Engineering (Large Quantities),49.95,Groundworks!F420,49.95,Groundworks!A420,Groundworks,6m|4m
+383,383,EWS; not exceeding 6m dp; faces ex 4m,m²,Groundworks,Civil Engineering (Large Quantities),0.0,Groundworks!H421,0.0,Groundworks!A421,Groundworks,6m|4m
+384,384,EWS; not exceeding 6m dp; faces ex 4m; to shaft in embankment for crane base,m²,Groundworks,Civil Engineering (Large Quantities),84.17,Groundworks!F422,84.17,Groundworks!A422,Groundworks,6m|4m
+385,385,EWS; not exceeding 6m dp; batters b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),74.35,Groundworks!F423,74.35,Groundworks!A423,Groundworks,6m
+386,386,EWS; not exceeding 6m dp; batters b/fill with type 1,m²,Groundworks,Civil Engineering (Large Quantities),299.25,Groundworks!F424,299.25,Groundworks!A424,Groundworks,6m
+387,387,EWS; sheet piling; ???m retained height; permanent (provisional),m²,Groundworks,Civil Engineering (Large Quantities),1062.0,Groundworks!F427,1062.0,Groundworks!A427,Groundworks,
+388,388,EWS; sheet piling; full driven height; permanent (provisional),m²,Groundworks,Civil Engineering (Large Quantities),424.8,Groundworks!F428,424.8,Groundworks!A428,Groundworks,
+389,389,EWS; sheet piling; ???m retained height; extract sheets (provisional),m²,Groundworks,Civil Engineering (Large Quantities),852.55,Groundworks!F429,852.55,Groundworks!A429,Groundworks,
+390,390,EWS; king post wall; 3m retained height (provisional),m²,Groundworks,Civil Engineering (Large Quantities),388.08,Groundworks!F431,388.08,Groundworks!A431,Groundworks,3m
+391,391,EWS; trench sheets only (propping separate),m²,Groundworks,Civil Engineering (Large Quantities),76.66,Groundworks!F432,76.66,Groundworks!A432,Groundworks,trench
+392,392,EWS; trench sheets only (propping separate),m²,Groundworks,Civil Engineering (Large Quantities),76.66,Groundworks!F433,76.66,Groundworks!A433,Groundworks,trench
+393,393,EWS; trench sheets & props to trench sides,m²,Groundworks,Civil Engineering (Large Quantities),98.16,Groundworks!F434,98.16,Groundworks!A434,Groundworks,trench
+394,394,EWS; trench sheets (S235) & props; max 2.5m retained height; lost sheets,m²,Groundworks,Civil Engineering (Large Quantities),233.99,Groundworks!F435,233.99,Groundworks!A435,Groundworks,5m|trench
+395,395,EWS; trench sheets (S235) & props; max 2.5m retained height; lost sheets,m²,Groundworks,Civil Engineering (Large Quantities),233.99,Groundworks!F436,233.99,Groundworks!A436,Groundworks,5m|trench
+396,396,Burn off top of sheet piles (in free air),m,Groundworks,Civil Engineering (Large Quantities),23.6,Groundworks!F437,23.6,Groundworks!A437,Groundworks,
+397,397,"Burn through sheet piles, cast against concrete (not in free air)",m,Groundworks,Civil Engineering (Large Quantities),94.4,Groundworks!F438,94.4,Groundworks!A438,Groundworks,
+398,398,Extract sheet piles (no credit for steel),m²,Groundworks,Civil Engineering (Large Quantities),118.0,Groundworks!F439,118.0,Groundworks!A439,Groundworks,
+399,399,Weld clutches,m,Groundworks,Civil Engineering (Large Quantities),35.4,Groundworks!F440,35.4,Groundworks!A440,Groundworks,
+400,400,Site welding,m,Groundworks,Civil Engineering (Large Quantities),55.72,Groundworks!F441,55.72,Groundworks!A441,Groundworks,
+401,401,Profile plate welded to sheet piles at slab junction,m,Groundworks,Civil Engineering (Large Quantities),129.8,Groundworks!F442,129.8,Groundworks!A442,Groundworks,
+402,402,Design temporary works,item,Groundworks,Civil Engineering (Large Quantities),1180.0,Groundworks!F443,1180.0,Groundworks!A443,Groundworks,
+403,403,Design temporary works,item,Groundworks,Civil Engineering (Large Quantities),5900.0,Groundworks!F444,5900.0,Groundworks!A444,Groundworks,
+404,404,"Temporary works; hydraulic props / steel props & walers to secant piles, [as Temp Wks tab]",item,Groundworks,Civil Engineering (Large Quantities),532768.5,Groundworks!F445,532768.5,Groundworks!A445,Groundworks,
+405,405,Temporary works; structural steel propping,tonnes,Groundworks,Civil Engineering (Large Quantities),5171.38,Groundworks!F446,5171.38,Groundworks!A446,Groundworks,
+406,406,Beam nodes; special junctions,nr,Groundworks,Civil Engineering (Large Quantities),4720.0,Groundworks!F447,4720.0,Groundworks!A447,Groundworks,
+407,407,Welder,item,Groundworks,Civil Engineering (Large Quantities),147.5,Groundworks!F448,147.5,Groundworks!A448,Groundworks,
+408,408,Temporary works; structural steel propping (lower lvl),tonnes,Groundworks,Civil Engineering (Large Quantities),4858.06,Groundworks!F449,4858.06,Groundworks!A449,Groundworks,
+409,409,Structural steel gantry platform,tonnes,Groundworks,Civil Engineering (Large Quantities),3973.06,Groundworks!F450,3973.06,Groundworks!A450,Groundworks,
+410,410,Temporary work; flying props; 254 x 254 x 107kg UC,m,Groundworks,Civil Engineering (Large Quantities),529.28,Groundworks!F451,529.28,Groundworks!A451,Groundworks,107kg
+411,411,Temporary work; waler; ? x ? x 107kg UB,m,Groundworks,Civil Engineering (Large Quantities),529.28,Groundworks!F452,529.28,Groundworks!A452,Groundworks,107kg
+412,412,Temporary work; waler; 686 x 254 x 140kg UB,m,Groundworks,Civil Engineering (Large Quantities),692.52,Groundworks!F453,692.52,Groundworks!A453,Groundworks,140kg
+413,413,Temporary work; waler; 533 x 210 x 92kg UB,m,Groundworks,Civil Engineering (Large Quantities),446.94,Groundworks!F454,446.94,Groundworks!A454,Groundworks,92kg
+414,414,Temporary work; raking props; 254 x 254 x 107kg UC,m,Groundworks,Civil Engineering (Large Quantities),529.28,Groundworks!F455,529.28,Groundworks!A455,Groundworks,107kg
+415,415,Temporary work; structural post; 686 x 254 x 140kg UB,m,Groundworks,Civil Engineering (Large Quantities),692.52,Groundworks!F456,692.52,Groundworks!A456,Groundworks,140kg
+416,416,Temporary works; structural steel propping; circ sections,tonnes,Groundworks,Civil Engineering (Large Quantities),4109.94,Groundworks!F457,4109.94,Groundworks!A457,Groundworks,
+417,417,Temporary works; structural steel propping; circ sections,tonnes,Groundworks,Civil Engineering (Large Quantities),4109.94,Groundworks!F458,4109.94,Groundworks!A458,Groundworks,
+418,418,Temporary works; blisters to capping beam to raise prop above GF slab,nr,Groundworks,Civil Engineering (Large Quantities),1715.34,Groundworks!F459,1715.34,Groundworks!A459,Groundworks,
+419,419,Supply Only plunge columns for casting into piles by others,tonnes,Groundworks,Civil Engineering (Large Quantities),1298.0,Groundworks!F460,1298.0,Groundworks!A460,Groundworks,
+420,420,Dismantle & remove structural steel propping,tonnes,Groundworks,Civil Engineering (Large Quantities),826.0,Groundworks!F461,826.0,Groundworks!A461,Groundworks,
+421,421,Dismantle & remove structural steel propping; 107kg/m,m,Groundworks,Civil Engineering (Large Quantities),97.22,Groundworks!F462,97.22,Groundworks!A462,Groundworks,107kg
+422,422,Thrust Blocks (xnr; 2mx2mx1.5m) x =,item,Groundworks,Civil Engineering (Large Quantities),0.0,Groundworks!F463,0.0,Groundworks!A463,Groundworks,5m
+423,423,Excavate pits; in basement,m³,Groundworks,Civil Engineering (Large Quantities),19.35,Groundworks!F464,19.35,Groundworks!A464,Groundworks,
+424,424,Dispose of excavation arisings off site; clean inert material,m³,Groundworks,Civil Engineering (Large Quantities),41.65,Groundworks!F465,41.65,Groundworks!A465,Groundworks,excavation
+425,425,Level & compact bottom of excavation,m²,Groundworks,Civil Engineering (Large Quantities),0.52,Groundworks!F466,0.52,Groundworks!A466,Groundworks,excavation|compact
+426,426,EWS; not exceeding 4m dp; faces 2-4m,m²,Groundworks,Civil Engineering (Large Quantities),4.23,Groundworks!F467,4.23,Groundworks!A467,Groundworks,4m|4m
+427,427,Working space; pile caps; b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),14.03,Groundworks!F468,14.03,Groundworks!A468,Groundworks,
+428,428,C40 conc; Pile caps/foundations/bases,m³,Groundworks,Civil Engineering (Large Quantities),168.16,Groundworks!F469,168.16,Groundworks!A469,Groundworks,foundation
+429,429,Fwk; Foundations; ex 1m,m²,Groundworks,Civil Engineering (Large Quantities),34.19,Groundworks!F470,34.19,Groundworks!A470,Groundworks,1m|foundation
+430,430,Trowel finish,m²,Groundworks,Civil Engineering (Large Quantities),3.64,Groundworks!F471,3.64,Groundworks!A471,Groundworks,
+431,431,Reinforced continuity joint with Conobar or similar; to 300 thick slab; H16 bars T&B,m,Groundworks,Civil Engineering (Large Quantities),48.0,Groundworks!F472,48.0,Groundworks!A472,Groundworks,
+432,432,Form pocket;,nr,Groundworks,Civil Engineering (Large Quantities),58.84,Groundworks!F473,58.84,Groundworks!A473,Groundworks,
+433,433,Reinforcement; Various sizes 10-40mm dia @ 100kg/m3,item,Groundworks,Civil Engineering (Large Quantities),1769.62,Groundworks!F474,1769.62,Groundworks!A474,Groundworks,40mm|100kg
+434,434,Thrust Blocks (xnr; 2mx2mx1.5m) x =,item,Groundworks,Civil Engineering (Large Quantities),0.0,Groundworks!F475,0.0,Groundworks!A475,Groundworks,5m
+435,435,Excavate pits; in basement,m³,Groundworks,Civil Engineering (Large Quantities),19.35,Groundworks!F476,19.35,Groundworks!A476,Groundworks,
+436,436,Dispose of excavation arisings off site; clean inert material,m³,Groundworks,Civil Engineering (Large Quantities),41.65,Groundworks!F477,41.65,Groundworks!A477,Groundworks,excavation
+437,437,Level & compact bottom of excavation,m²,Groundworks,Civil Engineering (Large Quantities),0.52,Groundworks!F478,0.52,Groundworks!A478,Groundworks,excavation|compact
+438,438,EWS; not exceeding 4m dp; faces 2-4m,m²,Groundworks,Civil Engineering (Large Quantities),4.23,Groundworks!F479,4.23,Groundworks!A479,Groundworks,4m|4m
+439,439,Working space; pile caps; b/fill with SEM,m²,Groundworks,Civil Engineering (Large Quantities),14.03,Groundworks!F480,14.03,Groundworks!A480,Groundworks,
+440,440,C40 conc; Pile caps/foundations/bases,m³,Groundworks,Civil Engineering (Large Quantities),171.79,Groundworks!F481,171.79,Groundworks!A481,Groundworks,foundation
+441,441,Fwk; Foundations; ex 1m,m²,Groundworks,Civil Engineering (Large Quantities),34.19,Groundworks!F482,34.19,Groundworks!A482,Groundworks,1m|foundation
+442,442,Trowel finish,m²,Groundworks,Civil Engineering (Large Quantities),3.64,Groundworks!F483,3.64,Groundworks!A483,Groundworks,
+443,443,Reinforced continuity joint with Conobar or similar; to 300 thick slab; H16 bars T&B,m,Groundworks,Civil Engineering (Large Quantities),48.0,Groundworks!F484,48.0,Groundworks!A484,Groundworks,
+444,444,Form pocket;,nr,Groundworks,Civil Engineering (Large Quantities),58.84,Groundworks!F485,58.84,Groundworks!A485,Groundworks,
+445,445,Reinforcement; Various sizes 10-40mm dia @ 100kg/m3,item,Groundworks,Civil Engineering (Large Quantities),1752.37,Groundworks!F486,1752.37,Groundworks!A486,Groundworks,40mm|100kg
+446,446,Movement monitoring; Independant survey & reporting,item,Groundworks,Civil Engineering (Large Quantities),472.0,Groundworks!F487,472.0,Groundworks!A487,Groundworks,
+447,447,Movement monitoring (set up & dismantle),item,Groundworks,Civil Engineering (Large Quantities),424.8,Groundworks!F488,424.8,Groundworks!A488,Groundworks,
+448,448,Remove temp wks to top down construction along GL A; 70m x 7m,item,Groundworks,Civil Engineering (Large Quantities),16048.0,Groundworks!F489,16048.0,Groundworks!A489,Groundworks,70m|7m
+449,449,Temporary works; propping sheet piling; provisional sum,item,Groundworks,Civil Engineering (Large Quantities),23951.25,Groundworks!F490,23951.25,Groundworks!A490,Groundworks,
+450,450,Haul & deposit on site; max 50m,m³,Groundworks,Civil Engineering (Large Quantities),4.98,Groundworks!F493,4.98,Groundworks!A493,Groundworks,50m
+451,451,"Haul & deposit on site; by hand/wheelbarrows, inc load by hand; max 50m",m³,Groundworks,Civil Engineering (Large Quantities),70.41,Groundworks!F494,70.41,Groundworks!A494,Groundworks,50m
+452,452,Haul & deposit on site; max 100m,m³,Groundworks,Civil Engineering (Large Quantities),4.48,Groundworks!F495,4.48,Groundworks!A495,Groundworks,100m
+453,453,Haul & deposit on site; max 500m,m³,Groundworks,Civil Engineering (Large Quantities),10.79,Groundworks!F496,10.79,Groundworks!A496,Groundworks,500m
+454,454,Haul & deposit on site; max 750m,m³,Groundworks,Civil Engineering (Large Quantities),14.39,Groundworks!F497,14.39,Groundworks!A497,Groundworks,750m
+455,455,Haul & deposit on site; max 1000m,m³,Groundworks,Civil Engineering (Large Quantities),21.59,Groundworks!F498,21.59,Groundworks!A498,Groundworks,1000m
+456,456,Excavate & load from stockpile,m³,Groundworks,Civil Engineering (Large Quantities),2.7,Groundworks!F499,2.7,Groundworks!A499,Groundworks,
+457,457,Excavate & load from stockpile; by hand,m³,Groundworks,Civil Engineering (Large Quantities),64.77,Groundworks!F500,64.77,Groundworks!A500,Groundworks,
+458,458,WAC test pile or excvtn spoil to assess contamination,nr,Groundworks,Civil Engineering (Large Quantities),295.0,Groundworks!F501,295.0,Groundworks!A501,Groundworks,
+459,459,Inert disposal rate fluctuating based on prime cost of:,m³,Groundworks,Civil Engineering (Large Quantities),300.0,Groundworks!F502,300.0,Groundworks!A502,Groundworks,disposal
+460,460,Dispose of excavation arisings off site; clean inert material,m³,Groundworks,Civil Engineering (Large Quantities),41.65,Groundworks!F503,41.65,Groundworks!A503,Groundworks,excavation
+461,461,Dispose of excavation arisings off site; non-hazardous material (treatable),m³,Groundworks,Civil Engineering (Large Quantities),55.53,Groundworks!F505,55.53,Groundworks!A505,Groundworks,excavation
+462,462,EO clean inert disposal for non haz (treatable),m³,Groundworks,Civil Engineering (Large Quantities),13.88,Groundworks!F506,13.88,Groundworks!A506,Groundworks,disposal
+463,463,Dispose of excavation arisings off site; non-hazardous material (tip),m³,Groundworks,Civil Engineering (Large Quantities),76.35,Groundworks!F508,76.35,Groundworks!A508,Groundworks,excavation
+464,464,EO clean inert disposal for non haz (tip),m³,Groundworks,Civil Engineering (Large Quantities),34.71,Groundworks!F509,34.71,Groundworks!A509,Groundworks,disposal
+463,463,Dispose of excavation arisings off site; hazardous material (treatable),m³,Groundworks,Civil Engineering (Large Quantities),208.24,Groundworks!F511,208.24,Groundworks!A511,Groundworks,excavation
+464,464,EO clean inert disposal for hazardous (treatable),m³,Groundworks,Civil Engineering (Large Quantities),166.59,Groundworks!F512,166.59,Groundworks!A512,Groundworks,disposal
+465,465,Dispose of excavation arisings off site; hazardous material (tip),m³,Groundworks,Civil Engineering (Large Quantities),347.06,Groundworks!F514,347.06,Groundworks!A514,Groundworks,excavation
+466,466,EO clean inert disposal for hazardous (tip),m³,Groundworks,Civil Engineering (Large Quantities),305.41,Groundworks!F515,305.41,Groundworks!A515,Groundworks,disposal
+467,467,Dispose of excavation arisings off site; hazardous material (asbestos),m³,Groundworks,Civil Engineering (Large Quantities),485.88,Groundworks!F517,485.88,Groundworks!A517,Groundworks,excavation
+468,468,EO clean inert disposal for hazardous (asbestos),m³,Groundworks,Civil Engineering (Large Quantities),444.24,Groundworks!F518,444.24,Groundworks!A518,Groundworks,disposal
+469,469,"Chemical injection remediation; Regenesis; 2,079m2",item,Groundworks,Remediation,483974.05,Groundworks!F520,483974.05,Groundworks!A520,Groundworks,
+470,470,"Excavate, dispose and imported fill",m³,Groundworks,Remediation,0.0,Groundworks!F521,0.0,Groundworks!A521,Groundworks,
+471,471,"Excavate, mix chemicals, rotavate, fill & compact",m³,Groundworks,Remediation,0.0,Groundworks!F522,0.0,Groundworks!A522,Groundworks,compact
+472,472,Dispose of arisings off site using roll on/roll off skips,m³,Groundworks,Remediation,153.4,Groundworks!F523,153.4,Groundworks!A523,Groundworks,
+473,473,Dispose of arisings off site using 1m3 jiffy bag,m³,Groundworks,Remediation,340.1,Groundworks!F524,340.1,Groundworks!A524,Groundworks,
+474,474,Dispose of hardcore / piling mat off site,m³,Groundworks,Remediation,19.67,Groundworks!F525,19.67,Groundworks!A525,Groundworks,hardcore
+475,475,Dispose of vegetable material (site strip) off site,m³,Groundworks,Remediation,48.59,Groundworks!F526,48.59,Groundworks!A526,Groundworks,
+476,476,Dispose of topsoil off site,m³,Groundworks,Remediation,41.65,Groundworks!F527,41.65,Groundworks!A527,Groundworks,topsoil
+477,477,Dispose of broken concrete off site,m³,Groundworks,Remediation,22.13,Groundworks!F528,22.13,Groundworks!A528,Groundworks,
+478,478,Dispose of broken tarmac off site,m³,Groundworks,Remediation,23.6,Groundworks!F529,23.6,Groundworks!A529,Groundworks,
+479,479,Dispose surface water,item,Groundworks,Remediation,0.0,Groundworks!H532,0.0,Groundworks!A532,Groundworks,
+480,480,Dispose ground water,item,Groundworks,Remediation,1778.44,Groundworks!F533,1778.44,Groundworks!A533,Groundworks,
+481,481,Dispose ground water 2x,item,Groundworks,Remediation,3448.22,Groundworks!F534,3448.22,Groundworks!A534,Groundworks,
+482,482,Dispose ground water 3x,item,Groundworks,Remediation,6142.56,Groundworks!F535,6142.56,Groundworks!A535,Groundworks,
+483,483,Dispose ground water 4x,item,Groundworks,Remediation,7544.13,Groundworks!F536,7544.13,Groundworks!A536,Groundworks,
+484,484,Dispose ground water 5x,item,Groundworks,Remediation,9430.17,Groundworks!F537,9430.17,Groundworks!A537,Groundworks,
+485,485,Dispose ground water 6x,item,Groundworks,Remediation,12362.47,Groundworks!F538,12362.47,Groundworks!A538,Groundworks,
+486,486,GW pump and settlement tank; 10hrs/day working,item,Groundworks,Remediation,1088.22,Groundworks!F539,1088.22,Groundworks!A539,Groundworks,
+487,487,GW pump and settlement tank; 24/7 working,item,Groundworks,Remediation,1718.87,Groundworks!F540,1718.87,Groundworks!A540,Groundworks,
+488,488,Silt netting and silt mats,m,Groundworks,Remediation,48.51,Groundworks!F541,48.51,Groundworks!A541,Groundworks,
+489,489,Storage & settlement tank,item,Groundworks,Remediation,94.4,Groundworks!F542,94.4,Groundworks!A542,Groundworks,
+490,490,Silt buster water treatment,item,Groundworks,Remediation,496.26,Groundworks!F543,496.26,Groundworks!A543,Groundworks,
+491,491,Discharge licence; pumping to LA sewers,item,Groundworks,Remediation,3540.0,Groundworks!F544,3540.0,Groundworks!A544,Groundworks,
+492,492,Auger well point bore; 12m deep; insert suction pipe & fill with shingle,nr,Groundworks,Remediation,450.82,Groundworks!F545,450.82,Groundworks!A545,Groundworks,12m
+493,493,Dewatering well points; mob/demob/design/commission,item,Groundworks,Remediation,5310.0,Groundworks!F546,5310.0,Groundworks!A546,Groundworks,
+494,494,Dewatering well points; install (per 10m deep well point),nr,Groundworks,Remediation,1834.9,Groundworks!F547,1834.9,Groundworks!A547,Groundworks,10m
+495,495,Dewatering well points; install (per 15m deep well point),nr,Groundworks,Remediation,1947.0,Groundworks!F548,1947.0,Groundworks!A548,Groundworks,15m
+496,496,Dewatering well points; hire; (per 10m well point/wk),week,Groundworks,Remediation,177.0,Groundworks!F549,177.0,Groundworks!A549,Groundworks,10m
+497,497,Dewatering well points; hire; (per 15m well point/wk),week,Groundworks,Remediation,212.4,Groundworks!F550,212.4,Groundworks!A550,Groundworks,15m
+498,498,Dewatering well points; temp power 65kVA gen,week,Groundworks,Remediation,531.0,Groundworks!F551,531.0,Groundworks!A551,Groundworks,
+499,499,Soil stabilisation; lime & cement mix to C0.4/0.5; 700mm thick to 15% CBR (800m2 / day),m²,Groundworks,Remediation,14.75,Groundworks!F554,14.75,Groundworks!A554,Groundworks,700mm
+500,500,Filling; with selected excavated material (SEM),m³,Groundworks,Remediation,5.51,Groundworks!F555,5.51,Groundworks!A555,Groundworks,filling
+501,501,Filling with free issue materials from site stockpile; load & haul max 50m,m³,Groundworks,Remediation,9.81,Groundworks!F556,9.81,Groundworks!A556,Groundworks,50m|filling
+502,502,Imported granular fill; subsoil,m³,Groundworks,Remediation,30.49,Groundworks!F557,30.49,Groundworks!A557,Groundworks,
+503,503,Imported granular fill; hardcore / crushed concrete,m³,Groundworks,Remediation,27.72,Groundworks!F558,27.72,Groundworks!A558,Groundworks,hardcore
+504,504,Imported granular fill; 1A/1B/2A/2B,m³,Groundworks,Remediation,29.11,Groundworks!F559,29.11,Groundworks!A559,Groundworks,
+505,505,Imported granular fill; 6N/6P,m³,Groundworks,Remediation,30.49,Groundworks!F560,30.49,Groundworks!A560,Groundworks,
+505,505,"Imported granular fill; 6F2; supply only, place meas sep",m³,Groundworks,Remediation,30.54,Groundworks!F561,30.54,Groundworks!A561,Groundworks,
+506,506,Imported granular fill; 6F2,m³,Groundworks,Remediation,36.05,Groundworks!F562,36.05,Groundworks!A562,Groundworks,
+507,507,Imported granular fill; 6F1,m³,Groundworks,Remediation,36.05,Groundworks!F563,36.05,Groundworks!A563,Groundworks,
+508,508,Imported granular fill; type 3 (coarse/no fines),m³,Groundworks,Remediation,67.98,Groundworks!F564,67.98,Groundworks!A564,Groundworks,
+509,509,Imported granular fill; type 2,m³,Groundworks,Remediation,44.38,Groundworks!F565,44.38,Groundworks!A565,Groundworks,
+510,510,Imported granular fill; type 1 (c/c),m³,Groundworks,Remediation,47.15,Groundworks!F566,47.15,Groundworks!A566,Groundworks,
+511,511,Imported granular fill; type 1 (stone),m³,Groundworks,Remediation,74.92,Groundworks!F567,74.92,Groundworks!A567,Groundworks,
+512,512,Imported granular fill; CBGM 2,m³,Groundworks,Remediation,160.38,Groundworks!F568,160.38,Groundworks!A568,Groundworks,
+513,513,Imported granular fill; permeable aggregate 4/20,m³,Groundworks,Remediation,88.8,Groundworks!F569,88.8,Groundworks!A569,Groundworks,
+514,514,Imported granular fill; permeable aggregate 4/40,m³,Groundworks,Remediation,95.74,Groundworks!F570,95.74,Groundworks!A570,Groundworks,
+515,515,Imported granular fill; permeable aggregate 10/63,m³,Groundworks,Remediation,74.92,Groundworks!F571,74.92,Groundworks!A571,Groundworks,
+516,516,Imported granular fill; pea shingle,m³,Groundworks,Remediation,67.98,Groundworks!F572,67.98,Groundworks!A572,Groundworks,
+517,517,Imported granular fill; sand,m³,Groundworks,Remediation,91.06,Groundworks!F573,91.06,Groundworks!A573,Groundworks,
+518,518,Imported granular fill; sand; sheet pile voids,m³,Groundworks,Remediation,123.05,Groundworks!F574,123.05,Groundworks!A574,Groundworks,
+519,519,Ply fixed to face of contig piles and sand fill behind,m²,Groundworks,Remediation,49.72,Groundworks!F575,49.72,Groundworks!A575,Groundworks,
+520,520,Ply fixed to face of sheet piles and sand fill behind,m²,Groundworks,Remediation,62.64,Groundworks!F576,62.64,Groundworks!A576,Groundworks,
+521,521,Imported granular fill; topsoil; standard grade,m³,Groundworks,Remediation,65.93,Groundworks!F577,65.93,Groundworks!A577,Groundworks,topsoil
+522,522,Imported granular fill; topsoil; BS3882,m³,Groundworks,Remediation,93.7,Groundworks!F578,93.7,Groundworks!A578,Groundworks,topsoil
+523,523,Sand blinding; 25mm thk,m²,Groundworks,Remediation,2.76,Groundworks!F579,2.76,Groundworks!A579,Groundworks,25mm
+524,524,Sand blinding; 50mm thk,m²,Groundworks,Remediation,4.9,Groundworks!F580,4.9,Groundworks!A580,Groundworks,50mm
+525,525,Level & compact surface of fill (large areas),m²,Groundworks,Remediation,0.23,Groundworks!F581,0.23,Groundworks!A581,Groundworks,compact
+526,526,Level & compact surface of fill,m²,Groundworks,Remediation,0.52,Groundworks!F582,0.52,Groundworks!A582,Groundworks,compact
+527,527,Proof rolling surface of fill inc CBR test,m²,Groundworks,Remediation,0.74,Groundworks!F583,0.74,Groundworks!A583,Groundworks,
+528,528,Level & compact surface of fill; sloping,m²,Groundworks,Remediation,0.69,Groundworks!F584,0.69,Groundworks!A584,Groundworks,compact
+529,529,Level & compact surface of fill; vertical & battered faces,m²,Groundworks,Remediation,3.0,Groundworks!F585,3.0,Groundworks!A585,Groundworks,compact
+530,530,Level & compact surface of fill; sloping; by hand,m²,Groundworks,Remediation,10.4,Groundworks!F586,10.4,Groundworks!A586,Groundworks,compact
+531,531,Vibro compaction,m²,Groundworks,Remediation,1.03,Groundworks!F587,1.03,Groundworks!A587,Groundworks,compact
+532,532,Level & compact surface of fill & 25mm sand blinding,m²,Groundworks,Remediation,3.39,Groundworks!F588,3.39,Groundworks!A588,Groundworks,25mm|compact
+533,533,Level & compact surface of fill & 50mm sand blinding,m²,Groundworks,Remediation,5.53,Groundworks!F589,5.53,Groundworks!A589,Groundworks,50mm|compact
+534,534,Scarify/rake surface of existing ground to receive topsoil,m²,Groundworks,Remediation,0.69,Groundworks!F590,0.69,Groundworks!A590,Groundworks,topsoil
+535,535,Rotovate subsoil ready to recieve topsoil,m²,Groundworks,Remediation,1.94,Groundworks!F591,1.94,Groundworks!A591,Groundworks,topsoil
+536,536,Rake & level surface of topsoil,m²,Groundworks,Remediation,0.29,Groundworks!F592,0.29,Groundworks!A592,Groundworks,topsoil
+537,537,SC membrane,m²,Groundworks,Remediation,2.29,Groundworks!F593,2.29,Groundworks!A593,Groundworks,
+538,538,SC2000 filter geotextile; turned up at perimeter 450mm,m,Groundworks,Remediation,2.16,Groundworks!F594,2.16,Groundworks!A594,Groundworks,450mm
+539,539,SC intergrid,m²,Groundworks,Remediation,4.52,Groundworks!F595,4.52,Groundworks!A595,Groundworks,
+540,540,Tensar 30/30,m²,Groundworks,Remediation,1.63,Groundworks!F596,1.63,Groundworks!A596,Groundworks,
+541,541,Inbitex geotextile,m²,Groundworks,Remediation,1.63,Groundworks!F597,1.63,Groundworks!A597,Groundworks,
+542,542,Rhyno geotextile GW8118,m²,Groundworks,Remediation,1.37,Groundworks!F598,1.37,Groundworks!A598,Groundworks,
+543,543,Tenax geogrid LB0370,m²,Groundworks,Remediation,3.19,Groundworks!F599,3.19,Groundworks!A599,Groundworks,
+544,544,Tensar geogrid P-34817-1-1,m²,Groundworks,Remediation,4.7,Groundworks!F600,4.7,Groundworks!A600,Groundworks,
+545,545,Tensar Triax geogrid,m²,Groundworks,Remediation,4.33,Groundworks!F601,4.33,Groundworks!A601,Groundworks,
+546,546,Tensar Geogrid SS40,m²,Groundworks,Remediation,3.47,Groundworks!F602,3.47,Groundworks!A602,Groundworks,
+547,547,Tensar Geogrid TX160,m²,Groundworks,Remediation,3.61,Groundworks!F603,3.61,Groundworks!A603,Groundworks,
+548,548,Tensar Geogrid TX150,m²,Groundworks,Remediation,3.46,Groundworks!F604,3.46,Groundworks!A604,Groundworks,
+549,549,Terram 1000,m²,Groundworks,Remediation,1.5,Groundworks!F605,1.5,Groundworks!A605,Groundworks,
+550,550,Terram; vertical,m²,Groundworks,Remediation,2.03,Groundworks!F606,2.03,Groundworks!A606,Groundworks,
+551,551,1200g visqueen (300mu); horizontal,m²,Groundworks,Remediation,1.17,Groundworks!F607,1.17,Groundworks!A607,Groundworks,
+552,552,Terram 1B1 drainage membrane; vertical,m²,Groundworks,Remediation,6.83,Groundworks!F608,6.83,Groundworks!A608,Groundworks,
+553,553,SC membrane (impermeable) with welded joints; horizontal,m²,Groundworks,Remediation,6.91,Groundworks!F609,6.91,Groundworks!A609,Groundworks,
+554,554,Impervious tanking membrane; horizontal,m²,Groundworks,Remediation,6.91,Groundworks!F610,6.91,Groundworks!A610,Groundworks,
+555,555,Root barrier; Re-root 2000; horz,m²,Groundworks,Remediation,13.22,Groundworks!F611,13.22,Groundworks!A611,Groundworks,
+556,556,Root barrier; Re-root 2000; vert,m²,Groundworks,Remediation,13.81,Groundworks!F612,13.81,Groundworks!A612,Groundworks,
+557,557,Root barrier; Re-root 1000; horz,m²,Groundworks,Remediation,13.22,Groundworks!F613,13.22,Groundworks!A613,Groundworks,
+558,558,Root barrier; Re-root 1000; vert,m²,Groundworks,Remediation,13.81,Groundworks!F614,13.81,Groundworks!A614,Groundworks,
+557,557,C20 conc & fwk to 600 secants at 450c/s,m²,Groundworks,Filling secant/contig/sheet pile voids,77.58,Groundworks!F617,77.58,Groundworks!A617,Groundworks,
+558,558,C20 conc & fwk to 450 secants at 300c/s,m²,Groundworks,Filling secant/contig/sheet pile voids,75.22,Groundworks!F618,75.22,Groundworks!A618,Groundworks,
+559,559,C20 conc & fwk to 600 contigs at 700c/s,m²,Groundworks,Filling secant/contig/sheet pile voids,79.73,Groundworks!F619,79.73,Groundworks!A619,Groundworks,
+560,560,C20 conc & fwk to 450 contigs at 550c/s,m²,Groundworks,Filling secant/contig/sheet pile voids,76.8,Groundworks!F620,76.8,Groundworks!A620,Groundworks,
+561,561,Void formers to secant piles; 600mm dia at 450 c/s; Filcor 90,m²,Groundworks,Filling secant/contig/sheet pile voids,50.68,Groundworks!F621,50.68,Groundworks!A621,Groundworks,600mm
+562,562,Void formers to contiguous piles; 450mm dia at 550 c/s; Filcor 70,m²,Groundworks,Filling secant/contig/sheet pile voids,65.46,Groundworks!F622,65.46,Groundworks!A622,Groundworks,450mm
+563,563,Void formers to contiguous piles; 600mm dia at 700 c/s; Filcor 70,m²,Groundworks,Filling secant/contig/sheet pile voids,57.8,Groundworks!F623,57.8,Groundworks!A623,Groundworks,600mm
+564,564,Void formers to sheet piles; 450mm deep at 1.20m c/s; Filcor 70,m²,Groundworks,Filling secant/contig/sheet pile voids,45.18,Groundworks!F624,45.18,Groundworks!A624,Groundworks,450mm|20m
+565,565,"Ply left in, shot fired to sheet piles and sand fill voids",m²,Groundworks,Filling secant/contig/sheet pile voids,67.18,Groundworks!F625,67.18,Groundworks!A625,Groundworks,
+566,566,Gunite spray concrete; ave 150mm thk; 1 layer A252 fixed to face of piles; wood float finish,m²,Groundworks,Filling secant/contig/sheet pile voids,132.4,Groundworks!F626,132.4,Groundworks!A626,Groundworks,150mm
+567,567,Gunite spray concrete; ave 260mm thk; 1 layer A252 fixed to face of piles; wood float finish,m²,Groundworks,Filling secant/contig/sheet pile voids,148.62,Groundworks!F627,148.62,Groundworks!A627,Groundworks,260mm
+568,568,Drill & fix chemical anchors,nr,Groundworks,Sundries,35.17,Groundworks!F630,35.17,Groundworks!A630,Groundworks,
+569,569,Drill & grout 25mm threaded rod; Hilti HIT resin,nr,Groundworks,Sundries,33.7,Groundworks!F631,33.7,Groundworks!A631,Groundworks,25mm
+570,570,Drill & grout T10/T12 dowel bars; Hilti HIT resin,nr,Groundworks,Sundries,11.53,Groundworks!F632,11.53,Groundworks!A632,Groundworks,
+571,571,Drill & grout T16 dowel bars; Hilti HIT resin,nr,Groundworks,Sundries,13.12,Groundworks!F633,13.12,Groundworks!A633,Groundworks,
+572,572,Drill & grout T16 S/S dowel bars; Hilti HIT resin,nr,Groundworks,Sundries,13.12,Groundworks!F634,13.12,Groundworks!A634,Groundworks,
+573,573,Drill & grout T20 dowel bars; Hilti HIT resin,nr,Groundworks,Sundries,16.64,Groundworks!F635,16.64,Groundworks!A635,Groundworks,
+574,574,Drill & grout T25 dowel bars; Hilti HIT resin,nr,Groundworks,Sundries,20.16,Groundworks!F636,20.16,Groundworks!A636,Groundworks,
+575,575,Drill & grout T32 dowel bars; Hilti HIT resin,nr,Groundworks,Sundries,23.24,Groundworks!F637,23.24,Groundworks!A637,Groundworks,
+576,576,Drill & grout T32 s/s dowel bars; Hilti HIT resin,nr,Groundworks,Sundries,30.44,Groundworks!F638,30.44,Groundworks!A638,Groundworks,
+577,577,Drill & grout T50 s/s sleeved dowel bars; Hilti HIT resin,nr,Groundworks,Sundries,42.55,Groundworks!F639,42.55,Groundworks!A639,Groundworks,
+578,578,Drill & grout T50 s/s dowel bars; Hilti HIT resin,nr,Groundworks,Sundries,37.83,Groundworks!F640,37.83,Groundworks!A640,Groundworks,
+579,579,Core drilling 107mm dia,m,Groundworks,Sundries,105.26,Groundworks!F641,105.26,Groundworks!A641,Groundworks,107mm
+580,580,Core drilling 127mm dia,m,Groundworks,Sundries,141.6,Groundworks!F642,141.6,Groundworks!A642,Groundworks,127mm
+581,581,Core drilling 152mm dia,m,Groundworks,Sundries,150.1,Groundworks!F643,150.1,Groundworks!A643,Groundworks,152mm
+582,582,Core drilling 202mm dia,m,Groundworks,Sundries,222.78,Groundworks!F644,222.78,Groundworks!A644,Groundworks,202mm
+583,583,Core drilling 250mm dia,m,Groundworks,Sundries,297.83,Groundworks!F645,297.83,Groundworks!A645,Groundworks,250mm
+584,584,Core drilling 300mm dia,m,Groundworks,Sundries,425.74,Groundworks!F646,425.74,Groundworks!A646,Groundworks,300mm
+585,585,Core drilling 350mm dia,m,Groundworks,Sundries,447.46,Groundworks!F647,447.46,Groundworks!A647,Groundworks,350mm
+586,586,Cast in telescopic brick vent to 700 edge beam,nr,Groundworks,Sundries,33.75,Groundworks!F648,33.75,Groundworks!A648,Groundworks,
+587,587,Compressible filler; 25mm thk; ex 1m; horizontal,m²,Groundworks,Sundries,19.35,Groundworks!F649,19.35,Groundworks!A649,Groundworks,25mm|1m
+588,588,Compressible filler; 25mm thk; ex 1m; vertical,m²,Groundworks,Sundries,23.97,Groundworks!F650,23.97,Groundworks!A650,Groundworks,25mm|1m
+589,589,Compressible filler; 300 thick x 500mm wide,m,Groundworks,Sundries,27.6,Groundworks!F651,27.6,Groundworks!A651,Groundworks,500mm
+590,590,Polystyrene void former; Filcor 10,m³,Groundworks,Sundries,113.62,Groundworks!F654,113.62,Groundworks!A654,Groundworks,
+591,591,Polystyrene void former; Filcor 20,m³,Groundworks,Sundries,118.16,Groundworks!F655,118.16,Groundworks!A655,Groundworks,
+592,592,Polystyrene void former; Filcor 45,m³,Groundworks,Sundries,146.63,Groundworks!F656,146.63,Groundworks!A656,Groundworks,
+593,593,Polystyrene void former; Filcor 50,m³,Groundworks,Sundries,173.02,Groundworks!F657,173.02,Groundworks!A657,Groundworks,
+594,594,Polystyrene void former; Jablite fillmaster; EPS100,m³,Groundworks,Sundries,116.21,Groundworks!F658,116.21,Groundworks!A658,Groundworks,
+595,595,Void formers to secant piles; 600mm dia at 450 c/s; Filcor 90,m²,Groundworks,Sundries,45.1,Groundworks!F659,45.1,Groundworks!A659,Groundworks,600mm
+596,596,Void formers to contiguous piles; 450mm dia at 550 c/s; Filcor 70,m²,Groundworks,Sundries,56.9,Groundworks!F660,56.9,Groundworks!A660,Groundworks,450mm
+597,597,Void formers to contiguous piles; 600mm dia at 700 c/s; Filcor 70,m²,Groundworks,Sundries,57.8,Groundworks!F661,57.8,Groundworks!A661,Groundworks,600mm
+598,598,Void formers to sheet piles; 450mm deep at 1.20m c/s; Filcor 70,m²,Groundworks,Sundries,44.54,Groundworks!F662,44.54,Groundworks!A662,Groundworks,450mm|20m
+599,599,Cellcore; 85mm; HX B 13/18; under conc 301-460mm,m²,Groundworks,Sundries,20.2,Groundworks!F665,20.2,Groundworks!A665,Groundworks,85mm|460mm
+600,600,Cellcore; 85mm; HX B 18/24; under conc 461-660mm,m²,Groundworks,Sundries,21.5,Groundworks!F666,21.5,Groundworks!A666,Groundworks,85mm|660mm
+601,601,Cellcore; 85mm; HX B 24/32; under conc 661-900mm,m²,Groundworks,Sundries,22.8,Groundworks!F667,22.8,Groundworks!A667,Groundworks,85mm|900mm
+602,602,Cellcore; 90mm; HX S 09/13; under conc 221-300mm,m²,Groundworks,Sundries,19.32,Groundworks!F668,19.32,Groundworks!A668,Groundworks,90mm|300mm
+603,603,Cellcore; 90mm; HX S 13/18; under conc 301-460mm,m²,Groundworks,Sundries,26.3,Groundworks!F669,26.3,Groundworks!A669,Groundworks,90mm|460mm
+604,604,Cellcore; 155mm; HX B 13/18; under conc 301-460mm,m²,Groundworks,Sundries,24.88,Groundworks!F670,24.88,Groundworks!A670,Groundworks,155mm|460mm
+605,605,Cellcore; 155mm; HX B 18/24; under conc 461-660mm,m²,Groundworks,Sundries,28.95,Groundworks!F671,28.95,Groundworks!A671,Groundworks,155mm|660mm
+606,606,Cellcore; 155mm; HX B 24/32; under conc 661-900mm,m²,Groundworks,Sundries,25.92,Groundworks!F672,25.92,Groundworks!A672,Groundworks,155mm|900mm
+607,607,Cellcore; 160mm; HX S 09/13; under conc 221-300mm,m²,Groundworks,Sundries,27.36,Groundworks!F673,27.36,Groundworks!A673,Groundworks,160mm|300mm
+608,608,Cellcore; 160mm; HX S 13/18; under conc 301-460mm,m²,Groundworks,Sundries,28.49,Groundworks!F674,28.49,Groundworks!A674,Groundworks,160mm|460mm
+609,609,Cellcore; 160mm; HX S 40/50; under conc 1401-1660mm,m²,Groundworks,Sundries,39.28,Groundworks!F675,39.28,Groundworks!A675,Groundworks,160mm|1660mm
+610,610,Cellcore; 220mm; HX S 09/13; under conc 221-300mm,m²,Groundworks,Sundries,31.11,Groundworks!F676,31.11,Groundworks!A676,Groundworks,220mm|300mm
+611,611,Cellcore; 220mm; HX S 13/18; under conc 301-460mm,m²,Groundworks,Sundries,31.52,Groundworks!F677,31.52,Groundworks!A677,Groundworks,220mm|460mm
+612,612,Cellcore; 220mm; HX B 18/24; under concrete 461-660mm,m²,Groundworks,Sundries,33.26,Groundworks!F678,33.26,Groundworks!A678,Groundworks,220mm|660mm
+613,613,Cellcore; 220mm; HX B 24/32; under concrete 660-900mm,m²,Groundworks,Sundries,35.38,Groundworks!F679,35.38,Groundworks!A679,Groundworks,220mm|900mm
+614,614,Cellcore; 225mm; HX S 07/10; under concrete upto 220mm,m²,Groundworks,Sundries,32.18,Groundworks!F680,32.18,Groundworks!A680,Groundworks,225mm|220mm
+615,615,Cellcore; 225mm; HX S 09/13; under concrete 221-300mm,m²,Groundworks,Sundries,32.83,Groundworks!F681,32.83,Groundworks!A681,Groundworks,225mm|300mm
+616,616,Cellcore; 225mm; HX S 09/13; under concrete 221-300mm; vertical,m²,Groundworks,Sundries,35.24,Groundworks!F682,35.24,Groundworks!A682,Groundworks,225mm|300mm
+617,617,Cellcore; 225mm; HX S 13/18; under concrete 301-460mm,m²,Groundworks,Sundries,33.48,Groundworks!F683,33.48,Groundworks!A683,Groundworks,225mm|460mm
+618,618,Cellcore; 225mm; HX S 18/24; under concrete 461-660mm,m²,Groundworks,Sundries,35.52,Groundworks!F684,35.52,Groundworks!A684,Groundworks,225mm|660mm
+619,619,Cellcore; 225mm; HX S 24/32; under concrete 661-900mm,m²,Groundworks,Sundries,37.67,Groundworks!F685,37.67,Groundworks!A685,Groundworks,225mm|900mm
+620,620,Cellcore; 250mm; CC 20/30; under concrete 551-770,m²,Groundworks,Sundries,34.64,Groundworks!F686,34.64,Groundworks!A686,Groundworks,250mm
+621,621,Cellcore; 250mm; CC 25/35; under concrete 771-980,m²,Groundworks,Sundries,34.64,Groundworks!F687,34.64,Groundworks!A687,Groundworks,250mm
+622,622,Cellcore; 250mm; CC 30/40; under concrete 981-1185,m²,Groundworks,Sundries,44.99,Groundworks!F688,44.99,Groundworks!A688,Groundworks,250mm
+623,623,Cellcore; 250mm; CC 35/45; under concrete 1186-1400mm,m²,Groundworks,Sundries,39.57,Groundworks!F689,39.57,Groundworks!A689,Groundworks,250mm|1400mm
+624,624,Cellcore; 250mm; CC 40/55; under concrete 1401-1810mm,m²,Groundworks,Sundries,48.76,Groundworks!F690,48.76,Groundworks!A690,Groundworks,250mm|1810mm
+625,625,Cellcore; 250mm; CC 50/60; under concrete 1811-2020mm,m²,Groundworks,Sundries,53.95,Groundworks!F691,53.95,Groundworks!A691,Groundworks,250mm|2020mm
+626,626,Cellcore; 300mm; CP 8/12;,m²,Groundworks,Sundries,45.77,Groundworks!F692,45.77,Groundworks!A692,Groundworks,300mm
+627,627,Cellcore; 300mm; CP 20/30;,m²,Groundworks,Sundries,50.97,Groundworks!F693,50.97,Groundworks!A693,Groundworks,300mm
+628,628,Cellcore; mm; HX S 07/10; under concrete upto 220mm,m²,Groundworks,Sundries,45.84,Groundworks!F694,45.84,Groundworks!A694,Groundworks,220mm
+629,629,Cellcore; 300mm; HX S 09/13; under concrete 221-300mm,m²,Groundworks,Sundries,50.81,Groundworks!F695,50.81,Groundworks!A695,Groundworks,300mm|300mm
+630,630,Cellcore; 300mm; HX S 13/18; under concrete 301-460mm,m²,Groundworks,Sundries,52.48,Groundworks!F696,52.48,Groundworks!A696,Groundworks,300mm|460mm
+631,631,Cellcore; 300mm; HG 30/40; under concrete >1000mm,m²,Groundworks,Sundries,45.75,Groundworks!F697,45.75,Groundworks!A697,Groundworks,300mm|1000mm
+632,632,Cellcore; 300mm; HG 40/50; under concrete >1000mm,m²,Groundworks,Sundries,51.21,Groundworks!F698,51.21,Groundworks!A698,Groundworks,300mm|1000mm
+633,633,EO Cellcore for cutting around piles,nr,Groundworks,Sundries,14.42,Groundworks!F699,14.42,Groundworks!A699,Groundworks,
+634,634,Heave guard; 50mm thk; vertical,m²,Groundworks,Sundries,14.16,Groundworks!F700,14.16,Groundworks!A700,Groundworks,50mm
+635,635,Heave guard; 75mm thk; vertical,m²,Groundworks,Sundries,15.21,Groundworks!F701,15.21,Groundworks!A701,Groundworks,75mm
+636,636,Heave guard; 100mm thk; vertical,m²,Groundworks,Sundries,20.05,Groundworks!F702,20.05,Groundworks!A702,Groundworks,100mm
+637,637,Heave guard; 200mm thk; vertical,m²,Groundworks,Sundries,33.35,Groundworks!F703,33.35,Groundworks!A703,Groundworks,200mm
+638,638,Heave guard; 300mm thk; vertical,m²,Groundworks,Sundries,54.81,Groundworks!F704,54.81,Groundworks!A704,Groundworks,300mm
+639,639,85mm thick Heaveguard pilecollars to 450mm dia piles,nr,Groundworks,Sundries,14.26,Groundworks!F705,14.26,Groundworks!A705,Groundworks,85mm|450mm
+640,640,85mm thick Heaveguard pilecollars to 600mm dia piles,nr,Groundworks,Sundries,16.63,Groundworks!F706,16.63,Groundworks!A706,Groundworks,85mm|600mm
+641,641,155mm thick Heaveguard pilecollars to 450mm dia piles,nr,Groundworks,Sundries,25.42,Groundworks!F707,25.42,Groundworks!A707,Groundworks,155mm|450mm
+642,642,155mm thick Heaveguard pilecollars to 600mm dia piles,nr,Groundworks,Sundries,30.81,Groundworks!F708,30.81,Groundworks!A708,Groundworks,155mm|600mm
+643,643,220mm thick Heaveguard pilecollars to 450mm dia piles,nr,Groundworks,Sundries,28.95,Groundworks!F709,28.95,Groundworks!A709,Groundworks,220mm|450mm
+644,644,220mm thick Heaveguard pilecollars to 600mm dia piles,nr,Groundworks,Sundries,35.43,Groundworks!F710,35.43,Groundworks!A710,Groundworks,220mm|600mm
+645,645,Dufaylite Clayboard; KN30; 85mm thk; wrapped in polythene; horizontal,m²,Groundworks,Sundries,29.44,Groundworks!F711,29.44,Groundworks!A711,Groundworks,85mm
+646,646,Claymaster; 50mm thk; vertical,m²,Groundworks,Sundries,12.33,Groundworks!F712,12.33,Groundworks!A712,Groundworks,50mm
+647,647,Claymaster; 75mm thk; vertical,m²,Groundworks,Sundries,13.96,Groundworks!F713,13.96,Groundworks!A713,Groundworks,75mm
+648,648,Claymaster; 100mm thk; vertical,m²,Groundworks,Sundries,16.53,Groundworks!F714,16.53,Groundworks!A714,Groundworks,100mm
+649,649,Claymaster; 200mm thk; vertical,m²,Groundworks,Sundries,33.35,Groundworks!F715,33.35,Groundworks!A715,Groundworks,200mm
+650,650,Claymaster; 300mm thk; vertical,m²,Groundworks,Sundries,54.81,Groundworks!F716,54.81,Groundworks!A716,Groundworks,300mm
+651,651,Ventform 80/20; with gas membrane,m²,Groundworks,Sundries,24.28,Groundworks!F717,24.28,Groundworks!A717,Groundworks,
+652,652,Ventform 100/20; with gas membrane,m²,Groundworks,Sundries,26.32,Groundworks!F718,26.32,Groundworks!A718,Groundworks,
+653,653,Ventform 150/09; with gas membrane,m²,Groundworks,Sundries,27.8,Groundworks!F719,27.8,Groundworks!A719,Groundworks,
+654,654,Ventform 200/09; with gas membrane,m²,Groundworks,Sundries,33.34,Groundworks!F720,33.34,Groundworks!A720,Groundworks,
+655,655,Cellvent; 200 thk; HG 30/40,m²,Groundworks,Sundries,40.04,Groundworks!F721,40.04,Groundworks!A721,Groundworks,
+656,656,Cellvent; 200 thk; HG 50/65,m²,Groundworks,Sundries,40.04,Groundworks!F722,40.04,Groundworks!A722,Groundworks,
+657,657,Cellvent; 270 thk; HX 9/13,m²,Groundworks,Sundries,51.57,Groundworks!F723,51.57,Groundworks!A723,Groundworks,
+658,658,Cellvent; 270 thk; HX 24/32,m²,Groundworks,Sundries,53.59,Groundworks!F724,53.59,Groundworks!A724,Groundworks,
+659,659,Cellvent; 575 thk; HX 9/13,m²,Groundworks,Sundries,72.97,Groundworks!F725,72.97,Groundworks!A725,Groundworks,
+660,660,Premcrete Hydrovoid 25mm,m²,Groundworks,Sundries,16.21,Groundworks!F726,16.21,Groundworks!A726,Groundworks,25mm
+661,661,Premcrete Hydrovoid 25mm x 900wde (@ 3.0m c/s),m,Groundworks,Sundries,12.96,Groundworks!F727,12.96,Groundworks!A727,Groundworks,25mm|0m
+662,662,"Premcrete Hydrovoid external vent box, pipework and vent mat connector",nr,Groundworks,Sundries,250.42,Groundworks!F728,250.42,Groundworks!A728,Groundworks,
+663,663,Insulation; Celotex GA4000; 25mm thk; vert,m²,Groundworks,Sundries,11.13,Groundworks!F731,11.13,Groundworks!A731,Groundworks,25mm
+664,664,Insulation; Celotex GA4000; 50mm thk; horz,m²,Groundworks,Sundries,11.65,Groundworks!F732,11.65,Groundworks!A732,Groundworks,50mm
+665,665,Insulation; Celotex GA4000; 50mm thk; vert,m²,Groundworks,Sundries,16.38,Groundworks!F733,16.38,Groundworks!A733,Groundworks,50mm
+666,666,Insulation; Celotex GA4000; 75mm thk; horz,m²,Groundworks,Sundries,15.62,Groundworks!F734,15.62,Groundworks!A734,Groundworks,75mm
+667,667,Insulation; Celotex GA4000; 75mm thk; vert,m²,Groundworks,Sundries,12.59,Groundworks!F735,12.59,Groundworks!A735,Groundworks,75mm
+668,668,Insulation; Celotex GA4000; 100mm thk; horz,m²,Groundworks,Sundries,18.03,Groundworks!F736,18.03,Groundworks!A736,Groundworks,100mm
+669,669,Insulation; Celotex GA4000; 100mm thk; vert,m²,Groundworks,Sundries,20.35,Groundworks!F737,20.35,Groundworks!A737,Groundworks,100mm
+670,670,Insulation; Celotex GA4000; 120mm thk; horz,m²,Groundworks,Sundries,20.83,Groundworks!F738,20.83,Groundworks!A738,Groundworks,120mm
+671,671,Insulation; Celotex GA4000; 200mm thk; horz,m²,Groundworks,Sundries,32.31,Groundworks!F739,32.31,Groundworks!A739,Groundworks,200mm
+672,672,Insulation; Jablite EPS; 100mm thk; vert,m²,Groundworks,Sundries,42.76,Groundworks!F740,42.76,Groundworks!A740,Groundworks,100mm
+673,673,Insulation; Kingspan Thermafloor; 50mm thk; horz,m²,Groundworks,Sundries,13.86,Groundworks!F741,13.86,Groundworks!A741,Groundworks,50mm
+674,674,Insulation; Kingspan Thermafloor; 70mm thk; horz; TF70,m²,Groundworks,Sundries,17.63,Groundworks!F742,17.63,Groundworks!A742,Groundworks,70mm
+675,675,Insulation; Kingspan Thermafloor; 110mm thk; horz,m²,Groundworks,Sundries,18.22,Groundworks!F743,18.22,Groundworks!A743,Groundworks,110mm
+676,676,Insulation; Kingspan Styrozone H350R; 50mm thk; horz,m²,Groundworks,Sundries,16.18,Groundworks!F744,16.18,Groundworks!A744,Groundworks,50mm
+677,677,Insulation; Kingspan Styrozone H350R; 160mm thk; horz,m²,Groundworks,Sundries,27.76,Groundworks!F745,27.76,Groundworks!A745,Groundworks,160mm
+678,678,Insulation; Kingspan Styrozone H350R; 160mm thk; vert,m²,Groundworks,Sundries,30.08,Groundworks!F746,30.08,Groundworks!A746,Groundworks,160mm
+679,679,Insulation; Kingspan Styrozone H350R; 300mm thk; horz,m²,Groundworks,Sundries,39.64,Groundworks!F747,39.64,Groundworks!A747,Groundworks,300mm
+680,680,Insulation; Kingspan Styrozone H350R; 500mm thk; horz,m²,Groundworks,Sundries,65.87,Groundworks!F748,65.87,Groundworks!A748,Groundworks,500mm
+681,681,Insulation; Kingspan Kooltherm K3; 40mm thk; horz,m²,Groundworks,Sundries,14.39,Groundworks!F749,14.39,Groundworks!A749,Groundworks,40mm
+682,682,Insulation; Kingspan Kooltherm K3; 40mm thk; vert,m²,Groundworks,Sundries,15.68,Groundworks!F750,15.68,Groundworks!A750,Groundworks,40mm
+683,683,Insulation; Kingspan Kooltherm K8; 50mm thk; horz,m²,Groundworks,Sundries,23.25,Groundworks!F751,23.25,Groundworks!A751,Groundworks,50mm
+684,684,Insulation; Kingspan Kooltherm K8; 50mm thk; vert,m²,Groundworks,Sundries,24.54,Groundworks!F752,24.54,Groundworks!A752,Groundworks,50mm
+685,685,Insulation; Kingspan Greenguard 300; 80mm thk; horz,m²,Groundworks,Sundries,34.79,Groundworks!F753,34.79,Groundworks!A753,Groundworks,80mm
+686,686,Insulation; Kingspan Greenguard 300; 80mm thk; vert,m²,Groundworks,Sundries,36.08,Groundworks!F754,36.08,Groundworks!A754,Groundworks,80mm
+687,687,Insulation; XPS CB-RT03; 155mm thk; horz,m²,Groundworks,Sundries,27.76,Groundworks!F755,27.76,Groundworks!A755,Groundworks,155mm
+688,688,Insulation; XPS CB-RT03; 305mm thk; horz,m²,Groundworks,Sundries,40.64,Groundworks!F756,40.64,Groundworks!A756,Groundworks,305mm
+689,689,Insulation; 30mm thk; vert,m²,Groundworks,Sundries,10.72,Groundworks!F757,10.72,Groundworks!A757,Groundworks,30mm
+690,690,Insulation; 30mm thk; vert; 450mm wide,m,Groundworks,Sundries,5.78,Groundworks!F758,5.78,Groundworks!A758,Groundworks,30mm|450mm
+691,691,Insulation; 30mm thk; vert; 900mm wide,m,Groundworks,Sundries,9.78,Groundworks!F759,9.78,Groundworks!A759,Groundworks,30mm|900mm
+692,692,500g visqueen (125mu); horizontal,m²,Groundworks,DPM,1.3,Groundworks!F763,1.3,Groundworks!A763,Groundworks,
+693,693,500g visqueen (125mu); vertical,m²,Groundworks,DPM,1.88,Groundworks!F764,1.88,Groundworks!A764,Groundworks,
+694,694,1200g visqueen (300mu); horizontal,m²,Groundworks,DPM,1.99,Groundworks!F765,1.99,Groundworks!A765,Groundworks,
+695,695,1200g visqueen (300mu); sloping,m²,Groundworks,DPM,1.67,Groundworks!F766,1.67,Groundworks!A766,Groundworks,
+696,696,1200g visqueen (300mu); vertical,m²,Groundworks,DPM,1.86,Groundworks!F767,1.86,Groundworks!A767,Groundworks,
+697,697,Seal & dress around pile,nr,Groundworks,DPM,24.46,Groundworks!F768,24.46,Groundworks!A768,Groundworks,
+698,698,1200g visqueen (300mu); horizontal; folded and taped joints,m²,Groundworks,DPM,2.88,Groundworks!F769,2.88,Groundworks!A769,Groundworks,
+699,699,2000g visqueen (500mu) ECO membrane; horizontal,m²,Groundworks,DPM,3.26,Groundworks!F770,3.26,Groundworks!A770,Groundworks,
+700,700,2000g visqueen (500mu) ECO membrane; vertical,m²,Groundworks,DPM,4.06,Groundworks!F771,4.06,Groundworks!A771,Groundworks,
+701,701,2mm HDPE pond/lagoon liner,m²,Groundworks,DPM,17.4,Groundworks!F772,17.4,Groundworks!A772,Groundworks,2mm
+702,702,RIW LAC; 2 coats; horz,m²,Groundworks,Waterproofing Liquid,12.45,Groundworks!F774,12.45,Groundworks!A774,Groundworks,
+703,703,RIW LAC; 2 coats; vert,m²,Groundworks,Waterproofing Liquid,13.41,Groundworks!F775,13.41,Groundworks!A775,Groundworks,
+704,704,RIW Flexiseal; 2 coats; horz,m²,Groundworks,Waterproofing Liquid,34.94,Groundworks!F776,34.94,Groundworks!A776,Groundworks,
+705,705,RIW Flexiseal; 2 coats; vert,m²,Groundworks,Waterproofing Liquid,37.35,Groundworks!F777,37.35,Groundworks!A777,Groundworks,
+706,706,RIW Toughseal (2pt epoxy); 2 coats; horz,m²,Groundworks,Waterproofing Liquid,39.81,Groundworks!F778,39.81,Groundworks!A778,Groundworks,
+707,707,RIW Toughseal (2pt epoxy); 2 coats; vert,m²,Groundworks,Waterproofing Liquid,42.21,Groundworks!F779,42.21,Groundworks!A779,Groundworks,
+708,708,Sikalastic 1K; horizontal,m²,Groundworks,Waterproofing Liquid,34.94,Groundworks!F780,34.94,Groundworks!A780,Groundworks,
+709,709,Sikalastic 1K; vertical,m²,Groundworks,Waterproofing Liquid,37.35,Groundworks!F781,37.35,Groundworks!A781,Groundworks,
+710,710,Silcor 900HA; horizontal,m²,Groundworks,Waterproofing Liquid,54.67,Groundworks!F782,54.67,Groundworks!A782,Groundworks,
+711,711,Silcor 900HA; vertical,m²,Groundworks,Waterproofing Liquid,57.07,Groundworks!F783,57.07,Groundworks!A783,Groundworks,
+712,712,Synthaprufe; 2 coats; horz,m²,Groundworks,Waterproofing Liquid,21.92,Groundworks!F784,21.92,Groundworks!A784,Groundworks,
+713,713,Synthaprufe; 2 coats; vert,m²,Groundworks,Waterproofing Liquid,23.52,Groundworks!F785,23.52,Groundworks!A785,Groundworks,
+714,714,Synthaprufe; 3 coats; horz,m²,Groundworks,Waterproofing Liquid,33.03,Groundworks!F786,33.03,Groundworks!A786,Groundworks,
+715,715,Synthaprufe; 3 coats; vert,m²,Groundworks,Waterproofing Liquid,35.43,Groundworks!F787,35.43,Groundworks!A787,Groundworks,
+716,716,Pudlo Liquid GB; horizontal,m²,Groundworks,Waterproofing Liquid,32.88,Groundworks!F788,32.88,Groundworks!A788,Groundworks,
+717,717,Pudlo Liquid GB; vertical,m²,Groundworks,Waterproofing Liquid,37.21,Groundworks!F789,37.21,Groundworks!A789,Groundworks,
+718,718,Premcrete Hydroprufe LG; horz,m²,Groundworks,Waterproofing Liquid,32.88,Groundworks!F790,32.88,Groundworks!A790,Groundworks,
+719,719,Premcrete Hydroprufe LG; vert,m²,Groundworks,Waterproofing Liquid,37.21,Groundworks!F791,37.21,Groundworks!A791,Groundworks,
+720,720,EO Hydroprufe LG for quartz aggregate spread on surface; horz,m²,Groundworks,Waterproofing Liquid,4.3,Groundworks!F792,4.3,Groundworks!A792,Groundworks,
+721,721,Premcrete Hydroseal FX white; horz,m²,Groundworks,Waterproofing Liquid,31.8,Groundworks!F793,31.8,Groundworks!A793,Groundworks,
+722,722,Premcrete Hydroseal FX white; vert,m²,Groundworks,Waterproofing Liquid,36.05,Groundworks!F794,36.05,Groundworks!A794,Groundworks,
+723,723,Cemflex VB active metal waterstop,m,Groundworks,Waterproofing Liquid,23.74,Groundworks!F795,23.74,Groundworks!A795,Groundworks,
+724,724,Chem-Crete Pavix; CCC100; horz,m²,Groundworks,Waterproofing Liquid,46.15,Groundworks!F796,46.15,Groundworks!A796,Groundworks,
+725,725,Chem-Crete Pavix; CCC100; vert,m²,Groundworks,Waterproofing Liquid,48.55,Groundworks!F797,48.55,Groundworks!A797,Groundworks,
+726,726,Chem-Crete Pavix; CCC100; soffit,m²,Groundworks,Waterproofing Liquid,72.33,Groundworks!F798,72.33,Groundworks!A798,Groundworks,
+727,727,Bituthene LM; 3 coats; vert,m²,Groundworks,Waterproofing Liquid,35.43,Groundworks!F799,35.43,Groundworks!A799,Groundworks,
+728,728,20mm thick 2 coat; excavation 300mm width; horizontal,m²,Groundworks,Waterproofing Mastic Asphalt Tanking,47.2,Groundworks!F801,47.2,Groundworks!A801,Groundworks,20mm|300mm|excavation
+729,729,20mm thick 2 coat; excavation 300mm width; vertical,m²,Groundworks,Waterproofing Mastic Asphalt Tanking,59.0,Groundworks!F802,59.0,Groundworks!A802,Groundworks,20mm|300mm|excavation
+730,730,Form external angle,m,Groundworks,Waterproofing Mastic Asphalt Tanking,9.44,Groundworks!F803,9.44,Groundworks!A803,Groundworks,
+731,731,Internal angle fillet,m,Groundworks,Waterproofing Mastic Asphalt Tanking,11.8,Groundworks!F804,11.8,Groundworks!A804,Groundworks,
+732,732,Voltex/Sealmat; horizontal,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,26.9,Groundworks!F806,26.9,Groundworks!A806,Groundworks,
+733,733,Voltex/Sealmat; sloping,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,29.03,Groundworks!F807,29.03,Groundworks!A807,Groundworks,
+734,734,Voltex/Sealmat; vertical,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,30.65,Groundworks!F808,30.65,Groundworks!A808,Groundworks,
+735,735,Voltex; vertical; to face of contig piles,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,33.53,Groundworks!F809,33.53,Groundworks!A809,Groundworks,
+736,736,Voltex; seal at junctions; 40 x 40 fillet granules paste,m,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,13.26,Groundworks!F810,13.26,Groundworks!A810,Groundworks,
+737,737,Voltex; reinforcing strip; 300mm wide,m,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,11.46,Groundworks!F811,11.46,Groundworks!A811,Groundworks,300mm
+738,738,Hydrophillic waterstop (RX101/500S),m,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,16.23,Groundworks!F812,16.23,Groundworks!A812,Groundworks,
+739,739,Hydrostop BR adhered to Hydrostop WSM,m,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,18.24,Groundworks!F813,18.24,Groundworks!A813,Groundworks,
+740,740,RIW Structureseal; horizontal,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,24.9,Groundworks!F814,24.9,Groundworks!A814,Groundworks,
+741,741,RIW Structureseal; vertical,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,27.84,Groundworks!F815,27.84,Groundworks!A815,Groundworks,
+742,742,Proofex Hydromat; horizontal,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,35.95,Groundworks!F816,35.95,Groundworks!A816,Groundworks,
+743,743,Proofex Hydromat; vertical,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,38.89,Groundworks!F817,38.89,Groundworks!A817,Groundworks,
+744,744,Premcrete Maxiprufe 2000; horizontal,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,17.37,Groundworks!F818,17.37,Groundworks!A818,Groundworks,
+745,745,Premcrete Maxiprufe 2000; vertical,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,20.3,Groundworks!F819,20.3,Groundworks!A819,Groundworks,
+746,746,Premcrete Twinseal; seal at junctions; 5 x 50 fillet,m,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,11.36,Groundworks!F820,11.36,Groundworks!A820,Groundworks,
+747,747,Premcrete Maxiprufe Plus; horizontal,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,25.43,Groundworks!F821,25.43,Groundworks!A821,Groundworks,
+748,748,Premcrete Maxiprufe Plus; vertical,m²,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,28.37,Groundworks!F822,28.37,Groundworks!A822,Groundworks,
+749,749,Tecknochem HBR 50 x 50 mortar fillet to intersection,m,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,11.36,Groundworks!F823,11.36,Groundworks!A823,Groundworks,
+750,750,Hydrostop WS10 to penetrations through slab,nr,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,41.78,Groundworks!F824,41.78,Groundworks!A824,Groundworks,
+751,751,Hydrostop WS10 to penetrations through slab,m,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,41.78,Groundworks!F825,41.78,Groundworks!A825,Groundworks,
+752,752,Twinseal compound to penetrations through slab,nr,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,12.35,Groundworks!F826,12.35,Groundworks!A826,Groundworks,
+753,753,Hydrophillic waterstop,m,Groundworks,Waterproofing Hydrophillic/Bentonite membrane,12.51,Groundworks!F827,12.51,Groundworks!A827,Groundworks,
+754,754,Triton Triseal; horizontal,m²,Groundworks,Waterproofing Pre-Applied Membranes,27.52,Groundworks!F829,27.52,Groundworks!A829,Groundworks,
+755,755,Triton Triseal; vertical,m²,Groundworks,Waterproofing Pre-Applied Membranes,32.33,Groundworks!F830,32.33,Groundworks!A830,Groundworks,
+756,756,Preprufe; 300R; horizontal,m²,Groundworks,Waterproofing Pre-Applied Membranes,36.57,Groundworks!F831,36.57,Groundworks!A831,Groundworks,
+757,757,Preprufe; 300R; horizontal; narrow widths not exceeding 300mm,m²,Groundworks,Waterproofing Pre-Applied Membranes,48.64,Groundworks!F832,48.64,Groundworks!A832,Groundworks,300mm
+758,758,Preprufe; 300R; vertical,m²,Groundworks,Waterproofing Pre-Applied Membranes,41.38,Groundworks!F833,41.38,Groundworks!A833,Groundworks,
+759,759,Preprufe; 160R; horizontal (not recommended),m²,Groundworks,Waterproofing Pre-Applied Membranes,34.22,Groundworks!F834,34.22,Groundworks!A834,Groundworks,
+760,760,Preprufe; 160R; vertical,m²,Groundworks,Waterproofing Pre-Applied Membranes,37.48,Groundworks!F835,37.48,Groundworks!A835,Groundworks,
+761,761,Preprufe internal/perimeter junction,m,Groundworks,Waterproofing Pre-Applied Membranes,8.88,Groundworks!F836,8.88,Groundworks!A836,Groundworks,
+762,762,Preprufe; 800PA; horizontal,m²,Groundworks,Waterproofing Pre-Applied Membranes,23.94,Groundworks!F837,23.94,Groundworks!A837,Groundworks,
+763,763,Preprufe; 800PA; vertical,m²,Groundworks,Waterproofing Pre-Applied Membranes,28.75,Groundworks!F838,28.75,Groundworks!A838,Groundworks,
+764,764,SikaProof A-(08); horizontal,m²,Groundworks,Waterproofing Pre-Applied Membranes,30.55,Groundworks!F839,30.55,Groundworks!A839,Groundworks,
+765,765,SikaProof A-(08); vertical,m²,Groundworks,Waterproofing Pre-Applied Membranes,35.36,Groundworks!F840,35.36,Groundworks!A840,Groundworks,
+766,766,Sikadur 41; 75 x 75 fillet; around top of piles,m,Groundworks,Waterproofing Pre-Applied Membranes,13.48,Groundworks!F841,13.48,Groundworks!A841,Groundworks,
+767,767,Sikadur 32; applied to top of piles,m²,Groundworks,Waterproofing Pre-Applied Membranes,27.21,Groundworks!F842,27.21,Groundworks!A842,Groundworks,
+768,768,Sika; seal at junctions,m,Groundworks,Waterproofing Pre-Applied Membranes,11.36,Groundworks!F843,11.36,Groundworks!A843,Groundworks,
+769,769,Pudlo GP Ultra +; gas & water membrane; horizontal,m²,Groundworks,Waterproofing Pre-Applied Membranes,33.45,Groundworks!F844,33.45,Groundworks!A844,Groundworks,
+770,770,Pudlo GP Ultra +; gas & water membrane; vertical,m²,Groundworks,Waterproofing Pre-Applied Membranes,38.1,Groundworks!F845,38.1,Groundworks!A845,Groundworks,
+771,771,Combiseal; horizontal; (gas & water),m²,Groundworks,Waterproofing Pre-Applied Membranes,33.45,Groundworks!F846,33.45,Groundworks!A846,Groundworks,
+772,772,Combiseal; vertical (gas & water),m²,Groundworks,Waterproofing Pre-Applied Membranes,38.1,Groundworks!F847,38.1,Groundworks!A847,Groundworks,
+773,773,Combiseal; Hydroprufe 8000 vertical (gas & water),m²,Groundworks,Waterproofing Pre-Applied Membranes,61.2,Groundworks!F848,61.2,Groundworks!A848,Groundworks,
+774,774,Combi seal 150mm; horz; lapped & taped,m²,Groundworks,Waterproofing Pre-Applied Membranes,33.45,Groundworks!F849,33.45,Groundworks!A849,Groundworks,150mm
+773,773,Combi seal 150mm; horz; lapped & taped; shot-fired to conc,m,Groundworks,Waterproofing Pre-Applied Membranes,14.7,Groundworks!F850,14.7,Groundworks!A850,Groundworks,150mm
+774,774,Hydroprufe HCR butyl tape reinforcement,m,Groundworks,Waterproofing Pre-Applied Membranes,4.11,Groundworks!F851,4.11,Groundworks!A851,Groundworks,
+775,775,Twinseal compound 50 x 50 fillet; around top of piles,m,Groundworks,Waterproofing Pre-Applied Membranes,27.18,Groundworks!F852,27.18,Groundworks!A852,Groundworks,
+774,774,Twinseal compound 5 x 50 fillet; around top of piles; secured by termination bar,m,Groundworks,Waterproofing Pre-Applied Membranes,33.34,Groundworks!F853,33.34,Groundworks!A853,Groundworks,
+775,775,Hydrostop WSM 15mm bead; seal at junctions,m,Groundworks,Waterproofing Pre-Applied Membranes,12.69,Groundworks!F854,12.69,Groundworks!A854,Groundworks,15mm
+776,776,Premcrete Hydroseal FX; horizontal; around top of piles,m,Groundworks,Waterproofing Pre-Applied Membranes,15.97,Groundworks!F855,15.97,Groundworks!A855,Groundworks,
+775,775,Premcrete Twinseal 50 x 50mm fillet seal at junctions,m,Groundworks,Waterproofing Pre-Applied Membranes,14.77,Groundworks!F856,14.77,Groundworks!A856,Groundworks,50mm
+776,776,"Detailing to combiseal; angles, fillets, junctions, intersections, etc",item,Groundworks,Waterproofing Pre-Applied Membranes,0.5,Groundworks!F857,0.5,Groundworks!A857,Groundworks,
+777,777,Proofex Engage; horizontal,m²,Groundworks,Waterproofing Pre-Applied Membranes,25.65,Groundworks!F858,25.65,Groundworks!A858,Groundworks,
+776,776,Proofex Engage; vertical,m²,Groundworks,Waterproofing Pre-Applied Membranes,30.46,Groundworks!F859,30.46,Groundworks!A859,Groundworks,
+777,777,Proofex Engage; fillet to penetrations,m,Groundworks,Waterproofing Pre-Applied Membranes,20.45,Groundworks!F860,20.45,Groundworks!A860,Groundworks,
+778,778,Bituthene MRX; horizontal,m²,Groundworks,Waterproofing Bonded / stick on membranes,19.19,Groundworks!F862,19.19,Groundworks!A862,Groundworks,
+779,779,Bituthene MRX; vertical,m²,Groundworks,Waterproofing Bonded / stick on membranes,28.8,Groundworks!F863,28.8,Groundworks!A863,Groundworks,
+780,780,Bituthene GP; horizontal,m²,Groundworks,Waterproofing Bonded / stick on membranes,19.13,Groundworks!F864,19.13,Groundworks!A864,Groundworks,
+781,781,Bituthene GP; vertical,m²,Groundworks,Waterproofing Bonded / stick on membranes,28.74,Groundworks!F865,28.74,Groundworks!A865,Groundworks,
+782,782,Bituthene 4000; horizontal,m²,Groundworks,Waterproofing Bonded / stick on membranes,24.68,Groundworks!F866,24.68,Groundworks!A866,Groundworks,
+783,783,Bituthene 4000; vertical,m²,Groundworks,Waterproofing Bonded / stick on membranes,34.29,Groundworks!F867,34.29,Groundworks!A867,Groundworks,
+784,784,Bituthene movement joint comprising soft fillet and fold,m,Groundworks,Waterproofing Bonded / stick on membranes,20.72,Groundworks!F868,20.72,Groundworks!A868,Groundworks,
+785,785,Bituthene 8000; horizontal,m²,Groundworks,Waterproofing Bonded / stick on membranes,25.33,Groundworks!F869,25.33,Groundworks!A869,Groundworks,
+786,786,Bituthene 8000; vertical,m²,Groundworks,Waterproofing Bonded / stick on membranes,34.95,Groundworks!F870,34.95,Groundworks!A870,Groundworks,
+787,787,Cetbit 300; horizontal,m²,Groundworks,Waterproofing Bonded / stick on membranes,20.82,Groundworks!F871,20.82,Groundworks!A871,Groundworks,
+788,788,Cetbit 300; vertical,m²,Groundworks,Waterproofing Bonded / stick on membranes,30.44,Groundworks!F872,30.44,Groundworks!A872,Groundworks,
+789,789,Cetbit 300; angles; reinforcing strip,m,Groundworks,Waterproofing Bonded / stick on membranes,10.14,Groundworks!F873,10.14,Groundworks!A873,Groundworks,
+790,790,RIW Sheetseal 226; horizontal,m²,Groundworks,Waterproofing Bonded / stick on membranes,30.95,Groundworks!F874,30.95,Groundworks!A874,Groundworks,
+791,791,RIW Sheetseal 226; vertical,m²,Groundworks,Waterproofing Bonded / stick on membranes,40.56,Groundworks!F875,40.56,Groundworks!A875,Groundworks,
+792,792,Proofex 3000; horizontal,m²,Groundworks,Waterproofing Bonded / stick on membranes,19.08,Groundworks!F876,19.08,Groundworks!A876,Groundworks,
+793,793,Proofex 3000; vertical,m²,Groundworks,Waterproofing Bonded / stick on membranes,28.7,Groundworks!F877,28.7,Groundworks!A877,Groundworks,
+794,794,Seal & dress around pile,nr,Groundworks,Waterproofing Bonded / stick on membranes,14.78,Groundworks!F878,14.78,Groundworks!A878,Groundworks,
+795,795,Joint proofex to visqueen,m,Groundworks,Waterproofing Bonded / stick on membranes,10.73,Groundworks!F879,10.73,Groundworks!A879,Groundworks,
+796,796,Pudlo GP Ultra Seal; gas & water membrane; horizontal,m²,Groundworks,Waterproofing Bonded / stick on membranes,19.13,Groundworks!F880,19.13,Groundworks!A880,Groundworks,
+797,797,Pudlo GP Ultra Seal; gas & water membrane; vertical,m²,Groundworks,Waterproofing Bonded / stick on membranes,28.74,Groundworks!F881,28.74,Groundworks!A881,Groundworks,
+798,798,Pudlo GP Ultra Seal; gas & water membrane; vertical not exceeding 300mm wde,m,Groundworks,Waterproofing Bonded / stick on membranes,12.93,Groundworks!F882,12.93,Groundworks!A882,Groundworks,300mm
+799,799,Premcrete Hydroprufe 3000; horizontal,m²,Groundworks,Waterproofing Bonded / stick on membranes,19.13,Groundworks!F883,19.13,Groundworks!A883,Groundworks,
+800,800,Premcrete Hydroprufe 3000; vertical,m²,Groundworks,Waterproofing Bonded / stick on membranes,28.74,Groundworks!F884,28.74,Groundworks!A884,Groundworks,
+801,801,Hydrostop WS10 to pentrations through slab,nr,Groundworks,Waterproofing Bonded / stick on membranes,8.88,Groundworks!F885,8.88,Groundworks!A885,Groundworks,
+802,802,Twinseal compound to penetrations through slab,nr,Groundworks,Waterproofing Bonded / stick on membranes,12.35,Groundworks!F886,12.35,Groundworks!A886,Groundworks,
+803,803,Platon P20 cavity drain; horizontal,m²,Groundworks,Waterproofing Cavity Drains,17.02,Groundworks!F888,17.02,Groundworks!A888,Groundworks,
+804,804,Platon multi cavity drain; vertical,m²,Groundworks,Waterproofing Cavity Drains,20.69,Groundworks!F889,20.69,Groundworks!A889,Groundworks,
+805,805,Hydroduct CF 20 cavity drain; horizontal,m²,Groundworks,Waterproofing Cavity Drains,19.15,Groundworks!F890,19.15,Groundworks!A890,Groundworks,
+806,806,Hydroduct CF 20 cavity drain; vertical,m²,Groundworks,Waterproofing Cavity Drains,28.13,Groundworks!F891,28.13,Groundworks!A891,Groundworks,
+807,807,Hydroduct CF 08 cavity drain; vertical,m²,Groundworks,Waterproofing Cavity Drains,23.58,Groundworks!F892,23.58,Groundworks!A892,Groundworks,
+808,808,Hydroduct internal/perimeter junction,m,Groundworks,Waterproofing Cavity Drains,11.28,Groundworks!F893,11.28,Groundworks!A893,Groundworks,
+809,809,Hydroduct 401 cavity drain; horizontal,m²,Groundworks,Waterproofing Cavity Drains,32.82,Groundworks!F894,32.82,Groundworks!A894,Groundworks,
+810,810,Hydroduct 501 cavity drain; horizontal,m²,Groundworks,Waterproofing Cavity Drains,42.26,Groundworks!F895,42.26,Groundworks!A895,Groundworks,
+811,811,Hydroduct channel,m,Groundworks,Waterproofing Cavity Drains,24.32,Groundworks!F896,24.32,Groundworks!A896,Groundworks,
+812,812,Hydroduct channel corner,nr,Groundworks,Waterproofing Cavity Drains,38.83,Groundworks!F897,38.83,Groundworks!A897,Groundworks,
+813,813,Hydroduct channel T junction,nr,Groundworks,Waterproofing Cavity Drains,49.63,Groundworks!F898,49.63,Groundworks!A898,Groundworks,
+814,814,Hydroduct channel outlet,nr,Groundworks,Waterproofing Cavity Drains,26.72,Groundworks!F899,26.72,Groundworks!A899,Groundworks,
+815,815,Cetco Aquadrain 8mm cavity drain; horizontal,m²,Groundworks,Waterproofing Cavity Drains,14.08,Groundworks!F900,14.08,Groundworks!A900,Groundworks,8mm
+816,816,Cetco Aquadrain 8mm cavity drain; vertical,m²,Groundworks,Waterproofing Cavity Drains,21.3,Groundworks!F901,21.3,Groundworks!A901,Groundworks,8mm
+817,817,Premcrete Hydroflow HP8; horizontal,m²,Groundworks,Waterproofing Cavity Drains,13.75,Groundworks!F902,13.75,Groundworks!A902,Groundworks,
+818,818,Premcrete Hydroflow HP8; vertical,m²,Groundworks,Waterproofing Cavity Drains,20.96,Groundworks!F903,20.96,Groundworks!A903,Groundworks,
+819,819,Premcrete Hydroflow HP20; horizontal,m²,Groundworks,Waterproofing Cavity Drains,16.06,Groundworks!F904,16.06,Groundworks!A904,Groundworks,
+820,820,Premcrete Hydroflow HP20; vertical,m²,Groundworks,Waterproofing Cavity Drains,23.27,Groundworks!F905,23.27,Groundworks!A905,Groundworks,
+821,821,Delta MS500 cavity drain; horizontal,m²,Groundworks,Waterproofing Cavity Drains,21.19,Groundworks!F906,21.19,Groundworks!A906,Groundworks,
+822,822,Delta MS500 cavity drain; vertical,m²,Groundworks,Waterproofing Cavity Drains,28.4,Groundworks!F907,28.4,Groundworks!A907,Groundworks,
+823,823,Delta internal/perimeter junction,m,Groundworks,Waterproofing Cavity Drains,11.28,Groundworks!F908,11.28,Groundworks!A908,Groundworks,
+824,824,Delta channel,m,Groundworks,Waterproofing Cavity Drains,19.15,Groundworks!F909,19.15,Groundworks!A909,Groundworks,
+825,825,Delta channel; corners,nr,Groundworks,Waterproofing Cavity Drains,24.08,Groundworks!F910,24.08,Groundworks!A910,Groundworks,
+826,826,Delta channel; outlets,nr,Groundworks,Waterproofing Cavity Drains,19.24,Groundworks!F911,19.24,Groundworks!A911,Groundworks,
+827,827,Delta dual V3 sump pump chamber; S&F; M&E by others,nr,Groundworks,Waterproofing Cavity Drains,1931.67,Groundworks!F912,1931.67,Groundworks!A912,Groundworks,
+828,828,Rascor waterproofing (as Rascor quote + fix only grout tubes),item,Groundworks,Waterproofing Injection repair system (Rascor),0.0,Groundworks!G914,0.0,Groundworks!A914,Groundworks,
+829,829,Re-injectable grout tubes; MBL fix only free issue,m,Groundworks,Waterproofing Injection repair system (Rascor),7.75,Groundworks!F915,7.75,Groundworks!A915,Groundworks,
+830,830,Re-injectable grout tubes; Specialist supply and inject; MBL fix in place (Rascor),m,Groundworks,Waterproofing Injection repair system (Rascor),21.91,Groundworks!F916,21.91,Groundworks!A916,Groundworks,
+831,831,Rascor injection joint system /m2 slab area,m²,Groundworks,Waterproofing Injection repair system (Rascor),6.83,Groundworks!F917,6.83,Groundworks!A917,Groundworks,
+832,832,Rascor injection joint system /m2 wall area,m²,Groundworks,Waterproofing Injection repair system (Rascor),19.25,Groundworks!F918,19.25,Groundworks!A918,Groundworks,
+833,833,Hydrostop WS10 to penetrations through slab,m,Groundworks,Waterproofing Penetrations,41.78,Groundworks!F920,41.78,Groundworks!A920,Groundworks,
+834,834,Hydroseal FX; surface of filled holes and 1m perimeter,m²,Groundworks,Waterproofing Penetrations,0.0,Groundworks!F921,0.0,Groundworks!A921,Groundworks,1m
+835,835,Hydrostop HS10 waterstop & detail tape; Hydroplug sealing system dressed around pipe; not exceeding 100mm dia,nr,Groundworks,Waterproofing Penetrations,178.58,Groundworks!F922,178.58,Groundworks!A922,Groundworks,100mm
+836,836,Hydrostop HS10 waterstop & detail tape; Hydroplug sealing system dressed around pipe; not exceeding 150mm dia,nr,Groundworks,Waterproofing Penetrations,253.16,Groundworks!F923,253.16,Groundworks!A923,Groundworks,150mm
+837,837,Teknocem LA non shrink grout; infill around pipes,m³,Groundworks,Waterproofing Penetrations,2600.48,Groundworks!F924,2600.48,Groundworks!A924,Groundworks,
+838,838,Testing Certification of gas barrier (per visit),nr,Groundworks,Gas Barriers Gas Membranes,590.0,Groundworks!F926,590.0,Groundworks!A926,Groundworks,
+839,839,Gas membrane; Visqueen Radon Barrier; horizontal,m²,Groundworks,Gas Barriers Gas Membranes,1.73,Groundworks!F927,1.73,Groundworks!A927,Groundworks,
+840,840,Gas membrane; Visqueen Radon Barrier; vertical,m²,Groundworks,Gas Barriers Gas Membranes,2.31,Groundworks!F928,2.31,Groundworks!A928,Groundworks,
+841,841,Gas membrane; Visqueen Radon Barrier; turn up at edges not exceeding 250mm,m,Groundworks,Gas Barriers Gas Membranes,1.77,Groundworks!F929,1.77,Groundworks!A929,Groundworks,250mm
+842,842,Gas membrane; Visqueen Radon Barrier; Top Hat rigid seals to 110dia penetrations,nr,Groundworks,Gas Barriers Gas Membranes,20.63,Groundworks!F930,20.63,Groundworks!A930,Groundworks,
+843,843,Gas membrane; Grace GGM400; horizontal,m²,Groundworks,Gas Barriers Gas Membranes,9.64,Groundworks!F931,9.64,Groundworks!A931,Groundworks,
+844,844,Gas membrane; Grace GGM400; vertical,m²,Groundworks,Gas Barriers Gas Membranes,12.04,Groundworks!F932,12.04,Groundworks!A932,Groundworks,
+845,845,Gas membrane; Grace Gasvoid PF; horizontal; 915mm wide,m,Groundworks,Gas Barriers Gas Membranes,19.93,Groundworks!F933,19.93,Groundworks!A933,Groundworks,915mm
+846,846,Gas membrane; Visqueen Gas Barrier; horizontal,m²,Groundworks,Gas Barriers Gas Membranes,8.3,Groundworks!F934,8.3,Groundworks!A934,Groundworks,
+847,847,Gas membrane; Visqueen Gas Barrier; vertical,m²,Groundworks,Gas Barriers Gas Membranes,9.57,Groundworks!F935,9.57,Groundworks!A935,Groundworks,
+848,848,"Gas membrane; Visqueen Gas Barrier; dressing to angles, junctions, etc",m,Groundworks,Gas Barriers Gas Membranes,6.84,Groundworks!F936,6.84,Groundworks!A936,Groundworks,
+849,849,Gas membrane; Visqueen self adhesive; horizontal,m²,Groundworks,Gas Barriers Gas Membranes,17.63,Groundworks!F937,17.63,Groundworks!A937,Groundworks,
+850,850,Gas membrane; Visqueen self adhesive; vertical,m²,Groundworks,Gas Barriers Gas Membranes,20.04,Groundworks!F938,20.04,Groundworks!A938,Groundworks,
+851,851,Gas membrane; Visqueen Ultimate VOC BLOK Gas Barrier; horizontal (formerly GX),m²,Groundworks,Gas Barriers Gas Membranes,17.63,Groundworks!F939,17.63,Groundworks!A939,Groundworks,
+852,852,Gas membrane; Visqueen Ultimate VOC BLOK Gas Barrier; vertical (formerly GX),m²,Groundworks,Gas Barriers Gas Membranes,20.04,Groundworks!F940,20.04,Groundworks!A940,Groundworks,
+853,853,Gas membrane; Monarflex Reflex Super; horizontal,m²,Groundworks,Gas Barriers Gas Membranes,9.8,Groundworks!F941,9.8,Groundworks!A941,Groundworks,
+854,854,Gas membrane; Monarflex RAC; horizontal,m²,Groundworks,Gas Barriers Gas Membranes,10.62,Groundworks!F942,10.62,Groundworks!A942,Groundworks,
+855,855,Gas membrane; Monarflex RAC; vertical,m²,Groundworks,Gas Barriers Gas Membranes,12.54,Groundworks!F943,12.54,Groundworks!A943,Groundworks,
+856,856,Premcrete Combiseal; horizontal,m²,Groundworks,Gas Barriers Gas Membranes,30.94,Groundworks!F944,30.94,Groundworks!A944,Groundworks,
+857,857,Premcrete Combiseal; vertical,m²,Groundworks,Gas Barriers Gas Membranes,35.75,Groundworks!F945,35.75,Groundworks!A945,Groundworks,
+858,858,"Detailing to combiseal; angles, fillets, junctions, intersections, etc",item,Groundworks,Gas Barriers Gas Membranes,0.5,Groundworks!F946,0.5,Groundworks!A946,Groundworks,
+859,859,Premcrete Hydroprufe 6000 flexi; horizontal,m²,Groundworks,Gas Barriers Gas Membranes,13.06,Groundworks!F947,13.06,Groundworks!A947,Groundworks,
+860,860,Premcrete Hydroprufe 6000 flexi; vertical,m²,Groundworks,Gas Barriers Gas Membranes,14.98,Groundworks!F948,14.98,Groundworks!A948,Groundworks,
+861,861,Premcrete Hydrostop BR; seal at junctions,m,Groundworks,Gas Barriers Gas Membranes,11.28,Groundworks!F949,11.28,Groundworks!A949,Groundworks,
+862,862,Premcrete Hydroprufe 9000; horizontal,m²,Groundworks,Gas Barriers Gas Membranes,7.98,Groundworks!F950,7.98,Groundworks!A950,Groundworks,
+863,863,Premcrete Hydroprufe 9000; vertical,m²,Groundworks,Gas Barriers Gas Membranes,9.91,Groundworks!F951,9.91,Groundworks!A951,Groundworks,
+864,864,Hydrophillic waterstop,m,Groundworks,Gas Barriers Gas Membranes,12.51,Groundworks!F952,12.51,Groundworks!A952,Groundworks,
+865,865,"EO gas barriers for dressings, penetrations, joints & corners (add 50%)",item,Groundworks,Gas Barriers Gas Membranes,0.5,Groundworks!F953,0.5,Groundworks!A953,Groundworks,
+866,866,Protection board; Servipak 3mm; vertical,m²,Groundworks,Gas Barriers Gas Membranes,17.42,Groundworks!F954,17.42,Groundworks!A954,Groundworks,3mm
+867,867,Protection board; Servipak 6mm; horizontal,m²,Groundworks,Gas Barriers Gas Membranes,18.74,Groundworks!F955,18.74,Groundworks!A955,Groundworks,6mm
+868,868,Protection board; Servipak 6mm; vertical,m²,Groundworks,Gas Barriers Gas Membranes,20.14,Groundworks!F956,20.14,Groundworks!A956,Groundworks,6mm
+869,869,Protection board; Servipak 12mm; vertical,m²,Groundworks,Gas Barriers Gas Membranes,34.19,Groundworks!F957,34.19,Groundworks!A957,Groundworks,12mm
+870,870,Protection board; Protection 03; 3mm; vertical,m²,Groundworks,Gas Barriers Gas Membranes,12.67,Groundworks!F958,12.67,Groundworks!A958,Groundworks,3mm
+871,871,Premcrete Protection board 300; 3mm vertical,m²,Groundworks,Gas Barriers Gas Membranes,8.31,Groundworks!F959,8.31,Groundworks!A959,Groundworks,3mm
+872,872,Premcrete Protection board 600; 3mm vertical,m²,Groundworks,Gas Barriers Gas Membranes,12.09,Groundworks!F960,12.09,Groundworks!A960,Groundworks,3mm
