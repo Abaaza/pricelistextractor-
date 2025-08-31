@@ -604,8 +604,6 @@ class ServicesExtractor:
             else:
                 subcategory = self.determine_subcategory(description)
             
-            work_type = self.determine_work_type(description, subcategory)
-            
             # Generate keywords
             keywords = self.generate_keywords(description, subcategory)
             
@@ -614,17 +612,15 @@ class ServicesExtractor:
             
             # Create item
             item = {
-                'id': f"SV{current_id:04d}",
+                'id': current_id,  # Use simple numeric ID like Groundworks
                 'code': code,  # Use actual code from Excel
-                'original_code': code,
                 'description': description,
                 'unit': unit,
                 'category': 'Services',
                 'subcategory': subcategory,
-                'work_type': work_type,
-                'rate': rate,
-                'cellRate_reference': rate_cell_ref,
-                'cellRate_rate': rate_value,
+                'rate': rate if rate else 0.0,  # Default to 0.0 if no rate
+                'cellRate_reference': rate_cell_ref if rate_cell_ref else '',
+                'cellRate_rate': rate_value if rate_value else 0.0,
                 'excelCellReference': excel_ref,
                 'sourceSheetName': self.sheet_name,
                 'keywords': keywords
@@ -651,7 +647,15 @@ class ServicesExtractor:
         
         # Save CSV
         df = pd.DataFrame(self.extracted_items)
-        df['keywords'] = df['keywords'].apply(lambda x: '|'.join(x) if x else '')
+        # Convert keywords list to comma-separated string
+        df['keywords'] = df['keywords'].apply(lambda x: ','.join(x) if x else '')
+        
+        # Ensure column order matches Groundworks format
+        column_order = ['id', 'code', 'description', 'unit', 'category', 'subcategory', 
+                       'rate', 'cellRate_reference', 'cellRate_rate', 'excelCellReference', 
+                       'sourceSheetName', 'keywords']
+        df = df[column_order]
+        
         csv_file = f"{output_prefix}_extracted.csv"
         df.to_csv(csv_file, index=False)
         print(f"Saved CSV: {csv_file}")

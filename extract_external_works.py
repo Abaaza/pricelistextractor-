@@ -3,27 +3,53 @@ Extraction script for External Works sheet
 Handles the specific structure and format of the External Works pricelist
 """
 
+from extractor_base import BaseExtractor
 import pandas as pd
-import numpy as np
-import json
 import re
-from datetime import datetime
-from pathlib import Path
-import string
+from openpyxl import load_workbook
 
-class ExternalWorksExtractor:
+class ExternalWorksExtractor(BaseExtractor):
     def __init__(self, excel_file='MJD-PRICELIST.xlsx'):
-        self.excel_file = excel_file
-        self.sheet_name = 'External Works'
-        self.df = None
-        self.extracted_items = []
+        super().__init__(excel_file, 'External Works')
+        self.workbook = None
+        self.worksheet = None
+        self.current_subcategory = 'External Works'  # Default subcategory
         
-    def load_sheet(self):
-        """Load the Groundworks sheet"""
-        print(f"Loading {self.sheet_name} sheet...")
-        self.df = pd.read_excel(self.excel_file, sheet_name=self.sheet_name, header=None)
-        print(f"Loaded {len(self.df)} rows x {len(self.df.columns)} columns")
-        return self.df
+    def load_workbook_for_formatting(self):
+        """Load workbook with openpyxl to access formatting"""
+        try:
+            self.workbook = load_workbook(self.excel_file, data_only=True)
+            self.worksheet = self.workbook[self.sheet_name]
+            print(f"Loaded workbook for formatting detection")
+        except Exception as e:
+            print(f"Warning: Could not load workbook for formatting: {e}")
+            self.worksheet = None
+    
+    def is_row_bold(self, row_idx):
+        """Check if all non-empty cells in a row are bold"""
+        if not self.worksheet:
+            return False
+        
+        try:
+            # Excel rows are 1-indexed
+            excel_row = row_idx + 1
+            row_is_bold = False
+            has_content = False
+            
+            # Check first 5 columns for bold text
+            for col in range(1, 6):
+                cell = self.worksheet.cell(row=excel_row, column=col)
+                if cell.value:
+                    has_content = True
+                    if cell.font and cell.font.bold:
+                        row_is_bold = True
+                    else:
+                        # If any cell with content is not bold, row is not fully bold
+                        return False
+            
+            return has_content and row_is_bold
+        except Exception as e:
+            return False
     
     def identify_data_rows(self):
         """Identify rows containing actual pricelist data"""
@@ -401,10 +427,10 @@ class ExternalWorksExtractor:
 
 def main():
     print("="*60)
-    print("GROUNDWORKS SHEET EXTRACTION")
+    print("EXTERNAL WORKS SHEET EXTRACTION")
     print("="*60)
     
-    extractor = GroundworksExtractor()
+    extractor = ExternalWorksExtractor()
     items = extractor.extract_items()
     
     if items:
