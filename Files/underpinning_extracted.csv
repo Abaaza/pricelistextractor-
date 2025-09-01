@@ -1,163 +1,163 @@
 id,code,description,unit,category,subcategory,rate,cellRate_reference,cellRate_rate,excelCellReference,sourceSheetName,keywords
-1,1,Excavate preliminary trench (by hand),m3,Underpinning,Trench Excavation,45.6,Underpinning!E13,45.6,Underpinning!A13,Underpinning,trench
-2,2,Clean face of brickwork/concrete exposed during excavations,m2,Underpinning,Excavation,11.2,Underpinning!E14,11.2,Underpinning!A14,Underpinning,"excavation,concrete"
-3,3,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Excavation,58.79,Underpinning!E16,58.79,Underpinning!A16,Underpinning,excavation
-4,4,Level & compact bottom of excavation,m2,Underpinning,Excavation,4.8,Underpinning!E17,4.8,Underpinning!A17,Underpinning,excavation
-5,5,EWS; not exceeding 1m,m2,Underpinning,Underpinning,9.89,Underpinning!E18,9.89,Underpinning!A18,Underpinning,1m
-6,6,Filling; with SEM,m3,Underpinning,Underpinning,39.79,Underpinning!E19,39.79,Underpinning!A19,Underpinning,
-7,1,Excavate preliminary trench (by hand),m3,Underpinning,Trench Excavation,70.28,Underpinning!E22,70.28,Underpinning!A22,Underpinning,trench
-8,2,Clean face of brickwork/concrete exposed during excavations,m2,Underpinning,Excavation,11.2,Underpinning!E23,11.2,Underpinning!A23,Underpinning,"excavation,concrete"
-9,3,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Excavation,58.79,Underpinning!E25,58.79,Underpinning!A25,Underpinning,excavation
-10,4,Level & compact bottom of excavation,m2,Underpinning,Excavation,4.8,Underpinning!E26,4.8,Underpinning!A26,Underpinning,excavation
-11,5,EWS; not exceeding 2m,m2,Underpinning,Underpinning,20.41,Underpinning!E27,20.41,Underpinning!A27,Underpinning,2m
-12,6,Filling; with SEM,m3,Underpinning,Underpinning,39.79,Underpinning!E28,39.79,Underpinning!A28,Underpinning,
-13,1,Excavate underpinning trench (by hand),m3,Underpinning,Underpinning Excavation,78.51,Underpinning!E31,78.51,Underpinning!A31,Underpinning,"underpinning,trench"
-14,2,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Excavation,58.79,Underpinning!E33,58.79,Underpinning!A33,Underpinning,excavation
-15,3,EWS; not exceeding 1m,m2,Underpinning,Underpinning,15.01,Underpinning!E34,15.01,Underpinning!A34,Underpinning,1m
-16,4,Level & compact bottom of excavation,m2,Underpinning,Excavation,4.8,Underpinning!E35,4.8,Underpinning!A35,Underpinning,excavation
-17,5,to underpin,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E37,277.75,Underpinning!A37,Underpinning,
-18,6,Formwork to face of underpin,m2,Underpinning,Plain Concrete FND2,50.86,Underpinning!E38,50.86,Underpinning!A38,Underpinning,
-19,7,Formwork to rear face of underpin; left in,m2,Underpinning,Plain Concrete FND2,26.02,Underpinning!E39,26.02,Underpinning!A39,Underpinning,
-20,8,Clean face of concrete of adjacent pins,m2,Underpinning,Plain Concrete FND2,11.2,Underpinning!E40,11.2,Underpinning!A40,Underpinning,concrete
-21,9,16 dia x 600 lg dowel bars between adjacent pins,nr,Underpinning,Plain Concrete FND2,5.63,Underpinning!E41,5.63,Underpinning!A41,Underpinning,
-22,10,Imported granular fill; type 1,m3,Underpinning,Plain Concrete FND2,77.81,Underpinning!E42,77.81,Underpinning!A42,Underpinning,
-23,11,Level & compact surface of fill,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E43,4.8,Underpinning!A43,Underpinning,
-24,12,Clean underside of existing foundation; 1000mm wide,m,Underpinning,Plain Concrete FND2,63.31,Underpinning!E44,63.31,Underpinning!A44,Underpinning,"1000mm,foundation"
-25,13,Dry pack to underside of existing foundation; not exceeding 1000mm wide,m,Underpinning,Plain Concrete FND2,109.53,Underpinning!E45,109.53,Underpinning!A45,Underpinning,"1000mm,foundation"
-26,1,Excavate underpinning trench (by hand),m3,Underpinning,Plain Concrete FND2,85.1,Underpinning!E48,85.1,Underpinning!A48,Underpinning,"underpinning,trench"
-27,2,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Plain Concrete FND2,58.79,Underpinning!E50,58.79,Underpinning!A50,Underpinning,excavation
-28,3,EWS; not exceeding 2m,m2,Underpinning,Plain Concrete FND2,31.2,Underpinning!E51,31.2,Underpinning!A51,Underpinning,2m
-29,4,Level & compact bottom of excavation,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E52,4.8,Underpinning!A52,Underpinning,excavation
-30,5,to underpin,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E54,277.75,Underpinning!A54,Underpinning,
-31,6,Formwork to face of underpin,m2,Underpinning,Plain Concrete FND2,50.86,Underpinning!E55,50.86,Underpinning!A55,Underpinning,
-32,7,Formwork to rear face of underpin; left in,m2,Underpinning,Plain Concrete FND2,26.02,Underpinning!E56,26.02,Underpinning!A56,Underpinning,
-33,8,Clean face of concrete of adjacent pins,m2,Underpinning,Plain Concrete FND2,11.2,Underpinning!E57,11.2,Underpinning!A57,Underpinning,concrete
-34,9,16 dia x 600 lg dowel bars between adjacent pins,nr,Underpinning,Plain Concrete FND2,5.63,Underpinning!E58,5.63,Underpinning!A58,Underpinning,
-35,10,Imported granular fill; type 1,m3,Underpinning,Plain Concrete FND2,77.81,Underpinning!E59,77.81,Underpinning!A59,Underpinning,
-36,11,Level & compact surface of fill,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E60,4.8,Underpinning!A60,Underpinning,
-37,12,Clean underside of existing foundation; 1000mm wide,m,Underpinning,Plain Concrete FND2,63.31,Underpinning!E61,63.31,Underpinning!A61,Underpinning,"1000mm,foundation"
-38,13,Dry pack to underside of existing foundation; not exceeding 1000mm wide,m,Underpinning,Plain Concrete FND2,109.53,Underpinning!E62,109.53,Underpinning!A62,Underpinning,"1000mm,foundation"
-39,1,Excavate underpinning trench (by hand),m3,Underpinning,Plain Concrete FND2,101.55,Underpinning!E65,101.55,Underpinning!A65,Underpinning,"underpinning,trench"
-40,2,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Plain Concrete FND2,58.79,Underpinning!E67,58.79,Underpinning!A67,Underpinning,excavation
-41,3,EWS; not exceeding 3m,m2,Underpinning,Plain Concrete FND2,47.99,Underpinning!E68,47.99,Underpinning!A68,Underpinning,3m
-42,4,Level & compact bottom of excavation,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E69,4.8,Underpinning!A69,Underpinning,excavation
-43,5,to underpin,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E71,277.75,Underpinning!A71,Underpinning,
-44,6,Formwork to face of underpin,m2,Underpinning,Plain Concrete FND2,50.86,Underpinning!E72,50.86,Underpinning!A72,Underpinning,
-45,7,Formwork to rear face of underpin; left in,m2,Underpinning,Plain Concrete FND2,26.02,Underpinning!E73,26.02,Underpinning!A73,Underpinning,
-46,8,Clean face of concrete of adjacent pins,m2,Underpinning,Plain Concrete FND2,11.2,Underpinning!E74,11.2,Underpinning!A74,Underpinning,concrete
-47,9,16 dia x 600 lg dowel bars between adjacent pins,nr,Underpinning,Plain Concrete FND2,5.63,Underpinning!E75,5.63,Underpinning!A75,Underpinning,
-48,10,Imported granular fill; type 1,m3,Underpinning,Plain Concrete FND2,77.81,Underpinning!E76,77.81,Underpinning!A76,Underpinning,
-49,11,Level & compact surface of fill,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E77,4.8,Underpinning!A77,Underpinning,
-50,12,Clean underside of existing foundation; 1000mm wide,m,Underpinning,Plain Concrete FND2,63.31,Underpinning!E78,63.31,Underpinning!A78,Underpinning,"1000mm,foundation"
-51,13,Dry pack to underside of existing foundation; not exceeding 1000mm wide,m,Underpinning,Plain Concrete FND2,109.53,Underpinning!E79,109.53,Underpinning!A79,Underpinning,"1000mm,foundation"
-52,1,Excavate underpinning trench (by hand); not exceeding 4m dp,m3,Underpinning,Plain Concrete FND2,131.18,Underpinning!E82,131.18,Underpinning!A82,Underpinning,"4m,underpinning,trench"
-53,2,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Plain Concrete FND2,58.79,Underpinning!E84,58.79,Underpinning!A84,Underpinning,excavation
-54,3,EWS; not exceeding 4m,m2,Underpinning,Plain Concrete FND2,69.49,Underpinning!E85,69.49,Underpinning!A85,Underpinning,4m
-55,4,Level & compact bottom of excavation,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E86,4.8,Underpinning!A86,Underpinning,excavation
-56,5,to underpin,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E88,277.75,Underpinning!A88,Underpinning,
-57,6,Formwork to face of underpin,m2,Underpinning,Plain Concrete FND2,50.86,Underpinning!E89,50.86,Underpinning!A89,Underpinning,
-58,7,Formwork to rear face of underpin; left in,m2,Underpinning,Plain Concrete FND2,26.02,Underpinning!E90,26.02,Underpinning!A90,Underpinning,
-59,8,Clean face of concrete of adjacent pins,m2,Underpinning,Plain Concrete FND2,11.2,Underpinning!E91,11.2,Underpinning!A91,Underpinning,concrete
-60,9,16 dia x 600 lg dowel bars between adjacent pins,nr,Underpinning,Plain Concrete FND2,5.63,Underpinning!E92,5.63,Underpinning!A92,Underpinning,
-61,10,Imported granular fill; type 1,m3,Underpinning,Plain Concrete FND2,77.81,Underpinning!E93,77.81,Underpinning!A93,Underpinning,
-62,11,Level & compact surface of fill,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E94,4.8,Underpinning!A94,Underpinning,
-63,12,Clean underside of existing foundation; 1000mm wide,m,Underpinning,Plain Concrete FND2,63.31,Underpinning!E95,63.31,Underpinning!A95,Underpinning,"1000mm,foundation"
-64,13,Dry pack to underside of existing foundation; 1000mm wide,m,Underpinning,Plain Concrete FND2,109.53,Underpinning!E96,109.53,Underpinning!A96,Underpinning,"1000mm,foundation"
-65,1,Exc preliminary trench (by hand & excvtr); not exceeding 1m dp,m3,Underpinning,Plain Concrete FND2,45.6,Underpinning!E99,45.6,Underpinning!A99,Underpinning,"1m,trench"
-66,2,Exc preliminary trench (by hand & excvtr); not exceeding 2m dp,m3,Underpinning,Plain Concrete FND2,70.28,Underpinning!E100,70.28,Underpinning!A100,Underpinning,"2m,trench"
-67,3,Exc preliminary trench (by hand & excvtr); not exceeding 4m dp,m3,Underpinning,Plain Concrete FND2,94.97,Underpinning!E101,94.97,Underpinning!A101,Underpinning,"4m,trench"
-68,4,Exc preliminary trench (by hand & excvtr); not exceeding 6m dp,m3,Underpinning,Plain Concrete FND2,121.3,Underpinning!E102,121.3,Underpinning!A102,Underpinning,"6m,trench"
-69,5,Excavate underpinning trench (by hand); not exceeding 1m dp,m3,Underpinning,Plain Concrete FND2,78.51,Underpinning!E103,78.51,Underpinning!A103,Underpinning,"1m,underpinning,trench"
-70,6,Excavate underpinning trench (by hand); not exceeding 2m dp,m3,Underpinning,Plain Concrete FND2,85.1,Underpinning!E104,85.1,Underpinning!A104,Underpinning,"2m,underpinning,trench"
-71,7,Excavate underpinning trench (by hand); not exceeding 3m dp,m3,Underpinning,Plain Concrete FND2,101.55,Underpinning!E105,101.55,Underpinning!A105,Underpinning,"3m,underpinning,trench"
-72,8,Excavate underpinning trench (by hand); not exceeding 4m dp,m3,Underpinning,Plain Concrete FND2,131.18,Underpinning!E106,131.18,Underpinning!A106,Underpinning,"4m,underpinning,trench"
-73,9,Excavate underpinning trench (by hand); not exceeding 6m dp,m3,Underpinning,Plain Concrete FND2,177.26,Underpinning!E107,177.26,Underpinning!A107,Underpinning,"6m,underpinning,trench"
-74,10,EO excs for break out brickwork/rock obstructions (prov),m3,Underpinning,Plain Concrete FND2,143.72,Underpinning!E108,143.72,Underpinning!A108,Underpinning,
-75,11,EO excs for break out concrete obstructions (prov),m3,Underpinning,Plain Concrete FND2,213.48,Underpinning!E109,213.48,Underpinning!A109,Underpinning,concrete
-76,12,EO excs for break out reinfd concrete obstructions (prov),m3,Underpinning,Plain Concrete FND2,283.23,Underpinning!E110,283.23,Underpinning!A110,Underpinning,concrete
-77,13,EO excs for break out concrete slab; 150mm thk,m2,Underpinning,Plain Concrete FND2,19.29,Underpinning!E111,19.29,Underpinning!A111,Underpinning,"150mm,concrete"
-78,14,EO excs for exc below grd water level (prov),m3,Underpinning,Plain Concrete FND2,116.33,Underpinning!E112,116.33,Underpinning!A112,Underpinning,
-79,15,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Plain Concrete FND2,69.61,Underpinning!E114,69.61,Underpinning!A114,Underpinning,excavation
-80,16,Sidecast & stockpile,m3,Underpinning,Plain Concrete FND2,16.75,Underpinning!E115,16.75,Underpinning!A115,Underpinning,
-81,17,Cut off projecting brick corbelled foundation; not exceeding 300 x 300,m,Underpinning,Plain Concrete FND2,45.95,Underpinning!E116,45.95,Underpinning!A116,Underpinning,foundation
-82,18,Clean off face of brickwork,m2,Underpinning,Plain Concrete FND2,6.49,Underpinning!E117,6.49,Underpinning!A117,Underpinning,
-83,19,Level & compact bottom of excavation,m2,Underpinning,Plain Concrete FND2,7.5,Underpinning!E118,7.5,Underpinning!A118,Underpinning,excavation
-84,20,EWS; not exceeding 1m,m2,Underpinning,Plain Concrete FND2,15.01,Underpinning!E119,15.01,Underpinning!A119,Underpinning,1m
-85,21,EWS; not exceeding 2m,m2,Underpinning,Plain Concrete FND2,31.2,Underpinning!E120,31.2,Underpinning!A120,Underpinning,2m
-86,22,EWS; not exceeding 3m,m2,Underpinning,Plain Concrete FND2,47.99,Underpinning!E121,47.99,Underpinning!A121,Underpinning,3m
-87,23,EWS; not exceeding 4m,m2,Underpinning,Plain Concrete FND2,69.49,Underpinning!E122,69.49,Underpinning!A122,Underpinning,4m
-88,24,EWS; not exceeding 6m,m2,Underpinning,Plain Concrete FND2,104.23,Underpinning!E123,104.23,Underpinning!A123,Underpinning,6m
-89,25,EO for left in,m2,Underpinning,Plain Concrete FND2,16.48,Underpinning!E124,16.48,Underpinning!A124,Underpinning,
-90,26,16 dia x 600 lg dowel bars between adjacent pins,nr,Underpinning,Plain Concrete FND2,15.23,Underpinning!E125,15.23,Underpinning!A125,Underpinning,
-91,27,Clean underside of existing foundation; 600mm wide,m,Underpinning,Plain Concrete FND2,37.98,Underpinning!E126,37.98,Underpinning!A126,Underpinning,"600mm,foundation"
-92,28,Clean underside of existing foundation; 800mm wide,m,Underpinning,Plain Concrete FND2,50.64,Underpinning!E127,50.64,Underpinning!A127,Underpinning,"800mm,foundation"
-93,29,Clean underside of existing foundation,m2,Underpinning,Plain Concrete FND2,63.31,Underpinning!E128,63.31,Underpinning!A128,Underpinning,foundation
-94,30,Clean underside of existing foundation; 1200mm wide,m,Underpinning,Plain Concrete FND2,75.97,Underpinning!E129,75.97,Underpinning!A129,Underpinning,"1200mm,foundation"
-95,31,Clean underside of existing foundation; 1500mm wide,m,Underpinning,Plain Concrete FND2,94.96,Underpinning!E130,94.96,Underpinning!A130,Underpinning,"1500mm,foundation"
-96,32,Temporary works; propping existing foundations (per pin),nr,Underpinning,Plain Concrete FND2,81.29,Underpinning!E131,81.29,Underpinning!A131,Underpinning,foundation
-97,33,Dispose surface water,item,Underpinning,Plain Concrete FND2,0.0,,0.0,Underpinning!A132,Underpinning,
-98,34,Dispose ground water,item,Underpinning,Plain Concrete FND2,983.33,Underpinning!E133,983.33,Underpinning!A133,Underpinning,
-99,35,Filling; with SEM,m3,Underpinning,Plain Concrete FND2,39.79,Underpinning!E134,39.79,Underpinning!A134,Underpinning,
-100,36,Imported granular fill; crushed concrete,m3,Underpinning,Plain Concrete FND2,97.47,Underpinning!E135,97.47,Underpinning!A135,Underpinning,concrete
-101,37,Imported granular fill; 6F2,m3,Underpinning,Plain Concrete FND2,98.79,Underpinning!E136,98.79,Underpinning!A136,Underpinning,
-102,38,Imported granular fill; 6F1,m3,Underpinning,Plain Concrete FND2,100.1,Underpinning!E137,100.1,Underpinning!A137,Underpinning,
-103,39,Imported granular fill; type 2,m3,Underpinning,Plain Concrete FND2,102.72,Underpinning!E138,102.72,Underpinning!A138,Underpinning,
-104,40,Imported granular fill; type 1,m3,Underpinning,Plain Concrete FND2,106.65,Underpinning!E139,106.65,Underpinning!A139,Underpinning,
-105,41,Level & compact surface of fill,m2,Underpinning,Plain Concrete FND2,7.61,Underpinning!E140,7.61,Underpinning!A140,Underpinning,
-106,42,Blinding not exceeding 150 thk,m3,Underpinning,Plain Concrete GEN1,286.55,Underpinning!E143,286.55,Underpinning!A143,Underpinning,
-107,43,Blinding not exceeding 150 thk; 50mm thick,m2,Underpinning,Plain Concrete GEN1,14.33,Underpinning!E144,14.33,Underpinning!A144,Underpinning,50mm
-108,44,Underpins,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E147,277.75,Underpinning!A147,Underpinning,
-109,45,Mass fill,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E148,277.75,Underpinning!A148,Underpinning,
-110,46,Bed; 150-450mm thk,m3,Underpinning,Plain Concrete FND2,253.6,Underpinning!E149,253.6,Underpinning!A149,Underpinning,450mm
-111,47,Wall; 150-450mm thk,m3,Underpinning,Plain Concrete FND2,306.96,Underpinning!E150,306.96,Underpinning!A150,Underpinning,450mm
-112,48,Underpins,m3,Underpinning,Plain Concrete RC40,280.46,Underpinning!E153,280.46,Underpinning!A153,Underpinning,
-113,49,Formwork to face of underpin,m2,Underpinning,Formwork; Basic Finish,50.86,Underpinning!E156,50.86,Underpinning!A156,Underpinning,
-114,50,Formwork to rear face of underpin; left in,m2,Underpinning,Formwork; Basic Finish,26.02,Underpinning!E157,26.02,Underpinning!A157,Underpinning,
-115,51,Foundations; not exceeding 250,m,Underpinning,Formwork; Basic Finish,10.15,Underpinning!E158,10.15,Underpinning!A158,Underpinning,foundation
-116,52,Foundations; 250-500,m,Underpinning,Formwork; Basic Finish,14.04,Underpinning!E159,14.04,Underpinning!A159,Underpinning,foundation
-117,53,Foundations; 500-1m,m,Underpinning,Formwork; Basic Finish,22.83,Underpinning!E160,22.83,Underpinning!A160,Underpinning,"1m,foundation"
-118,54,Foundations; ex 1m,m2,Underpinning,Formwork; Basic Finish,27.26,Underpinning!E161,27.26,Underpinning!A161,Underpinning,"1m,foundation"
-119,55,Foundations; not exceeding 250; permanent left-in,m,Underpinning,Formwork; Basic Finish,6.79,Underpinning!E162,6.79,Underpinning!A162,Underpinning,foundation
-120,56,Foundations; 250-500; permanent left in,m,Underpinning,Formwork; Basic Finish,9.15,Underpinning!E163,9.15,Underpinning!A163,Underpinning,foundation
-121,57,Foundations; 500-1m; permanent left in,m,Underpinning,Formwork; Basic Finish,12.69,Underpinning!E164,12.69,Underpinning!A164,Underpinning,"1m,foundation"
-122,58,Foundations; ex 1m; permanent left in,m2,Underpinning,Formwork; Basic Finish,16.52,Underpinning!E165,16.52,Underpinning!A165,Underpinning,"1m,foundation"
-123,59,Ground beams & edge of bed; not exceeding 250,m,Underpinning,Formwork; Basic Finish,11.68,Underpinning!E166,11.68,Underpinning!A166,Underpinning,
-124,60,Ground beams & edge of bed; 250-500,m,Underpinning,Formwork; Basic Finish,15.75,Underpinning!E167,15.75,Underpinning!A167,Underpinning,
-125,61,Ground beams & edge of bed; 500-1m,m,Underpinning,Formwork; Basic Finish,24.54,Underpinning!E168,24.54,Underpinning!A168,Underpinning,1m
-126,62,Ground beams & edge of bed; ex 1m,m2,Underpinning,Formwork; Basic Finish,27.61,Underpinning!E169,27.61,Underpinning!A169,Underpinning,1m
-127,63,Walls,m2,Underpinning,Formwork; Basic Finish,90.65,Underpinning!E170,90.65,Underpinning!A170,Underpinning,
-128,64,Wall kickers,m,Underpinning,Formwork; Basic Finish,28.01,Underpinning!E171,28.01,Underpinning!A171,Underpinning,
-129,65,Various sizes 10-40mm dia,item,Underpinning,Reinforcement; (Provisional),2095.95,Underpinning!E175,2095.95,Underpinning!A175,Underpinning,40mm
-130,66,Reinforced continuity joint with Conobar or similar; to 250 thick slab; H16 bars T&B,m,Underpinning,Reinforcement; (Provisional),74.59,Underpinning!E176,74.59,Underpinning!A176,Underpinning,
-131,67,Coupler; T12,nr,Underpinning,Reinforcement; (Provisional),20.4,Underpinning!E177,20.4,Underpinning!A177,Underpinning,
-132,68,Coupler; T16,nr,Underpinning,Reinforcement; (Provisional),20.8,Underpinning!E178,20.8,Underpinning!A178,Underpinning,
-133,69,Coupler; T20,nr,Underpinning,Reinforcement; (Provisional),22.26,Underpinning!E179,22.26,Underpinning!A179,Underpinning,
-134,70,Tamp finish (Special finish),m2,Underpinning,Concrete unformed finishes,2.91,Underpinning!E182,2.91,Underpinning!A182,Underpinning,
-135,71,Trowel finish,m2,Underpinning,Concrete unformed finishes,7.29,Underpinning!E183,7.29,Underpinning!A183,Underpinning,
-136,72,Trowel; not exceeding 250mm,m,Underpinning,Concrete unformed finishes,3.83,Underpinning!E184,3.83,Underpinning!A184,Underpinning,250mm
-137,73,Trowel; 250-500mm,m,Underpinning,Concrete unformed finishes,4.37,Underpinning!E185,4.37,Underpinning!A185,Underpinning,500mm
-138,74,Trowel; 500-1m,m,Underpinning,Concrete unformed finishes,6.56,Underpinning!E186,6.56,Underpinning!A186,Underpinning,1m
-139,75,EO joints for hydrophillic waterstop,m,Underpinning,Joints,10.86,Underpinning!E189,10.86,Underpinning!A189,Underpinning,
-140,76,EO joints for serviseal AT240 waterstop,m,Underpinning,Joints,15.91,Underpinning!E190,15.91,Underpinning!A190,Underpinning,
-141,77,EO joints for serviseal AT240 waterstop 2 way joint (L),nr,Underpinning,Joints,41.49,Underpinning!E191,41.49,Underpinning!A191,Underpinning,
-142,78,EO joints for serviseal AT240 waterstop 3 way joint (T),nr,Underpinning,Joints,48.48,Underpinning!E192,48.48,Underpinning!A192,Underpinning,
-143,79,EO joints for serviseal AT240 waterstop 4 way joint (X),nr,Underpinning,Joints,79.45,Underpinning!E193,79.45,Underpinning!A193,Underpinning,
-144,80,Dry pack to underside of existing foundation; not exceeding 600mm wide,m,Underpinning,Sundries,65.72,Underpinning!E196,65.72,Underpinning!A196,Underpinning,"600mm,foundation"
-145,81,Dry pack to underside of existing foundation; not exceeding 800mm wide,m,Underpinning,Sundries,87.62,Underpinning!E197,87.62,Underpinning!A197,Underpinning,"800mm,foundation"
-146,82,Dry pack to underside of existing foundation; not exceeding 1000mm wide,m,Underpinning,Sundries,109.53,Underpinning!E198,109.53,Underpinning!A198,Underpinning,"1000mm,foundation"
-147,83,Dry pack to underside of existing foundation; not exceeding 1200mm wide,m,Underpinning,Sundries,131.44,Underpinning!E199,131.44,Underpinning!A199,Underpinning,"1200mm,foundation"
-148,84,Dry pack to underside of existing foundation; not exceeding 1500mm wide,m,Underpinning,Sundries,164.3,Underpinning!E200,164.3,Underpinning!A200,Underpinning,"1500mm,foundation"
-149,85,Dry pack to underside of existing foundation,m2,Underpinning,Sundries,109.53,Underpinning!E201,109.53,Underpinning!A201,Underpinning,foundation
-150,86,75mm Dry pack to underside of existing foundation,m2,Underpinning,Sundries,148.0,Underpinning!E202,148.0,Underpinning!A202,Underpinning,"75mm,foundation"
-151,87,100mm Dry pack to underside of existing foundation,m2,Underpinning,Sundries,219.06,Underpinning!E203,219.06,Underpinning!A203,Underpinning,"100mm,foundation"
-152,88,Drill & grout dowel bars; Hilti HIT resin,nr,Underpinning,Sundries,11.53,Underpinning!E204,11.53,Underpinning!A204,Underpinning,
-153,89,Dowel bars; between underpins,nr,Underpinning,Sundries,15.11,Underpinning!E205,15.11,Underpinning!A205,Underpinning,
-154,90,Polystyrene void former,m3,Underpinning,Sundries,122.88,Underpinning!E206,122.88,Underpinning!A206,Underpinning,
-155,91,Cellcore; CP8/12; 300mm thk; horizontal,m2,Underpinning,Sundries,45.77,Underpinning!E207,45.77,Underpinning!A207,Underpinning,300mm
-156,92,Cellcore; CP20/30; 300mm thk; horizontal,m2,Underpinning,Sundries,50.97,Underpinning!E208,50.97,Underpinning!A208,Underpinning,300mm
-157,93,Claymaster; 75mm thk; vertical,m2,Underpinning,Sundries,17.06,Underpinning!E209,17.06,Underpinning!A209,Underpinning,75mm
-158,94,Form corbel; 100 x 300 x 1000; 4nr H10 reinforcing bars,m,Underpinning,Sundries,244.85,Underpinning!E210,244.85,Underpinning!A210,Underpinning,
-159,95,Form toe to base of underpin; 750 x 500,m,Underpinning,Sundries,129.56,Underpinning!E211,129.56,Underpinning!A211,Underpinning,
-160,96,50mm compressible EPS movement joint filler; 250mm wide between toe and slab/ground beam,m,Underpinning,Sundries,30.81,Underpinning!E212,30.81,Underpinning!A212,Underpinning,"50mm,250mm"
-161,97,EO Form key/joggle joint between bays,m2,Underpinning,Sundries,45.29,Underpinning!E213,45.29,Underpinning!A213,Underpinning,bay
-162,98,Temporary propping,m,Underpinning,Sundries,513.3,Underpinning!E214,513.3,Underpinning!A214,Underpinning,
+UP1,UP1,Excavate preliminary trench (by hand),m3,Underpinning,Trench Excavation,45.6,Underpinning!E13,45.6,Underpinning!A13,Underpinning,trench
+UP2,UP2,Clean face of brickwork/concrete exposed during excavations,m2,Underpinning,Excavation,11.2,Underpinning!E14,11.2,Underpinning!A14,Underpinning,"excavation,concrete"
+UP3,UP3,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Excavation,58.79,Underpinning!E16,58.79,Underpinning!A16,Underpinning,excavation
+UP4,UP4,Level & compact bottom of excavation,m2,Underpinning,Excavation,4.8,Underpinning!E17,4.8,Underpinning!A17,Underpinning,excavation
+UP5,UP5,EWS; not exceeding 1m,m2,Underpinning,Underpinning,9.89,Underpinning!E18,9.89,Underpinning!A18,Underpinning,1m
+UP6,UP6,Filling; with SEM,m3,Underpinning,Underpinning,39.79,Underpinning!E19,39.79,Underpinning!A19,Underpinning,
+UP7,UP1,Excavate preliminary trench (by hand),m3,Underpinning,Trench Excavation,70.28,Underpinning!E22,70.28,Underpinning!A22,Underpinning,trench
+UP8,UP2,Clean face of brickwork/concrete exposed during excavations,m2,Underpinning,Excavation,11.2,Underpinning!E23,11.2,Underpinning!A23,Underpinning,"excavation,concrete"
+UP9,UP3,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Excavation,58.79,Underpinning!E25,58.79,Underpinning!A25,Underpinning,excavation
+UP10,UP4,Level & compact bottom of excavation,m2,Underpinning,Excavation,4.8,Underpinning!E26,4.8,Underpinning!A26,Underpinning,excavation
+UP11,UP5,EWS; not exceeding 2m,m2,Underpinning,Underpinning,20.41,Underpinning!E27,20.41,Underpinning!A27,Underpinning,2m
+UP12,UP6,Filling; with SEM,m3,Underpinning,Underpinning,39.79,Underpinning!E28,39.79,Underpinning!A28,Underpinning,
+UP13,UP1,Excavate underpinning trench (by hand),m3,Underpinning,Underpinning Excavation,78.51,Underpinning!E31,78.51,Underpinning!A31,Underpinning,"underpinning,trench"
+UP14,UP2,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Excavation,58.79,Underpinning!E33,58.79,Underpinning!A33,Underpinning,excavation
+UP15,UP3,EWS; not exceeding 1m,m2,Underpinning,Underpinning,15.01,Underpinning!E34,15.01,Underpinning!A34,Underpinning,1m
+UP16,UP4,Level & compact bottom of excavation,m2,Underpinning,Excavation,4.8,Underpinning!E35,4.8,Underpinning!A35,Underpinning,excavation
+UP17,UP5,to underpin,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E37,277.75,Underpinning!A37,Underpinning,
+UP18,UP6,Formwork to face of underpin,m2,Underpinning,Plain Concrete FND2,50.86,Underpinning!E38,50.86,Underpinning!A38,Underpinning,
+UP19,UP7,Formwork to rear face of underpin; left in,m2,Underpinning,Plain Concrete FND2,26.02,Underpinning!E39,26.02,Underpinning!A39,Underpinning,
+UP20,UP8,Clean face of concrete of adjacent pins,m2,Underpinning,Plain Concrete FND2,11.2,Underpinning!E40,11.2,Underpinning!A40,Underpinning,concrete
+UP21,UP9,16 dia x 600 lg dowel bars between adjacent pins,nr,Underpinning,Plain Concrete FND2,5.63,Underpinning!E41,5.63,Underpinning!A41,Underpinning,
+UP22,UP10,Imported granular fill; type 1,m3,Underpinning,Plain Concrete FND2,77.81,Underpinning!E42,77.81,Underpinning!A42,Underpinning,
+UP23,UP11,Level & compact surface of fill,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E43,4.8,Underpinning!A43,Underpinning,
+UP24,UP12,Clean underside of existing foundation; 1000mm wide,m,Underpinning,Plain Concrete FND2,63.31,Underpinning!E44,63.31,Underpinning!A44,Underpinning,"1000mm,foundation"
+UP25,UP13,Dry pack to underside of existing foundation; not exceeding 1000mm wide,m,Underpinning,Plain Concrete FND2,109.53,Underpinning!E45,109.53,Underpinning!A45,Underpinning,"1000mm,foundation"
+UP26,UP1,Excavate underpinning trench (by hand),m3,Underpinning,Plain Concrete FND2,85.1,Underpinning!E48,85.1,Underpinning!A48,Underpinning,"underpinning,trench"
+UP27,UP2,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Plain Concrete FND2,58.79,Underpinning!E50,58.79,Underpinning!A50,Underpinning,excavation
+UP28,UP3,EWS; not exceeding 2m,m2,Underpinning,Plain Concrete FND2,31.2,Underpinning!E51,31.2,Underpinning!A51,Underpinning,2m
+UP29,UP4,Level & compact bottom of excavation,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E52,4.8,Underpinning!A52,Underpinning,excavation
+UP30,UP5,to underpin,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E54,277.75,Underpinning!A54,Underpinning,
+UP31,UP6,Formwork to face of underpin,m2,Underpinning,Plain Concrete FND2,50.86,Underpinning!E55,50.86,Underpinning!A55,Underpinning,
+UP32,UP7,Formwork to rear face of underpin; left in,m2,Underpinning,Plain Concrete FND2,26.02,Underpinning!E56,26.02,Underpinning!A56,Underpinning,
+UP33,UP8,Clean face of concrete of adjacent pins,m2,Underpinning,Plain Concrete FND2,11.2,Underpinning!E57,11.2,Underpinning!A57,Underpinning,concrete
+UP34,UP9,16 dia x 600 lg dowel bars between adjacent pins,nr,Underpinning,Plain Concrete FND2,5.63,Underpinning!E58,5.63,Underpinning!A58,Underpinning,
+UP35,UP10,Imported granular fill; type 1,m3,Underpinning,Plain Concrete FND2,77.81,Underpinning!E59,77.81,Underpinning!A59,Underpinning,
+UP36,UP11,Level & compact surface of fill,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E60,4.8,Underpinning!A60,Underpinning,
+UP37,UP12,Clean underside of existing foundation; 1000mm wide,m,Underpinning,Plain Concrete FND2,63.31,Underpinning!E61,63.31,Underpinning!A61,Underpinning,"1000mm,foundation"
+UP38,UP13,Dry pack to underside of existing foundation; not exceeding 1000mm wide,m,Underpinning,Plain Concrete FND2,109.53,Underpinning!E62,109.53,Underpinning!A62,Underpinning,"1000mm,foundation"
+UP39,UP1,Excavate underpinning trench (by hand),m3,Underpinning,Plain Concrete FND2,101.55,Underpinning!E65,101.55,Underpinning!A65,Underpinning,"underpinning,trench"
+UP40,UP2,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Plain Concrete FND2,58.79,Underpinning!E67,58.79,Underpinning!A67,Underpinning,excavation
+UP41,UP3,EWS; not exceeding 3m,m2,Underpinning,Plain Concrete FND2,47.99,Underpinning!E68,47.99,Underpinning!A68,Underpinning,3m
+UP42,UP4,Level & compact bottom of excavation,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E69,4.8,Underpinning!A69,Underpinning,excavation
+UP43,UP5,to underpin,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E71,277.75,Underpinning!A71,Underpinning,
+UP44,UP6,Formwork to face of underpin,m2,Underpinning,Plain Concrete FND2,50.86,Underpinning!E72,50.86,Underpinning!A72,Underpinning,
+UP45,UP7,Formwork to rear face of underpin; left in,m2,Underpinning,Plain Concrete FND2,26.02,Underpinning!E73,26.02,Underpinning!A73,Underpinning,
+UP46,UP8,Clean face of concrete of adjacent pins,m2,Underpinning,Plain Concrete FND2,11.2,Underpinning!E74,11.2,Underpinning!A74,Underpinning,concrete
+UP47,UP9,16 dia x 600 lg dowel bars between adjacent pins,nr,Underpinning,Plain Concrete FND2,5.63,Underpinning!E75,5.63,Underpinning!A75,Underpinning,
+UP48,UP10,Imported granular fill; type 1,m3,Underpinning,Plain Concrete FND2,77.81,Underpinning!E76,77.81,Underpinning!A76,Underpinning,
+UP49,UP11,Level & compact surface of fill,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E77,4.8,Underpinning!A77,Underpinning,
+UP50,UP12,Clean underside of existing foundation; 1000mm wide,m,Underpinning,Plain Concrete FND2,63.31,Underpinning!E78,63.31,Underpinning!A78,Underpinning,"1000mm,foundation"
+UP51,UP13,Dry pack to underside of existing foundation; not exceeding 1000mm wide,m,Underpinning,Plain Concrete FND2,109.53,Underpinning!E79,109.53,Underpinning!A79,Underpinning,"1000mm,foundation"
+UP52,UP1,Excavate underpinning trench (by hand); not exceeding 4m dp,m3,Underpinning,Plain Concrete FND2,131.18,Underpinning!E82,131.18,Underpinning!A82,Underpinning,"4m,underpinning,trench"
+UP53,UP2,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Plain Concrete FND2,58.79,Underpinning!E84,58.79,Underpinning!A84,Underpinning,excavation
+UP54,UP3,EWS; not exceeding 4m,m2,Underpinning,Plain Concrete FND2,69.49,Underpinning!E85,69.49,Underpinning!A85,Underpinning,4m
+UP55,UP4,Level & compact bottom of excavation,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E86,4.8,Underpinning!A86,Underpinning,excavation
+UP56,UP5,to underpin,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E88,277.75,Underpinning!A88,Underpinning,
+UP57,UP6,Formwork to face of underpin,m2,Underpinning,Plain Concrete FND2,50.86,Underpinning!E89,50.86,Underpinning!A89,Underpinning,
+UP58,UP7,Formwork to rear face of underpin; left in,m2,Underpinning,Plain Concrete FND2,26.02,Underpinning!E90,26.02,Underpinning!A90,Underpinning,
+UP59,UP8,Clean face of concrete of adjacent pins,m2,Underpinning,Plain Concrete FND2,11.2,Underpinning!E91,11.2,Underpinning!A91,Underpinning,concrete
+UP60,UP9,16 dia x 600 lg dowel bars between adjacent pins,nr,Underpinning,Plain Concrete FND2,5.63,Underpinning!E92,5.63,Underpinning!A92,Underpinning,
+UP61,UP10,Imported granular fill; type 1,m3,Underpinning,Plain Concrete FND2,77.81,Underpinning!E93,77.81,Underpinning!A93,Underpinning,
+UP62,UP11,Level & compact surface of fill,m2,Underpinning,Plain Concrete FND2,4.8,Underpinning!E94,4.8,Underpinning!A94,Underpinning,
+UP63,UP12,Clean underside of existing foundation; 1000mm wide,m,Underpinning,Plain Concrete FND2,63.31,Underpinning!E95,63.31,Underpinning!A95,Underpinning,"1000mm,foundation"
+UP64,UP13,Dry pack to underside of existing foundation; 1000mm wide,m,Underpinning,Plain Concrete FND2,109.53,Underpinning!E96,109.53,Underpinning!A96,Underpinning,"1000mm,foundation"
+UP65,UP1,Exc preliminary trench (by hand & excvtr); not exceeding 1m dp,m3,Underpinning,Plain Concrete FND2,45.6,Underpinning!E99,45.6,Underpinning!A99,Underpinning,"1m,trench"
+UP66,UP2,Exc preliminary trench (by hand & excvtr); not exceeding 2m dp,m3,Underpinning,Plain Concrete FND2,70.28,Underpinning!E100,70.28,Underpinning!A100,Underpinning,"2m,trench"
+UP67,UP3,Exc preliminary trench (by hand & excvtr); not exceeding 4m dp,m3,Underpinning,Plain Concrete FND2,94.97,Underpinning!E101,94.97,Underpinning!A101,Underpinning,"4m,trench"
+UP68,UP4,Exc preliminary trench (by hand & excvtr); not exceeding 6m dp,m3,Underpinning,Plain Concrete FND2,121.3,Underpinning!E102,121.3,Underpinning!A102,Underpinning,"6m,trench"
+UP69,UP5,Excavate underpinning trench (by hand); not exceeding 1m dp,m3,Underpinning,Plain Concrete FND2,78.51,Underpinning!E103,78.51,Underpinning!A103,Underpinning,"1m,underpinning,trench"
+UP70,UP6,Excavate underpinning trench (by hand); not exceeding 2m dp,m3,Underpinning,Plain Concrete FND2,85.1,Underpinning!E104,85.1,Underpinning!A104,Underpinning,"2m,underpinning,trench"
+UP71,UP7,Excavate underpinning trench (by hand); not exceeding 3m dp,m3,Underpinning,Plain Concrete FND2,101.55,Underpinning!E105,101.55,Underpinning!A105,Underpinning,"3m,underpinning,trench"
+UP72,UP8,Excavate underpinning trench (by hand); not exceeding 4m dp,m3,Underpinning,Plain Concrete FND2,131.18,Underpinning!E106,131.18,Underpinning!A106,Underpinning,"4m,underpinning,trench"
+UP73,UP9,Excavate underpinning trench (by hand); not exceeding 6m dp,m3,Underpinning,Plain Concrete FND2,177.26,Underpinning!E107,177.26,Underpinning!A107,Underpinning,"6m,underpinning,trench"
+UP74,UP10,EO excs for break out brickwork/rock obstructions (prov),m3,Underpinning,Plain Concrete FND2,143.72,Underpinning!E108,143.72,Underpinning!A108,Underpinning,
+UP75,UP11,EO excs for break out concrete obstructions (prov),m3,Underpinning,Plain Concrete FND2,213.48,Underpinning!E109,213.48,Underpinning!A109,Underpinning,concrete
+UP76,UP12,EO excs for break out reinfd concrete obstructions (prov),m3,Underpinning,Plain Concrete FND2,283.23,Underpinning!E110,283.23,Underpinning!A110,Underpinning,concrete
+UP77,UP13,EO excs for break out concrete slab; 150mm thk,m2,Underpinning,Plain Concrete FND2,19.29,Underpinning!E111,19.29,Underpinning!A111,Underpinning,"150mm,concrete"
+UP78,UP14,EO excs for exc below grd water level (prov),m3,Underpinning,Plain Concrete FND2,116.33,Underpinning!E112,116.33,Underpinning!A112,Underpinning,
+UP79,UP15,Dispose of excavation arisings off site; clean inert material,m3,Underpinning,Plain Concrete FND2,69.61,Underpinning!E114,69.61,Underpinning!A114,Underpinning,excavation
+UP80,UP16,Sidecast & stockpile,m3,Underpinning,Plain Concrete FND2,16.75,Underpinning!E115,16.75,Underpinning!A115,Underpinning,
+UP81,UP17,Cut off projecting brick corbelled foundation; not exceeding 300 x 300,m,Underpinning,Plain Concrete FND2,45.95,Underpinning!E116,45.95,Underpinning!A116,Underpinning,foundation
+UP82,UP18,Clean off face of brickwork,m2,Underpinning,Plain Concrete FND2,6.49,Underpinning!E117,6.49,Underpinning!A117,Underpinning,
+UP83,UP19,Level & compact bottom of excavation,m2,Underpinning,Plain Concrete FND2,7.5,Underpinning!E118,7.5,Underpinning!A118,Underpinning,excavation
+UP84,UP20,EWS; not exceeding 1m,m2,Underpinning,Plain Concrete FND2,15.01,Underpinning!E119,15.01,Underpinning!A119,Underpinning,1m
+UP85,UP21,EWS; not exceeding 2m,m2,Underpinning,Plain Concrete FND2,31.2,Underpinning!E120,31.2,Underpinning!A120,Underpinning,2m
+UP86,UP22,EWS; not exceeding 3m,m2,Underpinning,Plain Concrete FND2,47.99,Underpinning!E121,47.99,Underpinning!A121,Underpinning,3m
+UP87,UP23,EWS; not exceeding 4m,m2,Underpinning,Plain Concrete FND2,69.49,Underpinning!E122,69.49,Underpinning!A122,Underpinning,4m
+UP88,UP24,EWS; not exceeding 6m,m2,Underpinning,Plain Concrete FND2,104.23,Underpinning!E123,104.23,Underpinning!A123,Underpinning,6m
+UP89,UP25,EO for left in,m2,Underpinning,Plain Concrete FND2,16.48,Underpinning!E124,16.48,Underpinning!A124,Underpinning,
+UP90,UP26,16 dia x 600 lg dowel bars between adjacent pins,nr,Underpinning,Plain Concrete FND2,15.23,Underpinning!E125,15.23,Underpinning!A125,Underpinning,
+UP91,UP27,Clean underside of existing foundation; 600mm wide,m,Underpinning,Plain Concrete FND2,37.98,Underpinning!E126,37.98,Underpinning!A126,Underpinning,"600mm,foundation"
+UP92,UP28,Clean underside of existing foundation; 800mm wide,m,Underpinning,Plain Concrete FND2,50.64,Underpinning!E127,50.64,Underpinning!A127,Underpinning,"800mm,foundation"
+UP93,UP29,Clean underside of existing foundation,m2,Underpinning,Plain Concrete FND2,63.31,Underpinning!E128,63.31,Underpinning!A128,Underpinning,foundation
+UP94,UP30,Clean underside of existing foundation; 1200mm wide,m,Underpinning,Plain Concrete FND2,75.97,Underpinning!E129,75.97,Underpinning!A129,Underpinning,"1200mm,foundation"
+UP95,UP31,Clean underside of existing foundation; 1500mm wide,m,Underpinning,Plain Concrete FND2,94.96,Underpinning!E130,94.96,Underpinning!A130,Underpinning,"1500mm,foundation"
+UP96,UP32,Temporary works; propping existing foundations (per pin),nr,Underpinning,Plain Concrete FND2,81.29,Underpinning!E131,81.29,Underpinning!A131,Underpinning,foundation
+UP97,UP33,Dispose surface water,item,Underpinning,Plain Concrete FND2,0,,0,Underpinning!A132,Underpinning,
+UP98,UP34,Dispose ground water,item,Underpinning,Plain Concrete FND2,983.33,Underpinning!E133,983.33,Underpinning!A133,Underpinning,
+UP99,UP35,Filling; with SEM,m3,Underpinning,Plain Concrete FND2,39.79,Underpinning!E134,39.79,Underpinning!A134,Underpinning,
+UP100,UP36,Imported granular fill; crushed concrete,m3,Underpinning,Plain Concrete FND2,97.47,Underpinning!E135,97.47,Underpinning!A135,Underpinning,concrete
+UP101,UP37,Imported granular fill; 6F2,m3,Underpinning,Plain Concrete FND2,98.79,Underpinning!E136,98.79,Underpinning!A136,Underpinning,
+UP102,UP38,Imported granular fill; 6F1,m3,Underpinning,Plain Concrete FND2,100.1,Underpinning!E137,100.1,Underpinning!A137,Underpinning,
+UP103,UP39,Imported granular fill; type 2,m3,Underpinning,Plain Concrete FND2,102.72,Underpinning!E138,102.72,Underpinning!A138,Underpinning,
+UP104,UP40,Imported granular fill; type 1,m3,Underpinning,Plain Concrete FND2,106.65,Underpinning!E139,106.65,Underpinning!A139,Underpinning,
+UP105,UP41,Level & compact surface of fill,m2,Underpinning,Plain Concrete FND2,7.61,Underpinning!E140,7.61,Underpinning!A140,Underpinning,
+UP106,UP42,Blinding not exceeding 150 thk,m3,Underpinning,Plain Concrete GEN1,286.55,Underpinning!E143,286.55,Underpinning!A143,Underpinning,
+UP107,UP43,Blinding not exceeding 150 thk; 50mm thick,m2,Underpinning,Plain Concrete GEN1,14.33,Underpinning!E144,14.33,Underpinning!A144,Underpinning,50mm
+UP108,UP44,Underpins,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E147,277.75,Underpinning!A147,Underpinning,
+UP109,UP45,Mass fill,m3,Underpinning,Plain Concrete FND2,277.75,Underpinning!E148,277.75,Underpinning!A148,Underpinning,
+UP110,UP46,Bed; 150-450mm thk,m3,Underpinning,Plain Concrete FND2,253.6,Underpinning!E149,253.6,Underpinning!A149,Underpinning,450mm
+UP111,UP47,Wall; 150-450mm thk,m3,Underpinning,Plain Concrete FND2,306.96,Underpinning!E150,306.96,Underpinning!A150,Underpinning,450mm
+UP112,UP48,Underpins,m3,Underpinning,Plain Concrete RC40,280.46,Underpinning!E153,280.46,Underpinning!A153,Underpinning,
+UP113,UP49,Formwork to face of underpin,m2,Underpinning,Formwork; Basic Finish,50.86,Underpinning!E156,50.86,Underpinning!A156,Underpinning,
+UP114,UP50,Formwork to rear face of underpin; left in,m2,Underpinning,Formwork; Basic Finish,26.02,Underpinning!E157,26.02,Underpinning!A157,Underpinning,
+UP115,UP51,Foundations; not exceeding 250,m,Underpinning,Formwork; Basic Finish,10.15,Underpinning!E158,10.15,Underpinning!A158,Underpinning,foundation
+UP116,UP52,Foundations; 250-500,m,Underpinning,Formwork; Basic Finish,14.04,Underpinning!E159,14.04,Underpinning!A159,Underpinning,foundation
+UP117,UP53,Foundations; 500-1m,m,Underpinning,Formwork; Basic Finish,22.83,Underpinning!E160,22.83,Underpinning!A160,Underpinning,"1m,foundation"
+UP118,UP54,Foundations; ex 1m,m2,Underpinning,Formwork; Basic Finish,27.26,Underpinning!E161,27.26,Underpinning!A161,Underpinning,"1m,foundation"
+UP119,UP55,Foundations; not exceeding 250; permanent left-in,m,Underpinning,Formwork; Basic Finish,6.79,Underpinning!E162,6.79,Underpinning!A162,Underpinning,foundation
+UP120,UP56,Foundations; 250-500; permanent left in,m,Underpinning,Formwork; Basic Finish,9.15,Underpinning!E163,9.15,Underpinning!A163,Underpinning,foundation
+UP121,UP57,Foundations; 500-1m; permanent left in,m,Underpinning,Formwork; Basic Finish,12.69,Underpinning!E164,12.69,Underpinning!A164,Underpinning,"1m,foundation"
+UP122,UP58,Foundations; ex 1m; permanent left in,m2,Underpinning,Formwork; Basic Finish,16.52,Underpinning!E165,16.52,Underpinning!A165,Underpinning,"1m,foundation"
+UP123,UP59,Ground beams & edge of bed; not exceeding 250,m,Underpinning,Formwork; Basic Finish,11.68,Underpinning!E166,11.68,Underpinning!A166,Underpinning,
+UP124,UP60,Ground beams & edge of bed; 250-500,m,Underpinning,Formwork; Basic Finish,15.75,Underpinning!E167,15.75,Underpinning!A167,Underpinning,
+UP125,UP61,Ground beams & edge of bed; 500-1m,m,Underpinning,Formwork; Basic Finish,24.54,Underpinning!E168,24.54,Underpinning!A168,Underpinning,1m
+UP126,UP62,Ground beams & edge of bed; ex 1m,m2,Underpinning,Formwork; Basic Finish,27.61,Underpinning!E169,27.61,Underpinning!A169,Underpinning,1m
+UP127,UP63,Walls,m2,Underpinning,Formwork; Basic Finish,90.65,Underpinning!E170,90.65,Underpinning!A170,Underpinning,
+UP128,UP64,Wall kickers,m,Underpinning,Formwork; Basic Finish,28.01,Underpinning!E171,28.01,Underpinning!A171,Underpinning,
+UP129,UP65,Various sizes 10-40mm dia,item,Underpinning,Reinforcement; (Provisional),2095.95,Underpinning!E175,2095.95,Underpinning!A175,Underpinning,40mm
+UP130,UP66,Reinforced continuity joint with Conobar or similar; to 250 thick slab; H16 bars T&B,m,Underpinning,Reinforcement; (Provisional),74.59,Underpinning!E176,74.59,Underpinning!A176,Underpinning,
+UP131,UP67,Coupler; T12,nr,Underpinning,Reinforcement; (Provisional),20.4,Underpinning!E177,20.4,Underpinning!A177,Underpinning,
+UP132,UP68,Coupler; T16,nr,Underpinning,Reinforcement; (Provisional),20.8,Underpinning!E178,20.8,Underpinning!A178,Underpinning,
+UP133,UP69,Coupler; T20,nr,Underpinning,Reinforcement; (Provisional),22.26,Underpinning!E179,22.26,Underpinning!A179,Underpinning,
+UP134,UP70,Tamp finish (Special finish),m2,Underpinning,Concrete unformed finishes,2.91,Underpinning!E182,2.91,Underpinning!A182,Underpinning,
+UP135,UP71,Trowel finish,m2,Underpinning,Concrete unformed finishes,7.29,Underpinning!E183,7.29,Underpinning!A183,Underpinning,
+UP136,UP72,Trowel; not exceeding 250mm,m,Underpinning,Concrete unformed finishes,3.83,Underpinning!E184,3.83,Underpinning!A184,Underpinning,250mm
+UP137,UP73,Trowel; 250-500mm,m,Underpinning,Concrete unformed finishes,4.37,Underpinning!E185,4.37,Underpinning!A185,Underpinning,500mm
+UP138,UP74,Trowel; 500-1m,m,Underpinning,Concrete unformed finishes,6.56,Underpinning!E186,6.56,Underpinning!A186,Underpinning,1m
+UP139,UP75,EO joints for hydrophillic waterstop,m,Underpinning,Joints,10.86,Underpinning!E189,10.86,Underpinning!A189,Underpinning,
+UP140,UP76,EO joints for serviseal AT240 waterstop,m,Underpinning,Joints,15.91,Underpinning!E190,15.91,Underpinning!A190,Underpinning,
+UP141,UP77,EO joints for serviseal AT240 waterstop 2 way joint (L),nr,Underpinning,Joints,41.49,Underpinning!E191,41.49,Underpinning!A191,Underpinning,
+UP142,UP78,EO joints for serviseal AT240 waterstop 3 way joint (T),nr,Underpinning,Joints,48.48,Underpinning!E192,48.48,Underpinning!A192,Underpinning,
+UP143,UP79,EO joints for serviseal AT240 waterstop 4 way joint (X),nr,Underpinning,Joints,79.45,Underpinning!E193,79.45,Underpinning!A193,Underpinning,
+UP144,UP80,Dry pack to underside of existing foundation; not exceeding 600mm wide,m,Underpinning,Sundries,65.72,Underpinning!E196,65.72,Underpinning!A196,Underpinning,"600mm,foundation"
+UP145,UP81,Dry pack to underside of existing foundation; not exceeding 800mm wide,m,Underpinning,Sundries,87.62,Underpinning!E197,87.62,Underpinning!A197,Underpinning,"800mm,foundation"
+UP146,UP82,Dry pack to underside of existing foundation; not exceeding 1000mm wide,m,Underpinning,Sundries,109.53,Underpinning!E198,109.53,Underpinning!A198,Underpinning,"1000mm,foundation"
+UP147,UP83,Dry pack to underside of existing foundation; not exceeding 1200mm wide,m,Underpinning,Sundries,131.44,Underpinning!E199,131.44,Underpinning!A199,Underpinning,"1200mm,foundation"
+UP148,UP84,Dry pack to underside of existing foundation; not exceeding 1500mm wide,m,Underpinning,Sundries,164.3,Underpinning!E200,164.3,Underpinning!A200,Underpinning,"1500mm,foundation"
+UP149,UP85,Dry pack to underside of existing foundation,m2,Underpinning,Sundries,109.53,Underpinning!E201,109.53,Underpinning!A201,Underpinning,foundation
+UP150,UP86,75mm Dry pack to underside of existing foundation,m2,Underpinning,Sundries,148,Underpinning!E202,148,Underpinning!A202,Underpinning,"75mm,foundation"
+UP151,UP87,100mm Dry pack to underside of existing foundation,m2,Underpinning,Sundries,219.06,Underpinning!E203,219.06,Underpinning!A203,Underpinning,"100mm,foundation"
+UP152,UP88,Drill & grout dowel bars; Hilti HIT resin,nr,Underpinning,Sundries,11.53,Underpinning!E204,11.53,Underpinning!A204,Underpinning,
+UP153,UP89,Dowel bars; between underpins,nr,Underpinning,Sundries,15.11,Underpinning!E205,15.11,Underpinning!A205,Underpinning,
+UP154,UP90,Polystyrene void former,m3,Underpinning,Sundries,122.88,Underpinning!E206,122.88,Underpinning!A206,Underpinning,
+UP155,UP91,Cellcore; CP8/12; 300mm thk; horizontal,m2,Underpinning,Sundries,45.77,Underpinning!E207,45.77,Underpinning!A207,Underpinning,300mm
+UP156,UP92,Cellcore; CP20/30; 300mm thk; horizontal,m2,Underpinning,Sundries,50.97,Underpinning!E208,50.97,Underpinning!A208,Underpinning,300mm
+UP157,UP93,Claymaster; 75mm thk; vertical,m2,Underpinning,Sundries,17.06,Underpinning!E209,17.06,Underpinning!A209,Underpinning,75mm
+UP158,UP94,Form corbel; 100 x 300 x 1000; 4nr H10 reinforcing bars,m,Underpinning,Sundries,244.85,Underpinning!E210,244.85,Underpinning!A210,Underpinning,
+UP159,UP95,Form toe to base of underpin; 750 x 500,m,Underpinning,Sundries,129.56,Underpinning!E211,129.56,Underpinning!A211,Underpinning,
+UP160,UP96,50mm compressible EPS movement joint filler; 250mm wide between toe and slab/ground beam,m,Underpinning,Sundries,30.81,Underpinning!E212,30.81,Underpinning!A212,Underpinning,"50mm,250mm"
+UP161,UP97,EO Form key/joggle joint between bays,m2,Underpinning,Sundries,45.29,Underpinning!E213,45.29,Underpinning!A213,Underpinning,bay
+UP162,UP98,Temporary propping,m,Underpinning,Sundries,513.3,Underpinning!E214,513.3,Underpinning!A214,Underpinning,
