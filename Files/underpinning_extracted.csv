@@ -95,8 +95,6 @@ UP93,UP29,Clean underside of existing foundation,m2,Underpinning,Plain Concrete 
 UP94,UP30,Clean underside of existing foundation; 1200mm wide,m,Underpinning,Plain Concrete FND2,75.97,Underpinning!E129,75.97,Underpinning!A129,Underpinning,"1200mm,foundation"
 UP95,UP31,Clean underside of existing foundation; 1500mm wide,m,Underpinning,Plain Concrete FND2,94.96,Underpinning!E130,94.96,Underpinning!A130,Underpinning,"1500mm,foundation"
 UP96,UP32,Temporary works; propping existing foundations (per pin),nr,Underpinning,Plain Concrete FND2,81.29,Underpinning!E131,81.29,Underpinning!A131,Underpinning,foundation
-UP97,UP33,Dispose surface water,item,Underpinning,Plain Concrete FND2,0,,0,Underpinning!A132,Underpinning,
-UP98,UP34,Dispose ground water,item,Underpinning,Plain Concrete FND2,983.33,Underpinning!E133,983.33,Underpinning!A133,Underpinning,
 UP99,UP35,Filling; with SEM,m3,Underpinning,Plain Concrete FND2,39.79,Underpinning!E134,39.79,Underpinning!A134,Underpinning,
 UP100,UP36,Imported granular fill; crushed concrete,m3,Underpinning,Plain Concrete FND2,97.47,Underpinning!E135,97.47,Underpinning!A135,Underpinning,concrete
 UP101,UP37,Imported granular fill; 6F2,m3,Underpinning,Plain Concrete FND2,98.79,Underpinning!E136,98.79,Underpinning!A136,Underpinning,
@@ -127,7 +125,6 @@ UP125,UP61,Ground beams & edge of bed; 500-1m,m,Underpinning,Formwork; Basic Fin
 UP126,UP62,Ground beams & edge of bed; ex 1m,m2,Underpinning,Formwork; Basic Finish,27.61,Underpinning!E169,27.61,Underpinning!A169,Underpinning,1m
 UP127,UP63,Walls,m2,Underpinning,Formwork; Basic Finish,90.65,Underpinning!E170,90.65,Underpinning!A170,Underpinning,
 UP128,UP64,Wall kickers,m,Underpinning,Formwork; Basic Finish,28.01,Underpinning!E171,28.01,Underpinning!A171,Underpinning,
-UP129,UP65,Various sizes 10-40mm dia,item,Underpinning,Reinforcement; (Provisional),2095.95,Underpinning!E175,2095.95,Underpinning!A175,Underpinning,40mm
 UP130,UP66,Reinforced continuity joint with Conobar or similar; to 250 thick slab; H16 bars T&B,m,Underpinning,Reinforcement; (Provisional),74.59,Underpinning!E176,74.59,Underpinning!A176,Underpinning,
 UP131,UP67,Coupler; T12,nr,Underpinning,Reinforcement; (Provisional),20.4,Underpinning!E177,20.4,Underpinning!A177,Underpinning,
 UP132,UP68,Coupler; T16,nr,Underpinning,Reinforcement; (Provisional),20.8,Underpinning!E178,20.8,Underpinning!A178,Underpinning,

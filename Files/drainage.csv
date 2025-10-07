@@ -1,7 +1,4 @@
 id,code,description,unit,category,subcategory,rate,cellRate_reference,cellRate_rate,excelCellReference,sourceSheetName,keywords
-DR1,DR1,All items below based on disposal of excavation arisings being clean/inert material. Rates flucuating based on a prime cost of:,item,Drainage,Excavation,300,Drainage!O20,300,Drainage!A20,Drainage,
-DR2,DR2,Excludes suspended drainage to ground floor,item,Drainage,General Drainage,0,,0,Drainage!A21,Drainage,drainage
-DR3,DR3,Excludes services and service entries. No details,item,Drainage,General Drainage,0,,0,Drainage!A22,Drainage,
 DR4,DR4,Excavate trenches for pipes ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert:; depth to invert: not exceeding 0.5 m,m,Drainage,Pipework,13.13,Drainage!O25,13.13,Drainage!A25,Drainage,"200mm,excavate,trench,pipe,backfill,sem,dispose,invert"
 DR5,DR5,Excavate trenches for pipes ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert:; depth to invert: 0.5 - 0.75 m,m,Drainage,Pipework,17.49,Drainage!O26,17.49,Drainage!A26,Drainage,"200mm,excavate,trench,pipe,backfill,sem,dispose,invert"
 DR6,DR6,Excavate trenches for pipes ne 200mm dia; backfill with SEM; dispose of surplus off site; depth to invert:; depth to invert: 0.75 - 1 m,m,Drainage,Pipework,22.35,Drainage!O27,22.35,Drainage!A27,Drainage,"200mm,excavate,trench,pipe,backfill,sem,dispose,invert"
@@ -530,35 +527,6 @@ DR528,DR525,Grout existing redundant drain runs; pipe size:; 225mm dia,m,Drainag
 DR529,DR526,Grout existing redundant drain runs; pipe size:; 300mm dia,m,Drainage,Pipework,18.48,Drainage!O584,18.48,Drainage!A584,Drainage,"300mm,pipe"
 DR530,DR527,Grout existing redundant drain runs; pipe size:; 450mm dia,m,Drainage,Pipework,33.55,Drainage!O585,33.55,Drainage!A585,Drainage,"450mm,pipe"
 DR531,DR528,Grout existing redundant drain runs; pipe size:; 600mm dia,m,Drainage,Pipework,53.4,Drainage!O586,53.4,Drainage!A586,Drainage,"600mm,pipe"
-DR532,DR529,EO drain trenches for breaking out existing tarmac road surface & reinstating on completion; provisional,item,Drainage,General Drainage,160.68,Drainage!O588,160.68,Drainage!A588,Drainage,trench
-DR533,DR530,EO manhole for breaking out existing tarmac road surface & reinstating on completion; provisional,item,Drainage,Manholes,1124.79,Drainage!O589,1124.79,Drainage!A589,Drainage,manhole
-DR534,DR531,EO drain trenches for breaking out existing tarmac footpath surface & reinstating on completion; provisional,item,Drainage,General Drainage,89.42,Drainage!O590,89.42,Drainage!A590,Drainage,trench
-DR535,DR532,"Soft spots, inc excavate, backfill with Type 6F2 & dispose off site",item,Drainage,Excavation,93.3,Drainage!O591,93.3,Drainage!A591,Drainage,"excavate,backfill,dispose"
-DR536,DR533,EO drain trenches for breaking out underground obstructions; reinforced concrete,item,Drainage,General Drainage,69.98,Drainage!O592,69.98,Drainage!A592,Drainage,trench
-DR537,DR534,EO drain trenches for breaking out underground obstructions; plain concrete,item,Drainage,General Drainage,50.89,Drainage!O593,50.89,Drainage!A593,Drainage,trench
-DR538,DR535,EO drain trenches for breaking out underground obstructions; rock,item,Drainage,General Drainage,37.32,Drainage!O594,37.32,Drainage!A594,Drainage,trench
-DR539,DR536,EO drain trenches for breaking out underground obstructions; brickwork,item,Drainage,General Drainage,37.32,Drainage!O595,37.32,Drainage!A595,Drainage,trench
-DR540,DR537,EO drain trenches for excavating through Geogrid TX160 and reinstate on completion of backfill,item,Drainage,Excavation,10.4,Drainage!O596,10.4,Drainage!A596,Drainage,"trench,backfill"
-DR541,DR538,EO for installing a lintol in foundations over drain pipe (max 1.2m lg),item,Drainage,Pipework,75.39,Drainage!O597,75.39,Drainage!A597,Drainage,pipe
-DR542,DR539,EO for sleeving pipe through concrete foundation (max 1.2m thk),item,Drainage,Pipework,60.06,Drainage!O598,60.06,Drainage!A598,Drainage,pipe
-DR543,DR540,EO for sleeving pipe through concrete foundation and waterproofing around sleeve,item,Drainage,Pipework,89.56,Drainage!O599,89.56,Drainage!A599,Drainage,pipe
-DR544,DR541,EO for CI sleeve and Ensign puddle flange ED078 through concrete foundation and waterproofing around sleeve,item,Drainage,General Drainage,180.64,Drainage!O600,180.64,Drainage!A600,Drainage,
-DR545,DR542,Dispose surface water,item,Drainage,General Drainage,0,,0,Drainage!A601,Drainage,dispose
-DR546,DR543,Dispose ground water,item,Drainage,General Drainage,1728.19,Drainage!O602,1728.19,Drainage!A602,Drainage,dispose
-DR547,DR542,Dispose ground water,item,Drainage,General Drainage,345.64,Drainage!O603,345.64,Drainage!A603,Drainage,dispose
-DR548,DR543,Dispose ground water,item,Drainage,General Drainage,518.46,Drainage!O604,518.46,Drainage!A604,Drainage,dispose
-DR549,DR544,Dispose ground water,item,Drainage,General Drainage,864.09,Drainage!O605,864.09,Drainage!A605,Drainage,dispose
-DR550,DR545,Dispose ground water,item,Drainage,General Drainage,8640.93,Drainage!O606,8640.93,Drainage!A606,Drainage,dispose
-DR551,DR546,GW pump and settlement tank; 24/7 working (SW),item,Drainage,General Drainage,1001.22,Drainage!O607,1001.22,Drainage!A607,Drainage,
-DR552,DR547,EO disposal of arisings from trenches for non hazardous material (prov),item,Drainage,General Drainage,76.35,Drainage!O608,76.35,Drainage!A608,Drainage,trench
-DR553,DR548,EO disposal of arisings from trenches for hazardous material (prov),item,Drainage,General Drainage,347.06,Drainage!O609,347.06,Drainage!A609,Drainage,trench
-DR554,DR549,EO excs for exc below grd water level (prov),item,Drainage,General Drainage,17.96,Drainage!O610,17.96,Drainage!A610,Drainage,
-DR555,DR550,EO excs for exc next to extg services (prov),item,Drainage,General Drainage,11.34,Drainage!O611,11.34,Drainage!A611,Drainage,
-DR556,DR551,EO excs for exc around extg services crossing trench (prov),item,Drainage,General Drainage,35.2,Drainage!O612,35.2,Drainage!A612,Drainage,trench
-DR557,DR552,EO land drain trench for 1000 wide turfguard & 150 topsoil,item,Drainage,General Drainage,37.93,Drainage!O613,37.93,Drainage!A613,Drainage,trench
-DR558,DR553,EO for warning tape,item,Drainage,General Drainage,0.53,Drainage!O614,0.53,Drainage!A614,Drainage,
-DR559,DR554,EO for metal/magnetic warning tape,item,Drainage,General Drainage,0.73,Drainage!O615,0.73,Drainage!A615,Drainage,
-DR560,DR555,EO for 50mm concrete flags laid in trench as protection,item,Drainage,General Drainage,13.82,Drainage!O616,13.82,Drainage!A616,Drainage,"50mm,trench"
 DR561,DR556,"EO drain trenches for working outside the site boundary; EO trenches, backfill, beds, surrounds & pipes to Project Specification for works to specification suitable for adoption",m,Drainage,Pipework,0,,0,Drainage!A619,Drainage,"trench,pipe,backfill"
 DR562,DR557,EO drain trenches for working outside the site boundary; Installing heras fencing / barriers around open trenches,m,Drainage,General Drainage,0,,0,Drainage!A620,Drainage,trench
 DR563,DR558,EO drain trenches for working outside the site boundary; Installing road plates over open trenches,m,Drainage,General Drainage,0,,0,Drainage!A621,Drainage,trench
@@ -1250,13 +1218,6 @@ DR1248,DR1169,PC concrete; 1200 dia; B125 C&F; depth to invert; depth to invert:
 DR1249,DR1170,PC concrete; 1200 dia; B125 C&F; depth to invert; depth to invert: 5.753 - 6.003 m,m,Drainage,General Drainage,4957.09,Drainage!O1448,4957.09,Drainage!A1448,Drainage,"invert,depth"
 DR1250,DR1171,PC concrete; 1200 dia; B125 C&F; depth to invert; depth to invert: 6.003 - 6.253 m,m,Drainage,General Drainage,5139.3,Drainage!O1449,5139.3,Drainage!A1449,Drainage,"invert,depth"
 DR1251,DR1172,PC concrete; 1200 dia; B125 C&F; depth to invert; depth to invert: 6.253 - 6.503 m,m,Drainage,General Drainage,5321.51,Drainage!O1450,5321.51,Drainage!A1450,Drainage,"invert,depth"
-DR1252,DR1173,EO B125 C&F for recessed,item,Drainage,General Drainage,35.4,Drainage!O1452,35.4,Drainage!A1452,Drainage,
-DR1253,DR1174,EO B125 C&F for double seal,item,Drainage,General Drainage,23.6,Drainage!O1453,23.6,Drainage!A1453,Drainage,
-DR1254,DR1175,EO B125 C&F for recessed & double seal,item,Drainage,General Drainage,47.2,Drainage!O1454,47.2,Drainage!A1454,Drainage,
-DR1255,DR1176,EO B125 C&F for D400,item,Drainage,General Drainage,47.2,Drainage!O1455,47.2,Drainage!A1455,Drainage,
-DR1256,DR1177,EO B125 C&F for recessed D400,item,Drainage,General Drainage,82.6,Drainage!O1456,82.6,Drainage!A1456,Drainage,
-DR1257,DR1178,EO B125 C&F for recessed & double seal D400,item,Drainage,General Drainage,129.8,Drainage!O1457,129.8,Drainage!A1457,Drainage,
-DR1258,DR1179,EO B125 C&F for F900,item,Drainage,General Drainage,283.2,Drainage!O1458,283.2,Drainage!A1458,Drainage,
 DR1259,DR1180,PC concrete soakaways; 1200 dia perforated rings; depth to invert; depth to invert: 0.75 - 1 m,m,Drainage,General Drainage,1576.95,Drainage!O1461,1576.95,Drainage!A1461,Drainage,"invert,depth"
 DR1260,DR1181,PC concrete soakaways; 1200 dia perforated rings; depth to invert; depth to invert: 1 - 1.25 m,m,Drainage,General Drainage,1847.14,Drainage!O1462,1847.14,Drainage!A1462,Drainage,"invert,depth"
 DR1261,DR1182,PC concrete soakaways; 1200 dia perforated rings; depth to invert; depth to invert: 1.25 - 1.5 m,m,Drainage,General Drainage,2117.33,Drainage!O1463,2117.33,Drainage!A1463,Drainage,"invert,depth"
@@ -1297,7 +1258,6 @@ DR1295,DR1216,PC concrete; 1350/1500 dia; depth to invert; depth to invert: 5.5 
 DR1296,DR1217,PC concrete; 1350/1500 dia; depth to invert; depth to invert: 5.75 - 6 m,m,Drainage,General Drainage,6371.96,Drainage!O1499,6371.96,Drainage!A1499,Drainage,"invert,depth"
 DR1297,DR1218,PC concrete; 1350/1500 dia; depth to invert; depth to invert: 6 - 6.25 m,m,Drainage,General Drainage,6606.31,Drainage!O1500,6606.31,Drainage!A1500,Drainage,"invert,depth"
 DR1298,DR1219,PC concrete; 1350/1500 dia; depth to invert; depth to invert: 6.25 - 6.5 m,m,Drainage,General Drainage,6840.67,Drainage!O1501,6840.67,Drainage!A1501,Drainage,"invert,depth"
-DR1299,DR1220,EO 1350 for 1500 dia,item,Drainage,General Drainage,82.6,Drainage!O1503,82.6,Drainage!A1503,Drainage,
 DR1300,DR1221,PC concrete; 1800 dia; depth to invert; depth to invert: 0.75 - 1 m,m,Drainage,General Drainage,2141.51,Drainage!O1507,2141.51,Drainage!A1507,Drainage,"invert,depth"
 DR1301,DR1222,PC concrete; 1800 dia; depth to invert; depth to invert: 1 - 1.25 m,m,Drainage,General Drainage,2440.63,Drainage!O1508,2440.63,Drainage!A1508,Drainage,"invert,depth"
 DR1302,DR1223,PC concrete; 1800 dia; depth to invert; depth to invert: 1.25 - 1.5 m,m,Drainage,General Drainage,2739.74,Drainage!O1509,2739.74,Drainage!A1509,Drainage,"invert,depth"
@@ -1444,11 +1404,6 @@ DR1442,DR1363,EO manholes for backdrop entries; 300mm dia; depth of drop:; depth
 DR1443,DR1364,EO manholes for backdrop entries; 300mm dia; depth of drop:; depth to invert: 2.5 - 2.75 m,m,Drainage,Manholes,2345.17,Drainage!O1659,2345.17,Drainage!A1659,Drainage,"300mm,manhole,invert,depth"
 DR1444,DR1365,EO manholes for backdrop entries; 300mm dia; depth of drop:; depth to invert: 2.75 - 3 m,m,Drainage,Manholes,2424.2,Drainage!O1660,2424.2,Drainage!A1660,Drainage,"300mm,manhole,invert,depth"
 DR1445,DR1366,EO manholes for backdrop entries; 300mm dia; depth of drop:; depth to invert: 3 - 3.25 m,m,Drainage,Manholes,2503.22,Drainage!O1661,2503.22,Drainage!A1661,Drainage,"300mm,manhole,invert,depth"
-DR1446,DR1367,EO for orifice plate,item,Drainage,General Drainage,365.08,Drainage!O1663,365.08,Drainage!A1663,Drainage,
-DR1447,DR1368,EO for 225 flap valve,item,Drainage,General Drainage,321.42,Drainage!O1664,321.42,Drainage!A1664,Drainage,
-DR1448,DR1369,EO B125 C&F for D400,item,Drainage,General Drainage,35.4,Drainage!O1665,35.4,Drainage!A1665,Drainage,
-DR1449,DR1370,EO B125 C&F for F900,item,Drainage,General Drainage,283.2,Drainage!O1666,283.2,Drainage!A1666,Drainage,
-DR1450,DR1371,EO for double seal C&F,item,Drainage,General Drainage,17.7,Drainage!O1667,17.7,Drainage!A1667,Drainage,
 DR1451,DR1372,Insitu RC manholes integral with slab; size 1200/900 x 750; 300mm thk base and walls; 750 x 750 dble seal C&F; depth to invert:; depth to invert: 0.5 - 0.75 m,m,Drainage,Manholes,3016.75,Drainage!O1670,3016.75,Drainage!A1670,Drainage,"300mm,manhole,invert,depth"
 DR1452,DR1372,Insitu RC manholes integral with slab; size 1200/900 x 750; 300mm thk base and walls; 750 x 750 dble seal C&F; depth to invert:; depth to invert: 0.75 - 1 m,m,Drainage,Manholes,3497.43,Drainage!O1671,3497.43,Drainage!A1671,Drainage,"300mm,manhole,invert,depth"
 DR1453,DR1373,Insitu RC manholes integral with slab; size 1200/900 x 750; 300mm thk base and walls; 750 x 750 dble seal C&F; depth to invert:; depth to invert: 1 - 1.25 m,m,Drainage,Manholes,4059.32,Drainage!O1672,4059.32,Drainage!A1672,Drainage,"300mm,manhole,invert,depth"
@@ -1565,117 +1520,6 @@ DR1563,DR1479,"Manholes, chambers, etc - Component measure; Fill with SEM",m,Dra
 DR1564,DR1480,"Manholes, chambers, etc - Component measure; Imported granular fill; type 1",m,Drainage,Manholes,51.01,Drainage!O1787,51.01,Drainage!A1787,Drainage,manhole
 DR1565,DR1481,"Manholes, chambers, etc - Component measure; L&C surface of fill",m,Drainage,Manholes,1.56,Drainage!O1788,1.56,Drainage!A1788,Drainage,manhole
 DR1566,DR1482,"Manholes, chambers, etc - Component measure; Brickwork kerb; 225mm high; eng bricks; 1B thk in c.m.",m,Drainage,Manholes,33.06,Drainage!O1789,33.06,Drainage!A1789,Drainage,"225mm,manhole"
-DR1567,DR1483,A15 cover & frame; 600 x 600/450; inc 3 courses of brickwork,item,Drainage,General Drainage,187.61,Drainage!O1792,187.61,Drainage!A1792,Drainage,
-DR1568,DR1484,B125 cover & frame; 600 x 600/450; inc 3 courses of brickwork,item,Drainage,General Drainage,195.87,Drainage!O1793,195.87,Drainage!A1793,Drainage,
-DR1569,DR1485,D400 cover & frame; 600 x 600/450; inc 3 courses of brickwork,item,Drainage,General Drainage,231.27,Drainage!O1794,231.27,Drainage!A1794,Drainage,
-DR1570,DR1486,F900 cover & frame; 600 x 600; inc 3 courses of brickwork,item,Drainage,General Drainage,479.07,Drainage!O1795,479.07,Drainage!A1795,Drainage,
-DR1571,DR1487,A15 cover & frame; 300 x 300/300dia/350dia,item,Drainage,General Drainage,58.61,Drainage!O1796,58.61,Drainage!A1796,Drainage,
-DR1572,DR1488,A15 cover & frame; 300 x 300/300dia/350dia; double seal,item,Drainage,General Drainage,76.31,Drainage!O1797,76.31,Drainage!A1797,Drainage,
-DR1573,DR1489,A15 cover & frame; 450 x 450/450dia/480dia,item,Drainage,General Drainage,61.56,Drainage!O1798,61.56,Drainage!A1798,Drainage,
-DR1574,DR1490,A15 cover & frame; 450 x 450/450dia/480dia; double seal,item,Drainage,General Drainage,82.8,Drainage!O1799,82.8,Drainage!A1799,Drainage,
-DR1575,DR1491,A15 cover & frame; 600 x 600/450,item,Drainage,General Drainage,73.95,Drainage!O1800,73.95,Drainage!A1800,Drainage,
-DR1576,DR1492,A15 cover & frame; 600 x 600/450; double seal,item,Drainage,General Drainage,91.65,Drainage!O1801,91.65,Drainage!A1801,Drainage,
-DR1577,DR1493,A15 cover & frame; 675 x 675,item,Drainage,General Drainage,82.21,Drainage!O1802,82.21,Drainage!A1802,Drainage,
-DR1578,DR1494,A15 cover & frame; 675 x 675; double seal,item,Drainage,General Drainage,99.91,Drainage!O1803,99.91,Drainage!A1803,Drainage,
-DR1579,DR1495,B125 cover & frame; 300 x 300,item,Drainage,General Drainage,73.95,Drainage!O1804,73.95,Drainage!A1804,Drainage,
-DR1580,DR1496,B125 cover & frame; 350 x 350,item,Drainage,General Drainage,61.56,Drainage!O1805,61.56,Drainage!A1805,Drainage,
-DR1581,DR1497,B125 cover & frame; 450dia/480dia,item,Drainage,General Drainage,61.56,Drainage!O1806,61.56,Drainage!A1806,Drainage,
-DR1582,DR1498,B125 cover & frame; 450dia/480dia; no man entry,item,Drainage,General Drainage,79.26,Drainage!O1807,79.26,Drainage!A1807,Drainage,
-DR1583,DR1499,B125 cover & frame; 450dia/480dia; double seal; recessed,item,Drainage,General Drainage,108.76,Drainage!O1808,108.76,Drainage!A1808,Drainage,
-DR1584,DR1500,B125 cover & frame; 450dia/480dia; double seal; recessed; non entry,item,Drainage,General Drainage,126.46,Drainage!O1809,126.46,Drainage!A1809,Drainage,
-DR1585,DR1501,B125 cover & frame; 450 x 450,item,Drainage,General Drainage,64.51,Drainage!O1810,64.51,Drainage!A1810,Drainage,
-DR1586,DR1502,B125 cover & frame; 450 x 450; recessed,item,Drainage,General Drainage,96.37,Drainage!O1811,96.37,Drainage!A1811,Drainage,
-DR1587,DR1503,B125 cover & frame; 450 x 450; double seal,item,Drainage,General Drainage,82.21,Drainage!O1812,82.21,Drainage!A1812,Drainage,
-DR1588,DR1504,B125 cover & frame; 600 x 450,item,Drainage,General Drainage,82.21,Drainage!O1813,82.21,Drainage!A1813,Drainage,
-DR1589,DR1505,B125 cover & frame; 600 x 450; recessed,item,Drainage,General Drainage,111.71,Drainage!O1814,111.71,Drainage!A1814,Drainage,
-DR1590,DR1506,B125 cover & frame; 600 x 450; recessed; double seal,item,Drainage,General Drainage,123.51,Drainage!O1815,123.51,Drainage!A1815,Drainage,
-DR1591,DR1507,B125 cover & frame; 600 x 450; recessed; non man entry,item,Drainage,General Drainage,135.31,Drainage!O1816,135.31,Drainage!A1816,Drainage,
-DR1592,DR1508,B125 cover & frame; 600 x 450; recessed; non entry; double seal,item,Drainage,General Drainage,153.01,Drainage!O1817,153.01,Drainage!A1817,Drainage,
-DR1593,DR1509,B125 cover & frame; 600 x 600,item,Drainage,General Drainage,94.01,Drainage!O1818,94.01,Drainage!A1818,Drainage,
-DR1594,DR1510,B125 cover & frame; 600 x 600; recessed,item,Drainage,General Drainage,117.61,Drainage!O1819,117.61,Drainage!A1819,Drainage,
-DR1595,DR1511,B125 cover & frame; 600 x 600; double seal,item,Drainage,General Drainage,105.81,Drainage!O1820,105.81,Drainage!A1820,Drainage,
-DR1596,DR1512,B125 cover & frame; 600 x 600; recessed; double seal,item,Drainage,General Drainage,135.31,Drainage!O1821,135.31,Drainage!A1821,Drainage,
-DR1597,DR1513,B125 cover & frame; 900 x 600,item,Drainage,General Drainage,99.91,Drainage!O1822,99.91,Drainage!A1822,Drainage,
-DR1598,DR1514,B125 cover & frame; 900 x 600; double seal,item,Drainage,General Drainage,117.61,Drainage!O1823,117.61,Drainage!A1823,Drainage,
-DR1599,DR1515,B125 cover & frame; 900 x 600; recessed; double seal,item,Drainage,General Drainage,147.11,Drainage!O1824,147.11,Drainage!A1824,Drainage,
-DR1600,DR1516,B125 cover & frame; 1000 x 675,item,Drainage,General Drainage,123.51,Drainage!O1825,123.51,Drainage!A1825,Drainage,
-DR1601,DR1517,B125 cover & frame; 1200 x 675; double seal,item,Drainage,General Drainage,164.81,Drainage!O1826,164.81,Drainage!A1826,Drainage,
-DR1602,DR1518,C250 cover & frame; 450 x 450/450dia/480dia,item,Drainage,General Drainage,67.46,Drainage!O1827,67.46,Drainage!A1827,Drainage,
-DR1603,DR1519,C250 cover & frame; 525 x 525,item,Drainage,General Drainage,85.75,Drainage!O1828,85.75,Drainage!A1828,Drainage,
-DR1604,DR1520,C250 cover & frame; 600 x 600,item,Drainage,General Drainage,99.91,Drainage!O1829,99.91,Drainage!A1829,Drainage,
-DR1605,DR1521,C250 cover & frame; 750 x 750,item,Drainage,General Drainage,99.91,Drainage!O1830,99.91,Drainage!A1830,Drainage,
-DR1606,DR1522,C250 cover & frame; 1200 x 675,item,Drainage,General Drainage,176.61,Drainage!O1831,176.61,Drainage!A1831,Drainage,
-DR1607,DR1523,C250 cover & frame; 1200 x 675; recessed,item,Drainage,General Drainage,188.41,Drainage!O1832,188.41,Drainage!A1832,Drainage,
-DR1608,DR1524,D400 cover & frame; 350 x 350,item,Drainage,General Drainage,99.91,Drainage!O1833,99.91,Drainage!A1833,Drainage,
-DR1609,DR1525,D400 cover & frame; 600/450 x 450/600dia,item,Drainage,General Drainage,117.61,Drainage!O1834,117.61,Drainage!A1834,Drainage,
-DR1610,DR1526,D400 cover & frame; 600/450 x 450; double seal,item,Drainage,General Drainage,160.41,Drainage!O1835,160.41,Drainage!A1835,Drainage,
-DR1611,DR1527,D400 cover & frame; 525 x 525,item,Drainage,General Drainage,123.51,Drainage!O1836,123.51,Drainage!A1836,Drainage,
-DR1612,DR1528,D400 recessed cover & frame; 600 x 450,item,Drainage,General Drainage,147.11,Drainage!O1837,147.11,Drainage!A1837,Drainage,
-DR1613,DR1529,D400 recessed cover & frame; 600 x 450; double seal,item,Drainage,General Drainage,164.81,Drainage!O1838,164.81,Drainage!A1838,Drainage,
-DR1614,DR1530,D400 cover & frame; 600mm dia,item,Drainage,General Drainage,111.71,Drainage!O1839,111.71,Drainage!A1839,Drainage,600mm
-DR1615,DR1531,D400 cover & frame; 600 x 600,item,Drainage,General Drainage,123.51,Drainage!O1840,123.51,Drainage!A1840,Drainage,
-DR1616,DR1532,D400 recessed cover & frame; 600 x 600,item,Drainage,General Drainage,153.01,Drainage!O1841,153.01,Drainage!A1841,Drainage,
-DR1617,DR1533,D400 cover & frame; 600 x 600; double seal,item,Drainage,General Drainage,135.31,Drainage!O1842,135.31,Drainage!A1842,Drainage,
-DR1618,DR1534,D400 recessed cover & frame; 600 x 600; double seal,item,Drainage,General Drainage,164.81,Drainage!O1843,164.81,Drainage!A1843,Drainage,
-DR1619,DR1535,D400 recessed cover & frame; 600 x 600; double seal; bolted,item,Drainage,General Drainage,176.61,Drainage!O1844,176.61,Drainage!A1844,Drainage,
-DR1620,DR1536,D400 cover & frame; 675 x 675; double seal,item,Drainage,General Drainage,147.11,Drainage!O1845,147.11,Drainage!A1845,Drainage,
-DR1621,DR1537,D400 recessed cover & frame; 675 x 675; double seal,item,Drainage,General Drainage,176.61,Drainage!O1846,176.61,Drainage!A1846,Drainage,
-DR1622,DR1538,D400 recessed cover & frame; 675 x 750; double seal,item,Drainage,General Drainage,188.41,Drainage!O1847,188.41,Drainage!A1847,Drainage,
-DR1623,DR1539,D400 recessed cover & frame; 675 x 750; double seal; bolted,item,Drainage,General Drainage,200.21,Drainage!O1848,200.21,Drainage!A1848,Drainage,
-DR1624,DR1540,D400 cover & frame; 900 x 600,item,Drainage,General Drainage,135.31,Drainage!O1849,135.31,Drainage!A1849,Drainage,
-DR1625,DR1541,D400 cover & frame; 900 x 600; double seal,item,Drainage,General Drainage,164.81,Drainage!O1850,164.81,Drainage!A1850,Drainage,
-DR1626,DR1542,D400 recessed cover & frame; 900 x 600,item,Drainage,General Drainage,164.81,Drainage!O1851,164.81,Drainage!A1851,Drainage,
-DR1627,DR1543,D400 recessed cover & frame; 900 x 750; double seal,item,Drainage,General Drainage,212.01,Drainage!O1852,212.01,Drainage!A1852,Drainage,
-DR1628,DR1544,D400 cover & frame; 750 x 750,item,Drainage,General Drainage,194.31,Drainage!O1853,194.31,Drainage!A1853,Drainage,
-DR1629,DR1545,D400 cover & frame; 900 x 900,item,Drainage,General Drainage,250.95,Drainage!O1854,250.95,Drainage!A1854,Drainage,
-DR1630,DR1546,D400 cover & frame; 1200 x 675,item,Drainage,General Drainage,229.71,Drainage!O1855,229.71,Drainage!A1855,Drainage,
-DR1631,DR1547,E600 cover & frame; 600 x 600,item,Drainage,General Drainage,300.51,Drainage!O1856,300.51,Drainage!A1856,Drainage,
-DR1632,DR1548,F900 cover & frame; 600 x 600,item,Drainage,General Drainage,0,,0,Drainage!A1857,Drainage,
-DR1633,DR1549,EO recessed,item,Drainage,General Drainage,29.5,Drainage!O1858,29.5,Drainage!A1858,Drainage,
-DR1634,DR1550,EO double sealed,item,Drainage,General Drainage,17.7,Drainage!O1859,17.7,Drainage!A1859,Drainage,
-DR1635,DR1551,EO non entry,item,Drainage,General Drainage,17.7,Drainage!O1860,17.7,Drainage!A1860,Drainage,
-DR1636,DR1552,EO bolted,item,Drainage,General Drainage,11.8,Drainage!O1861,11.8,Drainage!A1861,Drainage,
-DR1637,DR1553,EO for 20mm dia galv steel tube built into access to restrict access,item,Drainage,General Drainage,353.87,Drainage!O1862,353.87,Drainage!A1862,Drainage,20mm
-DR1638,DR1554,EO manhole for CI inspection chamber with bolted sealed cover; 100 main with 2 x 100 branches,item,Drainage,Manholes,771.85,Drainage!O1865,771.85,Drainage!A1865,Drainage,manhole
-DR1639,DR1555,EO manhole for CI inspection chamber with bolted sealed cover; 100 main with 4 x 100 branches,item,Drainage,Manholes,1209.81,Drainage!O1866,1209.81,Drainage!A1866,Drainage,manhole
-DR1640,DR1556,EO manhole for CI inspection chamber with bolted sealed cover; 150 main with 2 x 100 branches,item,Drainage,Manholes,893.34,Drainage!O1867,893.34,Drainage!A1867,Drainage,manhole
-DR1641,DR1557,EO manhole for CI inspection chamber with bolted sealed cover; 150 main with 4 x 100 branches,item,Drainage,Manholes,1387.39,Drainage!O1868,1387.39,Drainage!A1868,Drainage,manhole
-DR1642,DR1558,EO manhole for CI inspection chamber with bolted sealed cover; 150 main with 2 x 150 branches,item,Drainage,Manholes,1049.27,Drainage!O1869,1049.27,Drainage!A1869,Drainage,manhole
-DR1643,DR1559,EO manhole for CI inspection chamber with bolted sealed cover; 150 main with 4 x 150 branches,item,Drainage,Manholes,1690.39,Drainage!O1870,1690.39,Drainage!A1870,Drainage,manhole
-DR1644,DR1560,EO manhole for CI inspection chamber with bolted sealed cover; 225 main with 2 x 100 branches,item,Drainage,Manholes,2009.28,Drainage!O1871,2009.28,Drainage!A1871,Drainage,manhole
-DR1645,DR1561,EO manhole for CI inspection chamber with bolted sealed cover; 225 main with 4 x 100 branches,item,Drainage,Manholes,2684.93,Drainage!O1872,2684.93,Drainage!A1872,Drainage,manhole
-DR1646,DR1562,EO manhole for CI inspection chamber with bolted sealed cover; 225 main with 2 x 150 branches,item,Drainage,Manholes,2171.13,Drainage!O1873,2171.13,Drainage!A1873,Drainage,manhole
-DR1647,DR1563,EO manhole for CI inspection chamber with bolted sealed cover; 225 main with 4 x 150 branches,item,Drainage,Manholes,2884.15,Drainage!O1874,2884.15,Drainage!A1874,Drainage,manhole
-DR1648,DR1564,EO manhole for CI interceptor trap with bolted sealed cover; 150mm dia,item,Drainage,Manholes,943.89,Drainage!O1875,943.89,Drainage!A1875,Drainage,"150mm,manhole"
-DR1649,DR1565,EO manhole for CI interceptor trap with bolted sealed cover; 225mm dia,item,Drainage,Manholes,1632.68,Drainage!O1876,1632.68,Drainage!A1876,Drainage,"225mm,manhole"
-DR1650,DR1566,CI pipe reducers; 150 x 100,item,Drainage,Pipework,132.82,Drainage!O1877,132.82,Drainage!A1877,Drainage,pipe
-DR1651,DR1567,CI pipe reducers; 225 x 100,item,Drainage,Pipework,253.06,Drainage!O1878,253.06,Drainage!A1878,Drainage,pipe
-DR1652,DR1568,CI pipe reducers; 225 x 150,item,Drainage,Pipework,257.79,Drainage!O1879,257.79,Drainage!A1879,Drainage,pipe
-DR1653,DR1569,CI blanking cap; 100dia,item,Drainage,General Drainage,69.19,Drainage!O1880,69.19,Drainage!A1880,Drainage,
-DR1654,DR1570,CI blanking cap; 150dia,item,Drainage,General Drainage,90.24,Drainage!O1881,90.24,Drainage!A1881,Drainage,
-DR1655,DR1571,CI blanking cap; 225dia,item,Drainage,General Drainage,248.9,Drainage!O1882,248.9,Drainage!A1882,Drainage,
-DR1656,DR1572,CI puddle flange; 100dia,item,Drainage,General Drainage,107.34,Drainage!O1883,107.34,Drainage!A1883,Drainage,
-DR1657,DR1573,CI puddle flange; 150dia,item,Drainage,General Drainage,111.01,Drainage!O1884,111.01,Drainage!A1884,Drainage,
-DR1658,DR1574,CI puddle flange; 225dia,item,Drainage,General Drainage,207.11,Drainage!O1885,207.11,Drainage!A1885,Drainage,
-DR1659,DR1575,EO for orifice plate,item,Drainage,General Drainage,455.7,Drainage!O1888,455.7,Drainage!A1888,Drainage,
-DR1660,DR1576,EO manhole for Hydro-Brake; 3l/s at 1m head; 150mm dia,item,Drainage,Manholes,4027.73,Drainage!O1889,4027.73,Drainage!A1889,Drainage,"150mm,manhole"
-DR1661,DR1577,EO manhole for Hydro-Brake; 5l/s at 1m head; 150mm dia,item,Drainage,Manholes,4145.73,Drainage!O1890,4145.73,Drainage!A1890,Drainage,"150mm,manhole"
-DR1662,DR1578,EO manhole for Hydro-Brake; 35l/s at 1m head; 240mm dia,item,Drainage,Manholes,4499.73,Drainage!O1891,4499.73,Drainage!A1891,Drainage,"240mm,manhole"
-DR1663,DR1579,EO manhole for Hydro-Brake; no details; provisional rate,item,Drainage,Manholes,4581.03,Drainage!O1892,4581.03,Drainage!A1892,Drainage,manhole
-DR1664,DR1580,EO m/h for Hydro-Brake; ref CTL-SHE-0395-1101-2300-1101; 110.1l/s; design head; 2.3m; 358mm QR3,item,Drainage,General Drainage,4439.55,Drainage!O1893,4439.55,Drainage!A1893,Drainage,358mm
-DR1665,DR1581,EO m/h for Hydro-Brake; ref CTL-SHE-0313-6860-2770-6860; 68.6l/s; design head; 2.77m; 295mm QR4,item,Drainage,General Drainage,3290.23,Drainage!O1894,3290.23,Drainage!A1894,Drainage,295mm
-DR1666,DR1582,EO m/h for Hydro-Brake; ref CTL-SHE-0434-1487-3400-1487; 148.7l/s; design head; 3.4m; 413mm QR4,item,Drainage,General Drainage,6145.83,Drainage!O1895,6145.83,Drainage!A1895,Drainage,413mm
-DR1667,DR1583,EO m/h for Hydro-Brake; ref CTL-SHE-0179-2470-3700-2470; 24.7l/s; design head; 3.7m; 170mm QR5,item,Drainage,General Drainage,2083.09,Drainage!O1896,2083.09,Drainage!A1896,Drainage,170mm
-DR1668,DR1584,EO manhole for 150mm dia flap valve; bolted to vertical conc haunching and including form sump in benching,item,Drainage,Manholes,759.66,Drainage!O1898,759.66,Drainage!A1898,Drainage,"150mm,manhole"
-DR1669,DR1585,EO manhole for 225mm dia flap valve; bolted to vertical conc haunching and including form sump in benching,item,Drainage,Manholes,814.11,Drainage!O1899,814.11,Drainage!A1899,Drainage,"225mm,manhole"
-DR1670,DR1586,EO manhole for 300mm dia flap valve; bolted to vertical conc haunching and including form sump in benching,item,Drainage,Manholes,1048.96,Drainage!O1900,1048.96,Drainage!A1900,Drainage,"300mm,manhole"
-DR1671,DR1587,EO manhole for 375mm dia flap valve; bolted to vertical conc haunching and including form sump in benching,item,Drainage,Manholes,1176.4,Drainage!O1901,1176.4,Drainage!A1901,Drainage,"375mm,manhole"
-DR1672,DR1588,EO manhole for 450mm dia flap valve; bolted to vertical conc haunching and including form sump in benching,item,Drainage,Manholes,1393.36,Drainage!O1902,1393.36,Drainage!A1902,Drainage,"450mm,manhole"
-DR1673,DR1589,EO manhole for 675mm dia automatic penstock valve including electric actuator and remote control box with management sytem; bolted to vertical conc haunching,item,Drainage,Manholes,8440.28,Drainage!O1904,8440.28,Drainage!A1904,Drainage,"675mm,manhole"
-DR1674,DR1590,Attenuation tank; 1200 dia Tubosider; 160m3; with Trenchcoat coating; invert 2.390m,item,Drainage,General Drainage,266766.35,Drainage!O1906,266766.35,Drainage!A1906,Drainage,"trench,invert"
-DR1675,DR1591,"Attenuation tank; 2nr x 1400 dia Tubosider; 122m3; 2nr x 900dia access shfts; invert 2.67m, exc 40m x 4.4m x 2.77mdp; 100mm sand bed & b/fill wi type1",item,Drainage,General Drainage,106499.73,Drainage!O1907,106499.73,Drainage!A1907,Drainage,"100mm,invert"
-DR1676,DR1592,"Attenuation tank; 2nr x 1400 dia Tubosider; 189m3; 2nr x 900dia access shfts; c/w pump 8.8l/s, int pipewk & valves, control panel, GRP kiosk, alarm, instal & commission pumps; invert 2.67m, exc 40m x 4.4m x 2.77mdp; 100mm sand bed & b/fill wi type1",item,Drainage,Pipework,173359.01,Drainage!O1908,173359.01,Drainage!A1908,Drainage,"100mm,pipe,invert"
-DR1677,DR1593,Attenuation tank A; size as detailed below; comprising the following: ,item,Drainage,General Drainage,0,,0,Drainage!A1910,Drainage,
 DR1678,DR1594,Attenuation Tanks; Excavate pits,m,Drainage,Excavation,15.6,Drainage!O1912,15.6,Drainage!A1912,Drainage,excavate
 DR1679,DR1595,Attenuation Tanks; Working space,m,Drainage,General Drainage,19.29,Drainage!O1913,19.29,Drainage!A1913,Drainage,
 DR1680,DR1596,Attenuation Tanks; EWS,m,Drainage,General Drainage,11.93,Drainage!O1914,11.93,Drainage!A1914,Drainage,
@@ -1696,7 +1540,6 @@ DR1694,DR1609,Attenuation Tanks; Impervious membrane wrapping; vertical,m,Draina
 DR1695,DR1610,Attenuation Tanks; Connect to drain pipes,m,Drainage,Pipework,9.44,Drainage!O1929,9.44,Drainage!A1929,Drainage,pipe
 DR1696,DR1611,Attenuation Tanks; Vents,m,Drainage,General Drainage,64.9,Drainage!O1930,64.9,Drainage!A1930,Drainage,
 DR1697,DR1612,Attenuation Tanks; Access,m,Drainage,General Drainage,0,,0,Drainage!A1931,Drainage,
-DR1698,DR1613,Attenuation tank B; size as detailed below; comprising the following: ,item,Drainage,General Drainage,0,,0,Drainage!A1934,Drainage,
 DR1699,DR1614,Attenuation Tanks; Excavate pits,m,Drainage,Excavation,15.6,Drainage!O1936,15.6,Drainage!A1936,Drainage,excavate
 DR1700,DR1615,Attenuation Tanks; Working space,m,Drainage,General Drainage,19.29,Drainage!O1937,19.29,Drainage!A1937,Drainage,
 DR1701,DR1616,Attenuation Tanks; EWS,m,Drainage,General Drainage,11.93,Drainage!O1938,11.93,Drainage!A1938,Drainage,
@@ -1718,7 +1561,6 @@ DR1716,DR1630,Attenuation Tanks; Connect to drain pipes,m,Drainage,Pipework,9.44
 DR1717,DR1607,Attenuation Tanks; Gully diffuser unit,m,Drainage,Gullies,129.4,Drainage!O1954,129.4,Drainage!A1954,Drainage,
 DR1718,DR1631,Attenuation Tanks; Vents,m,Drainage,General Drainage,64.9,Drainage!O1955,64.9,Drainage!A1955,Drainage,
 DR1719,DR1632,Attenuation Tanks; Access,m,Drainage,General Drainage,0,,0,Drainage!A1956,Drainage,
-DR1720,DR1633,Attenuation tank C; size as detailed below; comprising the following: ,item,Drainage,General Drainage,0,,0,Drainage!A1958,Drainage,
 DR1721,DR1634,Attenuation Tanks; Excavate pits,m,Drainage,Excavation,15.6,Drainage!O1960,15.6,Drainage!A1960,Drainage,excavate
 DR1722,DR1635,Attenuation Tanks; Working space,m,Drainage,General Drainage,19.29,Drainage!O1961,19.29,Drainage!A1961,Drainage,
 DR1723,DR1636,Attenuation Tanks; EWS,m,Drainage,General Drainage,11.93,Drainage!O1962,11.93,Drainage!A1962,Drainage,
@@ -1739,7 +1581,6 @@ DR1737,DR1649,Attenuation Tanks; Impervious membrane wrapping; vertical,m,Draina
 DR1738,DR1650,Attenuation Tanks; Connect to drain pipes,m,Drainage,Pipework,9.44,Drainage!O1977,9.44,Drainage!A1977,Drainage,pipe
 DR1739,DR1651,Attenuation Tanks; Vents,m,Drainage,General Drainage,64.9,Drainage!O1978,64.9,Drainage!A1978,Drainage,
 DR1740,DR1652,Attenuation Tanks; Pump,m,Drainage,General Drainage,2360,Drainage!O1979,2360,Drainage!A1979,Drainage,
-DR1741,DR1653,Attenuation tank D; size as detailed below; comprising the following: ,item,Drainage,General Drainage,0,,0,Drainage!A1981,Drainage,
 DR1742,DR1654,Attenuation Tanks; Excavate pits,m,Drainage,Excavation,15.6,Drainage!O1983,15.6,Drainage!A1983,Drainage,excavate
 DR1743,DR1655,Attenuation Tanks; Working space,m,Drainage,General Drainage,19.29,Drainage!O1984,19.29,Drainage!A1984,Drainage,
 DR1744,DR1656,Attenuation Tanks; EWS,m,Drainage,General Drainage,11.93,Drainage!O1985,11.93,Drainage!A1985,Drainage,
@@ -1759,7 +1600,6 @@ DR1757,DR1668,Attenuation Tanks; Impervious membrane wrapping; horizontal,m,Drai
 DR1758,DR1669,Attenuation Tanks; Impervious membrane wrapping; vertical,m,Drainage,General Drainage,7.08,Drainage!O1999,7.08,Drainage!A1999,Drainage,
 DR1759,DR1670,Attenuation Tanks; Connect to drain pipes,m,Drainage,Pipework,9.44,Drainage!O2000,9.44,Drainage!A2000,Drainage,pipe
 DR1760,DR1671,Attenuation Tanks; Vents,m,Drainage,General Drainage,64.9,Drainage!O2001,64.9,Drainage!A2001,Drainage,
-DR1761,DR1672,Attenuation tank E; size as detailed below; comprising the following: ,item,Drainage,General Drainage,0,,0,Drainage!A2003,Drainage,
 DR1762,DR1673,Attenuation Tanks; Excavate pits,m,Drainage,Excavation,15.6,Drainage!O2005,15.6,Drainage!A2005,Drainage,excavate
 DR1763,DR1674,Attenuation Tanks; Working space,m,Drainage,General Drainage,19.29,Drainage!O2006,19.29,Drainage!A2006,Drainage,
 DR1764,DR1675,Attenuation Tanks; EWS,m,Drainage,General Drainage,11.93,Drainage!O2007,11.93,Drainage!A2007,Drainage,
@@ -1779,7 +1619,6 @@ DR1777,DR1687,Attenuation Tanks; Impervious membrane wrapping; horizontal,m,Drai
 DR1778,DR1688,Attenuation Tanks; Impervious membrane wrapping; vertical,m,Drainage,General Drainage,7.08,Drainage!O2021,7.08,Drainage!A2021,Drainage,
 DR1779,DR1689,Attenuation Tanks; Connect to drain pipes,m,Drainage,Pipework,9.44,Drainage!O2022,9.44,Drainage!A2022,Drainage,pipe
 DR1780,DR1690,Attenuation Tanks; Vents,m,Drainage,General Drainage,64.9,Drainage!O2023,64.9,Drainage!A2023,Drainage,
-DR1781,DR1691,Attenuation tank F; size as detailed below; comprising the following: ,item,Drainage,General Drainage,0,,0,Drainage!A2025,Drainage,
 DR1782,DR1692,Attenuation Tanks; Excavate pits,m,Drainage,Excavation,15.6,Drainage!O2027,15.6,Drainage!A2027,Drainage,excavate
 DR1783,DR1693,Attenuation Tanks; Working space,m,Drainage,General Drainage,14.41,Drainage!O2028,14.41,Drainage!A2028,Drainage,
 DR1784,DR1694,Attenuation Tanks; EWS,m,Drainage,General Drainage,11.93,Drainage!O2029,11.93,Drainage!A2029,Drainage,
@@ -1799,7 +1638,6 @@ DR1797,DR1706,Attenuation Tanks; Impervious membrane wrapping; horizontal,m,Drai
 DR1798,DR1707,Attenuation Tanks; Impervious membrane wrapping; vertical,m,Drainage,General Drainage,7.08,Drainage!O2043,7.08,Drainage!A2043,Drainage,
 DR1799,DR1708,Attenuation Tanks; Connect to drain pipes,m,Drainage,Pipework,9.44,Drainage!O2044,9.44,Drainage!A2044,Drainage,pipe
 DR1800,DR1709,Attenuation Tanks; Vents,m,Drainage,General Drainage,64.9,Drainage!O2045,64.9,Drainage!A2045,Drainage,
-DR1801,DR1710,Attenuation tank G; size as detailed below; comprising the following: ,item,Drainage,General Drainage,0,,0,Drainage!A2047,Drainage,
 DR1802,DR1711,Attenuation Tanks; Excavate pits,m,Drainage,Excavation,15.6,Drainage!O2049,15.6,Drainage!A2049,Drainage,excavate
 DR1803,DR1712,Attenuation Tanks; Working space,m,Drainage,General Drainage,19.29,Drainage!O2050,19.29,Drainage!A2050,Drainage,
 DR1804,DR1713,Attenuation Tanks; EWS,m,Drainage,General Drainage,11.93,Drainage!O2051,11.93,Drainage!A2051,Drainage,
@@ -1819,7 +1657,6 @@ DR1817,DR1725,Attenuation Tanks; Impervious membrane wrapping; horizontal,m,Drai
 DR1818,DR1726,Attenuation Tanks; Impervious membrane wrapping; vertical,m,Drainage,General Drainage,7.08,Drainage!O2065,7.08,Drainage!A2065,Drainage,
 DR1819,DR1727,Attenuation Tanks; Connect to drain pipes,m,Drainage,Pipework,9.44,Drainage!O2066,9.44,Drainage!A2066,Drainage,pipe
 DR1820,DR1728,Attenuation Tanks; Vents,m,Drainage,General Drainage,64.9,Drainage!O2067,64.9,Drainage!A2067,Drainage,
-DR1821,DR1729,Attenuation tank H; size as detailed below; comprising the following: ,item,Drainage,General Drainage,0,,0,Drainage!A2069,Drainage,
 DR1822,DR1730,Attenuation Tanks; Excavate pits,m,Drainage,Excavation,15.6,Drainage!O2071,15.6,Drainage!A2071,Drainage,excavate
 DR1823,DR1731,Attenuation Tanks; Working space,m,Drainage,General Drainage,19.29,Drainage!O2072,19.29,Drainage!A2072,Drainage,
 DR1824,DR1732,Attenuation Tanks; EWS,m,Drainage,General Drainage,11.93,Drainage!O2073,11.93,Drainage!A2073,Drainage,
@@ -1872,71 +1709,6 @@ DR1870,DR1701,Permavoid tank nr 2; size as detailed below; comprising the follow
 DR1871,DR1702,Permavoid tank nr 2; size as detailed below; comprising the following: ; GEN1 blinding; 50mm thk,m,Drainage,General Drainage,7.17,Drainage!O2129,7.17,Drainage!A2129,Drainage,50mm
 DR1872,DR1703,Permavoid tank nr 2; size as detailed below; comprising the following: ; Sand bed; 100mm thk,m,Drainage,General Drainage,5.79,Drainage!O2130,5.79,Drainage!A2130,Drainage,100mm
 DR1873,DR1704,RC tank under Basement slab; 7.5 x 18.0 x 2.37m dp from u/s of slab; depth to invert: 2.25 - 2.5 m,m,Drainage,General Drainage,105605.38,Drainage!O2134,105605.38,Drainage!A2134,Drainage,"sem,invert,depth"
-DR1874,DR1705,"CNSB3s/21, 1.4m lg x 1.03 dia x 2.2m high; 1.73 base to IL; (1,667m2 drained area) ",item,Drainage,General Drainage,5761.86,Drainage!O2137,5761.86,Drainage!A2137,Drainage,
-DR1875,DR1706,"CNSB4.5s/21, 1.79m lg x 1.03 dia x 1.88 hgh; 1.27 base to IL; (2,500m2)",item,Drainage,General Drainage,5689.52,Drainage!O2138,5689.52,Drainage!A2138,Drainage,
-DR1876,DR1707,"CNSB6s/21, 1.98m lg x 1.03 dia x 1.88m hgh; 1.27 base to IL; (3,333m2)",item,Drainage,General Drainage,5846.55,Drainage!O2139,5846.55,Drainage!A2139,Drainage,
-DR1877,DR1708,"CNSB8s/21, 2.17m lg x 1.03 dia x 1.88 hgh; 1.27 base to IL; (4,444m2)",item,Drainage,General Drainage,7187.42,Drainage!O2140,7187.42,Drainage!A2140,Drainage,
-DR1878,DR1709,"CNSB10s/21, 2.49 lg x 1.03 dia x 1.88 hgh; 1.27 base to IL; (5,555m2)",item,Drainage,General Drainage,6326.17,Drainage!O2141,6326.17,Drainage!A2141,Drainage,
-DR1879,DR1710,"CNSB100s/21, 6.01 lg x 1.88 dia x 3.3 hgh; 2.03 base to IL; (55,556m2)",item,Drainage,General Drainage,19276.35,Drainage!O2142,19276.35,Drainage!A2142,Drainage,
-DR1880,DR1711,EO for alarms,item,Drainage,General Drainage,295,Drainage!O2143,295,Drainage!A2143,Drainage,
-DR1881,DR1712,"CNS4s/11, 2.32 lg x 1.03 dia x 1.66 hgh; 1.3 base to IL; (222m2)",item,Drainage,General Drainage,6249.45,Drainage!O2146,6249.45,Drainage!A2146,Drainage,
-DR1882,DR1713,"CNS6s/11, 3.41 lg x 1.03 dia x 1.66 hgh; 1.3 base to IL; (333m2)",item,Drainage,General Drainage,6800.99,Drainage!O2147,6800.99,Drainage!A2147,Drainage,
-DR1883,DR1714,"CNS8s/11, 3.2 lg x 1.21 dia x 1.86 hgh; 1.48 base to IL; (444m2)",item,Drainage,General Drainage,7489.05,Drainage!O2148,7489.05,Drainage!A2148,Drainage,
-DR1884,DR1715,"CNS10s/11, 3.96 lg x 1.21 dia x 1.86 hgh; 1.48 base to IL; (556m2)",item,Drainage,General Drainage,9050.72,Drainage!O2149,9050.72,Drainage!A2149,Drainage,
-DR1885,DR1716,"CNS80s/11, 5.744m x 2.82 dia x 3.32 hgh; 2.73 base to IL; (4,445m2)",item,Drainage,General Drainage,32094.69,Drainage!O2150,32094.69,Drainage!A2150,Drainage,
-DR1886,DR1717,"CNS100s/11, 6.75m x 2.8 dia x 3.32 hgh; 2.73 base to IL; (5,556m2)",item,Drainage,General Drainage,34005.61,Drainage!O2151,34005.61,Drainage!A2151,Drainage,
-DR1887,DR1718,"CNS150s/11, 8.675m x 2.82 dia x 3.32 hgh; 2.73 base to IL; (8335m2)",item,Drainage,General Drainage,42101.43,Drainage!O2152,42101.43,Drainage!A2152,Drainage,
-DR1888,DR1719,"CNS255s/11, 14.3m x 2.82 dia x 3.32 hgh; 2.73 base to IL; (xxxxx m2)",item,Drainage,General Drainage,65227.88,Drainage!O2153,65227.88,Drainage!A2153,Drainage,
-DR1889,DR1720,EO for alarms,item,Drainage,General Drainage,361.08,Drainage!O2154,361.08,Drainage!A2154,Drainage,
-DR1890,DR1721,EO for kiosk,item,Drainage,General Drainage,814.2,Drainage!O2155,814.2,Drainage!A2155,Drainage,
-DR1891,DR1721,ANO/11; class 1(SW); 4.25 lg x 1.8 dia x 2.1 hgh; 1.6 base to IL,item,Drainage,General Drainage,9005.25,Drainage!O2158,9005.25,Drainage!A2158,Drainage,
-DR1892,DR1722,ANT/12; class 2(FW); 4.25 lg x 1.8 dia x 2.1 hgh; 1.6 base to IL,item,Drainage,General Drainage,8986.37,Drainage!O2159,8986.37,Drainage!A2159,Drainage,
-DR1893,DR1723,LNO/11 class 1(SW); 4.25 lg x 1.8 dia x 2.1 hgh; 1.6 base to IL,item,Drainage,General Drainage,9162.19,Drainage!O2160,9162.19,Drainage!A2160,Drainage,
-DR1894,DR1724,CWS2/12; 2.7 lg x 1.0 dia; 1.29 base to IL,item,Drainage,General Drainage,6108.62,Drainage!O2163,6108.62,Drainage!A2163,Drainage,
-DR1895,DR1725,CWS3/12; 2.85 lg x 1.2 dia; 1.48 base to IL,item,Drainage,General Drainage,6766.4,Drainage!O2164,6766.4,Drainage!A2164,Drainage,
-DR1896,DR1726,CWS4/12; 3.74 lgl x 1.2 dia; 1.48 base to IL,item,Drainage,General Drainage,7476.19,Drainage!O2165,7476.19,Drainage!A2165,Drainage,
-DR1897,DR1727,CWS6/12; 3.64 lg x 1.5 dia; 1.78 base to to IL,item,Drainage,General Drainage,8348.14,Drainage!O2166,8348.14,Drainage!A2166,Drainage,
-DR1898,DR1728,CWS8/12; 3.44 lg x 1.8 dia; 2.03 base to to IL,item,Drainage,General Drainage,8917.25,Drainage!O2167,8917.25,Drainage!A2167,Drainage,
-DR1899,DR1729,CWS10/12; 4.25 lg x 1.8 dia; 2.03 base to to IL,item,Drainage,General Drainage,9812.98,Drainage!O2168,9812.98,Drainage!A2168,Drainage,
-DR1900,DR1730,EO for alarms,item,Drainage,General Drainage,649,Drainage!O2169,649,Drainage!A2169,Drainage,
-DR1901,DR1731,NSBE040; 4.253.230 lg x 1.92 dia x 3.185 hgh; 225 dia pipework,item,Drainage,Pipework,10319.53,Drainage!O2172,10319.53,Drainage!A2172,Drainage,pipe
-DR1902,DR1732,"NSBE020, 3.893 lg x 1.22 dia x 2.150 hgh; 450mm dia pipework",item,Drainage,Pipework,8401.98,Drainage!O2173,8401.98,Drainage!A2173,Drainage,"450mm,pipe"
-DR1903,DR1733,"NSBE015, 2.947 lg x 1.22dia x 2.150 hgh; 300/375mm dia pipes",item,Drainage,Pipework,8446.77,Drainage!O2174,8446.77,Drainage!A2174,Drainage,"375mm,pipe"
-DR1904,DR1731,"Foul water pump chamber: Edincare Magna Pro 1500-2500-G-3-2-3, 5.0l/s, 5.5m head; 90mm dia rising main x 7m lg; 3phase; Dual pump, duty/standby; XFP80C VX pump model; Vortex impellar; 2.2kW; 1500 dia x 2500 dp; 1200 x 750 B125 sealed & locked access cover, with control kiosk",item,Drainage,General Drainage,18164.83,Drainage!O2177,18164.83,Drainage!A2177,Drainage,90mm
-DR1905,DR1732,"Foul water pump chamber: Haden COMPAC-M 1200/ATC, 3.0l/s, 7.0m pumping height, with control kiosk",item,Drainage,General Drainage,16056.57,Drainage!O2178,16056.57,Drainage!A2178,Drainage,
-DR1906,DR1733,"Foul water pump chamber: Haden COMPAC-M 1200/ATC, 3.0l/s, 7.0m pumping height, with control kiosk",item,Drainage,General Drainage,16024.44,Drainage!O2179,16024.44,Drainage!A2179,Drainage,
-DR1907,DR1734,"Storm water pump chamber: Pims Pumps 1250 series, 3.8l/s, 3.0m pumping height, with control kiosk",item,Drainage,General Drainage,16037.54,Drainage!O2180,16037.54,Drainage!A2180,Drainage,
-DR1908,DR1735,"Fix only packaged pump chamber supplied by others; Storm water pump chamber: Pims Pumps 1250 series, 3.8l/s, 0.6m pumping height, with control kiosk",item,Drainage,General Drainage,6668.82,Drainage!O2181,6668.82,Drainage!A2181,Drainage,
-DR1909,DR1736,Basement sump pump chambers with control kiosks; no details - provisional sums,item,Drainage,General Drainage,2476.23,Drainage!O2182,2476.23,Drainage!A2182,Drainage,sem
-DR1910,DR1737,Basement Magnapro 200 (by Edincare) single sump pump chamber; 150-200litres storage; 750mm dia x 1000mm high; with control kiosks & alarms,item,Drainage,General Drainage,2775.57,Drainage!O2183,2775.57,Drainage!A2183,Drainage,"750mm,1000mm,sem"
-DR1911,DR1738,Rising mains; ?dia x ?flow; no details provisional sum,item,Drainage,General Drainage,513.04,Drainage!O2184,513.04,Drainage!A2184,Drainage,
-DR1912,DR1739,"Basement combined triplex water pump chamber: 55.0l/s, 3.5m pumping height, with control kiosk",item,Drainage,General Drainage,27466.32,Drainage!O2185,27466.32,Drainage!A2185,Drainage,sem
-DR1913,DR1740,Delta dual V3 cavity drain sump pump chamber; S&F; M&E by others,item,Drainage,General Drainage,1718.88,Drainage!O2186,1718.88,Drainage!A2186,Drainage,
-DR1914,DR1741,"Xylem duplex package pump chamber; 33,000 litre GRP storage tank, 2500dia x 7300lg, with 2500dia x 1000dp sump, 9.5l/s duty & standby pumps; 2 nr access shafts; with control kiosk inc commissioning",item,Drainage,General Drainage,66140.82,Drainage!O2187,66140.82,Drainage!A2187,Drainage,
-DR1915,DR1742,"Submersible pump: Flygt 1250 series, 3.8l/s, 0.6m pumping height, with control kiosk; (fixed in chamber measured elsewhere)",item,Drainage,General Drainage,5015,Drainage!O2188,5015,Drainage!A2188,Drainage,
-DR1916,DR1743,"Willow Pump Adoptable pumping equipment insatlled in 3 RC chambers (excluded) included wet well penstock valve, twin pumps, valves, control kiosk, commisioning",item,Drainage,General Drainage,51949.5,Drainage!O2189,51949.5,Drainage!A2189,Drainage,
-DR1917,DR1744,Air Valve chamber pipework & valves inc connectors,item,Drainage,Pipework,2173.56,Drainage!O2190,2173.56,Drainage!A2190,Drainage,pipe
-DR1918,DR1745,Washout chamber pipework & vlves inc connectors,item,Drainage,Pipework,1764.1,Drainage!O2191,1764.1,Drainage!A2191,Drainage,pipe
-DR1919,DR1746,Reid 500kg davit arm,item,Drainage,General Drainage,1463.2,Drainage!O2192,1463.2,Drainage!A2192,Drainage,
-DR1920,DR1747,Duct to kiosk,item,Drainage,General Drainage,579.7,Drainage!O2194,579.7,Drainage!A2194,Drainage,
-DR1921,DR1748,Duct to power supply,item,Drainage,General Drainage,579.7,Drainage!O2195,579.7,Drainage!A2195,Drainage,
-DR1922,DR1749,Concrete base to kiosk; 1.20m x 500mm x 300mmhigh with duct entries,item,Drainage,General Drainage,1086.95,Drainage!O2196,1086.95,Drainage!A2196,Drainage,"500mm,300mm"
-DR1923,DR1750,Vent pipes,item,Drainage,Pipework,261.01,Drainage!O2197,261.01,Drainage!A2197,Drainage,pipe
-DR1924,DR1751,Vent pipe and terminal,item,Drainage,Pipework,1316.26,Drainage!O2198,1316.26,Drainage!A2198,Drainage,pipe
-DR1925,DR1752,Rising mains; 63dia x 5l/s flow; 20m horizontal in trench + 3m vertical fixed to wall,item,Drainage,General Drainage,1400.54,Drainage!O2199,1400.54,Drainage!A2199,Drainage,trench
-DR1926,DR1753,Commissioning,item,Drainage,General Drainage,1640.2,Drainage!O2201,1640.2,Drainage!A2201,Drainage,
-DR1927,DR1754,Wall mounted kiosk for control panel,item,Drainage,General Drainage,693.84,Drainage!O2202,693.84,Drainage!A2202,Drainage,
-DR1928,DR1755,Monitor; inc access to online portal,item,Drainage,General Drainage,938.1,Drainage!O2203,938.1,Drainage!A2203,Drainage,
-DR1929,DR1756,Monitor Pro; inc access to online portal,item,Drainage,General Drainage,1174.1,Drainage!O2204,1174.1,Drainage!A2204,Drainage,
-DR1930,DR1757,Onsite guidance service,item,Drainage,General Drainage,407.1,Drainage!O2205,407.1,Drainage!A2205,Drainage,
-DR1931,DR1758,Handover service,item,Drainage,General Drainage,407.1,Drainage!O2206,407.1,Drainage!A2206,Drainage,
-DR1932,DR1759,Service agreement,item,Drainage,General Drainage,619.5,Drainage!O2207,619.5,Drainage!A2207,Drainage,
-DR1933,DR1760,"RW Harvesting Tank; 8,000lts (Provisional Sum)",item,Drainage,General Drainage,10397.62,Drainage!O2210,10397.62,Drainage!A2210,Drainage,
-DR1934,DR1761,"RW Harvesting Tank; 14,300lts (Provisional Sum)",item,Drainage,General Drainage,18507.76,Drainage!O2211,18507.76,Drainage!A2211,Drainage,
-DR1935,DR1762,"FW Sceptic Tank; 5,000lts (Provisional Sum)",item,Drainage,General Drainage,8929.7,Drainage!O2212,8929.7,Drainage!A2212,Drainage,
-DR1936,DR1763,"Effluent Storage Tank; 25,000lts; 2.7m dia x 5.25m lg; (P Sum)",item,Drainage,General Drainage,33272.37,Drainage!O2213,33272.37,Drainage!A2213,Drainage,
-DR1937,DR1764,"SPEL Tankstor 400 units capacity 40,600 litres bed & surround in ground - provisional ",item,Drainage,General Drainage,54899.41,Drainage!O2214,54899.41,Drainage!A2214,Drainage,
-DR1938,DR1766,Attenuation pond; pond liner; sub-base and sand bed; exc & C/A; area 720m2 x 2mdp,item,Drainage,General Drainage,88930.05,Drainage!O2218,88930.05,Drainage!A2218,Drainage,
 DR1939,DR1767,"Break into existing live manhole and make new connection including adapting benching, branches and channel internally; maintain flow; depth to invert:; depth to invert: not exceeding 1 m",m,Drainage,Manholes,1475.86,Drainage!O2221,1475.86,Drainage!A2221,Drainage,"manhole,invert,depth"
 DR1940,DR1768,"Break into existing live manhole and make new connection including adapting benching, branches and channel internally; maintain flow; depth to invert:; depth to invert: 1 - 1.25 m",m,Drainage,Manholes,1480.58,Drainage!O2222,1480.58,Drainage!A2222,Drainage,"manhole,invert,depth"
 DR1941,DR1769,"Break into existing live manhole and make new connection including adapting benching, branches and channel internally; maintain flow; depth to invert:; depth to invert: 1.25 - 1.5 m",m,Drainage,Manholes,1485.3,Drainage!O2223,1485.3,Drainage!A2223,Drainage,"manhole,invert,depth"
@@ -1954,7 +1726,6 @@ DR1952,DR1780,"Break into existing live manhole and make new connection includin
 DR1953,DR1781,"Break into existing live manhole and make new connection including adapting benching, branches and channel internally; maintain flow; depth to invert:; depth to invert: 4.25 - 4.5 m",m,Drainage,Manholes,1549.08,Drainage!O2235,1549.08,Drainage!A2235,Drainage,"manhole,invert,depth"
 DR1954,DR1782,"Break into existing live manhole and make new connection including adapting benching, branches and channel internally; maintain flow; depth to invert:; depth to invert: 4.5 - 4.75 m",m,Drainage,Manholes,1553.8,Drainage!O2236,1553.8,Drainage!A2236,Drainage,"manhole,invert,depth"
 DR1955,DR1783,"Break into existing live manhole and make new connection including adapting benching, branches and channel internally; maintain flow; depth to invert:; depth to invert: 4.75 - 5 m",m,Drainage,Manholes,1558.52,Drainage!O2237,1558.52,Drainage!A2237,Drainage,"manhole,invert,depth"
-DR1956,DR1784,EO for over pumping during connection,item,Drainage,General Drainage,2478,Drainage!O2238,2478,Drainage!A2238,Drainage,
 DR1957,DR1785,EO manhole item for constructing the new manhole over existing live sewer; including maintaining the flow (over pumping); depth to invert:; depth to invert: not exceeding 1 m,m,Drainage,Manholes,715.39,Drainage!O2240,715.39,Drainage!A2240,Drainage,"manhole,sewer,invert,depth"
 DR1958,DR1786,EO manhole item for constructing the new manhole over existing live sewer; including maintaining the flow (over pumping); depth to invert:; depth to invert: 1 - 1.25 m,m,Drainage,Manholes,724.24,Drainage!O2241,724.24,Drainage!A2241,Drainage,"manhole,sewer,invert,depth"
 DR1959,DR1787,EO manhole item for constructing the new manhole over existing live sewer; including maintaining the flow (over pumping); depth to invert:; depth to invert: 1.25 - 1.5 m,m,Drainage,Manholes,733.09,Drainage!O2242,733.09,Drainage!A2242,Drainage,"manhole,sewer,invert,depth"
@@ -1978,13 +1749,11 @@ DR1976,DR1804,EO manhole item for constructing the new manhole over existing liv
 DR1977,DR1805,EO manhole item for constructing the new manhole over existing live sewer; including maintaining the flow (over pumping); depth to invert:; depth to invert: 5.75 - 6 m,m,Drainage,Manholes,892.39,Drainage!O2260,892.39,Drainage!A2260,Drainage,"manhole,sewer,invert,depth"
 DR1978,DR1806,EO manhole item for constructing the new manhole over existing live sewer; including maintaining the flow (over pumping); depth to invert:; depth to invert: 6 - 6.25 m,m,Drainage,Manholes,901.24,Drainage!O2261,901.24,Drainage!A2261,Drainage,"manhole,sewer,invert,depth"
 DR1979,DR1807,EO manhole item for constructing the new manhole over existing live sewer; including maintaining the flow (over pumping); depth to invert:; depth to invert: 6.25 - 6.5 m,m,Drainage,Manholes,910.09,Drainage!O2262,910.09,Drainage!A2262,Drainage,"manhole,sewer,invert,depth"
-DR1980,DR1808,EO for over pumping during connection,item,Drainage,General Drainage,2478,Drainage!O2263,2478,Drainage!A2263,Drainage,
 DR1981,DR1809,Break into existing live sewer and make new branch saddle connection; maintain flow; ; 100 junction,m,Drainage,General Drainage,122.79,Drainage!O2265,122.79,Drainage!A2265,Drainage,sewer
 DR1982,DR1796,Break into existing live sewer and make new branch saddle connection; maintain flow; ; 150 junction,m,Drainage,General Drainage,487.96,Drainage!O2266,487.96,Drainage!A2266,Drainage,sewer
 DR1983,DR1797,Break into existing live sewer and make new branch saddle connection; maintain flow; ; 225 junction,m,Drainage,General Drainage,263.85,Drainage!O2267,263.85,Drainage!A2267,Drainage,sewer
 DR1984,DR1798,Break into existing live sewer and make new branch saddle connection; maintain flow; ; 300 junction,m,Drainage,General Drainage,785.06,Drainage!O2268,785.06,Drainage!A2268,Drainage,sewer
 DR1985,DR1799,Break into existing live sewer and make new branch saddle connection; maintain flow; ; 375 junction,m,Drainage,General Drainage,873.75,Drainage!O2269,873.75,Drainage!A2269,Drainage,sewer
-DR1986,DR1800,EO for over pumping during connection,item,Drainage,General Drainage,1888,Drainage!O2270,1888,Drainage!A2270,Drainage,
 DR1987,DR1801,Break into existing live 1800 dia culvert and make new branch / saddle connection; form new access shaft; maintain flow; depth to invert:; depth to invert: 1.75 - 2 m,m,Drainage,General Drainage,2801.23,Drainage!O2272,2801.23,Drainage!A2272,Drainage,"invert,depth"
 DR1988,DR1802,Take off existing cover & frame; adjust height of raising courses to suit and replace C&F; reduce height,m,Drainage,General Drainage,137.01,Drainage!O2275,137.01,Drainage!A2275,Drainage,
 DR1989,DR1803,Take off existing cover & frame; adjust height of raising courses to suit and replace C&F; depth to invert: not exceeding 75 mm,mm,Drainage,General Drainage,142.91,Drainage!O2276,142.91,Drainage!A2276,Drainage,"invert,depth"
@@ -2052,7 +1821,3 @@ DR2050,DR1863,"Temporary fencing, Heras, barriers, sleepers, road plates, etc; C
 DR2051,DR1864,"Temporary fencing, Heras, barriers, sleepers, road plates, etc; Test drains",m,Drainage,General Drainage,1.53,Drainage!O2357,1.53,Drainage!A2357,Drainage,
 DR2052,DR1865,"Temporary fencing, Heras, barriers, sleepers, road plates, etc; Re-test drains on completion",m,Drainage,General Drainage,1.53,Drainage!O2358,1.53,Drainage!A2358,Drainage,
 DR2053,DR1866,"Temporary fencing, Heras, barriers, sleepers, road plates, etc; CCTV survey",m,Drainage,General Drainage,3.55,Drainage!O2359,3.55,Drainage!A2359,Drainage,
-DR2054,DR1867,Provide set of manhole keys (SW),item,Drainage,Manholes,49.21,Drainage!O2361,49.21,Drainage!A2361,Drainage,manhole
-DR2055,DR1868,Provide set of manhole keys (FW),item,Drainage,Manholes,49.21,Drainage!O2362,49.21,Drainage!A2362,Drainage,manhole
-DR2056,DR1869,Provide drainage O&M manual,item,Drainage,General Drainage,295,Drainage!O2363,295,Drainage!A2363,Drainage,drainage
-DR2057,DR1870,Temporary manhole cover,item,Drainage,Manholes,49.82,Drainage!O2364,49.82,Drainage!A2364,Drainage,manhole

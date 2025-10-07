@@ -1,7 +1,4 @@
 id,code,description,unit,category,subcategory,rate,cellRate_reference,cellRate_rate,excelCellReference,sourceSheetName,keywords
-GR1,GR1,Excavation quantities based on existing ground level being m OD,item,Groundworks,Preambles,0,Groundworks!G11,0,Groundworks!A11,Groundworks,excavation
-GR2,GR2,No allowance has been made for dealing with contaminated ground,item,Groundworks,Preambles,0,Groundworks!G12,0,Groundworks!A12,Groundworks,
-GR3,GR3,Tender based on drawings:,item,Groundworks,Preambles,0,Groundworks!G13,0,Groundworks!A13,Groundworks,
 GR4,GR4,Demolish existing timber & plaster partitions/floors/roofs (Reduce elements to solid m3),m3,Groundworks,Demolition,158.66,Groundworks!F16,158.66,Groundworks!A16,Groundworks,
 GR5,GR5,Demolish existing brickwork/blockwork/plaster (Reduce walls to solid m3),m3,Groundworks,Demolition,120.3,Groundworks!F17,120.3,Groundworks!A17,Groundworks,
 GR6,GR6,"Demolish existing RC structure inc breakup, load & C/A (reduce to solid m3)",m3,Groundworks,Demolition,209.55,Groundworks!F18,209.55,Groundworks!A18,Groundworks,
@@ -25,7 +22,6 @@ GR23,GR23,Saw cut concrete; not exceeding 400mm,m,Groundworks,Demolition,35.87,G
 GR24,GR24,Saw cut concrete; not exceeding 500mm,m,Groundworks,Demolition,44.84,Groundworks!F36,44.84,Groundworks!A36,Groundworks,500mm
 GR25,GR25,Remove any existing redundant drains and services; prov 1.5m dp,m,Groundworks,Demolition,108.48,Groundworks!F37,108.48,Groundworks!A37,Groundworks,5m
 GR26,GR26,Breakout and remove extg manhole; prov 1.5m dp,nr,Groundworks,Demolition,338.64,Groundworks!F38,338.64,Groundworks!A38,Groundworks,5m
-GR27,GR27,Divert any live drains or services that encrouch on position of new building and working space around.,item,Groundworks,Demolition,0,Groundworks!F39,0,Groundworks!A39,Groundworks,
 GR28,GR28,Demolish existing sub station,nr,Groundworks,Demolition,5906.56,Groundworks!F40,5906.56,Groundworks!A40,Groundworks,
 GR29,GR29,Electric diversion,nr,Groundworks,Demolition,2360,Groundworks!F41,2360,Groundworks!A41,Groundworks,
 GR30,GR30,Cat scan site,nr,Groundworks,Demolition,1180,Groundworks!F42,1180,Groundworks!A42,Groundworks,
@@ -60,8 +56,6 @@ GR58,GR58,Double gate; vehicle access,nr,Groundworks,Enabling Works,1422.59,Grou
 GR59,GR59,EO for Pedestrian gate,nr,Groundworks,Enabling Works,381.04,Groundworks!F74,381.04,Groundworks!A74,Groundworks,
 GR60,GR60,Temporary gates during piling; Double gate; vehicle access,nr,Groundworks,Enabling Works,1422.59,Groundworks!F75,1422.59,Groundworks!A75,Groundworks,
 GR61,GR61,Heras Fencing (tree protection),m,Groundworks,Enabling Works,25.38,Groundworks!F76,25.38,Groundworks!A76,Groundworks,
-GR62,GR62,Isolate & remove live services,item,Groundworks,Enabling Works,2031.96,Groundworks!F77,2031.96,Groundworks!A77,Groundworks,
-GR63,GR63,"Survey for services, etc",item,Groundworks,Enabling Works,2360,Groundworks!F78,2360,Groundworks!A78,Groundworks,
 GR64,GR64,Trial pit to locate services,nr,Groundworks,Enabling Works,78.93,Groundworks!F79,78.93,Groundworks!A79,Groundworks,
 GR65,GR65,Level & compact ground,m2,Groundworks,Piling & Piling Attendance,0.53,Groundworks!F82,0.53,Groundworks!A82,Groundworks,compact
 GR66,GR66,CBR test to establish piling mat capacity,nr,Groundworks,Piling & Piling Attendance,383.5,Groundworks!F83,383.5,Groundworks!A83,Groundworks,
@@ -79,7 +73,6 @@ GR77,GR77,Inert disposal rate fluctuating based on prime cost of:,m3,Groundworks
 GR78,GR78,Dispose of excavation arisings off site; clean inert material,m3,Groundworks,Piling & Piling Attendance,44.25,Groundworks!F95,44.25,Groundworks!A95,Groundworks,excavation
 GR79,GR79,Dispose of hardcore (from piling mat) off site,m3,Groundworks,Piling & Piling Attendance,19.67,Groundworks!F96,19.67,Groundworks!A96,Groundworks,hardcore
 GR80,GR80,Haul & deposit on site; max 50m,m3,Groundworks,Piling & Piling Attendance,5.06,Groundworks!F97,5.06,Groundworks!A97,Groundworks,50m
-GR81,GR81,Piling mat design,item,Groundworks,Piling & Piling Attendance,1180,Groundworks!F98,1180,Groundworks!A98,Groundworks,
 GR82,GR82,Filling with free issue materials from site stockpile; load & haul max 50m,m3,Groundworks,Piling & Piling Attendance,9.93,Groundworks!F99,9.93,Groundworks!A99,Groundworks,50m|filling
 GR83,GR83,Imported fill; hardcore / crushed concrete in piling mat,m3,Groundworks,Piling & Piling Attendance,27.78,Groundworks!F100,27.78,Groundworks!A100,Groundworks,hardcore
 GR84,GR84,Imported fill; 6F2 in piling mat,m3,Groundworks,Piling & Piling Attendance,36.05,Groundworks!F101,36.05,Groundworks!A101,Groundworks,
@@ -101,11 +94,8 @@ GR99,GR99,Tensar Geogrid TX150,m2,Groundworks,Piling & Piling Attendance,3.05,Gr
 GR100,GR100,E'grid 3030L geotextile,m2,Groundworks,Piling & Piling Attendance,3.96,Groundworks!F117,3.96,Groundworks!A117,Groundworks,
 GR101,GR101,Level & compact piling mat,m2,Groundworks,Piling & Piling Attendance,0.53,Groundworks!F118,0.53,Groundworks!A118,Groundworks,compact
 GR102,GR102,Piling mat maintenance,m2,Groundworks,Piling & Piling Attendance,0.62,Groundworks!F119,0.62,Groundworks!A119,Groundworks,
-GR103,GR103,"Design, mobilise, install concrete bearing piles, test & de-mobilise",item,Groundworks,Piling & Piling Attendance,989288.4,Groundworks!F120,989288.4,Groundworks!A120,Groundworks,
-GR104,GR104,"Design, mobilise, install concrete contig piles, test & de-mobilise",item,Groundworks,Piling & Piling Attendance,266880.6,Groundworks!F121,266880.6,Groundworks!A121,Groundworks,
 GR105,GR105,Mobilise,nr,Groundworks,300mm dia piles; by MBL Piling,1180,Groundworks!F123,1180,Groundworks!A123,Groundworks,
 GR106,GR106,Demobilise,nr,Groundworks,300mm dia piles; by MBL Piling,1180,Groundworks!F124,1180,Groundworks!A124,Groundworks,
-GR107,GR107,Design,item,Groundworks,300mm dia piles; by MBL Piling,1180,Groundworks!F125,1180,Groundworks!A125,Groundworks,
 GR108,GR108,Set-up at pile position,nr,Groundworks,300mm dia piles; by MBL Piling,41.37,Groundworks!F126,41.37,Groundworks!A126,Groundworks,
 GR109,GR109,Auger 300mm diameter pile,m,Groundworks,300mm dia piles; by MBL Piling,9.93,Groundworks!F127,9.93,Groundworks!A127,Groundworks,300mm
 GR110,GR110,Concrete to pile,m,Groundworks,300mm dia piles; by MBL Piling,13.41,Groundworks!F128,13.41,Groundworks!A128,Groundworks,
@@ -137,25 +127,15 @@ GR135,GR135,"2000mm dia auger pile; empty bore and granular fill (bore, fill, mo
 GR136,GR136,"EO piles for supply and place steel plunge column including plumb, level & line and hold in position until conc cured; allow 305 x 305 x 198kg x 16m lg",nr,Groundworks,300mm dia piles; by MBL Piling,7476.48,Groundworks!F154,7476.48,Groundworks!A154,Groundworks,198kg|16m
 GR137,GR137,EO 600 dia piles for boring and filling piles with shingle,m,Groundworks,300mm dia piles; by MBL Piling,21.69,Groundworks!F155,21.69,Groundworks!A155,Groundworks,filling
 GR138,GR138,EO 900 dia piles for boring and filling piles with shingle,m,Groundworks,300mm dia piles; by MBL Piling,48.8,Groundworks!F156,48.8,Groundworks!A156,Groundworks,filling
-GR139,GR139,Design,item,Groundworks,300mm dia piles; by MBL Piling,2950,Groundworks!F157,2950,Groundworks!A157,Groundworks,
-GR140,GR140,Mobilisation & demobilisation,item,Groundworks,300mm dia piles; by MBL Piling,11564,Groundworks!F158,11564,Groundworks!A158,Groundworks,
 GR141,GR141,Rig delays; per hour,hour,Groundworks,300mm dia piles; by MBL Piling,615.25,Groundworks!F159,615.25,Groundworks!A159,Groundworks,
-GR142,GR142,Testing; static load test,item,Groundworks,300mm dia piles; by MBL Piling,3540,Groundworks!F160,3540,Groundworks!A160,Groundworks,
-GR143,GR143,Integrity testing,item,Groundworks,300mm dia piles; by MBL Piling,1180,Groundworks!F161,1180,Groundworks!A161,Groundworks,
 GR144,GR144,Piles for crane base,nr,Groundworks,300mm dia piles; by MBL Piling,1770,Groundworks!F162,1770,Groundworks!A162,Groundworks,
 GR145,GR145,EO for pile integrity tests,nr,Groundworks,300mm dia piles; by MBL Piling,118,Groundworks!F163,118,Groundworks!A163,Groundworks,
 GR146,GR146,EO for pvc casings; 1m lg,nr,Groundworks,300mm dia piles; by MBL Piling,88.91,Groundworks!F164,88.91,Groundworks!A164,Groundworks,1m
 GR147,GR147,Debonding pile reinforcement,nr,Groundworks,300mm dia piles; by MBL Piling,94.4,Groundworks!F165,94.4,Groundworks!A165,Groundworks,
-GR148,GR148,"Design, mobilise, install steel sheet piles & de-mobilise",item,Groundworks,300mm dia piles; by MBL Piling,288610.3,Groundworks!F166,288610.3,Groundworks!A166,Groundworks,
 GR149,GR149,"600mm dia CFA pile; 18m lg (bore, conc, rebar, test, de-bond, move rig, mod & demob, design)",nr,Groundworks,300mm dia piles; by MBL Piling,1680.69,Groundworks!F167,1680.69,Groundworks!A167,Groundworks,600mm|18m
 GR150,GR150,Piling attendance; excavator & operator,m3,Groundworks,Attendance,3020.8,Groundworks!F169,3020.8,Groundworks!A169,Groundworks,
 GR151,GR151,Piling attendance; excavator & operator,day,Groundworks,Attendance,604.16,Groundworks!F170,604.16,Groundworks!A170,Groundworks,
-GR152,GR152,Piling attendance; dumper & driver,item,Groundworks,Attendance,2124,Groundworks!F172,2124,Groundworks!A172,Groundworks,
 GR153,GR153,Piling attendance; dumper & driver,day,Groundworks,Attendance,424.8,Groundworks!F173,424.8,Groundworks!A173,Groundworks,
-GR154,GR154,Piling attendance; crawler crane and operator,item,Groundworks,Attendance,4141.8,Groundworks!F174,4141.8,Groundworks!A174,Groundworks,
-GR155,GR155,Piling attendance; ride on roller,item,Groundworks,Attendance,619.5,Groundworks!F175,619.5,Groundworks!A175,Groundworks,
-GR156,GR156,Piling attendance; banksman/traffic marshall,item,Groundworks,Attendance,1200.65,Groundworks!F176,1200.65,Groundworks!A176,Groundworks,
-GR157,GR157,Piling attendance; foreman/supervisor,item,Groundworks,Attendance,1770,Groundworks!F177,1770,Groundworks!A177,Groundworks,
 GR158,GR158,Pile probing; 3m spike,nr,Groundworks,Attendance,15.49,Groundworks!F178,15.49,Groundworks!A178,Groundworks,3m
 GR159,GR159,Pile probing; 3m trench for sheet/contiguous/secant piles,m,Groundworks,Attendance,18.81,Groundworks!F179,18.81,Groundworks!A179,Groundworks,3m|trench
 GR160,GR160,Dispose of pile arisings off site; clean inert; provisionally based on ? nr x ? dia x ? depth; loaded by excavator in attendance,m3,Groundworks,Attendance,47.2,Groundworks!F181,47.2,Groundworks!A181,Groundworks,
@@ -333,10 +313,6 @@ GR323,GR323,EO excs for excavation below grd water level (prov),m3,Groundworks,E
 GR324,GR324,EO excs for excavation next to extg services (prov),m,Groundworks,Excavation,11.34,Groundworks!F358,11.34,Groundworks!A358,Groundworks,excavation
 GR325,GR325,EO excs for excavation around extg services crossing trench (prov),nr,Groundworks,Excavation,35.2,Groundworks!F359,35.2,Groundworks!A359,Groundworks,excavation|trench
 GR326,GR326,"B/O conc, excavate & cart away",m3,Groundworks,Excavation,94.57,Groundworks!F360,94.57,Groundworks!A360,Groundworks,
-GR327,GR327,"EO excs for getting arisings out by conveyor belt. (Conveyor hire only, 3phase by M/C)",item,Groundworks,Excavation,1652,Groundworks!F361,1652,Groundworks!A361,Groundworks,
-GR328,GR328,"EO excs for conveyor belt erect, dismantle, delivery, collect, scafolding support, gantry, etc",item,Groundworks,Excavation,4720,Groundworks!F362,4720,Groundworks!A362,Groundworks,
-GR329,GR329,"EO excs for getting arisings out by conveyor belt. (Attendance on conveyor - exc/loader, driver and 2 labs)",item,Groundworks,Excavation,4967.8,Groundworks!F363,4967.8,Groundworks!A363,Groundworks,
-GR330,GR330,"Form openings for conveyor, infill & mg openings. Protect openings & mg",item,Groundworks,Excavation,3020.8,Groundworks!F364,3020.8,Groundworks!A364,Groundworks,
 GR331,GR331,Saw cut concrete; not exceeding 100mm,m,Groundworks,Excavation,11.66,Groundworks!F365,11.66,Groundworks!A365,Groundworks,100mm
 GR332,GR332,Saw cut concrete; not exceeding 200mm,m,Groundworks,Excavation,23.32,Groundworks!F366,23.32,Groundworks!A366,Groundworks,200mm
 GR333,GR333,Saw cut concrete; not exceeding 250mm,m,Groundworks,Excavation,29.15,Groundworks!F367,29.15,Groundworks!A367,Groundworks,250mm
@@ -408,12 +384,8 @@ GR398,GR398,Extract sheet piles (no credit for steel),m2,Groundworks,Temporary W
 GR399,GR399,Weld clutches,m,Groundworks,Temporary Works,35.4,Groundworks!F440,35.4,Groundworks!A440,Groundworks,
 GR400,GR400,Site welding,m,Groundworks,Temporary Works,55.72,Groundworks!F441,55.72,Groundworks!A441,Groundworks,
 GR401,GR401,Profile plate welded to sheet piles at slab junction,m,Groundworks,Temporary Works,129.8,Groundworks!F442,129.8,Groundworks!A442,Groundworks,
-GR402,GR402,Design temporary works,item,Groundworks,Temporary Works,1180,Groundworks!F443,1180,Groundworks!A443,Groundworks,
-GR403,GR403,Design temporary works,item,Groundworks,Temporary Works,5900,Groundworks!F444,5900,Groundworks!A444,Groundworks,
-GR404,GR404,"Temporary works; hydraulic props / steel props & walers to secant piles, [as Temp Wks tab]",item,Groundworks,Temporary Works,532768.5,Groundworks!F445,532768.5,Groundworks!A445,Groundworks,
 GR405,GR405,Temporary works; structural steel propping,tonnes,Groundworks,Temporary Works,5171.38,Groundworks!F446,5171.38,Groundworks!A446,Groundworks,
 GR406,GR406,Beam nodes; special junctions,nr,Groundworks,Temporary Works,4720,Groundworks!F447,4720,Groundworks!A447,Groundworks,
-GR407,GR407,Welder,item,Groundworks,Temporary Works,147.5,Groundworks!F448,147.5,Groundworks!A448,Groundworks,
 GR408,GR408,Temporary works; structural steel propping (lower lvl),tonnes,Groundworks,Temporary Works,4858.06,Groundworks!F449,4858.06,Groundworks!A449,Groundworks,
 GR409,GR409,Structural steel gantry platform,tonnes,Groundworks,Temporary Works,3973.06,Groundworks!F450,3973.06,Groundworks!A450,Groundworks,
 GR410,GR410,Temporary work; flying props; 254 x 254 x 107kg UC,m,Groundworks,Temporary Works,529.28,Groundworks!F451,529.28,Groundworks!A451,Groundworks,107kg
@@ -428,7 +400,6 @@ GR418,GR418,Temporary works; blisters to capping beam to raise prop above GF sla
 GR419,GR419,Supply Only plunge columns for casting into piles by others,tonnes,Groundworks,Temporary Works,1298,Groundworks!F460,1298,Groundworks!A460,Groundworks,
 GR420,GR420,Dismantle & remove structural steel propping,tonnes,Groundworks,Temporary Works,826,Groundworks!F461,826,Groundworks!A461,Groundworks,
 GR421,GR421,Dismantle & remove structural steel propping; 107kg/m,m,Groundworks,Temporary Works,97.22,Groundworks!F462,97.22,Groundworks!A462,Groundworks,107kg
-GR422,GR422,Thrust Blocks (xnr; 2mx2mx1.5m) x =,item,Groundworks,Temporary Works,0,Groundworks!F463,0,Groundworks!A463,Groundworks,5m
 GR423,GR423,Excavate pits; in basement,m3,Groundworks,Temporary Works,19.35,Groundworks!F464,19.35,Groundworks!A464,Groundworks,
 GR424,GR424,Dispose of excavation arisings off site; clean inert material,m3,Groundworks,Temporary Works,41.65,Groundworks!F465,41.65,Groundworks!A465,Groundworks,excavation
 GR425,GR425,Level & compact bottom of excavation,m2,Groundworks,Temporary Works,0.52,Groundworks!F466,0.52,Groundworks!A466,Groundworks,excavation|compact
@@ -439,8 +410,6 @@ GR429,GR429,Fwk; Foundations; ex 1m,m2,Groundworks,Temporary Works,34.19,Groundw
 GR430,GR430,Trowel finish,m2,Groundworks,Temporary Works,3.64,Groundworks!F471,3.64,Groundworks!A471,Groundworks,
 GR431,GR431,Reinforced continuity joint with Conobar or similar; to 300 thick slab; H16 bars T&B,m,Groundworks,Temporary Works,48,Groundworks!F472,48,Groundworks!A472,Groundworks,
 GR432,GR432,Form pocket;,nr,Groundworks,Temporary Works,58.84,Groundworks!F473,58.84,Groundworks!A473,Groundworks,
-GR433,GR433,Reinforcement; Various sizes 10-40mm dia @ 100kg/m3,item,Groundworks,Temporary Works,1769.62,Groundworks!F474,1769.62,Groundworks!A474,Groundworks,40mm|100kg
-GR434,GR434,Thrust Blocks (xnr; 2mx2mx1.5m) x =,item,Groundworks,Temporary Works,0,Groundworks!F475,0,Groundworks!A475,Groundworks,5m
 GR435,GR435,Excavate pits; in basement,m3,Groundworks,Temporary Works,19.35,Groundworks!F476,19.35,Groundworks!A476,Groundworks,
 GR436,GR436,Dispose of excavation arisings off site; clean inert material,m3,Groundworks,Temporary Works,41.65,Groundworks!F477,41.65,Groundworks!A477,Groundworks,excavation
 GR437,GR437,Level & compact bottom of excavation,m2,Groundworks,Temporary Works,0.52,Groundworks!F478,0.52,Groundworks!A478,Groundworks,excavation|compact
@@ -451,11 +420,6 @@ GR441,GR441,Fwk; Foundations; ex 1m,m2,Groundworks,Temporary Works,34.19,Groundw
 GR442,GR442,Trowel finish,m2,Groundworks,Temporary Works,3.64,Groundworks!F483,3.64,Groundworks!A483,Groundworks,
 GR443,GR443,Reinforced continuity joint with Conobar or similar; to 300 thick slab; H16 bars T&B,m,Groundworks,Temporary Works,48,Groundworks!F484,48,Groundworks!A484,Groundworks,
 GR444,GR444,Form pocket;,nr,Groundworks,Temporary Works,58.84,Groundworks!F485,58.84,Groundworks!A485,Groundworks,
-GR445,GR445,Reinforcement; Various sizes 10-40mm dia @ 100kg/m3,item,Groundworks,Temporary Works,1752.37,Groundworks!F486,1752.37,Groundworks!A486,Groundworks,40mm|100kg
-GR446,GR446,Movement monitoring; Independant survey & reporting,item,Groundworks,Temporary Works,472,Groundworks!F487,472,Groundworks!A487,Groundworks,
-GR447,GR447,Movement monitoring (set up & dismantle),item,Groundworks,Temporary Works,424.8,Groundworks!F488,424.8,Groundworks!A488,Groundworks,
-GR448,GR448,Remove temp wks to top down construction along GL A; 70m x 7m,item,Groundworks,Temporary Works,16048,Groundworks!F489,16048,Groundworks!A489,Groundworks,70m|7m
-GR449,GR449,Temporary works; propping sheet piling; provisional sum,item,Groundworks,Temporary Works,23951.25,Groundworks!F490,23951.25,Groundworks!A490,Groundworks,
 GR450,GR450,Haul & deposit on site; max 50m,m3,Groundworks,Disposal,4.98,Groundworks!F493,4.98,Groundworks!A493,Groundworks,50m
 GR451,GR451,"Haul & deposit on site; by hand/wheelbarrows, inc load by hand; max 50m",m3,Groundworks,Disposal,70.41,Groundworks!F494,70.41,Groundworks!A494,Groundworks,50m
 GR452,GR452,Haul & deposit on site; max 100m,m3,Groundworks,Disposal,4.48,Groundworks!F495,4.48,Groundworks!A495,Groundworks,100m
@@ -477,7 +441,6 @@ GR465,GR465,Dispose of excavation arisings off site; hazardous material (tip),m3
 GR466,GR466,EO clean inert disposal for hazardous (tip),m3,Groundworks,Disposal,305.41,Groundworks!F515,305.41,Groundworks!A515,Groundworks,disposal
 GR467,GR467,Dispose of excavation arisings off site; hazardous material (asbestos),m3,Groundworks,Disposal,485.88,Groundworks!F517,485.88,Groundworks!A517,Groundworks,excavation
 GR468,GR468,EO clean inert disposal for hazardous (asbestos),m3,Groundworks,Disposal,444.24,Groundworks!F518,444.24,Groundworks!A518,Groundworks,disposal
-GR469,GR469,"Chemical injection remediation; Regenesis; 2,079m2",item,Groundworks,Remediation,483974.05,Groundworks!F520,483974.05,Groundworks!A520,Groundworks,
 GR470,GR470,"Excavate, dispose and imported fill",m3,Groundworks,Remediation,0,Groundworks!F521,0,Groundworks!A521,Groundworks,
 GR471,GR471,"Excavate, mix chemicals, rotavate, fill & compact",m3,Groundworks,Remediation,0,Groundworks!F522,0,Groundworks!A522,Groundworks,compact
 GR472,GR472,Dispose of arisings off site using roll on/roll off skips,m3,Groundworks,Remediation,153.4,Groundworks!F523,153.4,Groundworks!A523,Groundworks,
@@ -487,21 +450,8 @@ GR475,GR475,Dispose of vegetable material (site strip) off site,m3,Groundworks,R
 GR476,GR476,Dispose of topsoil off site,m3,Groundworks,Remediation,41.65,Groundworks!F527,41.65,Groundworks!A527,Groundworks,topsoil
 GR477,GR477,Dispose of broken concrete off site,m3,Groundworks,Remediation,22.13,Groundworks!F528,22.13,Groundworks!A528,Groundworks,
 GR478,GR478,Dispose of broken tarmac off site,m3,Groundworks,Remediation,23.6,Groundworks!F529,23.6,Groundworks!A529,Groundworks,
-GR479,GR479,Dispose surface water,item,Groundworks,Dewatering,0,Groundworks!H532,0,Groundworks!A532,Groundworks,
-GR480,GR480,Dispose ground water,item,Groundworks,Dewatering,1778.44,Groundworks!F533,1778.44,Groundworks!A533,Groundworks,
-GR481,GR481,Dispose ground water 2x,item,Groundworks,Dewatering,3448.22,Groundworks!F534,3448.22,Groundworks!A534,Groundworks,
-GR482,GR482,Dispose ground water 3x,item,Groundworks,Dewatering,6142.56,Groundworks!F535,6142.56,Groundworks!A535,Groundworks,
-GR483,GR483,Dispose ground water 4x,item,Groundworks,Dewatering,7544.13,Groundworks!F536,7544.13,Groundworks!A536,Groundworks,
-GR484,GR484,Dispose ground water 5x,item,Groundworks,Dewatering,9430.17,Groundworks!F537,9430.17,Groundworks!A537,Groundworks,
-GR485,GR485,Dispose ground water 6x,item,Groundworks,Dewatering,12362.47,Groundworks!F538,12362.47,Groundworks!A538,Groundworks,
-GR486,GR486,GW pump and settlement tank; 10hrs/day working,item,Groundworks,Dewatering,1088.22,Groundworks!F539,1088.22,Groundworks!A539,Groundworks,
-GR487,GR487,GW pump and settlement tank; 24/7 working,item,Groundworks,Dewatering,1718.87,Groundworks!F540,1718.87,Groundworks!A540,Groundworks,
 GR488,GR488,Silt netting and silt mats,m,Groundworks,Dewatering,48.51,Groundworks!F541,48.51,Groundworks!A541,Groundworks,
-GR489,GR489,Storage & settlement tank,item,Groundworks,Dewatering,94.4,Groundworks!F542,94.4,Groundworks!A542,Groundworks,
-GR490,GR490,Silt buster water treatment,item,Groundworks,Dewatering,496.26,Groundworks!F543,496.26,Groundworks!A543,Groundworks,
-GR491,GR491,Discharge licence; pumping to LA sewers,item,Groundworks,Dewatering,3540,Groundworks!F544,3540,Groundworks!A544,Groundworks,
 GR492,GR492,Auger well point bore; 12m deep; insert suction pipe & fill with shingle,nr,Groundworks,Dewatering,450.82,Groundworks!F545,450.82,Groundworks!A545,Groundworks,12m
-GR493,GR493,Dewatering well points; mob/demob/design/commission,item,Groundworks,Dewatering,5310,Groundworks!F546,5310,Groundworks!A546,Groundworks,
 GR494,GR494,Dewatering well points; install (per 10m deep well point),nr,Groundworks,Dewatering,1834.9,Groundworks!F547,1834.9,Groundworks!A547,Groundworks,10m
 GR495,GR495,Dewatering well points; install (per 15m deep well point),nr,Groundworks,Dewatering,1947,Groundworks!F548,1947,Groundworks!A548,Groundworks,15m
 GR496,GR496,Dewatering well points; hire; (per 10m well point/wk),week,Groundworks,Dewatering,177,Groundworks!F549,177,Groundworks!A549,Groundworks,10m
@@ -793,7 +743,6 @@ GR774,GR774,Twinseal compound 5 x 50 fillet; around top of piles; secured by ter
 GR775,GR775,Hydrostop WSM 15mm bead; seal at junctions,m,Groundworks,Waterproofing Pre-Applied Membranes,12.69,Groundworks!F854,12.69,Groundworks!A854,Groundworks,15mm
 GR776,GR776,Premcrete Hydroseal FX; horizontal; around top of piles,m,Groundworks,Waterproofing Pre-Applied Membranes,15.97,Groundworks!F855,15.97,Groundworks!A855,Groundworks,
 GR775,GR775,Premcrete Twinseal 50 x 50mm fillet seal at junctions,m,Groundworks,Waterproofing Pre-Applied Membranes,14.77,Groundworks!F856,14.77,Groundworks!A856,Groundworks,50mm
-GR776,GR776,"Detailing to combiseal; angles, fillets, junctions, intersections, etc",item,Groundworks,Waterproofing Pre-Applied Membranes,0.5,Groundworks!F857,0.5,Groundworks!A857,Groundworks,
 GR777,GR777,Proofex Engage; horizontal,m2,Groundworks,Waterproofing Pre-Applied Membranes,25.65,Groundworks!F858,25.65,Groundworks!A858,Groundworks,
 GR776,GR776,Proofex Engage; vertical,m2,Groundworks,Waterproofing Pre-Applied Membranes,30.46,Groundworks!F859,30.46,Groundworks!A859,Groundworks,
 GR777,GR777,Proofex Engage; fillet to penetrations,m,Groundworks,Waterproofing Pre-Applied Membranes,20.45,Groundworks!F860,20.45,Groundworks!A860,Groundworks,
@@ -847,7 +796,6 @@ GR824,GR824,Delta channel,m,Groundworks,Waterproofing Cavity Drains,19.15,Ground
 GR825,GR825,Delta channel; corners,nr,Groundworks,Waterproofing Cavity Drains,24.08,Groundworks!F910,24.08,Groundworks!A910,Groundworks,
 GR826,GR826,Delta channel; outlets,nr,Groundworks,Waterproofing Cavity Drains,19.24,Groundworks!F911,19.24,Groundworks!A911,Groundworks,
 GR827,GR827,Delta dual V3 sump pump chamber; S&F; M&E by others,nr,Groundworks,Waterproofing Cavity Drains,1931.67,Groundworks!F912,1931.67,Groundworks!A912,Groundworks,
-GR828,GR828,Rascor waterproofing (as Rascor quote + fix only grout tubes),item,Groundworks,Waterproofing Injection repair system (Rascor),0,Groundworks!G914,0,Groundworks!A914,Groundworks,
 GR829,GR829,Re-injectable grout tubes; MBL fix only free issue,m,Groundworks,Waterproofing Injection repair system (Rascor),7.75,Groundworks!F915,7.75,Groundworks!A915,Groundworks,
 GR830,GR830,Re-injectable grout tubes; Specialist supply and inject; MBL fix in place (Rascor),m,Groundworks,Waterproofing Injection repair system (Rascor),21.91,Groundworks!F916,21.91,Groundworks!A916,Groundworks,
 GR831,GR831,Rascor injection joint system /m2 slab area,m2,Groundworks,Waterproofing Injection repair system (Rascor),6.83,Groundworks!F917,6.83,Groundworks!A917,Groundworks,
@@ -877,14 +825,12 @@ GR854,GR854,Gas membrane; Monarflex RAC; horizontal,m2,Groundworks,Gas Barriers 
 GR855,GR855,Gas membrane; Monarflex RAC; vertical,m2,Groundworks,Gas Barriers Gas Membranes,12.54,Groundworks!F943,12.54,Groundworks!A943,Groundworks,
 GR856,GR856,Premcrete Combiseal; horizontal,m2,Groundworks,Gas Barriers Gas Membranes,30.94,Groundworks!F944,30.94,Groundworks!A944,Groundworks,
 GR857,GR857,Premcrete Combiseal; vertical,m2,Groundworks,Gas Barriers Gas Membranes,35.75,Groundworks!F945,35.75,Groundworks!A945,Groundworks,
-GR858,GR858,"Detailing to combiseal; angles, fillets, junctions, intersections, etc",item,Groundworks,Gas Barriers Gas Membranes,0.5,Groundworks!F946,0.5,Groundworks!A946,Groundworks,
 GR859,GR859,Premcrete Hydroprufe 6000 flexi; horizontal,m2,Groundworks,Gas Barriers Gas Membranes,13.06,Groundworks!F947,13.06,Groundworks!A947,Groundworks,
 GR860,GR860,Premcrete Hydroprufe 6000 flexi; vertical,m2,Groundworks,Gas Barriers Gas Membranes,14.98,Groundworks!F948,14.98,Groundworks!A948,Groundworks,
 GR861,GR861,Premcrete Hydrostop BR; seal at junctions,m,Groundworks,Gas Barriers Gas Membranes,11.28,Groundworks!F949,11.28,Groundworks!A949,Groundworks,
 GR862,GR862,Premcrete Hydroprufe 9000; horizontal,m2,Groundworks,Gas Barriers Gas Membranes,7.98,Groundworks!F950,7.98,Groundworks!A950,Groundworks,
 GR863,GR863,Premcrete Hydroprufe 9000; vertical,m2,Groundworks,Gas Barriers Gas Membranes,9.91,Groundworks!F951,9.91,Groundworks!A951,Groundworks,
 GR864,GR864,Hydrophillic waterstop,m,Groundworks,Gas Barriers Gas Membranes,12.51,Groundworks!F952,12.51,Groundworks!A952,Groundworks,
-GR865,GR865,"EO gas barriers for dressings, penetrations, joints & corners (add 50%)",item,Groundworks,Gas Barriers Gas Membranes,0.5,Groundworks!F953,0.5,Groundworks!A953,Groundworks,
 GR866,GR866,Protection board; Servipak 3mm; vertical,m2,Groundworks,Gas Barriers Gas Membranes,17.42,Groundworks!F954,17.42,Groundworks!A954,Groundworks,3mm
 GR867,GR867,Protection board; Servipak 6mm; horizontal,m2,Groundworks,Gas Barriers Gas Membranes,18.74,Groundworks!F955,18.74,Groundworks!A955,Groundworks,6mm
 GR868,GR868,Protection board; Servipak 6mm; vertical,m2,Groundworks,Gas Barriers Gas Membranes,20.14,Groundworks!F956,20.14,Groundworks!A956,Groundworks,6mm

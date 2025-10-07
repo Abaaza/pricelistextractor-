@@ -78,8 +78,6 @@ EW76,EW76,EO clean inert C/A for non-haz,m3,External Works,Groundworks,14.71,Ext
 EW77,EW77,Dispose of excavation arisings off site; hazardous material (fluctuating),m3,External Works,Groundworks,220.59,ExternalWorks!E91,220.59,ExternalWorks!A91,External Works,
 EW78,EW78,EO clean inert disposal for hazardous,m3,External Works,Groundworks,176.47,ExternalWorks!E92,176.47,ExternalWorks!A92,External Works,
 EW79,EW79,Dispose of type 1 crushed concrete (from piling mat) off site,m3,External Works,Groundworks,17.65,ExternalWorks!E93,17.65,ExternalWorks!A93,External Works,concrete
-EW80,EW80,Dispose surface water,item,External Works,Groundworks,0,,0,ExternalWorks!A94,External Works,
-EW81,EW81,Dispose ground water,item,External Works,Groundworks,1086.96,ExternalWorks!E95,1086.96,ExternalWorks!A95,External Works,
 EW82,EW82,Filling; with SEM,m3,External Works,Groundworks,5.63,ExternalWorks!E96,5.63,ExternalWorks!A96,External Works,
 EW83,EW83,Filling with free issue materials from site stockpile; load & haul max 50m,m3,External Works,Groundworks,9.93,ExternalWorks!E97,9.93,ExternalWorks!A97,External Works,50m
 EW84,EW84,Imported fill; subsoil,m3,External Works,Groundworks,32.1,ExternalWorks!E98,32.1,ExternalWorks!A98,External Works,
@@ -234,7 +232,6 @@ EW232,EW229,Upstands; 250-500,m,External Works,Formwork; Basic Finish,28.42,Exte
 EW233,EW230,Upstands; 250-500; curved,m,External Works,Formwork; Basic Finish,56.83,ExternalWorks!E273,56.83,ExternalWorks!A273,External Works,
 EW234,EW231,Upstands; 500-1m,m,External Works,Formwork; Basic Finish,43.22,ExternalWorks!E274,43.22,ExternalWorks!A274,External Works,1m
 EW235,EW232,Upstands; 500-1m; curved,m,External Works,Formwork; Basic Finish,86.45,ExternalWorks!E275,86.45,ExternalWorks!A275,External Works,1m
-EW236,EW233,Various sizes 10-40mm dia,item,External Works,Reinforcement; (Provisional),1874.6,ExternalWorks!E279,1874.6,ExternalWorks!A279,External Works,40mm
 EW237,EW234,Mesh reinforcement; A142,m2,External Works,Reinforcement; (Provisional),8.71,ExternalWorks!E281,8.71,ExternalWorks!A281,External Works,
 EW238,EW235,Mesh reinforcement; A193,m2,External Works,Reinforcement; (Provisional),10.35,ExternalWorks!E282,10.35,ExternalWorks!A282,External Works,
 EW239,EW236,Mesh reinforcement; A252,m2,External Works,Reinforcement; (Provisional),12.41,ExternalWorks!E283,12.41,ExternalWorks!A283,External Works,
@@ -335,7 +332,6 @@ EW333,EW328,Stepped junction between pavings; 2 layers,m,External Works,Tarmac S
 EW334,EW329,Stepped junction between pavings; 3 layers,m,External Works,Tarmac Surfacing,33.23,ExternalWorks!E393,33.23,ExternalWorks!A393,External Works,paving
 EW335,EW330,Polymeric coloured MUGA play surface; type 4 EPDM wearing course; 15-20mm thk; mixed with resin binder,m2,External Works,Tarmac Surfacing,56.25,ExternalWorks!E394,56.25,ExternalWorks!A394,External Works,20mm
 EW336,EW331,Playground safety surfacing; Provisional rate,m2,External Works,Tarmac Surfacing,62.5,ExternalWorks!E395,62.5,ExternalWorks!A395,External Works,
-EW337,EW332,Planning existing road surface (per shift),item,External Works,Tarmac Surfacing,3875,ExternalWorks!E396,3875,ExternalWorks!A396,External Works,
 EW338,EW333,Planning existing road surface (large areas @ approx 180m2/day),m2,External Works,Tarmac Surfacing,21.53,ExternalWorks!E397,21.53,ExternalWorks!A397,External Works,
 EW339,EW334,"Infill strip of tarmac along new kerb lines, etc, to make good gap",m,External Works,Tarmac Surfacing,12.5,ExternalWorks!E398,12.5,ExternalWorks!A398,External Works,"kerb,tarmac"
 EW340,EW335,Keyblok/Europa paving; 200 x 100 x 80; on 50mm sand bed,m2,External Works,Paving,39.41,ExternalWorks!E401,39.41,ExternalWorks!A401,External Works,"50mm,paving"
@@ -551,8 +547,6 @@ EW549,EW542,Timber decking; treated SW; 28 x 140mm on & inc 50 x 150 joists at 4
 EW550,EW543,Timber decking; treated HW; 28 x 145mm on & inc 50 x 150 joists at 450c/s,m2,External Works,Timber,174.88,ExternalWorks!E619,174.88,ExternalWorks!A619,External Works,145mm
 EW551,EW544,"Composite decking Hyperion Pioneer, 145 x 21mm boards on 50 x 50 composite battens @200c/s on Mesa ajustable metal supports 90-150mm",m2,External Works,Timber,174.71,ExternalWorks!E620,174.71,ExternalWorks!A620,External Works,"21mm,150mm"
 EW552,EW545,Aluminium decking Hyperion; 21 x 145mm boards on 40 x 50mm joists at 200c/s on Mesa ajustable metal supports 90 - 150mm,m2,External Works,Timber,199.95,ExternalWorks!E621,199.95,ExternalWorks!A621,External Works,"145mm,50mm"
-EW553,EW546,White lines; min charge 1/2 day,item,External Works,White Lining,600,ExternalWorks!E624,600,ExternalWorks!A624,External Works,
-EW554,EW547,White lines; min charge 1 day,item,External Works,White Lining,812.5,ExternalWorks!E625,812.5,ExternalWorks!A625,External Works,
 EW555,EW548,Lines & broken lines; not exceeding 300mm,m,External Works,White Lining,1.25,ExternalWorks!E626,1.25,ExternalWorks!A626,External Works,300mm
 EW556,EW549,Lines & broken lines; ex 300mm,m2,External Works,White Lining,3.75,ExternalWorks!E627,3.75,ExternalWorks!A627,External Works,300mm
 EW557,EW550,Pedestrian crossings,m2,External Works,White Lining,12.5,ExternalWorks!E628,12.5,ExternalWorks!A628,External Works,
@@ -560,9 +554,7 @@ EW558,EW551,"Hatching, not exceeding 300 thick lines",m,External Works,White Lin
 EW559,EW552,Letters & figures,nr,External Works,White Lining,12.5,ExternalWorks!E630,12.5,ExternalWorks!A630,External Works,
 EW560,EW553,Directional arrows,nr,External Works,White Lining,15,ExternalWorks!E631,15,ExternalWorks!A631,External Works,
 EW561,EW554,Disabled parking,nr,External Works,White Lining,27.5,ExternalWorks!E632,27.5,ExternalWorks!A632,External Works,
-EW562,EW555,EO on concrete surface,item,External Works,White Lining,0,,0,ExternalWorks!A633,External Works,concrete
 EW563,EW556,EO burn off existing roadmarkings; min charge £,nr,External Works,White Lining,250,ExternalWorks!E634,250,ExternalWorks!A634,External Works,
-EW564,EW556,Road markings (Thorn Turn),item,External Works,White Lining,41903.75,ExternalWorks!E635,41903.75,ExternalWorks!A635,External Works,
 EW565,EW557,HB1 kerb; 150 x 305; concrete bed & haunch,m,External Works,Kerbs & Edgings,34.06,ExternalWorks!E638,34.06,ExternalWorks!A638,External Works,"kerb,concrete"
 EW566,EW558,HB1 kerb; 150 x 305; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,39.3,ExternalWorks!E639,39.3,ExternalWorks!A639,External Works,"kerb,concrete"
 EW567,EW559,HB2 kerb; 125 x 255; concrete bed & haunch,m,External Works,Kerbs & Edgings,35.19,ExternalWorks!E640,35.19,ExternalWorks!A640,External Works,"kerb,concrete"

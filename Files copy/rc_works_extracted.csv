@@ -753,18 +753,40 @@ RC740,RC740,Holorib metal edge trim; 150mm high,m,RC works,Permanent Formwork,29
 RC741,RC741,EO Holorib metal edge trim; for double height acting as toe board,m,RC works,Permanent Formwork,9.44,RCworks!885,9.44,RCworks!A885,RC works,
 RC742,RC742,Shear studs; 19mm diameter x 95lg; welded thro decking,nr,RC works,Permanent Formwork,11.8,RCworks!886,11.8,RCworks!A886,RC works,
 RC743,RC743,Safety netting/Fall bags/Crash deck,m2,RC works,Permanent Formwork,10.62,RCworks!887,10.62,RCworks!A887,RC works,
+RC744,RC744,Various sizes 10-40mm dia; subs,item,RC works,Reinforcement;,1769.62,RCworks!891,1769.62,RCworks!A891,RC works,
+RC745,RC745,Various sizes 10-40mm dia; upper slabs,item,RC works,Reinforcement;,1744.36,RCworks!892,1744.36,RCworks!A892,RC works,slab
+RC746,RC746,"Various sizes 10-40mm dia; frame, walls/columns",item,RC works,Reinforcement;,1799.09,RCworks!893,1799.09,RCworks!A893,RC works,column|wall
+RC746,RC746,Various sizes 10-40mm dia; all (ave),item,RC works,Reinforcement;,1757.62,RCworks!894,1757.62,RCworks!A894,RC works,
+RC747,RC747,Various sizes 10-40mm dia; all (as 16mm dia),item,RC works,Reinforcement;,1760.78,RCworks!895,1760.78,RCworks!A895,RC works,
 RC748,RC748,Various sizes 10-40mm dia; all,kg,RC works,Reinforcement;,1.76,RCworks!896,1.76,RCworks!A896,RC works,
 RC749,RC749,Various sizes 10-40mm dia; all; topping to metal decking,kg,RC works,Reinforcement;,1.83,RCworks!897,1.83,RCworks!A897,RC works,
 RC750,RC750,EO supply of reinforcement for express delivery,kg,RC works,Reinforcement;,129.8,RCworks!898,129.8,RCworks!A898,RC works,reinforcement
+RC751,RC751,Various sizes 10-40mm dia; core walls; jump forming,item,RC works,Reinforcement;,1891.72,RCworks!899,1891.72,RCworks!A899,RC works,wall
+RC752,RC752,Various sizes 10-40mm dia; core walls; slipforming (shift) A,item,RC works,Reinforcement;,1427.8,RCworks!900,1427.8,RCworks!A900,RC works,wall
+RC753,RC753,Various sizes 10-40mm dia; core walls; slipforming (shift) B,item,RC works,Reinforcement;,1427.8,RCworks!901,1427.8,RCworks!A901,RC works,wall
+RC754,RC754,Various sizes 10-40mm dia; core walls; slipforming (24/7),item,RC works,Reinforcement;,3594.17,RCworks!902,3594.17,RCworks!A902,RC works,wall
 RC755,RC755,Various sizes 10-40mm dia; PT slabs 225/250/275mm; 11.71kg/m2 plus mesh,m2,RC works,Reinforcement;,1752.37,RCworks!903,1752.37,RCworks!A903,RC works,mesh|slab
+RC756,RC756,Various sizes 10-40mm dia; PT slabs 225/250mm; 4.5/5.13/6.25/7.50kg/m2; compliant,item,RC works,Reinforcement;,1752.37,RCworks!904,1752.37,RCworks!A904,RC works,slab
+RC757,RC757,Various sizes 10-40mm dia; PT beams,item,RC works,Reinforcement;,1752.37,RCworks!905,1752.37,RCworks!A905,RC works,beam
+RC758,RC758,Various sizes 10-40mm dia; PT slabs (225 @ 14.5kg/m2)+(300@ 18.0kg/m2); VE option,item,RC works,Reinforcement;,1752.37,RCworks!906,1752.37,RCworks!A906,RC works,slab
+RC759,RC759,Spiral anti burst bars around anchor points; 2.0kg/m3,item,RC works,Reinforcement;,8584.02,RCworks!907,8584.02,RCworks!A907,RC works,
+RC760,RC760,EO for Spiral anti burst bars around anchor points,item,RC works,Reinforcement;,6831.65,RCworks!908,6831.65,RCworks!A908,RC works,
 RC761,RC761,EO reinforcement for stainless steel tying wire only,kg,RC works,Reinforcement;,318.6,RCworks!909,318.6,RCworks!A909,RC works,reinforcement
+RC762,RC762,"Various sizes 10-12mm dia; stairs, upstands, twin wall infills, small dia",item,RC works,Reinforcement;,1967.65,RCworks!910,1967.65,RCworks!A910,RC works,wall
+RC763,RC763,"Various sizes 10-12mm dia; cut & carve, basement, hand ball,",item,RC works,Reinforcement;,1967.65,RCworks!911,1967.65,RCworks!A911,RC works,
 RC764,RC764,"Various sizes 10-12mm dia; cut & carve, basement, hand ball,",kg,RC works,Reinforcement;,1.97,RCworks!912,1.97,RCworks!A912,RC works,
+RC765,RC765,"Various sizes 10-12mm dia; balcony connector ties, small dia",item,RC works,Reinforcement;,1967.65,RCworks!913,1967.65,RCworks!A913,RC works,
+RC766,RC766,Various sizes 10-12mm dia; thin toppings,item,RC works,Reinforcement;,1875.71,RCworks!914,1875.71,RCworks!A914,RC works,
+RC767,RC767,Piles; H16 main bars with H8 spiral binder,item,RC works,Reinforcement;,2277.4,RCworks!915,2277.4,RCworks!A915,RC works,
 RC768,RC768,Stainless Steel; Various sizes 10-40mm dia;,kg,RC works,Reinforcement;,14554.04,RCworks!916,14554.04,RCworks!A916,RC works,
 RC769,RC769,H12 reinforcing bar 1150lg fixed in footing and cavity,nr,RC works,Reinforcement;,3.47,RCworks!917,3.47,RCworks!A917,RC works,
+RC770,RC770,H16 dowels x 900 lg; meas in tonne,item,RC works,Reinforcement;,3657.06,RCworks!918,3657.06,RCworks!A918,RC works,
 RC771,RC771,Various sizes 10-40mm dia; risk on rebar quantities,kg,RC works,Reinforcement;,1769.62,RCworks!920,1769.62,RCworks!A920,RC works,rebar
 RC772,RC772,Allowance for rebar laps,kg,RC works,Reinforcement;,1769.62,RCworks!921,1769.62,RCworks!A921,RC works,rebar
 RC773,RC773,Allowance for chairs & non structural rebar,kg,RC works,Reinforcement;,1769.62,RCworks!922,1769.62,RCworks!A922,RC works,rebar
 RC774,RC774,Allowance for rebar design & development 10%,kg,RC works,Reinforcement;,1769.62,RCworks!923,1769.62,RCworks!A923,RC works,rebar
+RC775,RC775,EO for increased/decrease prime costs,item,RC works,Reinforcement;,118,RCworks!924,118,RCworks!A924,RC works,
+RC785,RC785,EO for express delivery,item,RC works,Reinforcement;,76.7,RCworks!936,76.7,RCworks!A936,RC works,
 RC786,RC786,Shear links reinforcement,kg,RC works,Shear Reinforcement to columns,0,RCworks!G939,0,RCworks!A939,RC works,reinforcement
 RC790,RC790,Budget; H10 shear links x 40kg/col x EO cost of shear links; assuming weight of shear links inc in slab reinforcement allowance [nom 4kg/m3] (price per col),nr,RC works,Shear Reinforcement to columns,119.61,RCworks!943,119.61,RCworks!A943,RC works,reinforcement|slab
 RC791,RC791,Budget; H10 shear links x 40kg/col x Cost of shear links; assuming weight of shear links is not inc in slab reinforcement allowance [nom 4kg/m3] (price per col),nr,RC works,Shear Reinforcement to columns,148.14,RCworks!944,148.14,RCworks!A944,RC works,reinforcement|slab
@@ -774,6 +796,7 @@ RC793,RC793,"Shearails; 4 studs, 750mm lg",nr,RC works,Shearails (Corner col pos
 RC794,RC794,"Shearails; 5 studs, 900mm lg",nr,RC works,Shearails (Corner col positions),11.91,RCworks!950,11.91,RCworks!A950,RC works,
 RC795,RC795,"Shearails; 6 studs, 1050mm lg",nr,RC works,Shearails (Corner col positions),14.96,RCworks!951,14.96,RCworks!A951,RC works,
 RC796,RC796,"Shearails; 7 studs, 1200mm lg",nr,RC works,Shearails (Corner col positions),17.28,RCworks!952,17.28,RCworks!A952,RC works,
+RC797,RC797,Budget; allowance of shearails as above per column (price per col),item,RC works,Shearails (Corner col positions),64.13,RCworks!953,64.13,RCworks!A953,RC works,column
 RC798,RC798,"Shearails; 2 studs, 450mm lg",nr,RC works,Shearails (Perimeter col positions),5.81,RCworks!955,5.81,RCworks!A955,RC works,
 RC799,RC799,"Shearails; 3 studs, 600mm lg",nr,RC works,Shearails (Perimeter col positions),8.15,RCworks!956,8.15,RCworks!A956,RC works,
 RC800,RC800,"Shearails; 4 studs, 750mm lg",nr,RC works,Shearails (Perimeter col positions),9.82,RCworks!957,9.82,RCworks!A957,RC works,
@@ -787,12 +810,14 @@ RC807,RC807,"Shearails; 12 studs, 1950mm lg",nr,RC works,Shearails (Perimeter co
 RC808,RC808,"Shearails; 13 studs, 2100mm lg",nr,RC works,Shearails (Perimeter col positions),28.51,RCworks!965,28.51,RCworks!A965,RC works,
 RC809,RC809,"Shearails; 16 studs, 2550mm lg",nr,RC works,Shearails (Perimeter col positions),45.41,RCworks!966,45.41,RCworks!A966,RC works,
 RC810,RC810,"Shearails; 19 studs, 3000mm lg",nr,RC works,Shearails (Perimeter col positions),41.02,RCworks!967,41.02,RCworks!A967,RC works,
+RC804,RC804,Budget; allowance of shearails as above per column (price per col),item,RC works,Shearails (Perimeter col positions),103.83,RCworks!968,103.83,RCworks!A968,RC works,column
 RC805,RC805,"Shearails; 2 studs, 450mm lg",nr,RC works,Shearails (Internal col position),5.81,RCworks!970,5.81,RCworks!A970,RC works,
 RC806,RC806,"Shearails; 3 studs, 600mm lg",nr,RC works,Shearails (Internal col position),8.15,RCworks!971,8.15,RCworks!A971,RC works,
 RC807,RC807,"Shearails; 4 studs, 750mm lg",nr,RC works,Shearails (Internal col position),9.82,RCworks!972,9.82,RCworks!A972,RC works,
 RC808,RC808,"Shearails; 5 studs, 900mm lg",nr,RC works,Shearails (Internal col position),11.91,RCworks!973,11.91,RCworks!A973,RC works,
 RC809,RC809,"Shearails; 6 studs, 1050mm lg",nr,RC works,Shearails (Internal col position),14.96,RCworks!974,14.96,RCworks!A974,RC works,
 RC810,RC810,"Shearails; 7 studs, 1200mm lg",nr,RC works,Shearails (Internal col position),17.28,RCworks!975,17.28,RCworks!A975,RC works,
+RC811,RC811,Budget; allowance of shearails as above per column (price per col),item,RC works,Shearails (Internal col position),152.09,RCworks!976,152.09,RCworks!A976,RC works,column
 RC812,RC812,Steel cruciform to column head; 152x23UC; 4m/col,nr,RC works,Steelwork as Shear Reinforcement,191.57,RCworks!979,191.57,RCworks!A979,RC works,column
 RC813,RC813,EO shearails for cruciform,nr,RC works,Steelwork as Shear Reinforcement,87.74,RCworks!980,87.74,RCworks!A980,RC works,
 RC838,RC838,Reinforced continuity joint with Conobar or similar; to 200 thick slab; H16 bars T&B,m,RC works,Continuity reinforcement,35.85,RCworks!1016,35.85,RCworks!A1016,RC works,200thick|slab
@@ -806,6 +831,7 @@ RC845,RC845,Reinforced continuity joint with Conobar or similar; to 225 thick sl
 RC846,RC846,Reinforced continuity joint with Conobar or similar; to 250 thick slab; H16 bars T&B (Slipform),m,RC works,Continuity reinforcement in slipform walls,23.72,RCworks!1027,23.72,RCworks!A1027,RC works,250thick|slab
 RC847,RC847,Reinforced continuity joint with Conobar or similar; to 300 thick slab; H16 bars T&B (Slipform),m,RC works,Continuity reinforcement in slipform walls,24.9,RCworks!1028,24.9,RCworks!A1028,RC works,300thick|slab
 RC848,RC848,Reinforced continuity joint with Conobar or similar; to 350 thick slab; H16 bars T&B (Slipform),m,RC works,Continuity reinforcement in slipform walls,29.62,RCworks!1029,29.62,RCworks!A1029,RC works,350thick|slab
+RC849,RC849,Cuttings sub-contract; lump sum price,item,RC works,Lightning protection,150119.6,RCworks!1032,150119.6,RCworks!A1032,RC works,
 RC850,RC850,Earth pit & electrode with connection to foundation rebar,nr,RC works,Lightning protection,176.67,RCworks!1033,176.67,RCworks!A1033,RC works,rebar|foundation
 RC851,RC851,Rebar to rebar direct connection; clamp dedicated bars at each storey height; Furse RR2626,nr,RC works,Lightning protection,9.91,RCworks!1034,9.91,RCworks!A1034,RC works,rebar
 RC852,RC852,"Rebar to rebar cable connection; clamps & cable between dedicated bars ; Furse RC25-087095 x2, CC070",nr,RC works,Lightning protection,24.59,RCworks!1035,24.59,RCworks!A1035,RC works,c25|c070|rebar
@@ -845,12 +871,14 @@ RC885,RC885,Post tensioning; 250/275/300/450/1000 mm thick slabs; supply & fix -
 RC886,RC886,"Post tensioning; 200/250/280/300/325/350 mm thick slabs; design, supply & fix",m2,RC works,Post Tensioning,25.76,RCworks!1074,25.76,RCworks!A1074,RC works,slab
 RC887,RC887,"Post tensioning; 1500 x 1800 beam; design, supply & fix",m,RC works,Post Tensioning,494.72,RCworks!1075,494.72,RCworks!A1075,RC works,beam
 RC888,RC888,"Post tensioning; 2000 x 1800 beam; design, supply & fix",m,RC works,Post Tensioning,659.62,RCworks!1076,659.62,RCworks!A1076,RC works,beam
+RC889,RC889,"Post tensioning strands; 7 wire 12.9/15.7mm strands in galv metal flat ducts, grouted; supply & fix only",item,RC works,Post Tensioning,4377.8,RCworks!1077,4377.8,RCworks!A1077,RC works,
 RC890,RC890,Marking tendon positions on soffits,m2,RC works,Post Tensioning,1.17,RCworks!1078,1.17,RCworks!A1078,RC works,
 RC891,RC891,Grinding flush grout tubes protruding from slab,m2,RC works,Post Tensioning,0.86,RCworks!1079,0.86,RCworks!A1079,RC works,slab
 RC892,RC892,Less Concrete C40; Slabs; 150-450mm thick Ddt,m3,RC works,VE saving; PT in lieu of Rebar,172.55,RCworks!1081,172.55,RCworks!A1081,RC works,c40|450mmthick|concrete|slab
 RC893,RC893,Less Rebar; various sizes 10-40mm dia; upper slabs Ddt,kg,RC works,VE saving; PT in lieu of Rebar,1803.36,RCworks!1082,1803.36,RCworks!A1082,RC works,rebar|slab
 RC894,RC894,Add Pour strip joint; 1m wide; in association with PT slabs,m,RC works,VE saving; PT in lieu of Rebar,170.07,RCworks!1083,170.07,RCworks!A1083,RC works,slab
 RC895,RC895,Add Lockable dowel joint; in association with PT slabs,m,RC works,VE saving; PT in lieu of Rebar,359.3,RCworks!1084,359.3,RCworks!A1084,RC works,slab
+RC896,RC896,Partial distribution of VE saving,item,RC works,VE saving; PT in lieu of Rebar,0,RCworks!G1085,0,RCworks!A1085,RC works,
 RC897,RC897,"Tamp finish, U1",m2,RC works,Concrete unformed finishes,1.46,RCworks!1088,1.46,RCworks!A1088,RC works,
 RC898,RC898,"Tamp finish, U1; sloping",m2,RC works,Concrete unformed finishes,1.94,RCworks!1089,1.94,RCworks!A1089,RC works,
 RC899,RC899,"Bunyan striker finish (U1/U4, mechanical tamp)",m2,RC works,Concrete unformed finishes,1.6,RCworks!1090,1.6,RCworks!A1090,RC works,
@@ -904,8 +932,10 @@ RC946,RC946,Form edge of slab joint in partial top down; inc couplers,m,RC works
 RC947,RC947,Coupler H20,nr,RC works,Concrete unformed finishes,19.55,RCworks!1140,19.55,RCworks!A1140,RC works,
 RC948,RC948,Form mole through slab; 7 x 3m; including couplers & concrete infill on completion; 400mm thk,nr,RC works,Concrete unformed finishes,6571.09,RCworks!1141,6571.09,RCworks!A1141,RC works,concrete|slab
 RC949,RC949,Form pour holes for walls and columns poured through slab above,nr,RC works,Concrete unformed finishes,18.3,RCworks!1142,18.3,RCworks!A1142,RC works,slab|column|wall
+RC950,RC950,Design & justify top down works,item,RC works,Concrete unformed finishes,5900,RCworks!1143,5900,RCworks!A1143,RC works,
 RC951,RC951,Haki stairs; erect / dismantle; per storey,nr,RC works,Concrete unformed finishes,94.4,RCworks!1144,94.4,RCworks!A1144,RC works,
 RC952,RC952,Haki stairs; hire; per storey per week,nr,RC works,Concrete unformed finishes,59,RCworks!1145,59,RCworks!A1145,RC works,
+RC953,RC953,Forced ventilation / extraction,item,RC works,Concrete unformed finishes,1770,RCworks!1146,1770,RCworks!A1146,RC works,
 RC954,RC954,Hollowcore floor planks; 150mm thk; 7.1m max spans; seal joints,m2,RC works,Pre-cast Concrete & twin wall units,68.81,RCworks!1149,68.81,RCworks!A1149,RC works,
 RC955,RC955,Hollowcore floor planks; 200mm thk; 8.5m max spans; seal joints,m2,RC works,Pre-cast Concrete & twin wall units,73.6,RCworks!1150,73.6,RCworks!A1150,RC works,
 RC956,RC956,Hollowcore floor planks; 250mm thk; 9.9m max spans; seal joints,m2,RC works,Pre-cast Concrete & twin wall units,76.04,RCworks!1151,76.04,RCworks!A1151,RC works,
@@ -1032,11 +1062,13 @@ RC1073,RC1073,"9 pile (600mm diameter); 4500x4500x1400; Exc, C/A, EWS, W/S, L&C,
 RC1074,RC1074,"9 pile (600mm diameter); 4500x4500x1800; Exc, C/A, EWS, W/S, L&C, 50 blinding, C40 conc, fwk, 120kg/m3 rebar, cut down piles C60",nr,RC works,Pile Caps; Composite items (all at 200kg/m3 rebar),26831.76,RCworks!1288,26831.76,RCworks!A1288,RC works,c40|c60|rebar
 RC1075,RC1075,In-situ stairs; 1.0m wide,m,RC works,Stairs; Composite items,508.9,RCworks!1291,508.9,RCworks!A1291,RC works,
 RC1076,RC1076,In-situ stairs; 1.2m wide,m,RC works,Stairs; Composite items,581.08,RCworks!1292,581.08,RCworks!A1292,RC works,
+RC1077,RC1077,In-situ stairs; 1.2m wide,item,RC works,Stairs; Composite items,1162.15,RCworks!1293,1162.15,RCworks!A1293,RC works,
 RC1078,RC1078,In-situ stairs; 1.5m wide,m,RC works,Stairs; Composite items,693.17,RCworks!1294,693.17,RCworks!A1294,RC works,
 RC1079,RC1079,In-situ stairs; 1.5m wide; curved,m,RC works,Stairs; Composite items,2079.51,RCworks!1295,2079.51,RCworks!A1295,RC works,
 RC1080,RC1080,In-situ stairs; 1.5m wide; special curved varying width,m,RC works,Stairs; Composite items,8082.21,RCworks!1296,8082.21,RCworks!A1296,RC works,
 RC1081,RC1081,In-situ stairs; 2.0m wide,m,RC works,Stairs; Composite items,879.69,RCworks!1297,879.69,RCworks!A1297,RC works,
 RC1082,RC1082,In-situ stairs; 2.0m wide; canted at angle on plan,m,RC works,Stairs; Composite items,1319.53,RCworks!1298,1319.53,RCworks!A1298,RC works,
+RC1083,RC1083,In-situ stairs; 2.0m wide; canted/trapezoidal on plan,item,RC works,Stairs; Composite items,2639.06,RCworks!1299,2639.06,RCworks!A1299,RC works,
 RC1082,RC1082,In-situ stairs; 3.0m wide,m,RC works,Stairs; Composite items,1021.69,RCworks!1300,1021.69,RCworks!A1300,RC works,
 RC1083,RC1083,In-situ concrete stairs; metal formers; not exceeding 1.0m wide,m,RC works,In-situ concrete stairs using Stairmode permanent steel formers,409.92,RCworks!1302,409.92,RCworks!A1302,RC works,concrete
 RC1084,RC1084,In-situ concrete stairs; metal formers; not exceeding 1.0m wide,m3,RC works,In-situ concrete stairs using Stairmode permanent steel formers,819.84,RCworks!1303,819.84,RCworks!A1303,RC works,concrete
@@ -1072,6 +1104,7 @@ RC1113,RC1113,Balastrade protection; Plywood to returns; 1100 x 200 x 18mm,nr,RC
 RC1114,RC1114,Balastrade protection; remove ply return protection pieces,nr,RC works,In-situ concrete stairs using Stairmode permanent steel formers,4.8,RCworks!1333,4.8,RCworks!A1333,RC works,
 RC1115,RC1115,Staircase protection; Plywood to treads and risers; 1200 x (250+125) x 18mm; per tread,nr,RC works,In-situ concrete stairs using Stairmode permanent steel formers,17.02,RCworks!1334,17.02,RCworks!A1334,RC works,
 RC1116,RC1116,Staircase protection; Remove and dispose of Plywood to treads and risers; 1200 x (250+125); per tread,nr,RC works,In-situ concrete stairs using Stairmode permanent steel formers,6.16,RCworks!1335,6.16,RCworks!A1335,RC works,
+RC1117,RC1117,GRP temporary access stairs to fit over unpoured stairmaster staircases,item,RC works,In-situ concrete stairs using Stairmode permanent steel formers,2626.81,RCworks!1336,2626.81,RCworks!A1336,RC works,
 RC1118,RC1118,Handrail; permanent; s/steel; 42 diameter posts with 42 diameter top rail & 10mm toughened glass infills (HR/G-001),m,RC works,In-situ concrete stairs using Stairmode permanent steel formers,743.4,RCworks!1337,743.4,RCworks!A1337,RC works,
 RC1119,RC1119,Wall mounted handrail; permanent; m/steel; 42 diameter rail with wall brackets (HR-004); horizontal to landings,m,RC works,In-situ concrete stairs using Stairmode permanent steel formers,166.71,RCworks!1338,166.71,RCworks!A1338,RC works,wall
 RC1120,RC1120,Wall mounted handrail; permanent; m/steel; 42 diameter rail with wall brackets (HR-004); horizontal to landings per half landing,nr,RC works,In-situ concrete stairs using Stairmode permanent steel formers,900.22,RCworks!1339,900.22,RCworks!A1339,RC works,wall
@@ -1089,12 +1122,15 @@ RC1131,RC1131,Pre-cast concrete stairs; 1.5m wide,m3,RC works,In-situ concrete s
 RC1132,RC1132,Pre-cast concrete stairs; 1.6m wide,m,RC works,In-situ concrete stairs using Stairmode permanent steel formers,568.88,RCworks!1351,568.88,RCworks!A1351,RC works,concrete
 RC1133,RC1133,Pre-cast concrete stairs; 1.6m wide,m3,RC works,In-situ concrete stairs using Stairmode permanent steel formers,1137.77,RCworks!1352,1137.77,RCworks!A1352,RC works,concrete
 RC1134,RC1134,Pre-cast concrete stairs; 2.0m wide,m,RC works,In-situ concrete stairs using Stairmode permanent steel formers,683.25,RCworks!1353,683.25,RCworks!A1353,RC works,concrete
+RC1135,RC1135,Temporary scaffolding handrails to stairs (m rise),item,RC works,In-situ concrete stairs using Stairmode permanent steel formers,109.35,RCworks!1354,109.35,RCworks!A1354,RC works,
+RC1136,RC1136,Temporary scaffolding handrails to stairs (per storey),item,RC works,In-situ concrete stairs using Stairmode permanent steel formers,328.04,RCworks!1355,328.04,RCworks!A1355,RC works,
 RC1137,RC1137,Landings; half; max 1.2 x 2.6m x 200mm thk,nr,RC works,In-situ concrete stairs using Stairmode permanent steel formers,1044.69,RCworks!1356,1044.69,RCworks!A1356,RC works,
 RC1138,RC1138,Landings; half; max 1.2 x 2.6m x 200mm thk; rate per m2,m2,RC works,In-situ concrete stairs using Stairmode permanent steel formers,337,RCworks!1357,337,RCworks!A1357,RC works,
 RC1139,RC1139,Landings; quarter; max 1.2 x 1.2m x 200mm thk,nr,RC works,In-situ concrete stairs using Stairmode permanent steel formers,579.46,RCworks!1358,579.46,RCworks!A1358,RC works,
 RC1140,RC1140,Landings; quarter; max 1.2 x 1.2m x 200mm thk; canted trapezoidal on plan,nr,RC works,In-situ concrete stairs using Stairmode permanent steel formers,1158.92,RCworks!1359,1158.92,RCworks!A1359,RC works,
 RC1141,RC1141,Landings; semi circular half; max 1.2 x 2.6m x 200mm thk,nr,RC works,In-situ concrete stairs using Stairmode permanent steel formers,2089.38,RCworks!1360,2089.38,RCworks!A1360,RC works,
 RC1142,RC1142,Landings; half with 6nr winding treads; double curved soffit; max 1.2 x 2.6m x 200mm thick x approx 1.35m rise,nr,RC works,In-situ concrete stairs using Stairmode permanent steel formers,12011.57,RCworks!1361,12011.57,RCworks!A1361,RC works,200mmthick
+RC1143,RC1143,"Structural steelwork as drawings 104-14400 rev C, 410 rev C & 420 rev C",item,RC works,Structural Steelwork,60695.66,RCworks!1364,60695.66,RCworks!A1364,RC works,
 RC1144,RC1144,Equal angle; 200x200x18mm thick (54kg/m); bolted at 1.2m c/s,m,RC works,Structural Steelwork,101.87,RCworks!1365,101.87,RCworks!A1365,RC works,18mmthick
 RC1145,RC1145,Equal angle: stainless steel; 200x200x18mm thick (54kg/m); bolted at 1.2m c/s,m,RC works,Structural Steelwork,575,RCworks!1366,575,RCworks!A1366,RC works,18mmthick
 RC1146,RC1146,Equal angle; 150x150x15mm thick (34kg/m); bolted at 1.0m c/s,m,RC works,Structural Steelwork,94.42,RCworks!1367,94.42,RCworks!A1367,RC works,15mmthick
