@@ -1,0 +1,915 @@
+id,code,description,unit,category,subcategory,rate,cellRate_reference,cellRate_rate,excelCellReference,sourceSheetName,keywords
+EXT1,EXT1,Site clearance,m2,External Works,Groundworks,0.49,ExternalWorks!E12,0.49,ExternalWorks!A12,External Works,
+EXT2,EXT2,Site prep; clear vegetation,m2,External Works,Groundworks,1.13,ExternalWorks!E13,1.13,ExternalWorks!A13,External Works,
+EXT3,EXT3,"Site prep; clear vegetation, bushes, small trees",m2,External Works,Groundworks,2.64,ExternalWorks!E14,2.64,ExternalWorks!A14,External Works,
+EXT4,EXT4,Excavate topsoil for preservation,m3,External Works,Groundworks,5.62,ExternalWorks!E15,5.62,ExternalWorks!A15,External Works,
+EXT5,EXT5,Excavate to reduce levels; not exceeding 250mm,m3,External Works,Groundworks,4.72,ExternalWorks!E16,4.72,ExternalWorks!A16,External Works,250mm
+EXT6,EXT6,Excavate to reduce levels; not exceeding 1m,m3,External Works,Groundworks,3.54,ExternalWorks!E17,3.54,ExternalWorks!A17,External Works,1m
+EXT7,EXT7,Excavate to reduce levels; not exceeding 2m,m3,External Works,Groundworks,4.25,ExternalWorks!E18,4.25,ExternalWorks!A18,External Works,2m
+EXT8,EXT8,Excavate to reduce levels; not exceeding 4m,m3,External Works,Groundworks,5.26,ExternalWorks!E19,5.26,ExternalWorks!A19,External Works,4m
+EXT9,EXT9,Excavate to reduce levels; not exceeding 1m (restricted headroom),m3,External Works,Groundworks,4.72,ExternalWorks!E20,4.72,ExternalWorks!A20,External Works,1m
+EXT10,EXT10,Excavate basement; not exceeding 4m dp,m3,External Works,Groundworks,5.59,ExternalWorks!E21,5.59,ExternalWorks!A21,External Works,4m
+EXT11,EXT11,Excavate basement; not exceeding 6m dp,m3,External Works,Groundworks,6.39,ExternalWorks!E22,6.39,ExternalWorks!A22,External Works,6m
+EXT12,EXT12,Excavate basement; not exceeding 8m dp,m3,External Works,Groundworks,8.94,ExternalWorks!E23,8.94,ExternalWorks!A23,External Works,8m
+EXT13,EXT13,Excavate basement; not exceeding 4m deep (dble handling),m3,External Works,Groundworks,9.27,ExternalWorks!E24,9.27,ExternalWorks!A24,External Works,4m
+EXT14,EXT14,Excavate basement; not exceeding 6m deep (dble handling),m3,External Works,Groundworks,10.59,ExternalWorks!E25,10.59,ExternalWorks!A25,External Works,6m
+EXT15,EXT15,Excavate basement; not exceeding 8m deep (dble handling),m3,External Works,Groundworks,14.83,ExternalWorks!E26,14.83,ExternalWorks!A26,External Works,8m
+EXT16,EXT16,Excavate basement; not exceeding 10m deep (dble handling),m3,External Works,Groundworks,21.18,ExternalWorks!E27,21.18,ExternalWorks!A27,External Works,10m
+EXT17,EXT17,Excavate open cut / swale,m3,External Works,Groundworks,8.94,ExternalWorks!E28,8.94,ExternalWorks!A28,External Works,
+EXT18,EXT18,Excavate pits; not exceeding 1m dp,m3,External Works,Groundworks,14.05,ExternalWorks!E29,14.05,ExternalWorks!A29,External Works,1m
+EXT19,EXT19,Excavate pits; not exceeding 2m dp,m3,External Works,Groundworks,15.33,ExternalWorks!E30,15.33,ExternalWorks!A30,External Works,2m
+EXT20,EXT20,Excavate pits; not exceeding 4m dp,m3,External Works,Groundworks,16.86,ExternalWorks!E31,16.86,ExternalWorks!A31,External Works,4m
+EXT21,EXT21,Excavate trenches; not exceeding 0.25m dp,m3,External Works,Groundworks,14.29,ExternalWorks!E32,14.29,ExternalWorks!A32,External Works,25m
+EXT22,EXT22,Excavate trenches; not exceeding 1m dp,m3,External Works,Groundworks,12.04,ExternalWorks!E33,12.04,ExternalWorks!A33,External Works,1m
+EXT23,EXT23,Excavate trenches; not exceeding 2m dp,m3,External Works,Groundworks,12.97,ExternalWorks!E34,12.97,ExternalWorks!A34,External Works,2m
+EXT24,EXT24,Excavate trenches; not exceeding 4m dp,m3,External Works,Groundworks,14.29,ExternalWorks!E35,14.29,ExternalWorks!A35,External Works,4m
+EXT25,EXT25,Excavate by hand; inside existing buildings & get out,m3,External Works,Groundworks,94.86,ExternalWorks!E36,94.86,ExternalWorks!A36,External Works,
+EXT26,EXT26,Regrade slopes to ditch,m2,External Works,Groundworks,4.47,ExternalWorks!E37,4.47,ExternalWorks!A37,External Works,
+EXT27,EXT27,Regrade ditch; 1m wide x 1m dp,m,External Works,Groundworks,6.26,ExternalWorks!E38,6.26,ExternalWorks!A38,External Works,"1m,1m"
+EXT28,EXT28,EO excs for break out brickwork/rock obstructions (prov),m3,External Works,Groundworks,31.82,ExternalWorks!E39,31.82,ExternalWorks!A39,External Works,
+EXT29,EXT29,EO excs for break out concrete obstructions (prov),m3,External Works,Groundworks,43.4,ExternalWorks!E40,43.4,ExternalWorks!A40,External Works,concrete
+EXT30,EXT30,EO excs for break out reinfd concrete obstructions (prov),m3,External Works,Groundworks,59.67,ExternalWorks!E41,59.67,ExternalWorks!A41,External Works,concrete
+EXT31,EXT31,EO excs for break out concrete slab; 150mm thk,m2,External Works,Groundworks,4.56,ExternalWorks!E42,4.56,ExternalWorks!A42,External Works,"150mm,concrete"
+EXT32,EXT32,EO excs for break out tarmac paving; 100mm thk,m2,External Works,Groundworks,1.59,ExternalWorks!E43,1.59,ExternalWorks!A43,External Works,"100mm,paving,tarmac"
+EXT33,EXT33,EO excs for break out concrete paving; 50mm thk,m2,External Works,Groundworks,0.8,ExternalWorks!E44,0.8,ExternalWorks!A44,External Works,"50mm,paving,concrete"
+EXT34,EXT34,EO excs for break out concrete paving; 100mm thk,m2,External Works,Groundworks,1.59,ExternalWorks!E45,1.59,ExternalWorks!A45,External Works,"100mm,paving,concrete"
+EXT35,EXT35,EO excs for break out kerbs/edgings inc conc footing,m,External Works,Groundworks,1.43,ExternalWorks!E46,1.43,ExternalWorks!A46,External Works,"kerb,edging"
+EXT36,EXT36,EO excs for exc below grd water level (prov),m3,External Works,Groundworks,16.05,ExternalWorks!E47,16.05,ExternalWorks!A47,External Works,
+EXT37,EXT37,EO excs for exc next to extg services (prov),m,External Works,Groundworks,9.18,ExternalWorks!E48,9.18,ExternalWorks!A48,External Works,
+EXT38,EXT38,EO excs for exc around extg services crossing trench (prov),nr,External Works,Groundworks,28.26,ExternalWorks!E49,28.26,ExternalWorks!A49,External Works,
+EXT39,EXT39,"Exc 150 dp, dispose & breakout concrete slab",m2,External Works,Groundworks,12.35,ExternalWorks!E50,12.35,ExternalWorks!A50,External Works,concrete
+EXT40,EXT40,"Soft spots, inc excavate, backfill with SEM & dispose off site",m3,External Works,Groundworks,28.5,ExternalWorks!E51,28.5,ExternalWorks!A51,External Works,
+EXT41,EXT41,"Soft spots, inc excavate, backfill with Type 6F2 & dispose off site",m3,External Works,Groundworks,96.15,ExternalWorks!E52,96.15,ExternalWorks!A52,External Works,
+EXT42,EXT42,Take out & set aside steel railings,m,External Works,Groundworks,28.52,ExternalWorks!E53,28.52,ExternalWorks!A53,External Works,
+EXT43,EXT43,Remove bollard & mg hole,nr,External Works,Groundworks,41.02,ExternalWorks!E54,41.02,ExternalWorks!A54,External Works,bollard
+EXT44,EXT44,Mg edge of extg tarmac,m,External Works,Groundworks,6.04,ExternalWorks!E55,6.04,ExternalWorks!A55,External Works,tarmac
+EXT45,EXT45,EO excs for exc below grd water level (prov),m3,External Works,Groundworks,17.45,ExternalWorks!E56,17.45,ExternalWorks!A56,External Works,
+EXT46,EXT46,Level & compact ground,m2,External Works,Groundworks,0.32,ExternalWorks!E57,0.32,ExternalWorks!A57,External Works,
+EXT47,EXT47,Level & compact bottom of excavation,m2,External Works,Groundworks,0.47,ExternalWorks!E58,0.47,ExternalWorks!A58,External Works,
+EXT48,EXT48,Proof rolling formation;,m2,External Works,Groundworks,0.47,ExternalWorks!E59,0.47,ExternalWorks!A59,External Works,
+EXT49,EXT49,Trim sloping services,m2,External Works,Groundworks,2.41,ExternalWorks!E60,2.41,ExternalWorks!A60,External Works,
+EXT50,EXT50,Rotovate subsoil ready to recieve topsoil,m2,External Works,Groundworks,1.83,ExternalWorks!E61,1.83,ExternalWorks!A61,External Works,
+EXT51,EXT51,Apply herbicide to surface of ground; horizontal,m2,External Works,Groundworks,0.25,ExternalWorks!E62,0.25,ExternalWorks!A62,External Works,
+EXT52,EXT52,Working space; reduce level exc; b/fill with SEM,m2,External Works,Groundworks,8.57,ExternalWorks!E63,8.57,ExternalWorks!A63,External Works,
+EXT53,EXT53,Working space; basements; b/fill with SEM,m2,External Works,Groundworks,10.22,ExternalWorks!E64,10.22,ExternalWorks!A64,External Works,
+EXT54,EXT54,Working space; pits; b/fill with SEM,m2,External Works,Groundworks,12.52,ExternalWorks!E65,12.52,ExternalWorks!A65,External Works,
+EXT55,EXT55,Working space; trenches; b/fill with SEM,m2,External Works,Groundworks,12.34,ExternalWorks!E66,12.34,ExternalWorks!A66,External Works,
+EXT56,EXT56,Working space; reduce level exc; b/fill with imported type 1,m2,External Works,Groundworks,44.6,ExternalWorks!E67,44.6,ExternalWorks!A67,External Works,
+EXT57,EXT57,Working space; basements; b/fill with imported type 1,m2,External Works,Groundworks,46.26,ExternalWorks!E68,46.26,ExternalWorks!A68,External Works,
+EXT58,EXT58,Working space; pits; b/fill with imported type 1,m2,External Works,Groundworks,48.56,ExternalWorks!E69,48.56,ExternalWorks!A69,External Works,
+EXT59,EXT59,Working space; trenches; b/fill with imported type 1,m2,External Works,Groundworks,48.07,ExternalWorks!E70,48.07,ExternalWorks!A70,External Works,
+EXT60,EXT60,EWS; not exceeding 1m dp; faces not exceeding 2m,m2,External Works,Groundworks,0.71,ExternalWorks!E71,0.71,ExternalWorks!A71,External Works,"1m,2m"
+EXT61,EXT61,EWS; not exceeding 1m dp; faces 2-4m,m2,External Works,Groundworks,0.83,ExternalWorks!E72,0.83,ExternalWorks!A72,External Works,"1m,4m"
+EXT62,EXT62,EWS; not exceeding 1m dp; faces ex 4m,m2,External Works,Groundworks,1.08,ExternalWorks!E73,1.08,ExternalWorks!A73,External Works,"1m,4m"
+EXT63,EXT63,EWS; not exceeding 2m dp; faces not exceeding 2m,m2,External Works,Groundworks,1.42,ExternalWorks!E74,1.42,ExternalWorks!A74,External Works,"2m,2m"
+EXT64,EXT64,EWS; not exceeding 2m dp; faces 2-4m,m2,External Works,Groundworks,2.58,ExternalWorks!E75,2.58,ExternalWorks!A75,External Works,"2m,4m"
+EXT65,EXT65,EWS; not exceeding 2m dp; faces ex 4m,m2,External Works,Groundworks,3.75,ExternalWorks!E76,3.75,ExternalWorks!A76,External Works,"2m,4m"
+EXT66,EXT66,EWS; not exceeding 4m dp; faces not exceeding 2m,m2,External Works,Groundworks,21.53,ExternalWorks!E77,21.53,ExternalWorks!A77,External Works,"4m,2m"
+EXT67,EXT67,EWS; not exceeding 4m dp; faces 2-4m,m2,External Works,Groundworks,21.53,ExternalWorks!E78,21.53,ExternalWorks!A78,External Works,"4m,4m"
+EXT68,EXT68,EWS; not exceeding 4m dp; faces ex 4m,m2,External Works,Groundworks,21.53,ExternalWorks!E79,21.53,ExternalWorks!A79,External Works,"4m,4m"
+EXT69,EXT69,EWS; not exceeding 6m dp; faces not exceeding 2m,m2,External Works,Groundworks,64.58,ExternalWorks!E80,64.58,ExternalWorks!A80,External Works,"6m,2m"
+EXT70,EXT70,EWS; not exceeding 6m dp; faces 2-4m,m2,External Works,Groundworks,64.58,ExternalWorks!E81,64.58,ExternalWorks!A81,External Works,"6m,4m"
+EXT71,EXT71,EWS; not exceeding 6m dp; faces ex 4m,m2,External Works,Groundworks,64.58,ExternalWorks!E82,64.58,ExternalWorks!A82,External Works,"6m,4m"
+EXT72,EXT72,Haul & deposit on site; max 50m,m3,External Works,Groundworks,4.13,ExternalWorks!E83,4.13,ExternalWorks!A83,External Works,50m
+EXT73,EXT73,Haul & deposit on site; max 100m,m3,External Works,Groundworks,5.37,ExternalWorks!E84,5.37,ExternalWorks!A84,External Works,100m
+EXT74,EXT74,"Dispose of excavation arisings off site; clean inert material, (fluctuating)",m3,External Works,Groundworks,44.12,ExternalWorks!E86,44.12,ExternalWorks!A86,External Works,
+EXT75,EXT75,Dispose of excavation arisings off site; non-hazardous material (fluctuating),m3,External Works,Groundworks,58.82,ExternalWorks!E88,58.82,ExternalWorks!A88,External Works,
+EXT76,EXT76,EO clean inert C/A for non-haz,m3,External Works,Groundworks,14.71,ExternalWorks!E89,14.71,ExternalWorks!A89,External Works,
+EXT77,EXT77,Dispose of excavation arisings off site; hazardous material (fluctuating),m3,External Works,Groundworks,220.59,ExternalWorks!E91,220.59,ExternalWorks!A91,External Works,
+EXT78,EXT78,EO clean inert disposal for hazardous,m3,External Works,Groundworks,176.47,ExternalWorks!E92,176.47,ExternalWorks!A92,External Works,
+EXT79,EXT79,Dispose of type 1 crushed concrete (from piling mat) off site,m3,External Works,Groundworks,17.65,ExternalWorks!E93,17.65,ExternalWorks!A93,External Works,concrete
+EXT80,EXT80,Dispose surface water,item,External Works,Groundworks,0.0,,0.0,ExternalWorks!A94,External Works,
+EXT81,EXT81,Dispose ground water,item,External Works,Groundworks,1086.96,ExternalWorks!E95,1086.96,ExternalWorks!A95,External Works,
+EXT82,EXT82,Filling; with SEM,m3,External Works,Groundworks,5.63,ExternalWorks!E96,5.63,ExternalWorks!A96,External Works,
+EXT83,EXT83,Filling with free issue materials from site stockpile; load & haul max 50m,m3,External Works,Groundworks,9.93,ExternalWorks!E97,9.93,ExternalWorks!A97,External Works,50m
+EXT84,EXT84,Imported fill; subsoil,m3,External Works,Groundworks,32.1,ExternalWorks!E98,32.1,ExternalWorks!A98,External Works,
+EXT85,EXT85,Imported granular fill; hardcore / crushed concrete,m3,External Works,Groundworks,29.16,ExternalWorks!E99,29.16,ExternalWorks!A99,External Works,concrete
+EXT86,EXT86,Imported granular fill; 6N/6P,m3,External Works,Groundworks,32.1,ExternalWorks!E100,32.1,ExternalWorks!A100,External Works,
+EXT87,EXT87,Imported granular fill; 6F2,m3,External Works,Groundworks,37.98,ExternalWorks!E101,37.98,ExternalWorks!A101,External Works,
+EXT88,EXT88,Imported granular fill; 6F1,m3,External Works,Groundworks,37.98,ExternalWorks!E102,37.98,ExternalWorks!A102,External Works,
+EXT89,EXT89,Imported granular fill; type 3,m3,External Works,Groundworks,71.8,ExternalWorks!E103,71.8,ExternalWorks!A103,External Works,
+EXT90,EXT90,Imported granular fill; type 2,m3,External Works,Groundworks,46.8,ExternalWorks!E104,46.8,ExternalWorks!A104,External Works,
+EXT91,EXT91,Imported granular fill; type 1 (c/c),m3,External Works,Groundworks,49.75,ExternalWorks!E105,49.75,ExternalWorks!A105,External Works,
+EXT92,EXT92,Imported granular fill; type 1 (c/c); not exceeding 250 thk,m3,External Works,Groundworks,52.09,ExternalWorks!E106,52.09,ExternalWorks!A106,External Works,
+EXT93,EXT93,Imported granular fill; type 1 (c/c); on 1F podium,m3,External Works,Groundworks,53.68,ExternalWorks!E107,53.68,ExternalWorks!A107,External Works,
+EXT94,EXT94,Imported granular fill; type 1 (stone),m3,External Works,Groundworks,79.16,ExternalWorks!E108,79.16,ExternalWorks!A108,External Works,
+EXT95,EXT95,Imported granular fill; CBGM 2,m3,External Works,Groundworks,169.46,ExternalWorks!E109,169.46,ExternalWorks!A109,External Works,
+EXT96,EXT96,Imported granular fill; permeable aggregate 4/20,m3,External Works,Groundworks,93.86,ExternalWorks!E110,93.86,ExternalWorks!A110,External Works,gate
+EXT97,EXT97,Imported granular fill; permeable aggregate 4/20; infill to Cellweb,m3,External Works,Groundworks,124.37,ExternalWorks!E111,124.37,ExternalWorks!A111,External Works,gate
+EXT98,EXT98,Imported granular fill; permeable aggregate 10/63,m3,External Works,Groundworks,79.16,ExternalWorks!E112,79.16,ExternalWorks!A112,External Works,gate
+EXT99,EXT99,Imported granular fill; permeable aggregate 50/75,m3,External Works,Groundworks,84.3,ExternalWorks!E113,84.3,ExternalWorks!A113,External Works,gate
+EXT100,EXT100,Imported granular fill; pea shingle,m3,External Works,Groundworks,71.8,ExternalWorks!E114,71.8,ExternalWorks!A114,External Works,
+EXT101,EXT101,Imported granular fill; sand,m3,External Works,Groundworks,96.25,ExternalWorks!E115,96.25,ExternalWorks!A115,External Works,
+EXT102,EXT102,Imported granular fill; sand; sheet pile voids,m3,External Works,Groundworks,102.58,ExternalWorks!E116,102.58,ExternalWorks!A116,External Works,
+EXT103,EXT103,Imported granular fill; topsoil; general purpose standard grade,m3,External Works,Groundworks,69.45,ExternalWorks!E117,69.45,ExternalWorks!A117,External Works,
+EXT104,EXT104,Imported granular fill; topsoil; general purpose standard grade; filling to planters,m3,External Works,Groundworks,90.71,ExternalWorks!E118,90.71,ExternalWorks!A118,External Works,
+EXT105,EXT105,Imported granular fill; topsoil; BS3882,m3,External Works,Groundworks,98.86,ExternalWorks!E119,98.86,ExternalWorks!A119,External Works,
+EXT106,EXT106,Imported granular fill; topsoil; BS3882; filling to planters,m3,External Works,Groundworks,120.12,ExternalWorks!E120,120.12,ExternalWorks!A120,External Works,
+EXT107,EXT107,Sand blinding; 25mm thk,m2,External Works,Groundworks,2.9,ExternalWorks!E121,2.9,ExternalWorks!A121,External Works,25mm
+EXT108,EXT108,Sand blinding; 50mm thk,m2,External Works,Groundworks,5.17,ExternalWorks!E122,5.17,ExternalWorks!A122,External Works,50mm
+EXT109,EXT109,Level & compact surface of existing ground,m2,External Works,Groundworks,0.5,ExternalWorks!E123,0.5,ExternalWorks!A123,External Works,
+EXT110,EXT110,Level & compact surface of fill,m2,External Works,Groundworks,0.53,ExternalWorks!E124,0.53,ExternalWorks!A124,External Works,
+EXT111,EXT111,Level & compact surface of fill; on 1F podium,m2,External Works,Groundworks,0.96,ExternalWorks!E125,0.96,ExternalWorks!A125,External Works,
+EXT112,EXT112,Rake & level surface of topsoil/fill,m2,External Works,Groundworks,0.31,ExternalWorks!E126,0.31,ExternalWorks!A126,External Works,
+EXT113,EXT113,Level & compact surface of fill; sloping,m2,External Works,Groundworks,0.8,ExternalWorks!E127,0.8,ExternalWorks!A127,External Works,
+EXT114,EXT114,Rotovate subsoil ready to recieve topsoil,m2,External Works,Groundworks,2.0,ExternalWorks!E128,2.0,ExternalWorks!A128,External Works,
+EXT115,EXT115,Rake & level surface of topsoil,m2,External Works,Groundworks,0.31,ExternalWorks!E129,0.31,ExternalWorks!A129,External Works,
+EXT116,EXT116,"Grass seeding, including water, feed, weed & weekly cut for 1 year",m2,External Works,Groundworks,0.0,,0.0,ExternalWorks!A130,External Works,
+EXT117,EXT117,Level & compact surface of fill & 25mm sand blinding,m2,External Works,Groundworks,2.99,ExternalWorks!E131,2.99,ExternalWorks!A131,External Works,25mm
+EXT118,EXT118,SC membrane,m2,External Works,Groundworks,2.72,ExternalWorks!E132,2.72,ExternalWorks!A132,External Works,
+EXT119,EXT119,SC membrane; vertical,m2,External Works,Groundworks,3.52,ExternalWorks!E133,3.52,ExternalWorks!A133,External Works,
+EXT120,EXT120,SC2000 filter geotextile; turned up at perimeter 450mm,m,External Works,Groundworks,2.28,ExternalWorks!E134,2.28,ExternalWorks!A134,External Works,450mm
+EXT121,EXT121,SC intergrid,m2,External Works,Groundworks,4.79,ExternalWorks!E135,4.79,ExternalWorks!A135,External Works,
+EXT122,EXT122,Tensar 30/30,m2,External Works,Groundworks,1.73,ExternalWorks!E136,1.73,ExternalWorks!A136,External Works,
+EXT123,EXT123,Tensar Geogrid TX160,m2,External Works,Groundworks,3.82,ExternalWorks!E137,3.82,ExternalWorks!A137,External Works,
+EXT124,EXT124,Inbitex geotextile,m2,External Works,Groundworks,2.08,ExternalWorks!E138,2.08,ExternalWorks!A138,External Works,
+EXT125,EXT125,Fibretex F4M geotextile,m2,External Works,Groundworks,2.08,ExternalWorks!E139,2.08,ExternalWorks!A139,External Works,4m
+EXT126,EXT126,Lotrak 2800,m2,External Works,Groundworks,1.56,ExternalWorks!E140,1.56,ExternalWorks!A140,External Works,
+EXT127,EXT127,Terram,m2,External Works,Groundworks,1.52,ExternalWorks!E141,1.52,ExternalWorks!A141,External Works,
+EXT128,EXT128,Terram; vertical,m2,External Works,Groundworks,2.15,ExternalWorks!E142,2.15,ExternalWorks!A142,External Works,
+EXT129,EXT129,Geotextile 1mm polypropylene SCSGM1 with protection fleece SCSGT1900,m2,External Works,Groundworks,6.71,ExternalWorks!E143,6.71,ExternalWorks!A143,External Works,1mm
+EXT130,EXT130,Weed supression membrane,m2,External Works,Groundworks,1.52,ExternalWorks!E144,1.52,ExternalWorks!A144,External Works,
+EXT131,EXT131,Geosynthetics cellweb root protection system; 150mm thk; excluding stone fill,m2,External Works,Groundworks,34.28,ExternalWorks!E145,34.28,ExternalWorks!A145,External Works,150mm
+EXT132,EXT132,Treetex T300 geotextile membrane,m2,External Works,Groundworks,2.59,ExternalWorks!E146,2.59,ExternalWorks!A146,External Works,
+EXT133,EXT133,Root barrier; Re-root 1000; horz,m2,External Works,Groundworks,14.21,ExternalWorks!E147,14.21,ExternalWorks!A147,External Works,
+EXT134,EXT134,Root barrier; Re-root 1000; vert,m2,External Works,Groundworks,15.46,ExternalWorks!E148,15.46,ExternalWorks!A148,External Works,
+EXT135,EXT135,Enkamat turf reinforcement mat,m2,External Works,Groundworks,16.55,ExternalWorks!E149,16.55,ExternalWorks!A149,External Works,
+EXT136,EXT136,1200g visqueen; horizontal,m2,External Works,Groundworks,1.07,ExternalWorks!E150,1.07,ExternalWorks!A150,External Works,
+EXT137,EXT137,2000g visqueen; horizontal,m2,External Works,Groundworks,3.46,ExternalWorks!E151,3.46,ExternalWorks!A151,External Works,
+EXT138,EXT138,2000g visqueen; vertical,m2,External Works,Groundworks,4.3,ExternalWorks!E152,4.3,ExternalWorks!A152,External Works,
+EXT139,EXT139,Impervious membrane/Pond liner,m2,External Works,Groundworks,34.03,ExternalWorks!E153,34.03,ExternalWorks!A153,External Works,
+EXT140,EXT140,EO for sealing around pentrations,nr,External Works,Groundworks,86.11,ExternalWorks!E154,86.11,ExternalWorks!A154,External Works,
+EXT141,EXT141,Core drill running course; 100 dia x 75mm @ 1mc/s,m2,External Works,Groundworks,6.19,ExternalWorks!E155,6.19,ExternalWorks!A155,External Works,75mm
+EXT142,EXT142,Core drill running course; 100 dia x 150mm @ 1mc/s,m2,External Works,Groundworks,12.38,ExternalWorks!E156,12.38,ExternalWorks!A156,External Works,150mm
+EXT143,EXT143,Blinding not exceeding 150 thk,m3,External Works,Plain Concrete GEN1 / C10,199.33,ExternalWorks!E159,199.33,ExternalWorks!A159,External Works,
+EXT144,EXT144,Mass fill,m3,External Works,Plain Concrete GEN1 / C10,176.97,ExternalWorks!E160,176.97,ExternalWorks!A160,External Works,
+EXT145,EXT145,Pad foundations,m3,External Works,Plain Concrete GEN1 / C10,170.32,ExternalWorks!E161,170.32,ExternalWorks!A161,External Works,
+EXT146,EXT146,Filling hollow walls; not exceeding 150mm,m3,External Works,Plain Concrete GEN1 / C10,405.24,ExternalWorks!E162,405.24,ExternalWorks!A162,External Works,150mm
+EXT147,EXT147,Blinding not exceeding 150 thk,m3,External Works,Plain Concrete GEN2 / C15,207.25,ExternalWorks!E165,207.25,ExternalWorks!A165,External Works,
+EXT148,EXT148,Mass fill,m3,External Works,Plain Concrete GEN2 / C15,182.58,ExternalWorks!E166,182.58,ExternalWorks!A166,External Works,
+EXT149,EXT149,Blinding not exceeding 150 thk,m3,External Works,Plain Concrete GEN3 / C20,208.69,ExternalWorks!E169,208.69,ExternalWorks!A169,External Works,
+EXT150,EXT150,Blinding: 50mm thk,m2,External Works,Plain Concrete GEN3 / C20,10.43,ExternalWorks!E170,10.43,ExternalWorks!A170,External Works,50mm
+EXT151,EXT151,Pad foundations,m3,External Works,Plain Concrete GEN3 / C20,180.51,ExternalWorks!E171,180.51,ExternalWorks!A171,External Works,
+EXT152,EXT152,Footings,m3,External Works,Plain Concrete GEN3 / C20,182.44,ExternalWorks!E172,182.44,ExternalWorks!A172,External Works,
+EXT153,EXT153,Mass fill,m3,External Works,Plain Concrete GEN3 / C20,171.03,ExternalWorks!E173,171.03,ExternalWorks!A173,External Works,
+EXT154,EXT154,Pad foundations,m3,External Works,Plain Concrete C25,181.89,ExternalWorks!E176,181.89,ExternalWorks!A176,External Works,
+EXT155,EXT155,Strip footings,m3,External Works,Plain Concrete C25,183.82,ExternalWorks!E177,183.82,ExternalWorks!A177,External Works,
+EXT156,EXT156,Bed; not exceeding 150mm thk,m3,External Works,Plain Concrete C25,192.62,ExternalWorks!E178,192.62,ExternalWorks!A178,External Works,150mm
+EXT157,EXT157,Pad foundations,m3,External Works,Plain Concrete C40 (DS-1),190.14,ExternalWorks!E181,190.14,ExternalWorks!A181,External Works,
+EXT158,EXT158,Strip footings,m3,External Works,Plain Concrete C40 (DS-1),192.07,ExternalWorks!E182,192.07,ExternalWorks!A182,External Works,
+EXT159,EXT157,Foundations,m3,External Works,"Reinforced Concrete FND2/3/4,  C35",175.57,ExternalWorks!E185,175.57,ExternalWorks!A185,External Works,
+EXT160,EXT158,Ground beams,m3,External Works,"Reinforced Concrete FND2/3/4,  C35",177.51,ExternalWorks!E186,177.51,ExternalWorks!A186,External Works,
+EXT161,EXT159,Bed; not exceeding 150mm thk,m3,External Works,"Reinforced Concrete FND2/3/4,  C35",193.9,ExternalWorks!E187,193.9,ExternalWorks!A187,External Works,150mm
+EXT162,EXT160,Bed; 150-450mm thk,m3,External Works,"Reinforced Concrete FND2/3/4,  C35",179.41,ExternalWorks!E188,179.41,ExternalWorks!A188,External Works,450mm
+EXT163,EXT161,Capping beam,m3,External Works,"Reinforced Concrete FND2/3/4,  C35",191.82,ExternalWorks!E189,191.82,ExternalWorks!A189,External Works,
+EXT164,EXT162,Columns,m3,External Works,"Reinforced Concrete FND2/3/4,  C35",218.41,ExternalWorks!E190,218.41,ExternalWorks!A190,External Works,
+EXT165,EXT163,Walls; 150-450,m3,External Works,"Reinforced Concrete FND2/3/4,  C35",205.92,ExternalWorks!E191,205.92,ExternalWorks!A191,External Works,
+EXT166,EXT164,Upstands,m3,External Works,"Reinforced Concrete FND2/3/4,  C35",228.86,ExternalWorks!E192,228.86,ExternalWorks!A192,External Works,
+EXT167,EXT165,Pile caps/foundations/bases,m3,External Works,"Reinforced Concrete C40, RC40; (DC-2, AC-2, DS-2)",178.14,ExternalWorks!E195,178.14,ExternalWorks!A195,External Works,
+EXT168,EXT166,Ground beams,m3,External Works,"Reinforced Concrete C40, RC40; (DC-2, AC-2, DS-2)",180.87,ExternalWorks!E196,180.87,ExternalWorks!A196,External Works,
+EXT169,EXT167,Bed; not exceeding 150mm thk,m3,External Works,"Reinforced Concrete C40, RC40; (DC-2, AC-2, DS-2)",196.46,ExternalWorks!E197,196.46,ExternalWorks!A197,External Works,150mm
+EXT170,EXT168,Bed; 150-450mm thk,m3,External Works,"Reinforced Concrete C40, RC40; (DC-2, AC-2, DS-2)",181.97,ExternalWorks!E198,181.97,ExternalWorks!A198,External Works,450mm
+EXT171,EXT169,Bed; ex 450mm thk,m3,External Works,"Reinforced Concrete C40, RC40; (DC-2, AC-2, DS-2)",180.21,ExternalWorks!E199,180.21,ExternalWorks!A199,External Works,450mm
+EXT172,EXT170,Steps in slabs/Upstands/Pit walls; 150-450,m3,External Works,"Reinforced Concrete C40, RC40; (DC-2, AC-2, DS-2)",229.13,ExternalWorks!E200,229.13,ExternalWorks!A200,External Works,
+EXT173,EXT171,Capping beam,m3,External Works,"Reinforced Concrete C40, RC40; (DC-2, AC-2, DS-2)",194.38,ExternalWorks!E201,194.38,ExternalWorks!A201,External Works,
+EXT174,EXT172,Walls; 150-450mm thk,m3,External Works,"Reinforced Concrete C40, RC40; (DC-2, AC-2, DS-2)",210.05,ExternalWorks!E202,210.05,ExternalWorks!A202,External Works,450mm
+EXT175,EXT173,Slabs; not exceeding 150mm thk,m3,External Works,"Reinforced Concrete C40, RC40",200.25,ExternalWorks!E205,200.25,ExternalWorks!A205,External Works,150mm
+EXT176,EXT174,Slabs; 150-450mm thk,m3,External Works,"Reinforced Concrete C40, RC40",184.17,ExternalWorks!E206,184.17,ExternalWorks!A206,External Works,450mm
+EXT177,EXT175,Slabs; 150-450mm thk; sloping,m3,External Works,"Reinforced Concrete C40, RC40",187.06,ExternalWorks!E207,187.06,ExternalWorks!A207,External Works,450mm
+EXT178,EXT176,Slabs; ex 450mm thk,m3,External Works,"Reinforced Concrete C40, RC40",183.2,ExternalWorks!E208,183.2,ExternalWorks!A208,External Works,450mm
+EXT179,EXT177,Slabs; ex 450mm thk; sloping,m3,External Works,"Reinforced Concrete C40, RC40",185.91,ExternalWorks!E209,185.91,ExternalWorks!A209,External Works,450mm
+EXT180,EXT178,Attached beams,m3,External Works,"Reinforced Concrete C40, RC40",184.17,ExternalWorks!E210,184.17,ExternalWorks!A210,External Works,
+EXT181,EXT179,Isolated beams,m3,External Works,"Reinforced Concrete C40, RC40",267.48,ExternalWorks!E211,267.48,ExternalWorks!A211,External Works,
+EXT182,EXT180,Isolated beam casings,m3,External Works,"Reinforced Concrete C40, RC40",283.93,ExternalWorks!E212,283.93,ExternalWorks!A212,External Works,
+EXT183,EXT181,Walls; not exceeding 150mm thk,m3,External Works,"Reinforced Concrete C40, RC40",225.05,ExternalWorks!E213,225.05,ExternalWorks!A213,External Works,150mm
+EXT184,EXT182,Walls; 150-450mm thk,m3,External Works,"Reinforced Concrete C40, RC40",208.45,ExternalWorks!E214,208.45,ExternalWorks!A214,External Works,450mm
+EXT185,EXT183,Walls; ex 450mm thk,m3,External Works,"Reinforced Concrete C40, RC40",204.59,ExternalWorks!E215,204.59,ExternalWorks!A215,External Works,450mm
+EXT186,EXT184,Attached piers,m3,External Works,"Reinforced Concrete C40, RC40",208.69,ExternalWorks!E216,208.69,ExternalWorks!A216,External Works,
+EXT187,EXT185,Columns,m3,External Works,"Reinforced Concrete C40, RC40",220.94,ExternalWorks!E217,220.94,ExternalWorks!A217,External Works,
+EXT188,EXT186,Column casings,m3,External Works,"Reinforced Concrete C40, RC40",278.85,ExternalWorks!E218,278.85,ExternalWorks!A218,External Works,
+EXT189,EXT187,Upstands/parapets,m3,External Works,"Reinforced Concrete C40, RC40",227.53,ExternalWorks!E219,227.53,ExternalWorks!A219,External Works,
+EXT190,EXT188,Plinths,m3,External Works,"Reinforced Concrete C40, RC40",226.73,ExternalWorks!E220,226.73,ExternalWorks!A220,External Works,
+EXT191,EXT189,Stairs / landings,m3,External Works,"Reinforced Concrete C40, RC40",230.6,ExternalWorks!E221,230.6,ExternalWorks!A221,External Works,
+EXT192,EXT189,Bed; 150-450mm thk,m3,External Works,Reinforced Concrete PAV1 Air Entrained (C30),199.6,ExternalWorks!E224,199.6,ExternalWorks!A224,External Works,450mm
+EXT193,EXT190,Bed; 150-450mm thk,m3,External Works,Reinforced Concrete PAV2 Air Entrained (C35),202.47,ExternalWorks!E227,202.47,ExternalWorks!A227,External Works,450mm
+EXT194,EXT191,Bed; not exceeding 150mm thk,m3,External Works,Reinforced Concrete C40 Air Entrained PQC,225.93,ExternalWorks!E230,225.93,ExternalWorks!A230,External Works,150mm
+EXT195,EXT192,Bed; 150-450mm thk,m3,External Works,Reinforced Concrete C40 Air Entrained PQC,211.44,ExternalWorks!E231,211.44,ExternalWorks!A231,External Works,450mm
+EXT196,EXT193,Bed; ex 450mm thk,m3,External Works,Reinforced Concrete C40 Air Entrained PQC,209.68,ExternalWorks!E232,209.68,ExternalWorks!A232,External Works,450mm
+EXT197,EXT194,Bed; 150mm thk,m2,External Works,Lazenby polished coloured Reinforced Concrete C40,122.06,ExternalWorks!E235,122.06,ExternalWorks!A235,External Works,150mm
+EXT198,EXT195,Foundations; not exceeding 250,m,External Works,Formwork; Basic Finish,11.03,ExternalWorks!E238,11.03,ExternalWorks!A238,External Works,
+EXT199,EXT196,Foundations; 250-500,m,External Works,Formwork; Basic Finish,18.12,ExternalWorks!E239,18.12,ExternalWorks!A239,External Works,
+EXT200,EXT197,Foundations; 500-1m,m,External Works,Formwork; Basic Finish,28.82,ExternalWorks!E240,28.82,ExternalWorks!A240,External Works,1m
+EXT201,EXT198,Foundations; ex 1m,m2,External Works,Formwork; Basic Finish,36.22,ExternalWorks!E241,36.22,ExternalWorks!A241,External Works,1m
+EXT202,EXT199,Ground beams & edge of bed; not exceeding 250,m,External Works,Formwork; Basic Finish,11.85,ExternalWorks!E242,11.85,ExternalWorks!A242,External Works,
+EXT203,EXT200,Ground beams & edge of bed; 250-500,m,External Works,Formwork; Basic Finish,18.94,ExternalWorks!E243,18.94,ExternalWorks!A243,External Works,
+EXT204,EXT201,Ground beams & edge of bed; 500-1m,m,External Works,Formwork; Basic Finish,29.64,ExternalWorks!E244,29.64,ExternalWorks!A244,External Works,1m
+EXT205,EXT202,Ground beams & edge of bed; (narrow widths; meas m2),m2,External Works,Formwork; Basic Finish,55.57,ExternalWorks!E245,55.57,ExternalWorks!A245,External Works,
+EXT206,EXT203,Ground beams & edge of bed; ex 1m,m2,External Works,Formwork; Basic Finish,37.04,ExternalWorks!E246,37.04,ExternalWorks!A246,External Works,1m
+EXT207,EXT204,Risers / Step in top surface; not exceeding 250,m,External Works,Formwork; Basic Finish,21.3,ExternalWorks!E247,21.3,ExternalWorks!A247,External Works,
+EXT208,EXT205,Risers / Step in top surface; 250-500,m,External Works,Formwork; Basic Finish,31.32,ExternalWorks!E248,31.32,ExternalWorks!A248,External Works,
+EXT209,EXT206,Walls,m2,External Works,Formwork; Basic Finish,38.4,ExternalWorks!E249,38.4,ExternalWorks!A249,External Works,
+EXT210,EXT207,Walls; curved; single radius,m2,External Works,Formwork; Basic Finish,77.17,ExternalWorks!E250,77.17,ExternalWorks!A250,External Works,
+EXT211,EXT208,Walls; one sided,m2,External Works,Formwork; Basic Finish,64.4,ExternalWorks!E251,64.4,ExternalWorks!A251,External Works,
+EXT212,EXT209,Wall kickers,m,External Works,Formwork; Basic Finish,13.5,ExternalWorks!E252,13.5,ExternalWorks!A252,External Works,
+EXT213,EXT210,Wall kickers incorporating a hydrophillic waterstop,m,External Works,Formwork; Basic Finish,30.69,ExternalWorks!E253,30.69,ExternalWorks!A253,External Works,
+EXT214,EXT211,Wall ends/opngs; not exceeding 250,m,External Works,Formwork; Basic Finish,11.03,ExternalWorks!E254,11.03,ExternalWorks!A254,External Works,
+EXT215,EXT212,Wall ends/opngs; 250-500,m,External Works,Formwork; Basic Finish,16.48,ExternalWorks!E255,16.48,ExternalWorks!A255,External Works,
+EXT216,EXT213,Cast in butterfly wall ties; folded flat against fwk. Fold out by others,nr,External Works,Formwork; Basic Finish,4.35,ExternalWorks!E256,4.35,ExternalWorks!A256,External Works,
+EXT217,EXT214,Edges of slabs & openings; not exceeding 250,m,External Works,Formwork; Basic Finish,11.03,ExternalWorks!E257,11.03,ExternalWorks!A257,External Works,
+EXT218,EXT215,Edges of slabs & openings; not exceeding 250; curved,m,External Works,Formwork; Basic Finish,22.06,ExternalWorks!E258,22.06,ExternalWorks!A258,External Works,
+EXT219,EXT216,Edges of slabs & openings; 250-500,m,External Works,Formwork; Basic Finish,18.01,ExternalWorks!E259,18.01,ExternalWorks!A259,External Works,
+EXT220,EXT217,Edges of slabs & openings; 250-500; curved,m,External Works,Formwork; Basic Finish,36.03,ExternalWorks!E260,36.03,ExternalWorks!A260,External Works,
+EXT221,EXT218,Soffit of slabs; 1.5-3.0m,m2,External Works,Formwork; Basic Finish,31.61,ExternalWorks!E261,31.61,ExternalWorks!A261,External Works,0m
+EXT222,EXT219,Soffit of slabs; 1.5-3.0m; off sloping ground,m2,External Works,Formwork; Basic Finish,39.52,ExternalWorks!E262,39.52,ExternalWorks!A262,External Works,0m
+EXT223,EXT220,Soffit of slabs; 1.5-3.0m; sloping,m2,External Works,Formwork; Basic Finish,37.95,ExternalWorks!E263,37.95,ExternalWorks!A263,External Works,0m
+EXT224,EXT221,Soffit of slabs; 3.0-4.5m,m2,External Works,Formwork; Basic Finish,37.94,ExternalWorks!E264,37.94,ExternalWorks!A264,External Works,5m
+EXT225,EXT222,Soffit of slabs; 3.0-4.5m; off sloping ground,m2,External Works,Formwork; Basic Finish,47.41,ExternalWorks!E265,47.41,ExternalWorks!A265,External Works,5m
+EXT226,EXT223,Soffit of slabs; 3.0-4.5m; sloping,m2,External Works,Formwork; Basic Finish,45.51,ExternalWorks!E266,45.51,ExternalWorks!A266,External Works,5m
+EXT227,EXT224,Soffit of slabs; 4.5-6.0m,m2,External Works,Formwork; Basic Finish,50.05,ExternalWorks!E267,50.05,ExternalWorks!A267,External Works,0m
+EXT228,EXT225,Columns; rectangular; not exceeding 3.0m high,m2,External Works,Formwork; Basic Finish,35.75,ExternalWorks!E268,35.75,ExternalWorks!A268,External Works,0m
+EXT229,EXT226,Columns; rectangular; 3.0-4.5m high,m2,External Works,Formwork; Basic Finish,36.25,ExternalWorks!E269,36.25,ExternalWorks!A269,External Works,5m
+EXT230,EXT227,Upstands; not exceeding 250,m,External Works,Formwork; Basic Finish,17.78,ExternalWorks!E270,17.78,ExternalWorks!A270,External Works,
+EXT231,EXT228,Upstands; not exceeding 250; curved,m,External Works,Formwork; Basic Finish,35.55,ExternalWorks!E271,35.55,ExternalWorks!A271,External Works,
+EXT232,EXT229,Upstands; 250-500,m,External Works,Formwork; Basic Finish,28.42,ExternalWorks!E272,28.42,ExternalWorks!A272,External Works,
+EXT233,EXT230,Upstands; 250-500; curved,m,External Works,Formwork; Basic Finish,56.83,ExternalWorks!E273,56.83,ExternalWorks!A273,External Works,
+EXT234,EXT231,Upstands; 500-1m,m,External Works,Formwork; Basic Finish,43.22,ExternalWorks!E274,43.22,ExternalWorks!A274,External Works,1m
+EXT235,EXT232,Upstands; 500-1m; curved,m,External Works,Formwork; Basic Finish,86.45,ExternalWorks!E275,86.45,ExternalWorks!A275,External Works,1m
+EXT236,EXT233,Various sizes 10-40mm dia,item,External Works,Reinforcement; (Provisional),1874.6,ExternalWorks!E279,1874.6,ExternalWorks!A279,External Works,40mm
+EXT237,EXT234,Mesh reinforcement; A142,m2,External Works,Reinforcement; (Provisional),8.71,ExternalWorks!E281,8.71,ExternalWorks!A281,External Works,
+EXT238,EXT235,Mesh reinforcement; A193,m2,External Works,Reinforcement; (Provisional),10.35,ExternalWorks!E282,10.35,ExternalWorks!A282,External Works,
+EXT239,EXT236,Mesh reinforcement; A252,m2,External Works,Reinforcement; (Provisional),12.41,ExternalWorks!E283,12.41,ExternalWorks!A283,External Works,
+EXT240,EXT237,Mesh reinforcement; A393,m2,External Works,Reinforcement; (Provisional),18.91,ExternalWorks!E284,18.91,ExternalWorks!A284,External Works,
+EXT241,EXT238,Mesh reinforcement; A393; in steps; horz & vert,m2,External Works,Reinforcement; (Provisional),28.36,ExternalWorks!E285,28.36,ExternalWorks!A285,External Works,
+EXT242,EXT239,Mesh reinforcement; B785,m2,External Works,Reinforcement; (Provisional),24.11,ExternalWorks!E286,24.11,ExternalWorks!A286,External Works,
+EXT243,EXT240,Mesh reinforcement; B785; vertical,m2,External Works,Reinforcement; (Provisional),33.45,ExternalWorks!E287,33.45,ExternalWorks!A287,External Works,
+EXT244,EXT241,Tamp finish,m2,External Works,Concrete unformed finishes,1.54,ExternalWorks!E290,1.54,ExternalWorks!A290,External Works,
+EXT245,EXT242,Trowel finish,m2,External Works,Concrete unformed finishes,3.86,ExternalWorks!E291,3.86,ExternalWorks!A291,External Works,
+EXT246,EXT243,Trowel; narrow widths; not exceeding 250mm,m2,External Works,Concrete unformed finishes,10.81,ExternalWorks!E292,10.81,ExternalWorks!A292,External Works,250mm
+EXT247,EXT244,Skip float (Basic finish),m2,External Works,Concrete unformed finishes,2.32,ExternalWorks!E293,2.32,ExternalWorks!A293,External Works,
+EXT248,EXT245,Bullnose edging,m,External Works,Concrete unformed finishes,2.32,ExternalWorks!E294,2.32,ExternalWorks!A294,External Works,edging
+EXT249,EXT246,Brush finish (Special finish),m2,External Works,Concrete unformed finishes,8.01,ExternalWorks!E295,8.01,ExternalWorks!A295,External Works,
+EXT250,EXT247,Power float (Ordinary finish),m2,External Works,Concrete unformed finishes,5.69,ExternalWorks!E296,5.69,ExternalWorks!A296,External Works,
+EXT251,EXT247,In-situ steps; 1 step (350mm tread & 150mm riser) x 1.0m long,m,External Works,Concrete Steps (Composite items),173.26,ExternalWorks!E299,173.26,ExternalWorks!A299,External Works,"350mm,150mm"
+EXT252,EXT248,In-situ steps; 1.0m wide,m,External Works,Concrete Steps (Composite items),525.17,ExternalWorks!E300,525.17,ExternalWorks!A300,External Works,0m
+EXT253,EXT249,In-situ steps; 1.2m wide,m,External Works,Concrete Steps (Composite items),592.72,ExternalWorks!E301,592.72,ExternalWorks!A301,External Works,2m
+EXT254,EXT250,In-situ steps; 1.2m wide x 4.5m going x 1.36m rise,nr,External Works,Concrete Steps (Composite items),2645.49,ExternalWorks!E302,2645.49,ExternalWorks!A302,External Works,"2m,5m"
+EXT255,EXT251,In-situ steps; 1.5m wide,m,External Works,Concrete Steps (Composite items),695.91,ExternalWorks!E303,695.91,ExternalWorks!A303,External Works,5m
+EXT256,EXT252,In-situ steps; 1.7m wide x 6.0m going x 1.92m rise,nr,External Works,Concrete Steps (Composite items),4183.33,ExternalWorks!E304,4183.33,ExternalWorks!A304,External Works,"7m,0m"
+EXT257,EXT253,In-situ steps; 2.0m wide,m,External Works,Concrete Steps (Composite items),868.61,ExternalWorks!E305,868.61,ExternalWorks!A305,External Works,0m
+EXT258,EXT254,In-situ steps; 2.0m wide x 1.5m going x 0.75m rise,nr,External Works,Concrete Steps (Composite items),1433.49,ExternalWorks!E306,1433.49,ExternalWorks!A306,External Works,"0m,5m"
+EXT259,EXT255,In-situ steps; 2.0m wide x 17.2m going x 2.89m rise,nr,External Works,Concrete Steps (Composite items),14525.35,ExternalWorks!E307,14525.35,ExternalWorks!A307,External Works,"0m,2m"
+EXT260,EXT256,1200g visqueen; horizontal,m2,External Works,Waterproofing,1.31,ExternalWorks!E310,1.31,ExternalWorks!A310,External Works,
+EXT261,EXT257,1200g visqueen; vertical,m2,External Works,Waterproofing,4.37,ExternalWorks!E311,4.37,ExternalWorks!A311,External Works,
+EXT262,EXT258,Synthaprufe LAC; 3 coats; vert,m2,External Works,Waterproofing,27.43,ExternalWorks!E312,27.43,ExternalWorks!A312,External Works,
+EXT263,EXT259,Protection board; Servipak 6mm; vertical,m2,External Works,Waterproofing,15.75,ExternalWorks!E313,15.75,ExternalWorks!A313,External Works,6mm
+EXT264,EXT260,RIW LAC; 2 coats; horz,m2,External Works,Waterproofing,13.19,ExternalWorks!E314,13.19,ExternalWorks!A314,External Works,
+EXT265,EXT261,RIW LAC; 2 coats; vert,m2,External Works,Waterproofing,14.21,ExternalWorks!E315,14.21,ExternalWorks!A315,External Works,
+EXT266,EXT262,10mm Hydrotech hot laid rubber bitumen membrane; laid by approved installer; horizontal,m2,External Works,Waterproofing,37.5,ExternalWorks!E316,37.5,ExternalWorks!A316,External Works,10mm
+EXT267,EXT263,6F1 capping layer,m3,External Works,Road Construction,37.24,ExternalWorks!E319,37.24,ExternalWorks!A319,External Works,
+EXT268,EXT264,Type 1 sub-base,m3,External Works,Road Construction,49.0,ExternalWorks!E320,49.0,ExternalWorks!A320,External Works,
+EXT269,EXT265,L&C fill,m2,External Works,Road Construction,0.31,ExternalWorks!E321,0.31,ExternalWorks!A321,External Works,
+EXT270,EXT266,6F1 capping layer,m3,External Works,Pavement Construction,37.24,ExternalWorks!E324,37.24,ExternalWorks!A324,External Works,
+EXT271,EXT267,Type 1 sub-base,m3,External Works,Pavement Construction,49.0,ExternalWorks!E325,49.0,ExternalWorks!A325,External Works,
+EXT272,EXT268,L&C fill,m2,External Works,Pavement Construction,0.47,ExternalWorks!E326,0.47,ExternalWorks!A326,External Works,
+EXT273,EXT269,Type 1 sub-base; 150mm thk,m2,External Works,Pavement Construction,8.09,ExternalWorks!E327,8.09,ExternalWorks!A327,External Works,150mm
+EXT274,EXT270,Terram,m2,External Works,Pavement Construction,1.52,ExternalWorks!E328,1.52,ExternalWorks!A328,External Works,
+EXT275,EXT271,300mm thick plinth,m2,External Works,Plinths / Plant bases,173.92,ExternalWorks!E331,173.92,ExternalWorks!A331,External Works,300mm
+EXT276,EXT272,300mm thick plinth,m2,External Works,Plinths / Plant bases,222.29,ExternalWorks!E332,222.29,ExternalWorks!A332,External Works,300mm
+EXT277,EXT273,"Composite road surfacing comprising 120mm AC32 base course, 60mm AC20 binder course, 40mm AC10 close surface course",m2,External Works,Tarmac Surfacing,56.94,ExternalWorks!E335,56.94,ExternalWorks!A335,External Works,"120mm,60mm"
+EXT278,EXT274,"Composite temporary road surfacing comprising 90mm AC32 base course, 60mm AC20 binder course; (no wearing course)",m2,External Works,Tarmac Surfacing,34.0,ExternalWorks!E336,34.0,ExternalWorks!A336,External Works,"90mm,60mm"
+EXT279,EXT275,"Composite temporary road surfacing comprising 100mm AC32 base course, 60mm AC20 binder course; (no wearing course)",m2,External Works,Tarmac Surfacing,35.69,ExternalWorks!E337,35.69,ExternalWorks!A337,External Works,"100mm,60mm"
+EXT280,EXT276,"Composite footpath surfacing comprising 50mm AC20 binder course, 30mm AC6 surface course",m2,External Works,Tarmac Surfacing,28.5,ExternalWorks!E338,28.5,ExternalWorks!A338,External Works,"50mm,30mm"
+EXT281,EXT277,Composite temporary footpath surfacing comprising 50mm AC20 binder course; (no wearing course),m2,External Works,Tarmac Surfacing,23.31,ExternalWorks!E339,23.31,ExternalWorks!A339,External Works,50mm
+EXT282,EXT278,16mm resin bound surfacing,m2,External Works,Tarmac Surfacing,49.88,ExternalWorks!E340,49.88,ExternalWorks!A340,External Works,16mm
+EXT283,EXT278,40mm resin bound surfacing to tree pits,m2,External Works,Tarmac Surfacing,88.75,ExternalWorks!E341,88.75,ExternalWorks!A341,External Works,40mm
+EXT284,EXT279,50mm resin bound surfacing to tree pits,m2,External Works,Tarmac Surfacing,110.0,ExternalWorks!E342,110.0,ExternalWorks!A342,External Works,50mm
+EXT285,EXT280,40mm green rubber safety surfacing,m2,External Works,Tarmac Surfacing,75.38,ExternalWorks!E343,75.38,ExternalWorks!A343,External Works,40mm
+EXT286,EXT281,Regulating course; DBM AC32,m3,External Works,Tarmac Surfacing,212.5,ExternalWorks!E344,212.5,ExternalWorks!A344,External Works,
+EXT287,EXT282,DBM road base (base course AC32); 70mm thk,m2,External Works,Tarmac Surfacing,18.13,ExternalWorks!E345,18.13,ExternalWorks!A345,External Works,70mm
+EXT288,EXT283,DBM road base (base course AC32); 80mm thk,m2,External Works,Tarmac Surfacing,19.38,ExternalWorks!E346,19.38,ExternalWorks!A346,External Works,80mm
+EXT289,EXT284,DBM road base (base course AC32); 90mm thk,m2,External Works,Tarmac Surfacing,20.63,ExternalWorks!E347,20.63,ExternalWorks!A347,External Works,90mm
+EXT290,EXT285,DBM road base (base course AC32); 100mm thk,m2,External Works,Tarmac Surfacing,21.88,ExternalWorks!E348,21.88,ExternalWorks!A348,External Works,100mm
+EXT291,EXT286,DBM road base (base course AC32); 120mm thk,m2,External Works,Tarmac Surfacing,26.25,ExternalWorks!E349,26.25,ExternalWorks!A349,External Works,120mm
+EXT292,EXT287,DBM road base (base course AC32); 130mm thk,m2,External Works,Tarmac Surfacing,28.13,ExternalWorks!E350,28.13,ExternalWorks!A350,External Works,130mm
+EXT293,EXT288,DBM road base (base course AC32); 150mm thk,m2,External Works,Tarmac Surfacing,28.16,ExternalWorks!E351,28.16,ExternalWorks!A351,External Works,150mm
+EXT294,EXT289,DBM road base (base course AC32); 160mm thk,m2,External Works,Tarmac Surfacing,35.25,ExternalWorks!E352,35.25,ExternalWorks!A352,External Works,160mm
+EXT295,EXT290,HRA base course AC32; 40/60 bin; 140mm thk,m2,External Works,Tarmac Surfacing,42.2,ExternalWorks!E353,42.2,ExternalWorks!A353,External Works,140mm
+EXT296,EXT291,HRA base course AC32; 40/60 bin; 165mm thk,m2,External Works,Tarmac Surfacing,56.25,ExternalWorks!E354,56.25,ExternalWorks!A354,External Works,165mm
+EXT297,EXT292,DBM base course (binder course AC20); 40mm thk,m2,External Works,Tarmac Surfacing,15.66,ExternalWorks!E355,15.66,ExternalWorks!A355,External Works,40mm
+EXT298,EXT293,DBM base course (binder course AC20); 50mm thk,m2,External Works,Tarmac Surfacing,14.38,ExternalWorks!E356,14.38,ExternalWorks!A356,External Works,50mm
+EXT299,EXT294,DBM base course (binder course AC20); 60mm thk,m2,External Works,Tarmac Surfacing,16.25,ExternalWorks!E358,16.25,ExternalWorks!A358,External Works,60mm
+EXT300,EXT295,DBM base course (binder course AC20); 70mm thk,m2,External Works,Tarmac Surfacing,17.5,ExternalWorks!E359,17.5,ExternalWorks!A359,External Works,70mm
+EXT301,EXT296,DBM base course (binder course AC20); 85mm thk,m2,External Works,Tarmac Surfacing,18.13,ExternalWorks!E360,18.13,ExternalWorks!A360,External Works,85mm
+EXT302,EXT297,DBM base course (binder course AC20); 100mm thk,m2,External Works,Tarmac Surfacing,27.5,ExternalWorks!E361,27.5,ExternalWorks!A361,External Works,100mm
+EXT303,EXT298,DBM base course (binder course AC20); 125mm thk,m2,External Works,Tarmac Surfacing,32.81,ExternalWorks!E362,32.81,ExternalWorks!A362,External Works,125mm
+EXT304,EXT299,DBM base course (binder course AC20); 130mm thk,m2,External Works,Tarmac Surfacing,34.13,ExternalWorks!E363,34.13,ExternalWorks!A363,External Works,130mm
+EXT305,EXT300,DBM base course (binder course AC20); 200mm thk,m2,External Works,Tarmac Surfacing,50.0,ExternalWorks!E364,50.0,ExternalWorks!A364,External Works,200mm
+EXT306,EXT301,HRA binder course AC20; 40/60 bin; 60mm thk,m2,External Works,Tarmac Surfacing,36.25,ExternalWorks!E365,36.25,ExternalWorks!A365,External Works,60mm
+EXT307,EXT302,HRA binder course AC20; 100/150 bin; 100mm thk,m2,External Works,Tarmac Surfacing,63.75,ExternalWorks!E366,63.75,ExternalWorks!A366,External Works,100mm
+EXT308,EXT303,HRA binder AC14 open surface asphalt max160/220 pen; 50mm,m2,External Works,Tarmac Surfacing,47.5,ExternalWorks!E367,47.5,ExternalWorks!A367,External Works,"50mm,asphalt"
+EXT309,EXT304,HRA binder AC10 asphalt; 100/150 pen; 125mm,m2,External Works,Tarmac Surfacing,78.75,ExternalWorks!E368,78.75,ExternalWorks!A368,External Works,"125mm,asphalt"
+EXT310,EXT305,DBM wearing course (surface course AC10); 20mm thk,m2,External Works,Tarmac Surfacing,12.5,ExternalWorks!E369,12.5,ExternalWorks!A369,External Works,20mm
+EXT311,EXT306,DBM wearing course (surface course AC10); 25mm thk,m2,External Works,Tarmac Surfacing,12.81,ExternalWorks!E370,12.81,ExternalWorks!A370,External Works,25mm
+EXT312,EXT307,DBM wearing course (surface course AC10); 30mm thk,m2,External Works,Tarmac Surfacing,13.13,ExternalWorks!E371,13.13,ExternalWorks!A371,External Works,30mm
+EXT313,EXT308,DBM wearing course (surface course AC10); 40mm thk,m2,External Works,Tarmac Surfacing,14.06,ExternalWorks!E372,14.06,ExternalWorks!A372,External Works,40mm
+EXT314,EXT309,DBM wearing course (surface course AC10); 50mm thk,m2,External Works,Tarmac Surfacing,17.58,ExternalWorks!E373,17.58,ExternalWorks!A373,External Works,50mm
+EXT315,EXT310,DBM wearing course (surface course AC6); 20mm thk,m2,External Works,Tarmac Surfacing,13.13,ExternalWorks!E374,13.13,ExternalWorks!A374,External Works,20mm
+EXT316,EXT311,DBM wearing course (surface course AC6); 25mm thk,m2,External Works,Tarmac Surfacing,13.44,ExternalWorks!E375,13.44,ExternalWorks!A375,External Works,25mm
+EXT317,EXT312,DBM wearing course (surface course AC6); 30mm thk,m2,External Works,Tarmac Surfacing,13.75,ExternalWorks!E376,13.75,ExternalWorks!A376,External Works,30mm
+EXT318,EXT313,HRA surface course AC6; 100/150 bin; 25mm thk,m2,External Works,Tarmac Surfacing,21.88,ExternalWorks!E377,21.88,ExternalWorks!A377,External Works,25mm
+EXT319,EXT314,HRA surface course AC6; 100/150 bin; 35mm thk,m2,External Works,Tarmac Surfacing,24.15,ExternalWorks!E378,24.15,ExternalWorks!A378,External Works,35mm
+EXT320,EXT315,HRA wearing course (surface course); 40mm thk,m2,External Works,Tarmac Surfacing,25.0,ExternalWorks!E379,25.0,ExternalWorks!A379,External Works,40mm
+EXT321,EXT316,Porous tarmac; 80mm surface course; 60mm binder course,m2,External Works,Tarmac Surfacing,56.25,ExternalWorks!E380,56.25,ExternalWorks!A380,External Works,"80mm,60mm,tarmac"
+EXT322,EXT317,Porous asphalt; 150mm surface course Tarmac Topmix Permeable Asphalt in 3 colours,m2,External Works,Tarmac Surfacing,105.47,ExternalWorks!E381,105.47,ExternalWorks!A381,External Works,"150mm,tarmac,asphalt"
+EXT323,EXT318,HRA Supercolour by Aggregate Inds high impact wearing course (surface course); 30mm thk,m2,External Works,Tarmac Surfacing,34.5,ExternalWorks!E382,34.5,ExternalWorks!A382,External Works,"30mm,gate"
+EXT324,EXT319,Form speed hump; 1.0m width,m,External Works,Tarmac Surfacing,31.25,ExternalWorks!E383,31.25,ExternalWorks!A383,External Works,0m
+EXT325,EXT320,Form speed hump; 4.0m width,m,External Works,Tarmac Surfacing,125.0,ExternalWorks!E384,125.0,ExternalWorks!A384,External Works,0m
+EXT326,EXT321,Core drill DBM; 75 dia x 80mm thk; fill with free draining aggregate,nr,External Works,Tarmac Surfacing,4.13,ExternalWorks!E385,4.13,ExternalWorks!A385,External Works,"80mm,gate"
+EXT327,EXT322,Core drill DBM; 80 dia x 90mm thk; fill with free draining aggregate,nr,External Works,Tarmac Surfacing,4.96,ExternalWorks!E386,4.96,ExternalWorks!A386,External Works,"90mm,gate"
+EXT328,EXT323,Core drill DBM; 75 dia x 150mm thk; fill with free draining aggregate,nr,External Works,Tarmac Surfacing,7.75,ExternalWorks!E387,7.75,ExternalWorks!A387,External Works,"150mm,gate"
+EXT329,EXT324,Pre-coated chippings,m2,External Works,Tarmac Surfacing,8.75,ExternalWorks!E388,8.75,ExternalWorks!A388,External Works,
+EXT330,EXT325,Coloured Pre-coated chippings,m2,External Works,Tarmac Surfacing,17.5,ExternalWorks!E389,17.5,ExternalWorks!A389,External Works,
+EXT331,EXT326,Tack coat,m2,External Works,Tarmac Surfacing,0.38,ExternalWorks!E390,0.38,ExternalWorks!A390,External Works,
+EXT332,EXT327,Sealing edges,m,External Works,Tarmac Surfacing,1.25,ExternalWorks!E391,1.25,ExternalWorks!A391,External Works,
+EXT333,EXT328,Stepped junction between pavings; 2 layers,m,External Works,Tarmac Surfacing,22.15,ExternalWorks!E392,22.15,ExternalWorks!A392,External Works,paving
+EXT334,EXT329,Stepped junction between pavings; 3 layers,m,External Works,Tarmac Surfacing,33.23,ExternalWorks!E393,33.23,ExternalWorks!A393,External Works,paving
+EXT335,EXT330,Polymeric coloured MUGA play surface; type 4 EPDM wearing course; 15-20mm thk; mixed with resin binder,m2,External Works,Tarmac Surfacing,56.25,ExternalWorks!E394,56.25,ExternalWorks!A394,External Works,20mm
+EXT336,EXT331,Playground safety surfacing; Provisional rate,m2,External Works,Tarmac Surfacing,62.5,ExternalWorks!E395,62.5,ExternalWorks!A395,External Works,
+EXT337,EXT332,Planning existing road surface (per shift),item,External Works,Tarmac Surfacing,3875.0,ExternalWorks!E396,3875.0,ExternalWorks!A396,External Works,
+EXT338,EXT333,Planning existing road surface (large areas @ approx 180m2/day),m2,External Works,Tarmac Surfacing,21.53,ExternalWorks!E397,21.53,ExternalWorks!A397,External Works,
+EXT339,EXT334,"Infill strip of tarmac along new kerb lines, etc, to make good gap",m,External Works,Tarmac Surfacing,12.5,ExternalWorks!E398,12.5,ExternalWorks!A398,External Works,"kerb,tarmac"
+EXT340,EXT335,Keyblok/Europa paving; 200 x 100 x 80; on 50mm sand bed,m2,External Works,Paving,39.41,ExternalWorks!E401,39.41,ExternalWorks!A401,External Works,"50mm,paving"
+EXT341,EXT336,Keyblok/Europa paving; 200 x 100 x 60; on 50mm sand bed,m2,External Works,Paving,32.52,ExternalWorks!E402,32.52,ExternalWorks!A402,External Works,"50mm,paving"
+EXT342,EXT337,Keyblok Priora paving; permeable; 200 x 100 x 60; on 50mm sand bed,m2,External Works,Paving,35.08,ExternalWorks!E403,35.08,ExternalWorks!A403,External Works,"50mm,paving"
+EXT343,EXT338,Keyblok Priora paving; permeable; 200 x 100 x 80; on 50mm sand bed,m2,External Works,Paving,41.98,ExternalWorks!E404,41.98,ExternalWorks!A404,External Works,"50mm,paving"
+EXT344,EXT339,Raking cutting,m,External Works,Paving,3.33,ExternalWorks!E405,3.33,ExternalWorks!A405,External Works,
+EXT345,EXT340,Curved cutting,m,External Works,Paving,6.11,ExternalWorks!E406,6.11,ExternalWorks!A406,External Works,
+EXT346,EXT341,100mm wide perimeter edge detail,m,External Works,Paving,5.48,ExternalWorks!E407,5.48,ExternalWorks!A407,External Works,100mm
+EXT347,EXT342,100mm wide perimeter edge detail; curved,m,External Works,Paving,12.61,ExternalWorks!E408,12.61,ExternalWorks!A408,External Works,100mm
+EXT348,EXT343,Hit and miss white blocks as space markings,m,External Works,Paving,7.87,ExternalWorks!E409,7.87,ExternalWorks!A409,External Works,
+EXT349,EXT344,Marshalls Myriad blocks with granite aggregate; 200 x 100 x 80; on 50mm sand bed,m2,External Works,Paving,52.33,ExternalWorks!E410,52.33,ExternalWorks!A410,External Works,"50mm,gate"
+EXT350,EXT345,Charcon Andover block paving; 200 x 100 x 80; on 50mm sand bed,m2,External Works,Paving,58.1,ExternalWorks!E411,58.1,ExternalWorks!A411,External Works,"50mm,paving"
+EXT351,EXT346,Concrete block paving; 200 x 100 x 80; (PC supply £20/m2); on 50mm sand bed,m2,External Works,Paving,42.04,ExternalWorks!E412,42.04,ExternalWorks!A412,External Works,"50mm,paving,concrete"
+EXT352,EXT347,Priora paving; permeable; 200 x 100 x 80; on 50mm sand bed,m2,External Works,Paving,45.32,ExternalWorks!E413,45.32,ExternalWorks!A413,External Works,"50mm,paving"
+EXT353,EXT348,Formpave Aquaflow; permeable; 200 x 100 x 60; on 50mm sand bed,m2,External Works,Paving,37.21,ExternalWorks!E414,37.21,ExternalWorks!A414,External Works,50mm
+EXT354,EXT349,Formpave Aquaflow; permeable; 200 x 100 x 80; on 50mm sand bed,m2,External Works,Paving,39.43,ExternalWorks!E415,39.43,ExternalWorks!A415,External Works,50mm
+EXT355,EXT350,Tegula Priora paving; permeable; 240/160/120 x 160 x 80; on 50mm sand bed,m2,External Works,Paving,56.03,ExternalWorks!E416,56.03,ExternalWorks!A416,External Works,"50mm,paving"
+EXT356,EXT351,Tegula Priora paving; permeable; 240/160/120 x 160 x 60; on 50mm sand bed,m2,External Works,Paving,52.66,ExternalWorks!E417,52.66,ExternalWorks!A417,External Works,"50mm,paving"
+EXT357,EXT352,Brett Omega Flow paving; permeable; ? x ? x 80; on 50mm sand bed,m2,External Works,Paving,32.85,ExternalWorks!E418,32.85,ExternalWorks!A418,External Works,"50mm,paving"
+EXT358,EXT353,EO sand bed for free draining fine aggregate bedding,m2,External Works,Paving,1.8,ExternalWorks!E419,1.8,ExternalWorks!A419,External Works,gate
+EXT359,EXT354,EO single row at edge; stretcher crse; str,m,External Works,Paving,3.33,ExternalWorks!E420,3.33,ExternalWorks!A420,External Works,
+EXT360,EXT355,EO single row at edge; stretcher crse; curved,m,External Works,Paving,6.67,ExternalWorks!E421,6.67,ExternalWorks!A421,External Works,
+EXT361,EXT356,Raking cutting,m,External Works,Paving,3.33,ExternalWorks!E422,3.33,ExternalWorks!A422,External Works,
+EXT362,EXT357,Curved cutting,m,External Works,Paving,6.67,ExternalWorks!E423,6.67,ExternalWorks!A423,External Works,
+EXT363,EXT358,Hit and miss white blocks as space markings,m,External Works,Paving,7.87,ExternalWorks!E424,7.87,ExternalWorks!A424,External Works,
+EXT364,EXT359,PC concrete flags; 400 x 400 x 50/65; on 50mm sand bed,m2,External Works,Paving,33.51,ExternalWorks!E425,33.51,ExternalWorks!A425,External Works,"50mm,concrete"
+EXT365,EXT360,PC concrete flags; 400 x 400 x 50/65; on 50mm mortar bed,m2,External Works,Paving,39.84,ExternalWorks!E426,39.84,ExternalWorks!A426,External Works,"50mm,concrete"
+EXT366,EXT361,PC concrete flags; 400 x 400 x 50; on 50mm mortar bed & pointing,m2,External Works,Paving,44.11,ExternalWorks!E427,44.11,ExternalWorks!A427,External Works,"50mm,concrete"
+EXT367,EXT362,PC concrete flags; 450 x 450 x 50; on 50mm sand bed,m2,External Works,Paving,30.86,ExternalWorks!E428,30.86,ExternalWorks!A428,External Works,"50mm,concrete"
+EXT368,EXT363,PC concrete flags; 450 x 450 x 50; on 50mm mortar bed,m2,External Works,Paving,37.2,ExternalWorks!E429,37.2,ExternalWorks!A429,External Works,"50mm,concrete"
+EXT369,EXT364,PC concrete flags; 600 x 600 x 60; on 50mm sand bed,m2,External Works,Paving,26.23,ExternalWorks!E430,26.23,ExternalWorks!A430,External Works,"50mm,concrete"
+EXT370,EXT365,PC concrete flags; 600 x 600 x 60; buff; on 50mm sand bed,m2,External Works,Paving,29.25,ExternalWorks!E431,29.25,ExternalWorks!A431,External Works,"50mm,concrete"
+EXT371,EXT366,PC concrete flags; 600 x 600 x 60; on 50mm mortar bed,m2,External Works,Paving,30.02,ExternalWorks!E432,30.02,ExternalWorks!A432,External Works,"50mm,concrete"
+EXT372,EXT367,Granite paving; 900 x 600 x 60; on 50mm mortar bed; free issue,m2,External Works,Paving,20.84,ExternalWorks!E433,20.84,ExternalWorks!A433,External Works,"50mm,paving"
+EXT373,EXT368,PC concrete flags; 600 x 600 x 60; on 50mm mortar bed & pointing,m2,External Works,Paving,30.5,ExternalWorks!E434,30.5,ExternalWorks!A434,External Works,"50mm,concrete"
+EXT374,EXT369,PC concrete flags; 750 x 600 x 50; on 50mm sand bed,m2,External Works,Paving,22.65,ExternalWorks!E435,22.65,ExternalWorks!A435,External Works,"50mm,concrete"
+EXT375,EXT370,PC concrete flags; 900 x 600 x 50; on 50mm sand bed,m2,External Works,Paving,30.02,ExternalWorks!E436,30.02,ExternalWorks!A436,External Works,"50mm,concrete"
+EXT376,EXT371,EO mortar bed,m2,External Works,Paving,6.34,ExternalWorks!E437,6.34,ExternalWorks!A437,External Works,
+EXT377,EXT372,Raking cutting,m,External Works,Paving,3.33,ExternalWorks!E438,3.33,ExternalWorks!A438,External Works,
+EXT378,EXT373,Curved cutting,m,External Works,Paving,6.11,ExternalWorks!E439,6.11,ExternalWorks!A439,External Works,
+EXT379,EXT374,PC concrete paving; 900 x 600 x 50; on 50mm mortar bed & pointing,m2,External Works,Paving,31.86,ExternalWorks!E440,31.86,ExternalWorks!A440,External Works,"50mm,paving,concrete"
+EXT380,EXT375,PC concrete paving; 900 x 600 x 63; on 50mm mortar bed & pointing,m2,External Works,Paving,39.92,ExternalWorks!E441,39.92,ExternalWorks!A441,External Works,"50mm,paving,concrete"
+EXT381,EXT376,"Existing paving flags; lift, clean, remove bed and re-lay on new 50mm sand bed",m2,External Works,Paving,19.06,ExternalWorks!E442,19.06,ExternalWorks!A442,External Works,"50mm,paving"
+EXT382,EXT377,Bradstone Peak Riven paving; 300 x 300 x 50; on 50mm mortar bed & jointing,m2,External Works,Paving,91.29,ExternalWorks!E443,91.29,ExternalWorks!A443,External Works,"50mm,paving"
+EXT383,EXT378,Bradstone Peak Riven paving; 450 x 450 x 50; on 50mm mortar bed & jointing,m2,External Works,Paving,58.61,ExternalWorks!E444,58.61,ExternalWorks!A444,External Works,"50mm,paving"
+EXT384,EXT379,Raking cutting,m,External Works,Paving,3.33,ExternalWorks!E445,3.33,ExternalWorks!A445,External Works,
+EXT385,EXT380,Curved cutting,m,External Works,Paving,6.11,ExternalWorks!E446,6.11,ExternalWorks!A446,External Works,
+EXT386,EXT381,Conc slab PT13 paving; 450 x 450 x 50; on 50mm sand bed,m2,External Works,Paving,54.82,ExternalWorks!E447,54.82,ExternalWorks!A447,External Works,"50mm,paving"
+EXT387,EXT382,EO for pedestals (per pedestal),nr,External Works,Paving,9.62,ExternalWorks!E448,9.62,ExternalWorks!A448,External Works,
+EXT388,EXT383,EO for pedestals for 450 x 450 slabs,m2,External Works,Paving,75.99,ExternalWorks!E449,75.99,ExternalWorks!A449,External Works,
+EXT389,EXT384,Saxon paving; 450 x 450 x 50; on 50mm sand bed,m2,External Works,Paving,54.82,ExternalWorks!E450,54.82,ExternalWorks!A450,External Works,"50mm,paving"
+EXT390,EXT385,Saxon paving; 450 x 450 x 50; on 50mm mortar bed,m2,External Works,Paving,57.56,ExternalWorks!E451,57.56,ExternalWorks!A451,External Works,"50mm,paving"
+EXT391,EXT386,Saxon paving; 450 x 450 x 50; on 50mm mortar bed & pointing,m2,External Works,Paving,63.56,ExternalWorks!E452,63.56,ExternalWorks!A452,External Works,"50mm,paving"
+EXT392,EXT387,Saxon Traffica paving; 450 x 450 x 70; on 50mm mortar bed & pointing,m2,External Works,Paving,68.94,ExternalWorks!E453,68.94,ExternalWorks!A453,External Works,"50mm,paving"
+EXT393,EXT388,Saxon paving; 600 x 600 x 50; on 50mm mortar bed,m2,External Works,Paving,52.22,ExternalWorks!E454,52.22,ExternalWorks!A454,External Works,"50mm,paving"
+EXT394,EXT389,Saxon paving; 600 x 600 x 50; on 50mm mortar bed & pointing,m2,External Works,Paving,58.21,ExternalWorks!E455,58.21,ExternalWorks!A455,External Works,"50mm,paving"
+EXT395,EXT390,Charcon Moordale Textured paving; 450 x 450 x 50; on 50mm sand bed,m2,External Works,Paving,36.66,ExternalWorks!E456,36.66,ExternalWorks!A456,External Works,"50mm,paving"
+EXT396,EXT391,Perfecta paving; 450 x 450 x 50; on 50mm sand bed,m2,External Works,Paving,53.05,ExternalWorks!E457,53.05,ExternalWorks!A457,External Works,"50mm,paving"
+EXT397,EXT392,Perfecta smooth paving; 450 x 450 x 50; on Kinley Versijack pedestals 117-201mm,m2,External Works,Paving,97.19,ExternalWorks!E458,97.19,ExternalWorks!A458,External Works,"201mm,paving"
+EXT398,EXT393,Perfecta paving; 450 x 300 x 50; on 50mm sand bed,m2,External Works,Paving,67.82,ExternalWorks!E459,67.82,ExternalWorks!A459,External Works,"50mm,paving"
+EXT399,EXT394,Brett Yorktone paving; 400 x 400 x 63; on 50mm sand bed,m2,External Works,Paving,51.23,ExternalWorks!E460,51.23,ExternalWorks!A460,External Works,"50mm,paving"
+EXT400,EXT395,Brett Yorktone paving; 450 x 450 x 50; on 50mm sand bed,m2,External Works,Paving,41.05,ExternalWorks!E461,41.05,ExternalWorks!A461,External Works,"50mm,paving"
+EXT401,EXT396,Brett Yorktone paving; 450 x 450 x 70; on 50mm sand bed,m2,External Works,Paving,50.12,ExternalWorks!E462,50.12,ExternalWorks!A462,External Works,"50mm,paving"
+EXT402,EXT397,Brett Yorktone paving; 600 x 600 x 50; on 50mm sand bed,m2,External Works,Paving,38.55,ExternalWorks!E463,38.55,ExternalWorks!A463,External Works,"50mm,paving"
+EXT403,EXT398,Charcon Courtstone paving; 600 x 450 x 63; on 50mm sand bed,m2,External Works,Paving,71.1,ExternalWorks!E464,71.1,ExternalWorks!A464,External Works,"50mm,paving"
+EXT404,EXT399,Charcon Courtstone paving; 450 x 450 x 63; on 50mm sand bed,m2,External Works,Paving,72.81,ExternalWorks!E465,72.81,ExternalWorks!A465,External Works,"50mm,paving"
+EXT405,EXT400,Charcon Ultrapave paving; 600 x 600 x 63; on 50mm sand bed,m2,External Works,Paving,87.09,ExternalWorks!E466,87.09,ExternalWorks!A466,External Works,"50mm,paving"
+EXT406,EXT401,Charcon Ultrapave paving; 750 x 600 x 63; on 50mm sand bed,m2,External Works,Paving,74.13,ExternalWorks!E467,74.13,ExternalWorks!A467,External Works,"50mm,paving"
+EXT407,EXT402,Charcon Panache Textured paving; 300 x 200 x 80; on 50mm sand bed,m2,External Works,Paving,56.04,ExternalWorks!E468,56.04,ExternalWorks!A468,External Works,"50mm,paving"
+EXT408,EXT403,Charcon Vianova paving; 400 x 200 x 80; on 50mm sand bed,m2,External Works,Paving,82.08,ExternalWorks!E469,82.08,ExternalWorks!A469,External Works,"50mm,paving"
+EXT409,EXT404,Pallas paving; 300 x 600/300/200 x 80; on 50mm sand bed,m2,External Works,Paving,29.2765625,ExternalWorks!G470,29.2765625,ExternalWorks!A470,External Works,"50mm,paving"
+EXT410,EXT405,La Linia paving; 200 x 300/200/100 x 80; on 50mm sand bed,m2,External Works,Paving,72.57,ExternalWorks!E471,72.57,ExternalWorks!A471,External Works,"50mm,paving"
+EXT411,EXT406,La Linia paving; 600 x 300/200/100 x 80; on 50mm sand bed,m2,External Works,Paving,72.57,ExternalWorks!E472,72.57,ExternalWorks!A472,External Works,"50mm,paving"
+EXT412,EXT407,Metrolinia paving; 300 x 100 x 80; on 50mm sand bed,m2,External Works,Paving,62.46,ExternalWorks!E473,62.46,ExternalWorks!A473,External Works,"50mm,paving"
+EXT413,EXT408,Mistral paving; 160 x 120/160/240 x 60; on 50mm sand bed,m2,External Works,Paving,63.21,ExternalWorks!E474,63.21,ExternalWorks!A474,External Works,"50mm,paving"
+EXT414,EXT409,Mistral paving; 160 x 120/160/240 x 80; on 50mm sand bed,m2,External Works,Paving,78.01,ExternalWorks!E475,78.01,ExternalWorks!A475,External Works,"50mm,paving"
+EXT415,EXT410,Modal paving; 200 x 300 x 80; on 50mm sand bed,m2,External Works,Paving,60.16,ExternalWorks!E476,60.16,ExternalWorks!A476,External Works,"50mm,paving"
+EXT416,EXT411,Modal paving; 200 x 200/300 x 80; on 50mm sand bed,m2,External Works,Paving,81.98,ExternalWorks!E477,81.98,ExternalWorks!A477,External Works,"50mm,paving"
+EXT417,EXT412,Modal Priora paving; 200 x 200/300 x 80; on 50mm permeable bed,m2,External Works,Paving,88.34,ExternalWorks!E478,88.34,ExternalWorks!A478,External Works,"50mm,paving"
+EXT418,EXT413,Modal Priora paving; 100 x 200 x 80; on 50mm permeable bed,m2,External Works,Paving,88.34,ExternalWorks!E479,88.34,ExternalWorks!A479,External Works,"50mm,paving"
+EXT419,EXT414,400mm wide block paving band course; 2 rows of stretcher bond in 300 x 200 x 80 paving blocks; 30mm mortar bed on 400 x 150mm concrete bed,m,External Works,Paving,56.22,ExternalWorks!E480,56.22,ExternalWorks!A480,External Works,"400mm,30mm,paving,concrete"
+EXT420,EXT415,Conservation flags; smooth; 450 x 450 x 50; on 50mm mortar bed,m2,External Works,Paving,83.12,ExternalWorks!E481,83.12,ExternalWorks!A481,External Works,50mm
+EXT421,EXT416,Conservation flags; textured; 450 x 450 x 50; on 50mm mortar bed,m2,External Works,Paving,78.84,ExternalWorks!E482,78.84,ExternalWorks!A482,External Works,50mm
+EXT422,EXT417,Conservation flags; 400 x 400 x 63; on 40mm mortar bed & 3mm pointing,m2,External Works,Paving,90.86,ExternalWorks!E483,90.86,ExternalWorks!A483,External Works,"40mm,3mm"
+EXT423,EXT418,Curved cutting,m,External Works,Paving,6.11,ExternalWorks!E484,6.11,ExternalWorks!A484,External Works,
+EXT424,EXT419,Conservation smooth flags; 450 x 600 x 63; on 40mm mortar bed & 3mm pointing,m2,External Works,Paving,118.84,ExternalWorks!E485,118.84,ExternalWorks!A485,External Works,"40mm,3mm"
+EXT425,EXT420,Conservation textured flags; 450 x 600 x 63; on 40mm mortar bed & 3mm pointing,m2,External Works,Paving,112.52,ExternalWorks!E486,112.52,ExternalWorks!A486,External Works,"40mm,3mm"
+EXT426,EXT421,Conservation textured flags; 400 x 400 x 65; on 40mm mortar bed & 3mm pointing,m2,External Works,Paving,93.08,ExternalWorks!E487,93.08,ExternalWorks!A487,External Works,"40mm,3mm"
+EXT427,EXT422,Conservation flags; fibre reinforced roof paving 450 x 600 x 63; on pedestals on roof,m2,External Works,Paving,146.33,ExternalWorks!E488,146.33,ExternalWorks!A488,External Works,paving
+EXT428,EXT423,Conservation flags; fibre reinforced paving 450 x 600 x 63; on 25mm mortar bed,m2,External Works,Paving,133.41,ExternalWorks!E489,133.41,ExternalWorks!A489,External Works,"25mm,paving"
+EXT429,EXT424,Conservation flags; 300 x 200 x 60; on 50mm mortar bed & pointing; risers of steps,m,External Works,Paving,40.54,ExternalWorks!E490,40.54,ExternalWorks!A490,External Works,50mm
+EXT430,EXT425,Conservation flags; 50mm thk; on 50mm mortar bed & pointing; risers of steps; 160mm high,m,External Works,Paving,42.16,ExternalWorks!E491,42.16,ExternalWorks!A491,External Works,"50mm,50mm"
+EXT431,EXT426,Conservation flags; 50mm thk; on 50mm mortar bed & pointing; risers of steps; 324mm high,m,External Works,Paving,85.38,ExternalWorks!E492,85.38,ExternalWorks!A492,External Works,"50mm,50mm"
+EXT432,EXT427,Conservation flags; 300 x 300 x 60; on 50mm mortar bed & pointing; treads of steps,m,External Works,Paving,90.67,ExternalWorks!E493,90.67,ExternalWorks!A493,External Works,50mm
+EXT433,EXT428,Conservation flags; 50mm thick; on 50mm mortar bed & pointing; treads of steps; 300mm wide,m,External Works,Paving,117.87,ExternalWorks!E494,117.87,ExternalWorks!A494,External Works,"50mm,50mm"
+EXT434,EXT429,Conservation flags; 50mm thick; on 50mm mortar bed & pointing; treads of steps; 800mm wide,m,External Works,Paving,314.33,ExternalWorks!E495,314.33,ExternalWorks!A495,External Works,"50mm,50mm"
+EXT435,EXT430,EO for white clour strip let into slab,m,External Works,Paving,18.75,ExternalWorks!E496,18.75,ExternalWorks!A496,External Works,
+EXT436,EXT431,Granite paving; 250 x 150 x 60; on 50mm mortar bed; free issue paving,m2,External Works,Paving,27.34,ExternalWorks!E497,27.34,ExternalWorks!A497,External Works,"50mm,paving"
+EXT437,EXT432,Granite paving; 150 x 150 x 30; on 30mm mortar bed; free issue paving,m2,External Works,Paving,29.84,ExternalWorks!E498,29.84,ExternalWorks!A498,External Works,"30mm,paving"
+EXT438,EXT433,EO for soldier course,m,External Works,Paving,15.0,ExternalWorks!E499,15.0,ExternalWorks!A499,External Works,
+EXT439,EXT434,Granite paving; 250 x 150 x 60; on 30mm mortar bed; free issue paving,m2,External Works,Paving,27.34,ExternalWorks!E500,27.34,ExternalWorks!A500,External Works,"30mm,paving"
+EXT440,EXT435,Granite paving; 250 x 150 x 60; on 50mm sand bed; free issue paving,m2,External Works,Paving,20.38,ExternalWorks!E501,20.38,ExternalWorks!A501,External Works,"50mm,paving"
+EXT441,EXT436,Granite paving; 900 x 300 x 30; on 50mm sand bed; free issue paving,m2,External Works,Paving,16.63,ExternalWorks!E502,16.63,ExternalWorks!A502,External Works,"50mm,paving"
+EXT442,EXT436,Conservation setts; 240 x 160 x 100; on 40mm mortar bed & pointing,m2,External Works,Paving,103.15,ExternalWorks!E503,103.15,ExternalWorks!A503,External Works,40mm
+EXT443,EXT437,Conservation setts; 150/100 x 150/100 x 100; on 50mm mortar bed & pointing,m2,External Works,Paving,120.03,ExternalWorks!E504,120.03,ExternalWorks!A504,External Works,50mm
+EXT444,EXT438,Tegula paving; 120/160/240 x 160 x 60; on 50mm sand bed,m2,External Works,Paving,50.06,ExternalWorks!E505,50.06,ExternalWorks!A505,External Works,"50mm,paving"
+EXT445,EXT439,Tegula paving; 120/160/240 x 120 x 80; on 50mm sand bed,m2,External Works,Paving,53.72,ExternalWorks!E506,53.72,ExternalWorks!A506,External Works,"50mm,paving"
+EXT446,EXT440,Tobermore Mayfair paving; 400 x 400 x 40; on 50mm sand bed,m2,External Works,Paving,54.75,ExternalWorks!E507,54.75,ExternalWorks!A507,External Works,"50mm,paving"
+EXT447,EXT441,Tobermore Mayfair paving; 450 x 450 x 40; on 50mm mortar bed,m2,External Works,Paving,59.36,ExternalWorks!E508,59.36,ExternalWorks!A508,External Works,"50mm,paving"
+EXT448,EXT442,Tobermore Fusion granite agg blocks; 200 x 100 x 80; on 50mm sand bed,m2,External Works,Paving,64.39,ExternalWorks!E509,64.39,ExternalWorks!A509,External Works,50mm
+EXT449,EXT443,Tobermore Eco Hydropave Fusion; 200 x 100 x 80; on 50mm sand bed,m2,External Works,Paving,71.56,ExternalWorks!E510,71.56,ExternalWorks!A510,External Works,50mm
+EXT450,EXT444,Tobermore Tactile paving; 400 x 400 x 50; on 50mm sand bed,m2,External Works,Paving,45.45,ExternalWorks!E511,45.45,ExternalWorks!A511,External Works,"50mm,paving"
+EXT451,EXT445,Charcon Woburn Rumbled paving; 134/200 x 134 x 80; on 50mm sand bed,m2,External Works,Paving,48.29,ExternalWorks!E512,48.29,ExternalWorks!A512,External Works,"50mm,paving"
+EXT452,EXT446,Brett Beta paving; 105/140/210/252 x 140 x 60; on 50mm sand bed,m2,External Works,Paving,36.32,ExternalWorks!E513,36.32,ExternalWorks!A513,External Works,"50mm,paving"
+EXT453,EXT447,Brett Beta paving; 105/140/210/252 x 140 x 80; on 50mm sand bed,m2,External Works,Paving,38.98,ExternalWorks!E514,38.98,ExternalWorks!A514,External Works,"50mm,paving"
+EXT454,EXT448,Tescina paving; 200 x 100 x 60; on 50mm sand bed,m2,External Works,Paving,3.0265625000000003,ExternalWorks!G515,3.0265625000000003,ExternalWorks!A515,External Works,"50mm,paving"
+EXT455,EXT449,Charnwood paving; 450 x 450 x 50; on 50mm mortar bed,m2,External Works,Paving,56.55,ExternalWorks!E516,56.55,ExternalWorks!A516,External Works,"50mm,paving"
+EXT456,EXT450,Celestia paving; 600 x 200 x 63; on 50mm mortar bed,m2,External Works,Paving,75.02,ExternalWorks!E517,75.02,ExternalWorks!A517,External Works,"50mm,paving"
+EXT457,EXT451,Celestia paving; 600 x 200 x 63; on 50mm mortar bed,m2,External Works,Paving,93.39,ExternalWorks!E518,93.39,ExternalWorks!A518,External Works,"50mm,paving"
+EXT458,EXT452,Rialto paving; 109/139/164/189/219 x 109 x 80; on 50mm mortar bed and joints,m2,External Works,Paving,120.41,ExternalWorks!E519,120.41,ExternalWorks!A519,External Works,"50mm,paving"
+EXT459,EXT453,Blyko Lign-Design paving; 350 x 110 x 80; on 50mm sand bed,m2,External Works,Paving,53.86,ExternalWorks!E520,53.86,ExternalWorks!A520,External Works,"50mm,paving"
+EXT460,EXT454,Tactile/Blister paving; 400 x 400 x 50; on 50mm sand bed,m2,External Works,Paving,99.71,ExternalWorks!E521,99.71,ExternalWorks!A521,External Works,"50mm,paving"
+EXT461,EXT455,Tactile/Blister paving; 400 x 400 x 50; on 50mm mortar bed,m2,External Works,Paving,65.52,ExternalWorks!E522,65.52,ExternalWorks!A522,External Works,"50mm,paving"
+EXT462,EXT456,Curved cutting,m,External Works,Paving,6.11,ExternalWorks!E523,6.11,ExternalWorks!A523,External Works,
+EXT463,EXT457,Blister paving; Callisto granite by Marshalls; 400 x 400 x 50; on 40mm mortar bed,m2,External Works,Paving,99.21,ExternalWorks!E524,99.21,ExternalWorks!A524,External Works,"40mm,paving"
+EXT464,EXT458,Corderoy paving; Charcoal; 400 x 400 x 50; on 50mm mortar bed,m2,External Works,Paving,59.25,ExternalWorks!E525,59.25,ExternalWorks!A525,External Works,"50mm,paving"
+EXT465,EXT459,Corderoy paving; Hardscape granite; 400 x 400 x 50; on 50mm mortar bed,m2,External Works,Paving,91.33,ExternalWorks!E526,91.33,ExternalWorks!A526,External Works,"50mm,paving"
+EXT466,EXT460,Corderoy paving; Despina granite by Marshalls; 400 x 400 x 100; on 40mm mortar bed,m2,External Works,Paving,98.19,ExternalWorks!E527,98.19,ExternalWorks!A527,External Works,"40mm,paving"
+EXT467,EXT461,Granite paving (chinese) with fine picked finish; 450 x 500/600/700/800/900 x 65mm thk; on 50mm mortar bed & pointing,m2,External Works,Paving,86.28,ExternalWorks!E528,86.28,ExternalWorks!A528,External Works,"65mm,50mm,paving"
+EXT468,EXT462,Moseldon sandstone 300/450/600 x RL x 63; on 50mm mortar bed & joints,m2,External Works,Paving,141.39,ExternalWorks!E529,141.39,ExternalWorks!A529,External Works,50mm
+EXT469,EXT463,Gwrhyd Pennant / Scoutmoor sandstone 100/150/200 x RL x 63; on 50mm mortar bed & joints,m2,External Works,Paving,161.93,ExternalWorks!E530,161.93,ExternalWorks!A530,External Works,50mm
+EXT470,EXT464,Hardscape sandstone; 200 x 600 x 60; diamond sawn; on 50mm mortar bed & joints,m2,External Works,Paving,136.81,ExternalWorks!E531,136.81,ExternalWorks!A531,External Works,50mm
+EXT471,EXT465,Marshalls Brackendale sandstone pavings; 1000 x 300 x 65; on 50mm mortar bed with 6-8mm pointing in Parex Grantech mortar,m2,External Works,Paving,159.74,ExternalWorks!E532,159.74,ExternalWorks!A532,External Works,"50mm,8mm,paving"
+EXT472,EXT466,Marshalls Brackendale sandstone pavings; 1000 x 300 x 40; on 50mm mortar bed with 6-8mm pointing in Parex Grantech mortar,m2,External Works,Paving,133.49,ExternalWorks!E533,133.49,ExternalWorks!A533,External Works,"50mm,8mm,paving"
+EXT473,EXT467,Marshalls Brackendale sandstone pavings; 900 x 600 x 65; sdawn finish; on 50mm mortar bed with 6-8mm pointing in Parex Grantech mortar,m2,External Works,Paving,157.77,ExternalWorks!E534,157.77,ExternalWorks!A534,External Works,"50mm,8mm,paving"
+EXT474,EXT468,Marshalls Brackendale sandstone pavings; 900 x 600 x 65; pimpled finish; on 50mm mortar bed with 6-8mm pointing in Parex Grantech mortar,m2,External Works,Paving,164.33,ExternalWorks!E535,164.33,ExternalWorks!A535,External Works,"50mm,8mm,paving"
+EXT475,EXT469,Marshalls Brackendale tactile sandstone pavings; 400 x 400 x 65; on 50mm mortar bed with 6-8mm pointing in Parex Grantech mortar,m2,External Works,Paving,173.73,ExternalWorks!E536,173.73,ExternalWorks!A536,External Works,"50mm,8mm,paving"
+EXT476,EXT470,Marshalls Brackendale sandstone setts; 100 x 200 x 100; on 50mm mortar bed & jointing,m2,External Works,Paving,117.56,ExternalWorks!E537,117.56,ExternalWorks!A537,External Works,50mm
+EXT477,EXT471,Scoutmoor Yorkstone; 600/300 x 600 x 50; diamond sawn; on 50mm mortar bed & joints,m2,External Works,Paving,148.84,ExternalWorks!E540,148.84,ExternalWorks!A540,External Works,50mm
+EXT478,EXT472,Scoutmoor Yorkstone; 300 x 300 x 75; diamond sawn; on 50mm mortar bed & joints,m2,External Works,Paving,166.31,ExternalWorks!E541,166.31,ExternalWorks!A541,External Works,50mm
+EXT479,EXT473,Scoutmoor Yorkstone; 300 x 100 x 100; diamond sawn; on 50mm mortar bed & joints,m2,External Works,Paving,202.8,ExternalWorks!E542,202.8,ExternalWorks!A542,External Works,50mm
+EXT480,EXT474,CED black basalt flame textured; 250 x 750 x 80; on 50mm mortar bed & joints (P1),m2,External Works,Paving,127.25,ExternalWorks!E543,127.25,ExternalWorks!A543,External Works,50mm
+EXT481,EXT475,CED black basalt flame textured; 207 x 107 / 100 x 100 x 80; on 50mm mortar bed & joints (P2),m2,External Works,Paving,120.86,ExternalWorks!E544,120.86,ExternalWorks!A544,External Works,50mm
+EXT482,EXT476,CED black basalt flame textured; 100 x 100 x 80; on 50mm mortar bed & joints (P7),m2,External Works,Paving,131.94,ExternalWorks!E545,131.94,ExternalWorks!A545,External Works,50mm
+EXT483,EXT477,"Granite paving with flame finish; 250 x 150 x 30mm thk; on 30mm mortar bed, with sand pointing brushed in. Lay only free issue paviors",m2,External Works,Paving,24.93,ExternalWorks!E546,24.93,ExternalWorks!A546,External Works,"30mm,30mm,paving"
+EXT484,EXT478,"Granite paving with flame finish; 250 x 150 x 60mm thk; on 30mm mortar bed, with sand pointing brushed in. Lay only free issue paviors",m2,External Works,Paving,26.18,ExternalWorks!E547,26.18,ExternalWorks!A547,External Works,"60mm,30mm,paving"
+EXT485,EXT479,Granite paving; Despina by Marshalls; 300 x 600 x 50; on 25mm mortar bed,m2,External Works,Paving,66.45,ExternalWorks!E548,66.45,ExternalWorks!A548,External Works,"25mm,paving"
+EXT486,EXT480,Granite paving; Callisto by Marshalls 400 x 600 x 50; on pedestals on roof,m2,External Works,Paving,161.28,ExternalWorks!E549,161.28,ExternalWorks!A549,External Works,paving
+EXT487,EXT481,Granite paving; PT2; 300 x 150 x 800; on 25mm mortar bed,m2,External Works,Paving,114.22,ExternalWorks!E550,114.22,ExternalWorks!A550,External Works,"25mm,paving"
+EXT488,EXT482,Granite stepping stone paving; Despina by Marshalls; 300 x 900 x 65; on 25mm mortar bed,nr,External Works,Paving,26.28,ExternalWorks!E551,26.28,ExternalWorks!A551,External Works,"25mm,paving"
+EXT489,EXT483,Soldier course in 250 x 150 x 60mm flush band; with concrete bed & haunch. Lay only free issue paviors,m,External Works,Paving,29.61,ExternalWorks!E552,29.61,ExternalWorks!A552,External Works,"60mm,concrete"
+EXT490,EXT484,"Granite paving with flame finish; 900 x 300 x 60mm thk; on 40mm mortar bed, sand pointing brushed in. Lay only free issue paviors.",m2,External Works,Paving,23.53,ExternalWorks!E553,23.53,ExternalWorks!A553,External Works,"60mm,40mm,paving"
+EXT491,EXT485,Granite bull nose steps with flame finish; 340 x 40mm thick in 600mm lenghts; on 30mm mortar bed. Lay only free issue granite,m,External Works,Paving,10.68,ExternalWorks!E554,10.68,ExternalWorks!A554,External Works,"40mm,600mm"
+EXT492,EXT486,Granite riser pieces with flame finish; 110 x 20mm thick in 600mm lenghts; fixed with cement based external tile adhesive. Lay only free issue granite,m,External Works,Paving,9.02,ExternalWorks!E555,9.02,ExternalWorks!A555,External Works,"20mm,600mm"
+EXT493,EXT487,EO for cutting pavings around uplighters/bollards,nr,External Works,Paving,16.53,ExternalWorks!E556,16.53,ExternalWorks!A556,External Works,"paving,bollard"
+EXT494,EXT488,Granite twice bull nosed coping/seat with flame finish; 650 x 40mm thick in 600mm lenghts; on 30mm mortar bed. Lay only free issue granite,m,External Works,Paving,20.42,ExternalWorks!E557,20.42,ExternalWorks!A557,External Works,"40mm,600mm"
+EXT495,EXT489,Granite setts; cropped; 100 x 100 x 100; on 50mm mortar bed & jointing (Marshalls),m2,External Works,Paving,166.78,ExternalWorks!E558,166.78,ExternalWorks!A558,External Works,50mm
+EXT496,EXT490,Granite setts; PT3 Kellen (Hardscapes); 100 x 100 x 80; on 50mm mortar bed & jointing,m2,External Works,Paving,129.79,ExternalWorks!E559,129.79,ExternalWorks!A559,External Works,50mm
+EXT497,EXT491,Granite setts; Callisto; cropped; 100 x 100 x 100; on 50mm mortar bed & jointing (Marshalls),m2,External Works,Paving,143.54,ExternalWorks!E560,143.54,ExternalWorks!A560,External Works,50mm
+EXT498,EXT492,Granite setts; Despina; cropped; 100 x 100 x 100; on 50mm mortar bed & jointing (Marshalls),m2,External Works,Paving,169.34,ExternalWorks!E561,169.34,ExternalWorks!A561,External Works,50mm
+EXT499,EXT493,Granite setts; cropped; 50 x 50 x 100; on 50mm mortar bed & jointing (Hardscape),m2,External Works,Paving,141.33,ExternalWorks!E562,141.33,ExternalWorks!A562,External Works,50mm
+EXT500,EXT494,Granite setts; cropped; 100 x 200 x 100; on 50mm mortar bed & jointing (Marshalls),m2,External Works,Paving,108.36,ExternalWorks!E563,108.36,ExternalWorks!A563,External Works,50mm
+EXT501,EXT495,Granite setts; cropped; 100 x 200 x 100; on 50mm mortar bed & jointing (Hardscape),m2,External Works,Paving,117.56,ExternalWorks!E564,117.56,ExternalWorks!A564,External Works,50mm
+EXT502,EXT496,"Granite setts; cropped; 150 x 180 x 100; on 50mm mortar bed & jointing; free issue, reclaimed setts",m2,External Works,Paving,57.69,ExternalWorks!E565,57.69,ExternalWorks!A565,External Works,50mm
+EXT503,EXT497,Granite setts; 100 x 100 x 100; on 50mm mortar bed & jointing (Chinese granite),m2,External Works,Paving,112.13,ExternalWorks!E566,112.13,ExternalWorks!A566,External Works,50mm
+EXT504,EXT498,Granite setts; 100 x 100 x 100; on 50mm mortar bed & jointing (European granite),m2,External Works,Paving,136.63,ExternalWorks!E567,136.63,ExternalWorks!A567,External Works,50mm
+EXT505,EXT499,Granite setts; cropped; 100 x 100 x 100; on 50mm mortar bed & jointing (Charcon),m2,External Works,Paving,123.35,ExternalWorks!E568,123.35,ExternalWorks!A568,External Works,50mm
+EXT506,EXT499,Cobbles paving; PT18; CED 40-60mm dia; on 110mm bed,m2,External Works,Paving,204.04,ExternalWorks!E569,204.04,ExternalWorks!A569,External Works,"60mm,110mm,paving"
+EXT507,EXT500,CED yellow 15R granite setts; 100 x 100 x 100; on 50mm mortar bed & jointing,m2,External Works,Paving,204.04,ExternalWorks!E570,204.04,ExternalWorks!A570,External Works,50mm
+EXT508,EXT501,"CED silver grey granite temple setts, laid single course 100mm wide as demarcation; 100 x 100 x 100; on 50mm mortar bed & jointing",m,External Works,Paving,40.47,ExternalWorks!E571,40.47,ExternalWorks!A571,External Works,"100mm,50mm"
+EXT509,EXT502,CED black basalt temple setts; 100 x 100 x 100; on 50mm mortar bed & jointing,m2,External Works,Paving,311.31,ExternalWorks!E572,311.31,ExternalWorks!A572,External Works,50mm
+EXT510,EXT503,Marshalls Symphony vitrified plank paving; 1200 x 300 x 20mm thk; on 50mm mortar bed,m2,External Works,Paving,66.57,ExternalWorks!E573,66.57,ExternalWorks!A573,External Works,"20mm,50mm,paving"
+EXT511,EXT504,Clay paviour; Vande Moortel; Septima; 215 x 52 x 70; on sand bed with mortar pointing; colour Terrestre,m2,External Works,Paving,134.8,ExternalWorks!E574,134.8,ExternalWorks!A574,External Works,
+EXT512,EXT505,Clay paviour; Vande Moortel; Septima; 215 x 52 x 70; on sand bed with mortar pointing; colour Salvio,m2,External Works,Paving,182.24,ExternalWorks!E575,182.24,ExternalWorks!A575,External Works,
+EXT513,EXT506,Clay paviour; Blockleys; 205 x 103 x 65; on mortar bed & pointing,m2,External Works,Paving,71.38,ExternalWorks!E576,71.38,ExternalWorks!A576,External Works,
+EXT514,EXT507,Clay paviour; Blockleys; 205 x 103 x 65; on mortar bed & pointing; on podium,m2,External Works,Paving,90.59,ExternalWorks!E577,90.59,ExternalWorks!A577,External Works,
+EXT515,EXT508,50/50 paving; comprising alternative courses of Clay paviour; Hardscape; 48 x 200 x 85; on sand bed & pointing & Murarosy 50mm plastic spacers; (gaps filled with topsoil and grass seed by others),m2,External Works,Paving,65.46,ExternalWorks!E578,65.46,ExternalWorks!A578,External Works,"50mm,paving"
+EXT516,EXT509,Clay paviour; CED Peterborough Dutch clay paviour; 200 x 48 x 58; on sand bed & pointing,m2,External Works,Paving,161.36,ExternalWorks!E579,161.36,ExternalWorks!A579,External Works,
+EXT517,EXT510,Clay paviour; Hardscape; 48 x 200 x 85; on sand bed & pointing,m2,External Works,Paving,156.78,ExternalWorks!E580,156.78,ExternalWorks!A580,External Works,
+EXT518,EXT511,Clay paviour; Hardscape; 50 x 210 x 70; on sand bed & pointing,m2,External Works,Paving,87.63,ExternalWorks!E581,87.63,ExternalWorks!A581,External Works,
+EXT519,EXT512,"Brick paviour; Chelmer Valley, Cotswold Blend; 210 x 100 x 50; on 50mm sand bed & pointing",m2,External Works,Paving,71.38,ExternalWorks!E582,71.38,ExternalWorks!A582,External Works,50mm
+EXT520,EXT513,"Brick paviour; Chelmer Valley, Cotswold Blend; 210 x 100 x 50; on 50mm sand bed & pointing; with Aquada spacers and grit fill; permeable",m2,External Works,Paving,87.63,ExternalWorks!E583,87.63,ExternalWorks!A583,External Works,50mm
+EXT521,EXT514,Primaporcelain porcelain tile paving; 600 x 600 x 20; colour mix; supported on Ryno class A1 steel pedestals,m2,External Works,Paving,108.32,ExternalWorks!E584,108.32,ExternalWorks!A584,External Works,paving
+EXT522,EXT515,Yorkstone flags; 600 x random (450-1200) x 63; diamond cut; Cromwell buff; on 50mm mortar bed,m2,External Works,Paving,162.66,ExternalWorks!E585,162.66,ExternalWorks!A585,External Works,50mm
+EXT523,EXT516,Natural stone flags; random widths and lenghts x 63; diamond cut; on 50mm mortar bed; PC supply £250 / m2,m2,External Works,Paving,364.59,ExternalWorks!E586,364.59,ExternalWorks!A586,External Works,50mm
+EXT524,EXT517,Natural stone loose gravel; 80mm thk; silver grey; 10-20 grade,m2,External Works,Paving,96.57,ExternalWorks!E587,96.57,ExternalWorks!A587,External Works,80mm
+EXT525,EXT518,Japanese granite gravel; 50mm thk; PC supply £400/m2,m2,External Works,Paving,540.9,ExternalWorks!E588,540.9,ExternalWorks!A588,External Works,50mm
+EXT526,EXT519,50mm thick Cedec gravel paving,m2,External Works,Paving,48.72,ExternalWorks!E589,48.72,ExternalWorks!A589,External Works,"50mm,paving"
+EXT527,EXT520,50mm thick Breedon gravel paving,m2,External Works,Paving,48.72,ExternalWorks!E590,48.72,ExternalWorks!A590,External Works,"50mm,paving"
+EXT528,EXT521,50mm Quartzite CED gravel; barley; 10mm aggregate,m2,External Works,Paving,64.03,ExternalWorks!E591,64.03,ExternalWorks!A591,External Works,"50mm,10mm,gate"
+EXT529,EXT522,Grasscrete GC3 cellular paving; 76mm thick inc topsoil and grass seed; on 50mm sand bed,m2,External Works,Paving,50.1,ExternalWorks!E592,50.1,ExternalWorks!A592,External Works,"76mm,50mm,paving"
+EXT530,EXT523,Resin bound gravel; 18mm thk,m2,External Works,Paving,68.75,ExternalWorks!E593,68.75,ExternalWorks!A593,External Works,18mm
+EXT531,EXT524,Resin bound gravel; 16mm thick Addagrip Addaset; 6mm aggregate; to ramps (laid on asphalt),m2,External Works,Paving,43.63,ExternalWorks!E594,43.63,ExternalWorks!A594,External Works,"16mm,6mm,gate,asphalt"
+EXT532,EXT525,Resin bound gravel; 24mm thick Addagrip Addabound; 6mm aggregate; to ramps & podium (laid on asphalt),m2,External Works,Paving,64.73,ExternalWorks!E595,64.73,ExternalWorks!A595,External Works,"24mm,6mm,gate,asphalt"
+EXT533,EXT526,Resin bound gravel; 40mm thick Addagrip UVR; 6-10mm agregate; to tree pits,m2,External Works,Paving,112.5,ExternalWorks!E596,112.5,ExternalWorks!A596,External Works,"40mm,10mm,gate"
+EXT534,EXT527,Resin bound gravel; Addastone Addagrip; Golden Quartz; inc Addacryl sealer,m2,External Works,Paving,81.25,ExternalWorks!E597,81.25,ExternalWorks!A597,External Works,
+EXT535,EXT528,40mm resin bound surfacing to tree pits,m2,External Works,Paving,106.5,ExternalWorks!E598,106.5,ExternalWorks!A598,External Works,40mm
+EXT536,EXT529,Grass grid; Ecoblock 80,m2,External Works,Paving,47.03,ExternalWorks!E599,47.03,ExternalWorks!A599,External Works,
+EXT537,EXT530,Conservation flags; 300 x 200 x 60; on 50mm mortar bed & pointing; risers of steps,m,External Works,Steps,40.54,ExternalWorks!E602,40.54,ExternalWorks!A602,External Works,50mm
+EXT538,EXT531,Conservation flags; 50mm thk; on 50mm mortar bed & pointing; risers of steps; 160mm high,m,External Works,Steps,85.16,ExternalWorks!E603,85.16,ExternalWorks!A603,External Works,"50mm,50mm"
+EXT539,EXT532,Conservation flags; 50mm thk; on 50mm mortar bed & pointing; risers of steps; 160mm high,m2,External Works,Steps,532.26,ExternalWorks!E604,532.26,ExternalWorks!A604,External Works,"50mm,50mm"
+EXT540,EXT533,Conservation flags; 50mm thk; on 50mm mortar bed & pointing; risers of steps; 324mm high,m,External Works,Steps,88.79,ExternalWorks!E605,88.79,ExternalWorks!A605,External Works,"50mm,50mm"
+EXT541,EXT534,Conservation flags; 300 x 300 x 60; on 50mm mortar bed & pointing; treads of steps,m,External Works,Steps,90.67,ExternalWorks!E606,90.67,ExternalWorks!A606,External Works,50mm
+EXT542,EXT535,Conservation flags; 50mm thick; on 50mm mortar bed & pointing; treads of steps; 300mm wide,m,External Works,Steps,176.96,ExternalWorks!E607,176.96,ExternalWorks!A607,External Works,"50mm,50mm"
+EXT543,EXT536,Conservation flags; 50mm thick; on 50mm mortar bed & pointing; treads of steps; 800mm wide,m,External Works,Steps,314.33,ExternalWorks!E608,314.33,ExternalWorks!A608,External Works,"50mm,50mm"
+EXT544,EXT537,EO for white colour strip let into slab,m,External Works,Steps,18.75,ExternalWorks!E609,18.75,ExternalWorks!A609,External Works,
+EXT545,EXT538,Granite bull nose steps with flame finish; 340 x 40mm thick in 600mm lenghts; on 30mm mortar bed. Lay only free issue granite,m,External Works,Steps,18.33,ExternalWorks!E610,18.33,ExternalWorks!A610,External Works,"40mm,600mm"
+EXT546,EXT539,Granite riser pieces with flame finish; 110 x 20mm thick in 600mm lenghts; fixed with cement based external tile adhesive. Lay only free issue granite,m,External Works,Steps,14.38,ExternalWorks!E611,14.38,ExternalWorks!A611,External Works,"20mm,600mm"
+EXT547,EXT540,Steps in granite pavings; 280mm treads & 165mm risers with contracting nosing; 1000 x 110 x 55 risers/1000 x 300 x 55 treads/55 x 55 nosings attached with stainless steel dowels and epoxy resin,m,External Works,Steps,358.87,ExternalWorks!E612,358.87,ExternalWorks!A612,External Works,"280mm,165mm,paving"
+EXT548,EXT541,Synthetic turf; Easigrass; Chelsea on 30mm sand bed,m2,External Works,Artificial Grass,57.26,ExternalWorks!E615,57.26,ExternalWorks!A615,External Works,30mm
+EXT549,EXT542,Timber decking; treated SW; 28 x 140mm on & inc 50 x 150 joists at 450c/s,m2,External Works,Timber,69.46,ExternalWorks!E618,69.46,ExternalWorks!A618,External Works,140mm
+EXT550,EXT543,Timber decking; treated HW; 28 x 145mm on & inc 50 x 150 joists at 450c/s,m2,External Works,Timber,174.88,ExternalWorks!E619,174.88,ExternalWorks!A619,External Works,145mm
+EXT551,EXT544,"Composite decking Hyperion Pioneer, 145 x 21mm boards on 50 x 50 composite battens @200c/s on Mesa ajustable metal supports 90-150mm",m2,External Works,Timber,174.71,ExternalWorks!E620,174.71,ExternalWorks!A620,External Works,"21mm,150mm"
+EXT552,EXT545,Aluminium decking Hyperion; 21 x 145mm boards on 40 x 50mm joists at 200c/s on Mesa ajustable metal supports 90 - 150mm,m2,External Works,Timber,199.95,ExternalWorks!E621,199.95,ExternalWorks!A621,External Works,"145mm,50mm"
+EXT553,EXT546,White lines; min charge 1/2 day,item,External Works,White Lining,600.0,ExternalWorks!E624,600.0,ExternalWorks!A624,External Works,
+EXT554,EXT547,White lines; min charge 1 day,item,External Works,White Lining,812.5,ExternalWorks!E625,812.5,ExternalWorks!A625,External Works,
+EXT555,EXT548,Lines & broken lines; not exceeding 300mm,m,External Works,White Lining,1.25,ExternalWorks!E626,1.25,ExternalWorks!A626,External Works,300mm
+EXT556,EXT549,Lines & broken lines; ex 300mm,m2,External Works,White Lining,3.75,ExternalWorks!E627,3.75,ExternalWorks!A627,External Works,300mm
+EXT557,EXT550,Pedestrian crossings,m2,External Works,White Lining,12.5,ExternalWorks!E628,12.5,ExternalWorks!A628,External Works,
+EXT558,EXT551,"Hatching, not exceeding 300 thick lines",m,External Works,White Lining,8.33,ExternalWorks!E629,8.33,ExternalWorks!A629,External Works,
+EXT559,EXT552,Letters & figures,nr,External Works,White Lining,12.5,ExternalWorks!E630,12.5,ExternalWorks!A630,External Works,
+EXT560,EXT553,Directional arrows,nr,External Works,White Lining,15.0,ExternalWorks!E631,15.0,ExternalWorks!A631,External Works,
+EXT561,EXT554,Disabled parking,nr,External Works,White Lining,27.5,ExternalWorks!E632,27.5,ExternalWorks!A632,External Works,
+EXT562,EXT555,EO on concrete surface,item,External Works,White Lining,0.0,,0.0,ExternalWorks!A633,External Works,concrete
+EXT563,EXT556,EO burn off existing roadmarkings; min charge £,nr,External Works,White Lining,250.0,ExternalWorks!E634,250.0,ExternalWorks!A634,External Works,
+EXT564,EXT556,Road markings (Thorn Turn),item,External Works,White Lining,41903.75,ExternalWorks!E635,41903.75,ExternalWorks!A635,External Works,
+EXT565,EXT557,HB1 kerb; 150 x 305; concrete bed & haunch,m,External Works,Kerbs & Edgings,34.06,ExternalWorks!E638,34.06,ExternalWorks!A638,External Works,"kerb,concrete"
+EXT566,EXT558,HB1 kerb; 150 x 305; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,39.3,ExternalWorks!E639,39.3,ExternalWorks!A639,External Works,"kerb,concrete"
+EXT567,EXT559,HB2 kerb; 125 x 255; concrete bed & haunch,m,External Works,Kerbs & Edgings,35.19,ExternalWorks!E640,35.19,ExternalWorks!A640,External Works,"kerb,concrete"
+EXT568,EXT560,HB2 kerb; 125 x 255; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,42.65,ExternalWorks!E641,42.65,ExternalWorks!A641,External Works,"kerb,concrete"
+EXT569,EXT561,EO for curved,m,External Works,Kerbs & Edgings,7.45,ExternalWorks!E642,7.45,ExternalWorks!A642,External Works,
+EXT570,EXT562,EO for drop kerbs (HB2/BN transition); 125 x 255/150,nr,External Works,Kerbs & Edgings,18.08,ExternalWorks!E643,18.08,ExternalWorks!A643,External Works,kerb
+EXT571,EXT563,Quadrant QHB; 305 x 255; concrete bed & haunch,nr,External Works,Kerbs & Edgings,69.25,ExternalWorks!E644,69.25,ExternalWorks!A644,External Works,concrete
+EXT572,EXT564,EO for HB2 internal/external angle; 125 x 255,nr,External Works,Kerbs & Edgings,41.12,ExternalWorks!E645,41.12,ExternalWorks!A645,External Works,
+EXT573,EXT565,HB3 kerb; 125 x 150; concrete bed & haunch,m,External Works,Kerbs & Edgings,31.91,ExternalWorks!E646,31.91,ExternalWorks!A646,External Works,"kerb,concrete"
+EXT574,EXT566,HB3 kerb; 125 x 150; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,37.15,ExternalWorks!E647,37.15,ExternalWorks!A647,External Works,"kerb,concrete"
+EXT575,EXT567,EO for HB3 internal/external angle; 125 x 150,nr,External Works,Kerbs & Edgings,41.12,ExternalWorks!E648,41.12,ExternalWorks!A648,External Works,
+EXT576,EXT568,Bullnose kerb; 150 x 305; concrete bed & haunch,m,External Works,Kerbs & Edgings,38.13,ExternalWorks!E649,38.13,ExternalWorks!A649,External Works,"kerb,concrete"
+EXT577,EXT569,Bullnose kerb; 150 x 305; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,47.77,ExternalWorks!E650,47.77,ExternalWorks!A650,External Works,"kerb,concrete"
+EXT578,EXT570,EO for bullnose internal/external angle; 150 x 305,nr,External Works,Kerbs & Edgings,41.12,ExternalWorks!E651,41.12,ExternalWorks!A651,External Works,
+EXT579,EXT571,Bullnose kerb; 125 x 255; concrete bed & haunch,m,External Works,Kerbs & Edgings,35.34,ExternalWorks!E652,35.34,ExternalWorks!A652,External Works,"kerb,concrete"
+EXT580,EXT572,Bullnose kerb; 125 x 255; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,41.47,ExternalWorks!E653,41.47,ExternalWorks!A653,External Works,"kerb,concrete"
+EXT581,EXT573,EO for bullnose internal/external angle; 125 x 255,nr,External Works,Kerbs & Edgings,41.12,ExternalWorks!E654,41.12,ExternalWorks!A654,External Works,
+EXT582,EXT574,BN1 bullnose kerb; 125 x 150; concrete bed & haunch,m,External Works,Kerbs & Edgings,35.25,ExternalWorks!E655,35.25,ExternalWorks!A655,External Works,"kerb,concrete"
+EXT583,EXT575,BN1 bullnose kerb; 125 x 150; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,39.84,ExternalWorks!E656,39.84,ExternalWorks!A656,External Works,"kerb,concrete"
+EXT584,EXT576,EO for BN1 internal/external angle; 125 x 150,nr,External Works,Kerbs & Edgings,41.12,ExternalWorks!E657,41.12,ExternalWorks!A657,External Works,
+EXT585,EXT577,EF1 edging; flat top; 50 x 150; concrete bed & haunch,m,External Works,Kerbs & Edgings,21.34,ExternalWorks!E658,21.34,ExternalWorks!A658,External Works,"edging,concrete"
+EXT586,EXT578,EF1 edging; flat top; 50 x 150; concrete bed & haunch; radius/facetted,m,External Works,Kerbs & Edgings,26.61,ExternalWorks!E659,26.61,ExternalWorks!A659,External Works,"edging,concrete"
+EXT587,EXT579,Edging; flat top; 50 x 200; concrete bed & haunch,m,External Works,Kerbs & Edgings,26.37,ExternalWorks!E660,26.37,ExternalWorks!A660,External Works,"edging,concrete"
+EXT588,EXT580,Edging; flat top; 50 x 200; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,30.79,ExternalWorks!E661,30.79,ExternalWorks!A661,External Works,"edging,concrete"
+EXT589,EXT581,Channel CS1; 255 x 125; concrete bed & haunch,m,External Works,Kerbs & Edgings,35.32,ExternalWorks!E662,35.32,ExternalWorks!A662,External Works,concrete
+EXT590,EXT582,Channel CS1; 255 x 125; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,41.72,ExternalWorks!E663,41.72,ExternalWorks!A663,External Works,concrete
+EXT591,EXT583,Titan/Trief kerb; 390 x 400; concrete bed & haunch,m,External Works,Kerbs & Edgings,130.45,ExternalWorks!E664,130.45,ExternalWorks!A664,External Works,"kerb,concrete"
+EXT592,EXT584,Titan/Trief kerb; 390 x 400; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,156.23,ExternalWorks!E665,156.23,ExternalWorks!A665,External Works,"kerb,concrete"
+EXT593,EXT585,EO Titan kerb for Quadrant,nr,External Works,Kerbs & Edgings,158.03,ExternalWorks!E666,158.03,ExternalWorks!A666,External Works,kerb
+EXT594,EXT586,Acid etched reconstructed stone PC step units; 330 x 166 x 1000lg; bedded on concrete; with visibilty inserts to tread and riser,m,External Works,Kerbs & Edgings,224.87,ExternalWorks!E667,224.87,ExternalWorks!A667,External Works,concrete
+EXT595,EXT587,EO for 400mm wide top tread,m,External Works,Kerbs & Edgings,29.69,ExternalWorks!E668,29.69,ExternalWorks!A668,External Works,400mm
+EXT596,EXT588,EO splay cutting ends,nr,External Works,Kerbs & Edgings,21.53,ExternalWorks!E669,21.53,ExternalWorks!A669,External Works,
+EXT597,EXT589,Acid etched reconstructed stone PC step units; 330 x 170 x 1000lg; bedded on concrete; with visibilty inserts to tread and riser,m,External Works,Kerbs & Edgings,226.25,ExternalWorks!E670,226.25,ExternalWorks!A670,External Works,concrete
+EXT598,EXT590,Conservation kerb; 255 x 205; concrete bed & haunch,m,External Works,Kerbs & Edgings,77.57,ExternalWorks!E671,77.57,ExternalWorks!A671,External Works,"kerb,concrete"
+EXT599,EXT591,Conservation kerb; 255 x 205; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,103.9,ExternalWorks!E672,103.9,ExternalWorks!A672,External Works,"kerb,concrete"
+EXT600,EXT592,Conservation kerb; 145 x 255; concrete bed & haunch,m,External Works,Kerbs & Edgings,71.44,ExternalWorks!E673,71.44,ExternalWorks!A673,External Works,"kerb,concrete"
+EXT601,EXT593,Conservation kerb; 145 x 255; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,93.69,ExternalWorks!E674,93.69,ExternalWorks!A674,External Works,"kerb,concrete"
+EXT602,EXT594,Conservation kerb; 145 x 145; concrete bed & haunch,m,External Works,Kerbs & Edgings,60.25,ExternalWorks!E675,60.25,ExternalWorks!A675,External Works,"kerb,concrete"
+EXT603,EXT595,Conservation kerb; 145 x 145; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,81.13,ExternalWorks!E676,81.13,ExternalWorks!A676,External Works,"kerb,concrete"
+EXT604,EXT596,EO Conservation kerb; tapered transition 145 x 255/145,nr,External Works,Kerbs & Edgings,52.88,ExternalWorks!E677,52.88,ExternalWorks!A677,External Works,kerb
+EXT605,EXT597,Conservation Quadrant; 305 x 305 x 255,nr,External Works,Kerbs & Edgings,89.19,ExternalWorks!E678,89.19,ExternalWorks!A678,External Works,
+EXT606,EXT598,Conservation kerb; 145 x 205; concrete bed & haunch,m,External Works,Kerbs & Edgings,58.44,ExternalWorks!E679,58.44,ExternalWorks!A679,External Works,"kerb,concrete"
+EXT607,EXT599,Conservation kerb; 145 x 205; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,70.03,ExternalWorks!E680,70.03,ExternalWorks!A680,External Works,"kerb,concrete"
+EXT608,EXT600,Conservation edging; 63 x 150; concrete bed & haunch,m,External Works,Kerbs & Edgings,44.95,ExternalWorks!E681,44.95,ExternalWorks!A681,External Works,"edging,concrete"
+EXT609,EXT601,Conservation edging; 63 x 150; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,52.17,ExternalWorks!E682,52.17,ExternalWorks!A682,External Works,"edging,concrete"
+EXT610,EXT602,Conservation edging; 63 x 250; concrete bed & haunch,m,External Works,Kerbs & Edgings,49.05,ExternalWorks!E683,49.05,ExternalWorks!A683,External Works,"edging,concrete"
+EXT611,EXT603,Conservation edging; 63 x 250; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,56.47,ExternalWorks!E684,56.47,ExternalWorks!A684,External Works,"edging,concrete"
+EXT612,EXT604,Charnwood kerb; 125 x 255; concrete bed & haunch,m,External Works,Kerbs & Edgings,56.24,ExternalWorks!E685,56.24,ExternalWorks!A685,External Works,"kerb,concrete"
+EXT613,EXT605,Charnwood kerb; 125 x 255; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,72.69,ExternalWorks!E686,72.69,ExternalWorks!A686,External Works,"kerb,concrete"
+EXT614,EXT606,EO Charnwood kerb; tapered transition 125 x 255/150,nr,External Works,Kerbs & Edgings,42.47,ExternalWorks!E687,42.47,ExternalWorks!A687,External Works,kerb
+EXT615,EXT607,Charnwood bullnose kerb; 125 x 150; concrete bed & haunch,m,External Works,Kerbs & Edgings,53.79,ExternalWorks!E688,53.79,ExternalWorks!A688,External Works,"kerb,concrete"
+EXT616,EXT608,Charnwood Quadrant; 305 x 305 x 255,nr,External Works,Kerbs & Edgings,91.72,ExternalWorks!E689,91.72,ExternalWorks!A689,External Works,
+EXT617,EXT609,Charnwood int/ext Angle; 125 x 255,nr,External Works,Kerbs & Edgings,85.6,ExternalWorks!E690,85.6,ExternalWorks!A690,External Works,
+EXT618,EXT610,Charcon Countryside kerb; CSK2; 145 x 150; concrete bed & haunch,m,External Works,Kerbs & Edgings,43.8,ExternalWorks!E691,43.8,ExternalWorks!A691,External Works,"kerb,concrete"
+EXT619,EXT611,Charcon Countryside kerb; CSK2; 145 x 255; concrete bed & haunch,m,External Works,Kerbs & Edgings,52.19,ExternalWorks!E692,52.19,ExternalWorks!A692,External Works,"kerb,concrete"
+EXT620,EXT612,Charcon Countryside kerb; CSK2; 145 x 255; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,61.37,ExternalWorks!E693,61.37,ExternalWorks!A693,External Works,"kerb,concrete"
+EXT621,EXT613,Charcon Countryside kerb; Classic wide topp; 290 x 100; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,52.5,ExternalWorks!E694,52.5,ExternalWorks!A694,External Works,"kerb,concrete"
+EXT622,EXT614,Marshalls Brackendale Sandstone flush kerb; 200 x 200; concrete bed and haunch,m,External Works,Kerbs & Edgings,72.68,ExternalWorks!E695,72.68,ExternalWorks!A695,External Works,"kerb,concrete"
+EXT623,EXT615,Marshalls Brackendale Sandstone kerb; 300 x 300; concrete bed and haunch,m,External Works,Kerbs & Edgings,118.6,ExternalWorks!E696,118.6,ExternalWorks!A696,External Works,"kerb,concrete"
+EXT624,EXT616,Marshalls Brackendale Sandstone kerb; 300 x 300; concrete bed and haunch; radius,m,External Works,Kerbs & Edgings,138.71,ExternalWorks!E697,138.71,ExternalWorks!A697,External Works,"kerb,concrete"
+EXT625,EXT617,EO Marshalls Brackendale Transition Sandstone kerb; 300 x 300 - 200 x 200; concrete bed and haunch,nr,External Works,Kerbs & Edgings,108.89,ExternalWorks!E698,108.89,ExternalWorks!A698,External Works,"kerb,concrete"
+EXT626,EXT618,Granite kerb; 125 x 250; concrete bed & haunch; free issue kerb,m,External Works,Kerbs & Edgings,30.8,ExternalWorks!E699,30.8,ExternalWorks!A699,External Works,"kerb,concrete"
+EXT627,EXT619,Granite kerb; 125 x 250; concrete bed & haunch; radius; free issue kerb,m,External Works,Kerbs & Edgings,46.07,ExternalWorks!E700,46.07,ExternalWorks!A700,External Works,"kerb,concrete"
+EXT628,EXT620,Granite kerb; 125 x 150; concrete bed & haunch; free issue kerb,m,External Works,Kerbs & Edgings,26.85,ExternalWorks!E701,26.85,ExternalWorks!A701,External Works,"kerb,concrete"
+EXT629,EXT621,Granite edging; 60 x 250; concrete bed & haunch; free issue kerb,m,External Works,Kerbs & Edgings,24.4,ExternalWorks!E702,24.4,ExternalWorks!A702,External Works,"kerb,edging,concrete"
+EXT630,EXT622,Granite edging; 50 x 150; concrete bed & haunch; free issue kerb,m,External Works,Kerbs & Edgings,22.7,ExternalWorks!E703,22.7,ExternalWorks!A703,External Works,"kerb,edging,concrete"
+EXT631,EXT623,Granite drop kerb; Callisto; 150 x 150; concrete bed & haunch,m,External Works,Kerbs & Edgings,86.89,ExternalWorks!E704,86.89,ExternalWorks!A704,External Works,"kerb,concrete"
+EXT632,EXT624,Granite kerb; Callisto; 150 x 150; concrete bed & haunch,m,External Works,Kerbs & Edgings,81.58,ExternalWorks!E705,81.58,ExternalWorks!A705,External Works,"kerb,concrete"
+EXT633,EXT625,Granite kerb; Callisto; 150 x 255; concrete bed & haunch,m,External Works,Kerbs & Edgings,92.02,ExternalWorks!E706,92.02,ExternalWorks!A706,External Works,"kerb,concrete"
+EXT634,EXT626,Granite kerb; Callisto; 150 x 255; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,110.43,ExternalWorks!E707,110.43,ExternalWorks!A707,External Works,"kerb,concrete"
+EXT635,EXT627,Granite drop kerb; Callisto; 150 x 255; concrete bed & haunch; transition,nr,External Works,Kerbs & Edgings,101.91,ExternalWorks!E708,101.91,ExternalWorks!A708,External Works,"kerb,concrete"
+EXT636,EXT628,Granite kerb; Callisto; 150 x 255; concrete bed & haunch; quadrant,nr,External Works,Kerbs & Edgings,172.76,ExternalWorks!E709,172.76,ExternalWorks!A709,External Works,"kerb,concrete"
+EXT637,EXT629,Granite kerb; Callisto; 300 x 300 HB bus stop kerb; concrete bed & haunch,m,External Works,Kerbs & Edgings,135.42,ExternalWorks!E710,135.42,ExternalWorks!A710,External Works,"kerb,concrete"
+EXT638,EXT630,Granite kerb; Callisto; 300 x 300 BN bus stop kerb; concrete bed & haunch,m,External Works,Kerbs & Edgings,135.42,ExternalWorks!E711,135.42,ExternalWorks!A711,External Works,"kerb,concrete"
+EXT639,EXT631,Granite drop kerb; Callisto; 300 x 300 BN to HB bus stop kerb; concrete bed & haunch,nr,External Works,Kerbs & Edgings,160.72,ExternalWorks!E712,160.72,ExternalWorks!A712,External Works,"kerb,concrete"
+EXT640,EXT632,Granite kerb; 150 x 300; concrete bed & haunch,m,External Works,Kerbs & Edgings,116.37,ExternalWorks!E713,116.37,ExternalWorks!A713,External Works,"kerb,concrete"
+EXT641,EXT633,Granite kerb; 150 x 300; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,124.08,ExternalWorks!E714,124.08,ExternalWorks!A714,External Works,"kerb,concrete"
+EXT642,EXT634,Granite kerb; 200 x 300; concrete bed & haunch,m,External Works,Kerbs & Edgings,108.44,ExternalWorks!E715,108.44,ExternalWorks!A715,External Works,"kerb,concrete"
+EXT643,EXT635,Granite kerb; 200 x 300; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,117.18,ExternalWorks!E716,117.18,ExternalWorks!A716,External Works,"kerb,concrete"
+EXT644,EXT636,Granite kerb; 200 x 350; concrete bed & haunch,m,External Works,Kerbs & Edgings,142.99,ExternalWorks!E717,142.99,ExternalWorks!A717,External Works,"kerb,concrete"
+EXT645,EXT637,Granite kerb; 200 x 350; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,134.24,ExternalWorks!E718,134.24,ExternalWorks!A718,External Works,"kerb,concrete"
+EXT646,EXT638,Granite kerb; 450 x 200; concrete bed & haunch,m,External Works,Kerbs & Edgings,121.57,ExternalWorks!E719,121.57,ExternalWorks!A719,External Works,"kerb,concrete"
+EXT647,EXT639,Granite kerb; 600 x 200; concrete bed & haunch,m,External Works,Kerbs & Edgings,154.38,ExternalWorks!E720,154.38,ExternalWorks!A720,External Works,"kerb,concrete"
+EXT648,EXT640,Granite sett kerbline; 100 x 100 x 100 setts laid as kerbline; on 50mm mortar bed & jointing (Chinese granite),m,External Works,Kerbs & Edgings,72.35,ExternalWorks!E721,72.35,ExternalWorks!A721,External Works,"50mm,kerb"
+EXT649,EXT641,Granite sett kerbline; 200 x 100 x 100 setts laid as kerbline; on concrete bed and haunch,m,External Works,Kerbs & Edgings,81.96,ExternalWorks!E722,81.96,ExternalWorks!A722,External Works,"kerb,concrete"
+EXT650,EXT642,Granite sett border; edging band type 5; 100 x 200 x 200; concrete bed & haunch,m,External Works,Kerbs & Edgings,88.54,ExternalWorks!E723,88.54,ExternalWorks!A723,External Works,"edging,concrete"
+EXT651,EXT643,Granite sett edging; edging band type 9; 60 x 60 x 150; concrete bed & haunch,m,External Works,Kerbs & Edgings,62.07,ExternalWorks!E724,62.07,ExternalWorks!A724,External Works,"edging,concrete"
+EXT652,EXT644,Granite steps; solid blocks 350 (tread) x 150 (riser) x 1000lg solid blocks with inlaid nosing to leading edge; including 25mm resin mortar; on concrete base measured elsewhere,m,External Works,Kerbs & Edgings,138.42,ExternalWorks!E725,138.42,ExternalWorks!A725,External Works,"25mm,concrete"
+EXT653,EXT645,Granite steps; solid blocks 600 (tread) x 280 (riser) x 1000lg solid blocks with inlaid nosing to leading edge; including 25mm resin mortar; on concrete base measured elsewhere,m,External Works,Kerbs & Edgings,197.29,ExternalWorks!E726,197.29,ExternalWorks!A726,External Works,"25mm,concrete"
+EXT654,EXT646,Granite step; Despina by Marshalls step units; 350 x 150 x 1000lg; bedded on concrete; with Tritanial 30 x 30 nosing,m,External Works,Kerbs & Edgings,328.28,ExternalWorks!E727,328.28,ExternalWorks!A727,External Works,concrete
+EXT655,EXT647,Brick on end edging inc concrete bed & haunch,m,External Works,Kerbs & Edgings,53.89,ExternalWorks!E728,53.89,ExternalWorks!A728,External Works,"edging,concrete"
+EXT656,EXT648,Lay only full height kerb; 125 x 250 flame finish granite kerbs; concrete bed & haunch,m,External Works,Kerbs & Edgings,27.79,ExternalWorks!E729,27.79,ExternalWorks!A729,External Works,"kerb,concrete"
+EXT657,EXT649,Lay only Soldier course detail; flame finished 250 x 150 x 60 granite blocks inc concrete bed & haunch,m,External Works,Kerbs & Edgings,30.62,ExternalWorks!E730,30.62,ExternalWorks!A730,External Works,concrete
+EXT658,EXT650,Lay only Edging detail; flame finish granite edging; 50 x 150; concrete bed & haunch,m,External Works,Kerbs & Edgings,22.65,ExternalWorks!E731,22.65,ExternalWorks!A731,External Works,"edging,concrete"
+EXT659,EXT651,Keykerb; KL HB half battered; 127 x 200; concrete bed & haunch,m,External Works,Kerbs & Edgings,63.62,ExternalWorks!E732,63.62,ExternalWorks!A732,External Works,"kerb,concrete"
+EXT660,EXT652,Keykerb; KL HB half battered; 127 x 200; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,69.74,ExternalWorks!E733,69.74,ExternalWorks!A733,External Works,"kerb,concrete"
+EXT661,EXT653,Keykerb; KL BN bullnose; 127 x 200; concrete bed & haunch,m,External Works,Kerbs & Edgings,61.0,ExternalWorks!E734,61.0,ExternalWorks!A734,External Works,"kerb,concrete"
+EXT662,EXT654,Keykerb; KL BN bullnose; 127 x 200; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,67.11,ExternalWorks!E735,67.11,ExternalWorks!A735,External Works,"kerb,concrete"
+EXT663,EXT655,Keykerb; KS kerb; 127 x 125; concrete bed & haunch,m,External Works,Kerbs & Edgings,55.11,ExternalWorks!E736,55.11,ExternalWorks!A736,External Works,"kerb,concrete"
+EXT664,EXT656,Tegula kerbsetts; HB half battered; 250 x 160 x 130; concrete bed & haunch,m,External Works,Kerbs & Edgings,80.77,ExternalWorks!E737,80.77,ExternalWorks!A737,External Works,"kerb,concrete"
+EXT665,EXT657,Tegula kerbsetts; HB half battered; 250 x 160 x 130; concrete bed & haunch; radius,m,External Works,Kerbs & Edgings,92.99,ExternalWorks!E738,92.99,ExternalWorks!A738,External Works,"kerb,concrete"
+EXT666,EXT658,Tegula channel course; 1 row; 80 x 80 x 80 setts laid flush; concrete bed & haunch,m,External Works,Kerbs & Edgings,72.88,ExternalWorks!E739,72.88,ExternalWorks!A739,External Works,concrete
+EXT667,EXT659,Tegula channel course; 2 rows; 80 x 80 x 80 setts laid flush; concrete bed & haunch,m,External Works,Kerbs & Edgings,109.18,ExternalWorks!E740,109.18,ExternalWorks!A740,External Works,concrete
+EXT668,EXT660,Brackendale sandstone flush band course; 2 rows; 200 x 100 x 100 setts; concrete bed & haunch; 6-8mm pointing in Grantech grout from Parex,m,External Works,Kerbs & Edgings,112.61,ExternalWorks!E741,112.61,ExternalWorks!A741,External Works,"8mm,concrete"
+EXT669,EXT661,Brackendale sandstone flush band course; 2 rows; 200 x 100 x 100 setts; concrete bed & haunch; 6-8mm pointing in Grantech grout from Parex; radius,m,External Works,Kerbs & Edgings,138.58,ExternalWorks!E742,138.58,ExternalWorks!A742,External Works,"8mm,concrete"
+EXT670,EXT662,Brackendale sandstone flush band course; 4 rows; 200 x 100 x 100 setts; concrete bed & haunch; 6-8mm pointing in Grantech grout from Parex,m,External Works,Kerbs & Edgings,198.39,ExternalWorks!E743,198.39,ExternalWorks!A743,External Works,"8mm,concrete"
+EXT671,EXT663,Brackendale sandstone flush band course; 4 rows; 200 x 100 x 100 setts; concrete bed & haunch; 6-8mm pointing in Grantech grout from Parex; radius,m,External Works,Kerbs & Edgings,247.28,ExternalWorks!E744,247.28,ExternalWorks!A744,External Works,"8mm,concrete"
+EXT672,EXT664,Aluexcel 5 x 50 edge restraint; AE.50,m,External Works,Kerbs & Edgings,26.16,ExternalWorks!E745,26.16,ExternalWorks!A745,External Works,
+EXT673,EXT665,Aluexcel 5 x 75 edge restraint,m,External Works,Kerbs & Edgings,29.47,ExternalWorks!E746,29.47,ExternalWorks!A746,External Works,
+EXT674,EXT666,Aluexcel 5 x 75 edge restraint; curved,m,External Works,Kerbs & Edgings,32.52,ExternalWorks!E747,32.52,ExternalWorks!A747,External Works,
+EXT675,EXT667,Aluexcel 6 x 100 edge restraint; AE.100,m,External Works,Kerbs & Edgings,37.9,ExternalWorks!E748,37.9,ExternalWorks!A748,External Works,
+EXT676,EXT668,Aluexcel 6 x 100 edge restraint; AE.100; curved,m,External Works,Kerbs & Edgings,40.96,ExternalWorks!E749,40.96,ExternalWorks!A749,External Works,
+EXT677,EXT669,Aluexcel 6 x 150 edge restraint;,m,External Works,Kerbs & Edgings,83.46,ExternalWorks!E750,83.46,ExternalWorks!A750,External Works,
+EXT678,EXT670,Aluexcel 6 x 150 edge restraint; curved,m,External Works,Kerbs & Edgings,86.55,ExternalWorks!E751,86.55,ExternalWorks!A751,External Works,
+EXT679,EXT671,Steel edge restraint; galvanised steel; 150mm deep unequal angle; concrete bed,m,External Works,Kerbs & Edgings,77.07,ExternalWorks!E752,77.07,ExternalWorks!A752,External Works,"150mm,concrete"
+EXT680,EXT672,EO for welding corrners,nr,External Works,Kerbs & Edgings,104.89,ExternalWorks!E753,104.89,ExternalWorks!A753,External Works,
+EXT681,EXT673,Corten steel Planterline edgings by Kinley; 3mm x 500mm high; with triangular brackets at 900c/s; bolted to concrete foundation; str,m,External Works,Kerbs & Edgings,239.73,ExternalWorks!E754,239.73,ExternalWorks!A754,External Works,"3mm,500mm,edging,concrete"
+EXT682,EXT674,EO bespoke welded corner,nr,External Works,Kerbs & Edgings,56.08,ExternalWorks!E755,56.08,ExternalWorks!A755,External Works,
+EXT683,EXT675,Corten steel planterline edgings by Kinley; 3mm x 500mm high; with triangular brackets at 900c/s; bolted to concrete foundation; radius,m,External Works,Kerbs & Edgings,320.75,ExternalWorks!E756,320.75,ExternalWorks!A756,External Works,"3mm,500mm,edging,concrete"
+EXT684,EXT676,Corten steel planterline edgings by Kinley; 6mm x 610mm high; with triangular brackets at 900c/s; bolted to concrete podium,m,External Works,Kerbs & Edgings,388.43,ExternalWorks!E757,388.43,ExternalWorks!A757,External Works,"6mm,610mm,edging,concrete"
+EXT685,EXT677,Corten steel planterline edgings by Kinley; 3mm x 900mm high; with triangular brackets at 900c/s; bolted to concrete foundation; str,m,External Works,Kerbs & Edgings,335.27,ExternalWorks!E758,335.27,ExternalWorks!A758,External Works,"3mm,900mm,edging,concrete"
+EXT686,EXT678,EO bespoke welded corner,nr,External Works,Kerbs & Edgings,67.8,ExternalWorks!E759,67.8,ExternalWorks!A759,External Works,
+EXT687,EXT679,Corten steel Planterline edgings by Kinley; 5mm x 900mm high; with triangular brackets at 900c/s; bolted to concrete foundation; radius,m,External Works,Kerbs & Edgings,479.63,ExternalWorks!E760,479.63,ExternalWorks!A760,External Works,"5mm,900mm,edging,concrete"
+EXT688,EXT680,Corten steel Planterline edgings by Kinley; 6mm x 1200mm high; with triangular brackets at 900c/s; bolted to concrete podium,m,External Works,Kerbs & Edgings,605.49,ExternalWorks!E761,605.49,ExternalWorks!A761,External Works,"6mm,1200mm,edging,concrete"
+EXT689,EXT681,Corten steel Planterline cube planter; 800 x 800 x 500mm high; bolted to concrete foundation; str,nr,External Works,Kerbs & Edgings,1255.58,ExternalWorks!E762,1255.58,ExternalWorks!A762,External Works,"500mm,concrete"
+EXT690,EXT682,Beany block drainage kerb,m,External Works,Kerbs & Edgings,120.92,ExternalWorks!E763,120.92,ExternalWorks!A763,External Works,"kerb,drainage"
+EXT691,EXT683,Beany block gully outfall,nr,External Works,Kerbs & Edgings,511.03,ExternalWorks!E764,511.03,ExternalWorks!A764,External Works,
+EXT692,EXT684,Beany block end cap,nr,External Works,Kerbs & Edgings,46.28,ExternalWorks!E765,46.28,ExternalWorks!A765,External Works,
+EXT693,EXT685,Mini Beany drainage kerb,m,External Works,Kerbs & Edgings,105.4,ExternalWorks!E766,105.4,ExternalWorks!A766,External Works,"kerb,drainage"
+EXT694,EXT686,Mini Beany gully outfall,nr,External Works,Kerbs & Edgings,468.57,ExternalWorks!E767,468.57,ExternalWorks!A767,External Works,
+EXT695,EXT687,Mini beany end cap,nr,External Works,Kerbs & Edgings,44.31,ExternalWorks!E768,44.31,ExternalWorks!A768,External Works,
+EXT696,EXT688,Timber edging; 50 x 150; with 40 x 40 x 450 pegs,m,External Works,Kerbs & Edgings,16.37,ExternalWorks!E769,16.37,ExternalWorks!A769,External Works,edging
+EXT697,EXT689,Timber edging; 50 x 150; with 40 x 40 x 450 pegs; curved/facetted,m,External Works,Kerbs & Edgings,21.47,ExternalWorks!E770,21.47,ExternalWorks!A770,External Works,edging
+EXT698,EXT690,Gravel strip/margin,m,External Works,Kerbs & Edgings,4.27,ExternalWorks!E771,4.27,ExternalWorks!A771,External Works,
+EXT699,EXT691,Temporary block kerb race; 100mm thick x 440 x 215 7N blocks including concrete bed & haunch,m,External Works,Kerbs & Edgings,17.27,ExternalWorks!E772,17.27,ExternalWorks!A772,External Works,"100mm,kerb,concrete"
+EXT700,EXT692,Take up temp kerb race & dispose,m,External Works,Kerbs & Edgings,6.74,ExternalWorks!E773,6.74,ExternalWorks!A773,External Works,kerb
+EXT701,EXT693,Brickwork; HB thick skin of facing brickwork laid against concrete; stretcher bond; PC£450/1000; inc 5/m2 ties shot fired to concrete,m2,External Works,Brickwork,101.56,ExternalWorks!E776,101.56,ExternalWorks!A776,External Works,concrete
+EXT702,EXT694,Brickwork; HB thick skin of facing brickwork laid against concrete; stretcher bond; to upstands/planters not exceeding 1m high; PC£450/1000; inc 5/m2 ties shot fired to concrete,m2,External Works,Brickwork,118.19,ExternalWorks!E777,118.19,ExternalWorks!A777,External Works,"1m,concrete"
+EXT703,EXT695,Lay only brickwork; HB thick skin of facing brickwork laid against concrete; stretcher bond; to upstands/planters/step risers not exceeding 1m high; free issue bricks & mortar; inc 5/m2 ties shot fired to concrete,m2,External Works,Brickwork,76.0,ExternalWorks!E778,76.0,ExternalWorks!A778,External Works,"1m,concrete"
+EXT704,EXT696,Lay only brickwork; HB thick skin of facing brickwork laid against concrete; stretcher bond; to upstands/planters not exceeding 1m high; free issue bricks & mortar; inc 5/m2 ties shot fired to concrete,m2,External Works,Brickwork,72.25,ExternalWorks!E779,72.25,ExternalWorks!A779,External Works,"1m,concrete"
+EXT705,EXT697,Brickwork; HB thick skin of facing brickwork laid against concrete; step riser; PC£450/1000; 2 courses high (160mm),m,External Works,Brickwork,18.91,ExternalWorks!E780,18.91,ExternalWorks!A780,External Works,"160mm,concrete"
+EXT706,EXT698,Brickwork; HB thick skin of facing brickwork laid against concrete; step riser; PC£450/1000; 3 courses high (235mm),m,External Works,Brickwork,27.77,ExternalWorks!E781,27.77,ExternalWorks!A781,External Works,"235mm,concrete"
+EXT707,EXT699,Brickwork; 1B thick wall in facing bricks; facework one side only; flemish bond; freestanding; PC£450/1000,m2,External Works,Brickwork,170.72,ExternalWorks!E782,170.72,ExternalWorks!A782,External Works,
+EXT708,EXT700,Lay only brickwork; 1B thick wall in facing bricks; facework one side only; flemish bond; freestanding; free issue bricks & mortar,m2,External Works,Brickwork,90.0,ExternalWorks!E783,90.0,ExternalWorks!A783,External Works,
+EXT709,EXT701,Brickwork; 1B thick wall in facing bricks; facework one side only; flemish garden bond; freestanding; PC£450/1000,m2,External Works,Brickwork,170.72,ExternalWorks!E784,170.72,ExternalWorks!A784,External Works,
+EXT710,EXT702,EO for brick on edge coping; 1B wall,m,External Works,Brickwork,6.25,ExternalWorks!E785,6.25,ExternalWorks!A785,External Works,
+EXT711,EXT703,100mm blockwork; lightweight concrete blocks,m2,External Works,Brickwork,37.5,ExternalWorks!E786,37.5,ExternalWorks!A786,External Works,"100mm,concrete"
+EXT712,EXT704,140mm blockwork; lightweight concrete blocks,m2,External Works,Brickwork,48.75,ExternalWorks!E787,48.75,ExternalWorks!A787,External Works,"140mm,concrete"
+EXT713,EXT705,200mm blockwork; lightweight concrete blocks,m2,External Works,Brickwork,75.0,ExternalWorks!E788,75.0,ExternalWorks!A788,External Works,"200mm,concrete"
+EXT714,EXT706,100mm blockwork; 7N dense concrete blocks,m2,External Works,Brickwork,40.0,ExternalWorks!E789,40.0,ExternalWorks!A789,External Works,"100mm,concrete"
+EXT715,EXT707,140mm blockwork; 7N dense concrete blocks,m2,External Works,Brickwork,51.25,ExternalWorks!E790,51.25,ExternalWorks!A790,External Works,"140mm,concrete"
+EXT716,EXT708,200mm blockwork; 7N dense concrete blocks,m2,External Works,Brickwork,77.5,ExternalWorks!E791,77.5,ExternalWorks!A791,External Works,"200mm,concrete"
+EXT717,EXT709,Form 100mm cavity inc 5 S/S ties/m2 & fill cavity with C30 concrete,m2,External Works,Brickwork,51.77,ExternalWorks!E792,51.77,ExternalWorks!A792,External Works,"100mm,concrete"
+EXT718,EXT710,Form 350mm cavity inc 5 S/S ties/m2 & fill cavity with C30 concrete,m2,External Works,Brickwork,156.83,ExternalWorks!E793,156.83,ExternalWorks!A793,External Works,"350mm,concrete"
+EXT719,EXT711,Form 100mm cavity inc 5 S/S ties/m2 & 100mm Dritherm cavity insulation,m2,External Works,Brickwork,28.75,ExternalWorks!E794,28.75,ExternalWorks!A794,External Works,"100mm,100mm"
+EXT720,EXT712,Footing for one brick wall including 550 x 500m deep trench & 550 x 300 concrete strip footing,m,External Works,Brickwork,69.45,ExternalWorks!E795,69.45,ExternalWorks!A795,External Works,"500m,concrete"
+EXT721,EXT713,Footing for brick wall including 900 x 500m deep trench & 900 x 300 concrete strip footing,m,External Works,Brickwork,82.25,ExternalWorks!E796,82.25,ExternalWorks!A796,External Works,"500m,concrete"
+EXT722,EXT714,Footing for brick wall including 600 x 900m deep trench & 600 x 600 concrete strip footing,m,External Works,Brickwork,105.41,ExternalWorks!E797,105.41,ExternalWorks!A797,External Works,"900m,concrete"
+EXT723,EXT715,BOE coping,m,External Works,Brickwork,0.0,,0.0,ExternalWorks!A798,External Works,
+EXT724,EXT716,Cut slip bricks at edge of PC flooring,m,External Works,Brickwork,12.5,ExternalWorks!E799,12.5,ExternalWorks!A799,External Works,
+EXT725,EXT717,Forming cavity with 4nr butterfly ties/m2; not exceeding 100mm wide,m2,External Works,Brickwork,4.0,ExternalWorks!E800,4.0,ExternalWorks!A800,External Works,100mm
+EXT726,EXT718,Cavity wall insulation; 100mm thk,m2,External Works,Brickwork,18.74,ExternalWorks!E801,18.74,ExternalWorks!A801,External Works,100mm
+EXT727,EXT719,DPC 100 wide,m,External Works,Brickwork,5.03,ExternalWorks!E802,5.03,ExternalWorks!A802,External Works,
+EXT728,EXT720,DPC 140 wide,m,External Works,Brickwork,6.56,ExternalWorks!E803,6.56,ExternalWorks!A803,External Works,
+EXT729,EXT721,DPC 215 wide,m,External Works,Brickwork,8.49,ExternalWorks!E804,8.49,ExternalWorks!A804,External Works,
+EXT730,EXT722,215 x 215 x 2.0m 4HR RC lintel,nr,External Works,Brickwork,677.8,ExternalWorks!E805,677.8,ExternalWorks!A805,External Works,0m
+EXT731,EXT723,Plain; isolation joint; 20mm filler; not exceeding 300mm wide; mastic both sides,m,External Works,Brickwork,18.72,ExternalWorks!E806,18.72,ExternalWorks!A806,External Works,"20mm,300mm"
+EXT732,EXT724,Sub station louvred HD metal double doors including steel frame and threshold; powder coated finish; 1585 x 2100; by Sunray Engineering,nr,External Works,Brickwork,9212.69,ExternalWorks!E807,9212.69,ExternalWorks!A807,External Works,
+EXT733,EXT725,Sub station louvred ventilation panel; powder coated finish; 1585 x 975; by Sunray Engineering,nr,External Works,Brickwork,2319.7,ExternalWorks!E808,2319.7,ExternalWorks!A808,External Works,
+EXT734,EXT726,Cast in Sunray Engineering mesh grid flooring to service trench; 38mm thick; spans not exceeding 1.5m,m2,External Works,Brickwork,596.62,ExternalWorks!E809,596.62,ExternalWorks!A809,External Works,"38mm,5m"
+EXT735,EXT727,Brickwork; 1B thick retaining wall; PC£400/1000,m2,External Works,Retaining Walls,131.59,ExternalWorks!E812,131.59,ExternalWorks!A812,External Works,
+EXT736,EXT728,Brickwork; 1B thick retaining wall; free issue bricks,m2,External Works,Retaining Walls,68.59,ExternalWorks!E813,68.59,ExternalWorks!A813,External Works,
+EXT737,EXT729,Brickwork; 1.5B thick retaining wall; PC£400/1000,m2,External Works,Retaining Walls,199.72,ExternalWorks!E814,199.72,ExternalWorks!A814,External Works,
+EXT738,EXT730,Brickwork; 2B thick retaining wall; PC£400/1000,m2,External Works,Retaining Walls,263.91,ExternalWorks!E815,263.91,ExternalWorks!A815,External Works,
+EXT739,EXT731,Steproc retaining wall; mm thk,m2,External Works,Retaining Walls,0.0,,0.0,ExternalWorks!A816,External Works,
+EXT740,EXT732,Steproc retaining wall; mm thk,m2,External Works,Retaining Walls,0.0,,0.0,ExternalWorks!A817,External Works,
+EXT741,EXT733,Endura retaining wall; mm thk,m2,External Works,Retaining Walls,0.0,,0.0,ExternalWorks!A818,External Works,
+EXT742,EXT734,Endura retaining wall; mm thk,m2,External Works,Retaining Walls,0.0,,0.0,ExternalWorks!A819,External Works,
+EXT743,EXT735,PC conc Redi-Rock retaining wall system; cobblestone interlocking blocks; 1170 lg x 460 high x 710/1040/1520 deep blocks (0.538m2),m2,External Works,Retaining Walls,485.24,ExternalWorks!E820,485.24,ExternalWorks!A820,External Works,
+EXT744,EXT736,Unilog retaining walls; 100dia x 500-750mm retained hgt; vert @ 100c/s,m,External Works,Retaining Walls,166.27,ExternalWorks!E821,166.27,ExternalWorks!A821,External Works,750mm
+EXT745,EXT737,Unilog retaining walls; 100dia x 750-1000mm retained hgt; vert @ 100c/s,m,External Works,Retaining Walls,220.86,ExternalWorks!E822,220.86,ExternalWorks!A822,External Works,1000mm
+EXT746,EXT738,Unilog retaining walls; 100dia x 1000-1250mm retained; vert @ 100c/s,m,External Works,Retaining Walls,275.44,ExternalWorks!E823,275.44,ExternalWorks!A823,External Works,1250mm
+EXT747,EXT739,Unilog retaining walls; 100dia x 1250-1500m retained hgt; vert @ 100c/s,m,External Works,Retaining Walls,330.03,ExternalWorks!E824,330.03,ExternalWorks!A824,External Works,1500m
+EXT748,EXT740,Unilog retaining walls; 150dia x 1500-1750m retained hgt; vert @ 150c/s,m,External Works,Retaining Walls,384.74,ExternalWorks!E825,384.74,ExternalWorks!A825,External Works,1750m
+EXT749,EXT741,Unilog retaining walls; 150dia x 1750-2000mm retained hgt; vert @ 150c/s,m,External Works,Retaining Walls,439.34,ExternalWorks!E826,439.34,ExternalWorks!A826,External Works,2000mm
+EXT750,EXT742,Gabion cages; 1.0 x 1.0 x 1.0; 3mm wire (1.0m3),nr,External Works,Retaining Walls,56.43,ExternalWorks!E827,56.43,ExternalWorks!A827,External Works,3mm
+EXT751,EXT743,Gabion cages; 1.0 x 0.5 x 1.0; 3mm wire (0.5m3),nr,External Works,Retaining Walls,41.43,ExternalWorks!E828,41.43,ExternalWorks!A828,External Works,3mm
+EXT752,EXT744,Gabion cages; 1.0 x 0.75 x 0.75; 3mm wire (0.56m3),nr,External Works,Retaining Walls,42.4,ExternalWorks!E829,42.4,ExternalWorks!A829,External Works,3mm
+EXT753,EXT745,Gabion cages; 0.6 x 0.6 x 0.6; 3mm wire (0.22m3),nr,External Works,Retaining Walls,38.43,ExternalWorks!E830,38.43,ExternalWorks!A830,External Works,3mm
+EXT754,EXT746,Gabion cages; 0.5 x 0.5 x 0.5; 3mm wire (0.13m3),nr,External Works,Retaining Walls,33.93,ExternalWorks!E831,33.93,ExternalWorks!A831,External Works,3mm
+EXT755,EXT747,6G gabion fill; hand packed in place,m3,External Works,Retaining Walls,281.21,ExternalWorks!E832,281.21,ExternalWorks!A832,External Works,
+EXT756,EXT748,"HW baulk timber; 125 x 250; bolted to posts with M16 bolts x 275lg, inc drill and counter bore at 850 c/s; single row",m,External Works,Timber Sleepers and baulk timbers,53.92,ExternalWorks!E835,53.92,ExternalWorks!A835,External Works,
+EXT757,EXT749,"HW baulk timber; 125 x 225 x 2.6m lg; bolted to posts with M16 bolts x 250lg, inc drill and counter bore at 850 c/s; single sleeper high",m,External Works,Timber Sleepers and baulk timbers,66.87,ExternalWorks!E836,66.87,ExternalWorks!A836,External Works,6m
+EXT758,EXT750,"HW baulk timber; 125 x 225 x 2.6m lg; bolted to posts with M16 bolts x 250lg, inc drill and counter bore at 850 c/s; 3 sleepers high",m,External Works,Timber Sleepers and baulk timbers,200.61,ExternalWorks!E837,200.61,ExternalWorks!A837,External Works,6m
+EXT759,EXT751,"HW baulk timber; 125 x 225 x 2.6m lg; bolted to posts with M16 bolts x 250lg, inc drill and counter bore at 850 c/s; 5 sleepers high",m,External Works,Timber Sleepers and baulk timbers,334.36,ExternalWorks!E838,334.36,ExternalWorks!A838,External Works,6m
+EXT760,EXT752,200 x 200 HW (Greenheart/Ekki) timbers / fenders bolted to sheet pile river wall with fabricated steel brackets (meas sep),m,External Works,Timber Sleepers and baulk timbers,241.56,ExternalWorks!E839,241.56,ExternalWorks!A839,External Works,
+EXT761,EXT753,200 x 75 HW (Greenheart/Ekki) timbers / fenders bolted to concrete capping beam,m,External Works,Timber Sleepers and baulk timbers,111.41,ExternalWorks!E840,111.41,ExternalWorks!A840,External Works,concrete
+EXT762,EXT754,Cutting 25 x 25 recess in HW fenders,m,External Works,Timber Sleepers and baulk timbers,25.17,ExternalWorks!E841,25.17,ExternalWorks!A841,External Works,
+EXT763,EXT755,Cutting 100 x 100 splay,nr,External Works,Timber Sleepers and baulk timbers,25.17,ExternalWorks!E842,25.17,ExternalWorks!A842,External Works,
+EXT764,EXT756,Drill 22mm dia hole thro' 200mm thick HW,nr,External Works,Timber Sleepers and baulk timbers,14.46,ExternalWorks!E843,14.46,ExternalWorks!A843,External Works,"22mm,200mm"
+EXT765,EXT757,Drill 18mm dia hole thro' 75mm thick HW,nr,External Works,Timber Sleepers and baulk timbers,8.28,ExternalWorks!E844,8.28,ExternalWorks!A844,External Works,"18mm,75mm"
+EXT766,EXT758,150x150x12 equal angle (27.3kg/m); 260mm lg; twice drilled; welded to sheet pile river wall,nr,External Works,Steel angle brackets,192.12,ExternalWorks!E847,192.12,ExternalWorks!A847,External Works,"3kg,260mm"
+EXT767,EXT759,150x150x12 equal angle (27.3kg/m); 150mm lg; once drilled; welded to sheet pile river wall,nr,External Works,Steel angle brackets,134.88,ExternalWorks!E848,134.88,ExternalWorks!A848,External Works,"3kg,150mm"
+EXT768,EXT760,150x90x12 unequal angle (21.6kg/m); 150mm lg; once drilled; welded to sheet pile river wall,nr,External Works,Steel angle brackets,93.74,ExternalWorks!E849,93.74,ExternalWorks!A849,External Works,"6kg,150mm"
+EXT769,EXT761,"M20 bolt, washers, nut, 250mm lg",nr,External Works,Steel angle brackets,12.36,ExternalWorks!E850,12.36,ExternalWorks!A850,External Works,250mm
+EXT770,EXT762,"M20 bolt, washers, packers, nut, 290mm lg",nr,External Works,Steel angle brackets,12.99,ExternalWorks!E851,12.99,ExternalWorks!A851,External Works,290mm
+EXT771,EXT763,M16 Chemfix anchor; 300mm lg; inc drilling concrete,nr,External Works,Steel angle brackets,30.97,ExternalWorks!E852,30.97,ExternalWorks!A852,External Works,"300mm,concrete"
+EXT772,EXT764,HD chain 8mm dia x 52mm lg links,m,External Works,Steel angle brackets,20.15,ExternalWorks!E853,20.15,ExternalWorks!A853,External Works,"8mm,52mm"
+EXT773,EXT765,Fixing eyes and lock shackle; welded to SSP river wall,nr,External Works,Steel angle brackets,88.19,ExternalWorks!E854,88.19,ExternalWorks!A854,External Works,
+EXT774,EXT766,Brass demarcation stud; including drill paving and resin anchor,nr,External Works,Demarcation & protection studs,21.77,ExternalWorks!E857,21.77,ExternalWorks!A857,External Works,paving
+EXT775,EXT767,30mm stainless steel stud; including drilling paving and resin anchor,nr,External Works,Demarcation & protection studs,24.77,ExternalWorks!E858,24.77,ExternalWorks!A858,External Works,"30mm,paving"
+EXT776,EXT768,Anti skateboard stubs including drill concrete bench/coping and resin anchor,nr,External Works,Demarcation & protection studs,79.24,ExternalWorks!E859,79.24,ExternalWorks!A859,External Works,concrete
+EXT777,EXT769,Conc foundation for bolt down furniture; 1.0 x 1.0 x 1.0; plain,nr,External Works,Street Furniture,240.91,ExternalWorks!E862,240.91,ExternalWorks!A862,External Works,
+EXT778,EXT770,Conc foundation for bolt down furniture; 0.75 x 0.75 x 1.0; plain,nr,External Works,Street Furniture,135.45,ExternalWorks!E863,135.45,ExternalWorks!A863,External Works,
+EXT779,EXT771,"Carefully remove existing bollard, set aside for re-use, take from store and fix in new position",nr,External Works,Street Furniture,141.97,ExternalWorks!E864,141.97,ExternalWorks!A864,External Works,bollard
+EXT780,EXT772,Fix only free issue alumiminium lighting bollard; inc concrete foundation and duct entries,nr,External Works,Street Furniture,142.42,ExternalWorks!E865,142.42,ExternalWorks!A865,External Works,"concrete,bollard"
+EXT781,EXT773,Timber bollard; 100 x 100 x 1250 (inc 300 root); oak; with concrete foundation,nr,External Works,Street Furniture,168.54,ExternalWorks!E866,168.54,ExternalWorks!A866,External Works,"concrete,bollard"
+EXT782,EXT774,Timber bollard; 150 x 150 x 1250 (inc 300 root); oak; with concrete foundation,nr,External Works,Street Furniture,217.1,ExternalWorks!E867,217.1,ExternalWorks!A867,External Works,"concrete,bollard"
+EXT783,EXT775,Timber bollard; 200 x 200 x 1250 (inc 300 root); oak; with concrete foundation,nr,External Works,Street Furniture,269.6,ExternalWorks!E868,269.6,ExternalWorks!A868,External Works,"concrete,bollard"
+EXT784,EXT776,Removable timber bollard; 150 x 150 x 1200 (inc 300 root); Broxap BX17 with padlock; galv socket bedded in 550 x 550 concrete foundation.,nr,External Works,Street Furniture,382.48,ExternalWorks!E869,382.48,ExternalWorks!A869,External Works,"concrete,bollard"
+EXT785,EXT777,Cast iron bollard; 227 dia x 985 + 390 root; with concrete foundation,nr,External Works,Street Furniture,247.98,ExternalWorks!E870,247.98,ExternalWorks!A870,External Works,"concrete,bollard"
+EXT786,EXT778,Cast iron bollard; 227 dia x 985 + 390 root; with concrete foundation; fix only free issue,nr,External Works,Street Furniture,128.46,ExternalWorks!E871,128.46,ExternalWorks!A871,External Works,"concrete,bollard"
+EXT787,EXT779,Polyurethane bollard; 160 dia x 900 + 300 root; with concrete foundation,nr,External Works,Street Furniture,247.98,ExternalWorks!E872,247.98,ExternalWorks!A872,External Works,"concrete,bollard"
+EXT788,EXT780,Galvanised steel bollard; 168 dia x 1000 + 300 root; with concrete foundation,nr,External Works,Street Furniture,192.98,ExternalWorks!E873,192.98,ExternalWorks!A873,External Works,"concrete,bollard"
+EXT789,EXT781,Stainless steel bollard; 154 dia x 1000 + 300 root; with concrete foundation,nr,External Works,Street Furniture,272.98,ExternalWorks!E874,272.98,ExternalWorks!A874,External Works,"concrete,bollard"
+EXT790,EXT782,Stainless steel bollard; brushed satin finish; 101 dia x 1200 + 300 root; with concrete foundation,nr,External Works,Street Furniture,190.48,ExternalWorks!E875,190.48,ExternalWorks!A875,External Works,"concrete,bollard"
+EXT791,EXT783,Fold down/hinged stainless steel bollard; Bailey Streetscene; 101 dia x 1100 high; brushed satin finish,nr,External Works,Street Furniture,291.73,ExternalWorks!E876,291.73,ExternalWorks!A876,External Works,bollard
+EXT792,EXT784,BX90 Haslington Collapsible Parking Post; 60 dia x 620 high; mild steel post with bolted aluminium base,nr,External Works,Street Furniture,216.6,ExternalWorks!E877,216.6,ExternalWorks!A877,External Works,
+EXT793,EXT785,Telescopic bollard (manual); 101 dia x 900 bollard; 140x140x1182 deep casing; with concrete foundation,nr,External Works,Street Furniture,733.73,ExternalWorks!E878,733.73,ExternalWorks!A878,External Works,"concrete,bollard"
+EXT794,EXT786,Stainless steel Warrior Telescopic bollard; 90 dia x 900 bollard; 140x140x1182 deep casing; with concrete foundation,nr,External Works,Street Furniture,946.23,ExternalWorks!E879,946.23,ExternalWorks!A879,External Works,"concrete,bollard"
+EXT795,EXT787,Automatic hydraulic retractable traffic bollard by ATG Access; stainless steel; 700mm high; 150x150x1182 deep casing; with concrete foundation,nr,External Works,Street Furniture,11569.84,ExternalWorks!E880,11569.84,ExternalWorks!A880,External Works,"700mm,concrete,bollard"
+EXT796,EXT788,Illuminated steel bollard; 152 dia; 50w sodium lamp & control gear; with concrete foundation,nr,External Works,Street Furniture,727.98,ExternalWorks!E881,727.98,ExternalWorks!A881,External Works,"concrete,bollard"
+EXT797,EXT789,Illuminated steel bollard; 152 dia; 50w sodium lamp & control gear; with concrete foundation; fix only,nr,External Works,Street Furniture,104.23,ExternalWorks!E882,104.23,ExternalWorks!A882,External Works,"concrete,bollard"
+EXT798,EXT790,Concrete bollard; 250 dia x 750 high + 350 root; with concrete foundation,nr,External Works,Street Furniture,290.48,ExternalWorks!E883,290.48,ExternalWorks!A883,External Works,"concrete,bollard"
+EXT799,EXT791,Fix only free issue granite bollard; 150 x 150 x 1100 high (inc 350 root); with concrete foundation,nr,External Works,Street Furniture,104.23,ExternalWorks!E884,104.23,ExternalWorks!A884,External Works,"concrete,bollard"
+EXT800,EXT792,Cycle hoop; Sheffield; 715 x 800; with concrete foundations,nr,External Works,Street Furniture,244.63,ExternalWorks!E885,244.63,ExternalWorks!A885,External Works,concrete
+EXT801,EXT793,Cycle hoop; Austrian double; 1525 x 615; with concrete foundations,nr,External Works,Street Furniture,319.63,ExternalWorks!E886,319.63,ExternalWorks!A886,External Works,concrete
+EXT802,EXT794,Cycle hoop; Streetlife; CorTen FB-CT-35; with concrete foundations,nr,External Works,Street Furniture,343.79,ExternalWorks!E887,343.79,ExternalWorks!A887,External Works,concrete
+EXT803,EXT795,Cycle hoop; Marshalls Loci Corten Steel; with concrete foundations,nr,External Works,Street Furniture,522.06,ExternalWorks!E888,522.06,ExternalWorks!A888,External Works,concrete
+EXT804,EXT796,Cycle hoop; Broxap BXMW/GS; with concrete foundations,nr,External Works,Street Furniture,375.88,ExternalWorks!E889,375.88,ExternalWorks!A889,External Works,concrete
+EXT805,EXT797,Cycle hoop; instal only free issue; with concrete foundations,nr,External Works,Street Furniture,138.38,ExternalWorks!E890,138.38,ExternalWorks!A890,External Works,concrete
+EXT806,EXT798,Cycle ramp by Cyclehoop Ltd; Aluminium alloy; 200mm wide; bolted to existing steps,m,External Works,Street Furniture,425.24,ExternalWorks!E891,425.24,ExternalWorks!A891,External Works,200mm
+EXT807,EXT799,Rubber speed hump; bolt down; 500 wide x 75mm high,m,External Works,Street Furniture,106.81,ExternalWorks!E892,106.81,ExternalWorks!A892,External Works,75mm
+EXT808,EXT800,Rubber speed hump; bolt down; rounded ends,nr,External Works,Street Furniture,63.68,ExternalWorks!E893,63.68,ExternalWorks!A893,External Works,
+EXT809,EXT801,Rubber speed hump; bolt down; 500 wide x 30mm high,m,External Works,Street Furniture,118.61,ExternalWorks!E894,118.61,ExternalWorks!A894,External Works,30mm
+EXT810,EXT802,Rubber speed hump; bolt down; 500 wide x 30mm high; fix only free issue,m,External Works,Street Furniture,62.36,ExternalWorks!E895,62.36,ExternalWorks!A895,External Works,30mm
+EXT811,EXT803,Bench; steel; 1800lg x 565 x 830 hgh; 5 slats,nr,External Works,Street Furniture,533.42,ExternalWorks!E896,533.42,ExternalWorks!A896,External Works,
+EXT812,EXT804,Bench; steel; fix only free issu; hgh; 5 slats,nr,External Works,Street Furniture,172.17,ExternalWorks!E897,172.17,ExternalWorks!A897,External Works,
+EXT813,EXT805,Bench; cast iron end with timber slats; 2m lg x 605 x 797 hgh,nr,External Works,Street Furniture,645.51,ExternalWorks!E898,645.51,ExternalWorks!A898,External Works,2m
+EXT814,EXT806,Bench; cast iron; 700 x 3000lg x 830hgh,nr,External Works,Street Furniture,2837.61,ExternalWorks!E899,2837.61,ExternalWorks!A899,External Works,
+EXT815,EXT807,Bench; timber; Iroko; 1800lg x 650 x 900 hgh,nr,External Works,Street Furniture,763.42,ExternalWorks!E900,763.42,ExternalWorks!A900,External Works,
+EXT816,EXT808,"Bailey Streetscene acid etched PC concrete seating cube with timber seating; 600 x 600 x 450; Iroko hardwood seat slats, 95 x 35, on S/S runners",nr,External Works,Street Furniture,1312.17,ExternalWorks!E901,1312.17,ExternalWorks!A901,External Works,concrete
+EXT817,EXT809,"Bailey Streetscene acid etched PC concrete seating bench with timber seating; 1800 x 600 x 450; Iroko hardwood seat slats, 95 x 35, on S/S runners",nr,External Works,Street Furniture,2012.17,ExternalWorks!E902,2012.17,ExternalWorks!A902,External Works,concrete
+EXT818,EXT810,"Bailey Streetscene acid etched PC concrete seating bench with backrest with timber seating; 1800 x 600 x 450; Iroko hardwood seat slats, 95 x 35, on S/S runners",nr,External Works,Street Furniture,2268.42,ExternalWorks!E903,2268.42,ExternalWorks!A903,External Works,concrete
+EXT819,EXT811,"Marshalls PC concrete seating unit; ref A1; 800 x 1200 x 600 high (450 above ground), with recessed shadow gap around base with concealed LED lighting; silver grey acid etched",nr,External Works,Street Furniture,4168.6,ExternalWorks!E904,4168.6,ExternalWorks!A904,External Works,concrete
+EXT820,EXT812,Marshalls PC concrete seating unit; ref A2; 800 x 1200 x 450 high (450 above ground); acid etched Red or Yellow colour,nr,External Works,Street Furniture,2834.63,ExternalWorks!E905,2834.63,ExternalWorks!A905,External Works,concrete
+EXT821,EXT813,"Marshalls PC concrete seating unit; ref A3; 800 x 1200 x 510, with recessed shadow gap around base with concealed LED lighting; silver grey acid etched; slatted FSC timber hardwood seat in 60 x 60 x 10 steel angle frame",nr,External Works,Street Furniture,6329.52,ExternalWorks!E906,6329.52,ExternalWorks!A906,External Works,concrete
+EXT822,EXT814,"Marshalls PC concrete seating unit; ref A4; 800 x 1200 x 510, with recessed shadow gap around base with concealed LED lighting; silver grey acid etched; slatted FSC timber hardwood seat & backrest in 60 x 60 x 10 steel angle frame",nr,External Works,Street Furniture,7178.61,ExternalWorks!E907,7178.61,ExternalWorks!A907,External Works,concrete
+EXT823,EXT815,"Marshalls PC concrete seating unit; ref A5; 800 x 1200 x 450, with recessed shadow gap around base with concealed LED lighting; silver grey acid etched; slatted FSC timber hardwood seat & backrest in 60 x 60 x 10 steel angle frame",nr,External Works,Street Furniture,7450.27,ExternalWorks!E908,7450.27,ExternalWorks!A908,External Works,concrete
+EXT824,EXT816,"Marshalls granite seating unit; ref B1; 800 x 1200 x 450 high (450 above ground); flammed top, cropped sides, sawn bottom; Royal white colour",nr,External Works,Street Furniture,12679.48,ExternalWorks!E909,12679.48,ExternalWorks!A909,External Works,
+EXT825,EXT817,"Marshalls PC concrete seating unit; ref B2; 450 x 2000 x 600 high, silver grey acid etched; slatted FSC timber hardwood seat in 60 x 60 x 10 steel angle frame",nr,External Works,Street Furniture,7000.47,ExternalWorks!E910,7000.47,ExternalWorks!A910,External Works,concrete
+EXT826,EXT818,"Marshalls PC concrete seating unit; ref B2 (x 3.0m lg); 450 x 3000 x 600 high, silver grey acid etched; slatted FSC timber hardwood seat in 60 x 60 x 10 steel angle frame",nr,External Works,Street Furniture,10420.87,ExternalWorks!E911,10420.87,ExternalWorks!A911,External Works,"0m,concrete"
+EXT827,EXT819,Corten steel irregular shaped seat with Iroko HW seating slats; 450mm high; sides 2150 x 1850 x 1800 x 1100; bolted to concrete foundation,nr,External Works,Street Furniture,10651.39,ExternalWorks!E912,10651.39,ExternalWorks!A912,External Works,"450mm,concrete"
+EXT828,EXT820,Corten steel irregular shaped seat with Iroko HW seating slats; 450mm high; sides 2100 x 1900 x 2400 x 765; bolted to concrete foundation,nr,External Works,Street Furniture,11526.39,ExternalWorks!E913,11526.39,ExternalWorks!A913,External Works,"450mm,concrete"
+EXT829,EXT821,Corten steel irregular shaped seat with Iroko HW seating slats; 450mm high; sides 1100 x 2550 x 2750 x 2300; bolted to concrete foundation,nr,External Works,Street Furniture,15526.39,ExternalWorks!E914,15526.39,ExternalWorks!A914,External Works,"450mm,concrete"
+EXT830,EXT822,Corten steel irregular shaped seat with Iroko HW seating slats; 450mm high; sides 2030 x 2350 x 2550 x 1600; bolted to concrete foundation,nr,External Works,Street Furniture,13651.39,ExternalWorks!E915,13651.39,ExternalWorks!A915,External Works,"450mm,concrete"
+EXT831,EXT823,Corten steel cantilevered seat with Iroko HW seating slats and back; bolted to 900mm high steel upstands,m,External Works,Street Furniture,893.63,ExternalWorks!E916,893.63,ExternalWorks!A916,External Works,900mm
+EXT832,EXT824,Corten steel inset seat with Iroko HW seating slats; inset into 900mm high steel upstands/planters with integral frame,m,External Works,Street Furniture,1065.13,ExternalWorks!E917,1065.13,ExternalWorks!A917,External Works,900mm
+EXT833,EXT825,Litter bin?? Provisional sum,nr,External Works,Street Furniture,179.23,ExternalWorks!E918,179.23,ExternalWorks!A918,External Works,
+EXT834,EXT826,Litter bin; cast iron with galv steel inner bin; 400dia x 885 hgh,nr,External Works,Street Furniture,535.48,ExternalWorks!E919,535.48,ExternalWorks!A919,External Works,
+EXT835,EXT827,Litter bin; plastic outer & cover with galv steel inner bin; 600dia x 1120 hgh,nr,External Works,Street Furniture,290.48,ExternalWorks!E920,290.48,ExternalWorks!A920,External Works,
+EXT836,EXT828,Litter bin; stainless steel with galv steel inner bin; 580dia x 1100 hgh,nr,External Works,Street Furniture,1315.48,ExternalWorks!E921,1315.48,ExternalWorks!A921,External Works,
+EXT837,EXT829,"Litter bin; Marshalls Morella litter bin; Corten steel sheet, oxidised & varnished",nr,External Works,Street Furniture,1881.73,ExternalWorks!E922,1881.73,ExternalWorks!A922,External Works,
+EXT838,EXT830,Litter bin; Metalcouk Spencer T Corten litter bin; with litter man logo,nr,External Works,Street Furniture,923.72,ExternalWorks!E923,923.72,ExternalWorks!A923,External Works,
+EXT839,EXT831,Litter bin; Cannock bin with ashtray by Bailey Streetscene; 500dia x 1160 hgh,nr,External Works,Street Furniture,816.73,ExternalWorks!E924,816.73,ExternalWorks!A924,External Works,
+EXT840,EXT832,Litter bin; Cannock recycling bin by Bailey Streetscene; 500dia x 1160 hgh,nr,External Works,Street Furniture,816.73,ExternalWorks!E925,816.73,ExternalWorks!A925,External Works,
+EXT841,EXT833,"Cast iron square tree grille; 900 x 900; grill, frame & clamps",nr,External Works,Street Furniture,545.59,ExternalWorks!E926,545.59,ExternalWorks!A926,External Works,
+EXT842,EXT834,"Cast iron square tree grille; 1200 x 1200; grill, frame & clamps",nr,External Works,Street Furniture,604.91,ExternalWorks!E927,604.91,ExternalWorks!A927,External Works,
+EXT843,EXT835,"Cast iron square tree grille; 1800 x 1800; grill, frame & clamps",nr,External Works,Street Furniture,1538.33,ExternalWorks!E928,1538.33,ExternalWorks!A928,External Works,
+EXT844,EXT836,Tree pit; 1.2m dia M/H ring x 1.2m dp; filled with topsoil,nr,External Works,Street Furniture,446.39,ExternalWorks!E929,446.39,ExternalWorks!A929,External Works,"2m,2m"
+EXT845,EXT837,"Tree pit; 1.2m dia M/H ring x 1.5m dp; filled with topsoil; 1000 x 1000 Broxap tree grill, BX1203-EC",nr,External Works,Street Furniture,897.02,ExternalWorks!E930,897.02,ExternalWorks!A930,External Works,"2m,5m"
+EXT846,EXT838,"Tree pit; 5m x 5m; RootSpace UPVC 500 x 500 x 600hgh 20t load bearing units with aeration caps on 150mm permeable stone, covered with geonet membrane, ; filled with Rootsoil Hydro topsoil; including Arborvent aeration/irrigation inlets, Arborguy anchor straps c/w anchors, Arborflow 100SUDS modular array under 1500 x 1500 tree grille and frame; (for pits under road construction).",nr,External Works,Street Furniture,11099.93,ExternalWorks!E931,11099.93,ExternalWorks!A931,External Works,"5m,5m"
+EXT847,EXT839,"GreenBlue Urban Clyde rectangular tree grille; 1200 x 1600; grill & frame, with RootRain Hydrogrille irrigation system & inlet",nr,External Works,Street Furniture,3207.56,ExternalWorks!E933,3207.56,ExternalWorks!A933,External Works,
+EXT848,EXT840,Mild steel tree guard; not exceeding 437dia x 1800,nr,External Works,Street Furniture,265.56,ExternalWorks!E934,265.56,ExternalWorks!A934,External Works,
+EXT849,EXT841,Bike shelter; Marshalls Saturn MK2; Senior 4m shelter; 4080 x 2402 x 2811 high; Galv & PPC,nr,External Works,Street Furniture,4330.89,ExternalWorks!E935,4330.89,ExternalWorks!A935,External Works,4m
+EXT850,EXT842,Bike shelter; Marshalls Saturn MK2; Senior 4m shelter; 4080 x 2402 x 2811 high; Galv & PPC; fix only free issue,nr,External Works,Street Furniture,2162.74,ExternalWorks!E936,2162.74,ExternalWorks!A936,External Works,4m
+EXT851,EXT843,"Bike shelter; Marshalls Saturn MK2; Senior 16m shelter; 16,080 x 2402 x 2811 high; Galv & PPC",nr,External Works,Street Furniture,11567.61,ExternalWorks!E937,11567.61,ExternalWorks!A937,External Works,16m
+EXT852,EXT844,Bus shelter; Economy; 4040 x 2040 x 2300; steel frame & plastic glazing & roof,nr,External Works,Street Furniture,4361.49,ExternalWorks!E938,4361.49,ExternalWorks!A938,External Works,
+EXT853,EXT845,Bus shelter; Arun; 3060 x 1510 x 2460 hgh; steel frame & toughened glass,nr,External Works,Street Furniture,7148.99,ExternalWorks!E939,7148.99,ExternalWorks!A939,External Works,
+EXT854,EXT846,Lamp post; free issue fix only,nr,External Works,Street Furniture,223.02,ExternalWorks!E940,223.02,ExternalWorks!A940,External Works,
+EXT855,EXT847,Lighting column base; 600 x 600 x 1.0m dp; fix only cast in lighting column; 1nr flexible ducts entry,nr,External Works,Street Furniture,331.71,ExternalWorks!E941,331.71,ExternalWorks!A941,External Works,0m
+EXT856,EXT848,"Lighting column base; 750 x 750 x 1.65m dp; fix only HD bolts/sleeve for post; 2nr flexible ducts; base only, column by others",nr,External Works,Street Furniture,359.64,ExternalWorks!E942,359.64,ExternalWorks!A942,External Works,65m
+EXT857,EXT849,S&F lighting column; DW Windsor Kirium Pro Mini with 5m Linear column; Philips full prog driver to run 3000k 8LED D1 optic light engine at 500mA with 35 lux photocell; concrete base; 750 x 750 x 1.65m dp; sleeve for post; 2nr flexible ducts. Painted in Ral 9005 black,nr,External Works,Street Furniture,1449.01,ExternalWorks!E943,1449.01,ExternalWorks!A943,External Works,"5m,65m,concrete"
+EXT858,EXT850,Car charging point; APT Technologies model EV-PM3 with concrete foundation and duct entry; fix only free issue; M&S work by others,nr,External Works,Street Furniture,390.89,ExternalWorks!E944,390.89,ExternalWorks!A944,External Works,concrete
+EXT859,EXT851,Pavement uplighter set into and inc cutting circular recess for lamp; 210mm dia stainless steel IP65 recessed LED 3000k spotlight,nr,External Works,Street Furniture,218.67,ExternalWorks!E945,218.67,ExternalWorks!A945,External Works,210mm
+EXT860,EXT852,Pavement uplighter set into and inc cutting circular recess for lamp; 100mm dia stainless steel IP65 recessed LED 3000k spotlight,nr,External Works,Street Furniture,186.95,ExternalWorks!E946,186.95,ExternalWorks!A946,External Works,100mm
+EXT861,EXT853,Fix only free issue Pavement uplighter set into and inc cutting circular recess for lamp; 100mm dia,nr,External Works,Street Furniture,163.85,ExternalWorks!E947,163.85,ExternalWorks!A947,External Works,100mm
+EXT862,EXT854,"Feeder pillar base; 2.50 x 1.50 x 300mm thk; fix only HD bolts; 3nr flexible ducts; base only, feeder pillar by others",nr,External Works,Street Furniture,484.2,ExternalWorks!E948,484.2,ExternalWorks!A948,External Works,300mm
+EXT863,EXT855,Road sign; free issue fix only,nr,External Works,Street Furniture,104.23,ExternalWorks!E949,104.23,ExternalWorks!A949,External Works,
+EXT864,EXT856,Road sign; free issue fix only to existing post,nr,External Works,Street Furniture,36.39,ExternalWorks!E950,36.39,ExternalWorks!A950,External Works,
+EXT865,EXT857,Street name plate by G&G Signs Ltd; diag 816.1 inc 2nr 1775 x 40 x 40 galv legs bedded in 400 x 400 conc footings,nr,External Works,Street Furniture,460.26,ExternalWorks!E951,460.26,ExternalWorks!A951,External Works,
+EXT866,EXT858,Signage post; Geo Fingerpost by Marshalls; 90mm dia pole x 3m high; with 4nr 800 x 100mm wayfinding signs; bolted to 1000 x 1000 x 200 conc footing,nr,External Works,Street Furniture,2534.63,ExternalWorks!E952,2534.63,ExternalWorks!A952,External Works,"90mm,3m"
+EXT867,EXT859,EO sign for additional finger arm,nr,External Works,Street Furniture,162.97,ExternalWorks!E953,162.97,ExternalWorks!A953,External Works,
+EXT868,EXT860,Tubular steel handrail raking to profilr of steps; 50mm dia tube rail and post; 900 to 850mm high; posts bolted to concrete with 4nr M10 bolts,m,External Works,Street Furniture,154.86,ExternalWorks!E954,154.86,ExternalWorks!A954,External Works,"50mm,850mm,concrete"
+EXT869,EXT861,Play equipment; slide; free issue fix only,nr,External Works,Street Furniture,188.79,ExternalWorks!E955,188.79,ExternalWorks!A955,External Works,
+EXT870,EXT862,Play equipment; seesaw; free issue fix only,nr,External Works,Street Furniture,104.23,ExternalWorks!E956,104.23,ExternalWorks!A956,External Works,
+EXT871,EXT863,Play equipment; climbing frame; free issue fix only,nr,External Works,Street Furniture,300.3,ExternalWorks!E957,300.3,ExternalWorks!A957,External Works,
+EXT872,EXT864,Rotary clothes dryer,nr,External Works,Street Furniture,84.92,ExternalWorks!E958,84.92,ExternalWorks!A958,External Works,
+EXT873,EXT865,Timber shed; 1200 x 1200; concrete base 150mm thk,nr,External Works,Street Furniture,951.22,ExternalWorks!E959,951.22,ExternalWorks!A959,External Works,"150mm,concrete"
+EXT874,EXT866,Vehicle barrier,nr,External Works,Street Furniture,1742.88,ExternalWorks!E960,1742.88,ExternalWorks!A960,External Works,
+EXT875,EXT867,Vehicle barrier; fix only free issue,nr,External Works,Street Furniture,495.38,ExternalWorks!E961,495.38,ExternalWorks!A961,External Works,
+EXT876,EXT868,"HW baulk timber; 125 x 250; bolted to concrete with M16 parabolts x 175lg, inc drill and counter bore at 850 c/s",m,External Works,Street Furniture,52.04,ExternalWorks!E962,52.04,ExternalWorks!A962,External Works,concrete
+EXT877,EXT869,EO for chamfered ends,nr,External Works,Street Furniture,17.67,ExternalWorks!E963,17.67,ExternalWorks!A963,External Works,
+EXT878,EXT870,1200g visqueen; horizontal,m2,External Works,DPM's / Waterproofing,1.07,ExternalWorks!E966,1.07,ExternalWorks!A966,External Works,
+EXT879,EXT871,1200g visqueen; vertical,m2,External Works,DPM's / Waterproofing,1.78,ExternalWorks!E967,1.78,ExternalWorks!A967,External Works,
+EXT880,EXT872,Preprufe; 300R; horizontal,m2,External Works,DPM's / Waterproofing,29.27,ExternalWorks!E968,29.27,ExternalWorks!A968,External Works,
+EXT881,EXT873,Preprufe; 160R; vertical,m2,External Works,DPM's / Waterproofing,35.02,ExternalWorks!E969,35.02,ExternalWorks!A969,External Works,
+EXT882,EXT874,Preprufe internal/perimeter junction,m,External Works,DPM's / Waterproofing,11.95,ExternalWorks!E970,11.95,ExternalWorks!A970,External Works,
+EXT883,EXT875,"Exc, C/A, L&C, 150mm type 1, 200mm conc bed, A252 mesh & brush finish",m2,External Works,DPM's / Waterproofing,96.28,ExternalWorks!E973,96.28,ExternalWorks!A973,External Works,"150mm,200mm"
+EXT884,EXT876,"Remove hardstandings, inc B/O 200 slab, exc 350mm & C/A",m2,External Works,DPM's / Waterproofing,29.5,ExternalWorks!E974,29.5,ExternalWorks!A974,External Works,350mm
+EXT885,EXT877,"B/O extg paving, exc, C/A, L&C, 200mm conc bed",m2,External Works,Temporary Crossovers,75.5,ExternalWorks!E977,75.5,ExternalWorks!A977,External Works,"200mm,paving"
+EXT886,EXT878,"B/O conc bed, exc, C/A and re-instate DBM footpath",m2,External Works,Temporary Crossovers,68.4,ExternalWorks!E978,68.4,ExternalWorks!A978,External Works,
+EXT887,EXT879,BN1 bullnose kerb; 125 x 150; concrete bed & haunch; radius,m,External Works,Temporary Crossovers,39.84,ExternalWorks!E979,39.84,ExternalWorks!A979,External Works,"kerb,concrete"
+EXT888,EXT880,"B/O extg pavement, exc & C/A. Reinstate 150mm type 1 sub-base & 150mm DBM comprising 30mm surface, 40mm binder & 80mm base",m2,External Works,Pavement reinstatement,76.21,ExternalWorks!E982,76.21,ExternalWorks!A982,External Works,"150mm,150mm"
+EXT889,EXT881,reduce height,nr,External Works,Adjusting HM C&Fs,145.14,ExternalWorks!E986,145.14,ExternalWorks!A986,External Works,
+EXT890,EXT882,ne 75mm,nr,External Works,Adjusting HM C&Fs,151.39,ExternalWorks!E987,151.39,ExternalWorks!A987,External Works,75mm
+EXT891,EXT883,75 - 150mm,nr,External Works,Adjusting HM C&Fs,172.92,ExternalWorks!E988,172.92,ExternalWorks!A988,External Works,150mm
+EXT892,EXT884,150 - 225mm,nr,External Works,Adjusting HM C&Fs,247.92,ExternalWorks!E989,247.92,ExternalWorks!A989,External Works,225mm
+EXT893,EXT885,Full road closure,nr,External Works,"Road closure for works in road, including liason with Council, TFL & other Stats, licenses, permissions, fees, etc",4500.0,ExternalWorks!E992,4500.0,ExternalWorks!A992,External Works,
+EXT894,EXT886,Partial road closure,nr,External Works,"Road closure for works in road, including liason with Council, TFL & other Stats, licenses, permissions, fees, etc",2500.0,ExternalWorks!E993,2500.0,ExternalWorks!A993,External Works,
+EXT895,EXT887,Footpath closure,nr,External Works,"Road closure for works in road, including liason with Council, TFL & other Stats, licenses, permissions, fees, etc",2000.0,ExternalWorks!E994,2000.0,ExternalWorks!A994,External Works,
+EXT896,EXT888,"Traffic diversion submission & licence, inc liase with Stats, design, proposal & approval/permission, RAMS, fees, etc",nr,External Works,Traffic management for works in Road,1875.0,ExternalWorks!E997,1875.0,ExternalWorks!A997,External Works,
+EXT897,EXT889,"Pedestrian diversion submission & license, inc liase with Stats, design, proposal & approval/permissions, RAMS, fees, etc",nr,External Works,Traffic management for works in Road,1500.0,ExternalWorks!E998,1500.0,ExternalWorks!A998,External Works,
+EXT898,EXT890,"Install traffic management measures, inc lights, signs, lights, notices, etc",nr,External Works,Traffic management for works in Road,2312.5,ExternalWorks!E999,2312.5,ExternalWorks!A999,External Works,
+EXT899,EXT891,"Install pedestrian diversion & management measures, inc lights, signs, notices, etc",nr,External Works,Traffic management for works in Road,1825.0,ExternalWorks!E1000,1825.0,ExternalWorks!A1000,External Works,
+EXT900,EXT892,"Heras fencing, inc erect, adapt and dismantle on completion",m,External Works,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",38.23,ExternalWorks!E1003,38.23,ExternalWorks!A1003,External Works,
+EXT901,EXT893,Pedestrian barriers,m,External Works,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",45.35,ExternalWorks!E1004,45.35,ExternalWorks!A1004,External Works,
+EXT902,EXT894,Jersey / Kelly blocks,m,External Works,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",63.19,ExternalWorks!E1005,63.19,ExternalWorks!A1005,External Works,
+EXT903,EXT895,Place only free issue kelly blocks,m,External Works,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",28.19,ExternalWorks!E1006,28.19,ExternalWorks!A1006,External Works,
+EXT904,EXT896,Plastic water filled barriers,m,External Works,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",0.0,,0.0,ExternalWorks!A1007,External Works,
+EXT905,EXT897,Place only plastic barriers & fill with water,m,External Works,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",15.28,ExternalWorks!E1008,15.28,ExternalWorks!A1008,External Works,
+EXT906,EXT898,Road plates,nr,External Works,"Temporary fencing, Heras, barriers, sleepers, road plates, etc",61.81,ExternalWorks!E1009,61.81,ExternalWorks!A1009,External Works,
+EXT907,EXT899,Supply & erect site hoarding; 150 x 75 posts with concrete base at 3m c/s; 3nr 100 x 50 rails; 18mm WBP ply; 150 capping & skirting; 2.4m high,m,External Works,Hoarding,101.17,ExternalWorks!E1012,101.17,ExternalWorks!A1012,External Works,"3m,18mm,concrete"
+EXT908,EXT900,Double gate; vehicle access; 6m,nr,External Works,Hoarding,1506.99,ExternalWorks!E1013,1506.99,ExternalWorks!A1013,External Works,"6m,gate"
+EXT909,EXT901,Double gate; vehicle access; 8m,nr,External Works,Hoarding,1977.33,ExternalWorks!E1014,1977.33,ExternalWorks!A1014,External Works,"8m,gate"
+EXT910,EXT902,EO for Pedestrian gate,nr,External Works,Hoarding,403.65,ExternalWorks!E1015,403.65,ExternalWorks!A1015,External Works,gate
+EXT911,EXT903,Painting hoarding; 2.4m high,m,External Works,Hoarding,8.89,ExternalWorks!E1016,8.89,ExternalWorks!A1016,External Works,4m
+EXT912,EXT904,Heras Fencing; 3.5m panels x 2m high (tree protection),m,External Works,Hoarding,30.65,ExternalWorks!E1017,30.65,ExternalWorks!A1017,External Works,"5m,2m"
+EXT913,EXT905,Take down and remove site hoarding;,m,External Works,Hoarding,25.69,ExternalWorks!E1018,25.69,ExternalWorks!A1018,External Works,
+EXT914,EXT906,Take down existing gate and re-erect in new position,nr,External Works,Hoarding,488.97,ExternalWorks!E1019,488.97,ExternalWorks!A1019,External Works,gate

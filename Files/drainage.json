@@ -10012,7 +10012,7 @@
   {
     "id": 716,
     "code": "741",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia pipe",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10026,7 +10026,7 @@
   {
     "id": 717,
     "code": "742",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia pipe; short lenghts",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia pipe; short lenghts",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10040,7 +10040,7 @@
   {
     "id": 718,
     "code": "743",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10054,7 +10054,7 @@
   {
     "id": 719,
     "code": "744",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia perforated land drain",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia perforated land drain",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10068,7 +10068,7 @@
   {
     "id": 720,
     "code": "745",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; bend",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia; bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10082,7 +10082,7 @@
   {
     "id": 721,
     "code": "746",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; rest bend",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia; rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10096,7 +10096,7 @@
   {
     "id": 722,
     "code": "747",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Sleeve for 100 dia pipe through concrete foundations",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Sleeve for 100 dia pipe through concrete foundations",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10110,7 +10110,7 @@
   {
     "id": 723,
     "code": "748",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Sleeve for 100 dia pipe cast into retaining wall; 300mm thick",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Sleeve for 100 dia pipe cast into retaining wall; 300mm thick",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10124,7 +10124,7 @@
   {
     "id": 724,
     "code": "749",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; adaptor / temp site cap",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia; adaptor / temp site cap",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10138,7 +10138,7 @@
   {
     "id": 725,
     "code": "750",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; adaptor / RW pipe connector",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia; adaptor / RW pipe connector",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10152,7 +10152,7 @@
   {
     "id": 726,
     "code": "751",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; adaptor / waste pipe connector",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia; adaptor / waste pipe connector",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10166,7 +10166,7 @@
   {
     "id": 727,
     "code": "752",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; adaptor / SVP connector",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia; adaptor / SVP connector",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10180,7 +10180,7 @@
   {
     "id": 728,
     "code": "753",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; adaptor / UPVC to clay connector",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia; adaptor / UPVC to clay connector",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10194,7 +10194,7 @@
   {
     "id": 729,
     "code": "754",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; rocker",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10208,7 +10208,7 @@
   {
     "id": 730,
     "code": "755",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; vertical pipework",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia; vertical pipework",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10222,7 +10222,7 @@
   {
     "id": 731,
     "code": "756",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; vertical pipework; inc conc surround",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110mm dia; vertical pipework; inc conc surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10236,7 +10236,7 @@
   {
     "id": 732,
     "code": "757",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 110 x 110 branch",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 110 x 110 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10250,7 +10250,7 @@
   {
     "id": 733,
     "code": "758",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; RWP connections; RW adaptor/vert pipe/rest bend",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; RWP connections; RW adaptor/vert pipe/rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10264,7 +10264,7 @@
   {
     "id": 734,
     "code": "759",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; SVP connections; SVP adaptor/vert pipe/rest bend",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; SVP connections; SVP adaptor/vert pipe/rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10278,7 +10278,7 @@
   {
     "id": 735,
     "code": "760",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; WC connection; WC connector/vert pipe/rest bend",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; WC connection; WC connector/vert pipe/rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10292,7 +10292,7 @@
   {
     "id": 736,
     "code": "761",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Inlet hopper 4D508; gully trap 4D500",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Inlet hopper 4D508; gully trap 4D500",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -10306,7 +10306,7 @@
   {
     "id": 737,
     "code": "762",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Plain hopper 4D507; gully trap 4D500",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Plain hopper 4D507; gully trap 4D500",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -10320,7 +10320,7 @@
   {
     "id": 738,
     "code": "763",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Bottle gully 4D850",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Bottle gully 4D850",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -10334,7 +10334,7 @@
   {
     "id": 739,
     "code": "764",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Paved area gully 4D860",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Paved area gully 4D860",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -10348,7 +10348,7 @@
   {
     "id": 740,
     "code": "765",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Bottle gully 4D900",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Bottle gully 4D900",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -10362,7 +10362,7 @@
   {
     "id": 741,
     "code": "766",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Bottle gully 4D901 with back access",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Bottle gully 4D901 with back access",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -10376,7 +10376,7 @@
   {
     "id": 742,
     "code": "767",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Yard gully 4D800, G&F 4D810 & Catchment bucket 4D815",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Yard gully 4D800, G&F 4D810 & Catchment bucket 4D815",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -10390,7 +10390,7 @@
   {
     "id": 743,
     "code": "768",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Rodding point; 4D361",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Rodding point; 4D361",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10404,7 +10404,7 @@
   {
     "id": 744,
     "code": "769",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Anti flood valve; 4D921",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Anti flood valve; 4D921",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10418,7 +10418,7 @@
   {
     "id": 745,
     "code": "770",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm dia",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10432,7 +10432,7 @@
   {
     "id": 746,
     "code": "771",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; short lenghts",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm dia; short lenghts",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10446,7 +10446,7 @@
   {
     "id": 747,
     "code": "772",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10460,7 +10460,7 @@
   {
     "id": 748,
     "code": "773",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia perforated land drain",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm dia perforated land drain",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10474,7 +10474,7 @@
   {
     "id": 749,
     "code": "774",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; bend",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm dia; bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10488,7 +10488,7 @@
   {
     "id": 750,
     "code": "775",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; rest bend",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm dia; rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10502,7 +10502,7 @@
   {
     "id": 751,
     "code": "776",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; rocker",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10516,7 +10516,7 @@
   {
     "id": 752,
     "code": "777",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160 x 100 branch",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160 x 100 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10530,7 +10530,7 @@
   {
     "id": 753,
     "code": "778",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160 x 160 branch",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160 x 160 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10544,7 +10544,7 @@
   {
     "id": 754,
     "code": "779",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160 x 100 reducer",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160 x 100 reducer",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10558,7 +10558,7 @@
   {
     "id": 755,
     "code": "780",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; EO for wrapping pipe in root barrier",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; EO for wrapping pipe in root barrier",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10572,7 +10572,7 @@
   {
     "id": 756,
     "code": "781",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; vertical pipework",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm dia; vertical pipework",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10586,7 +10586,7 @@
   {
     "id": 757,
     "code": "782",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; vertical pipework; inc conc surround",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm dia; vertical pipework; inc conc surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10600,7 +10600,7 @@
   {
     "id": 758,
     "code": "783",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; SVP connections; SVP adaptor/vert pipe/bend",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; SVP connections; SVP adaptor/vert pipe/bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10614,7 +10614,7 @@
   {
     "id": 759,
     "code": "784",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm end cap / stopper",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm end cap / stopper",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10628,7 +10628,7 @@
   {
     "id": 760,
     "code": "785",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm SVP adaptor",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm SVP adaptor",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10642,7 +10642,7 @@
   {
     "id": 761,
     "code": "786",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; 160mm connection to tank/chamber/etc",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; 160mm connection to tank/chamber/etc",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10656,7 +10656,7 @@
   {
     "id": 762,
     "code": "787",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Rodding point",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Rodding point",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10670,7 +10670,7 @@
   {
     "id": 763,
     "code": "788",
-    "description": "Pipework, Accessories & Fittings; UPVC - Osma system; Anti flood valve; 6D921",
+    "description": "Pipework, accessories & fittings; UPVC/plastic; Anti flood valve; 6D921",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10684,105 +10684,105 @@
   {
     "id": 764,
     "code": "789",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150mm dia",
+    "description": "UPVC Ultrarib; 150mm dia",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 12.81,
     "cellRate_reference": "Drainage!O887",
     "cellRate_rate": 12.81,
     "excelCellReference": "Drainage!A887",
     "sourceSheetName": "Drainage",
-    "keywords": "150mm,pipe"
+    "keywords": "150mm"
   },
   {
     "id": 765,
     "code": "790",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150mm dia; bend",
+    "description": "UPVC Ultrarib; 150mm dia; bend",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 33.09,
     "cellRate_reference": "Drainage!O888",
     "cellRate_rate": 33.09,
     "excelCellReference": "Drainage!A888",
     "sourceSheetName": "Drainage",
-    "keywords": "150mm,pipe"
+    "keywords": "150mm"
   },
   {
     "id": 766,
     "code": "791",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150mm dia; rocker",
+    "description": "UPVC Ultrarib; 150mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 49.05,
     "cellRate_reference": "Drainage!O889",
     "cellRate_rate": 49.05,
     "excelCellReference": "Drainage!A889",
     "sourceSheetName": "Drainage",
-    "keywords": "150mm,pipe"
+    "keywords": "150mm"
   },
   {
     "id": 767,
     "code": "792",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150 x 100 branch",
+    "description": "UPVC Ultrarib; 150 x 100 branch",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 57.56,
     "cellRate_reference": "Drainage!O890",
     "cellRate_rate": 57.56,
     "excelCellReference": "Drainage!A890",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 768,
     "code": "793",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150 x 150 branch",
+    "description": "UPVC Ultrarib; 150 x 150 branch",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 60.21,
     "cellRate_reference": "Drainage!O891",
     "cellRate_rate": 60.21,
     "excelCellReference": "Drainage!A891",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 769,
     "code": "794",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150 x 100 reducer",
+    "description": "UPVC Ultrarib; 150 x 100 reducer",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 20.08,
     "cellRate_reference": "Drainage!O892",
     "cellRate_rate": 20.08,
     "excelCellReference": "Drainage!A892",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 770,
     "code": "795",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia",
+    "description": "UPVC Ultrarib; 225mm dia",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 37.8,
     "cellRate_reference": "Drainage!O894",
     "cellRate_rate": 37.8,
     "excelCellReference": "Drainage!A894",
     "sourceSheetName": "Drainage",
-    "keywords": "225mm,pipe"
+    "keywords": "225mm"
   },
   {
     "id": 771,
     "code": "796",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",
+    "description": "UPVC Ultrarib; 225mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10796,35 +10796,35 @@
   {
     "id": 772,
     "code": "797",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia",
+    "description": "UPVC Ultrarib; 225mm dia",
     "unit": "Twinwall perforated",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 25.95,
     "cellRate_reference": "Drainage!O896",
     "cellRate_rate": 25.95,
     "excelCellReference": "Drainage!A896",
     "sourceSheetName": "Drainage",
-    "keywords": "225mm,pipe"
+    "keywords": "225mm"
   },
   {
     "id": 773,
     "code": "798",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia; bend",
+    "description": "UPVC Ultrarib; 225mm dia; bend",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 179.33,
     "cellRate_reference": "Drainage!O897",
     "cellRate_rate": 179.33,
     "excelCellReference": "Drainage!A897",
     "sourceSheetName": "Drainage",
-    "keywords": "225mm,pipe"
+    "keywords": "225mm"
   },
   {
     "id": 774,
     "code": "799",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia; vertical pipework; inc conc surround",
+    "description": "UPVC Ultrarib; 225mm dia; vertical pipework; inc conc surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -10838,189 +10838,189 @@
   {
     "id": 775,
     "code": "800",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia; rocker",
+    "description": "UPVC Ultrarib; 225mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 79.92,
     "cellRate_reference": "Drainage!O899",
     "cellRate_rate": 79.92,
     "excelCellReference": "Drainage!A899",
     "sourceSheetName": "Drainage",
-    "keywords": "225mm,pipe"
+    "keywords": "225mm"
   },
   {
     "id": 776,
     "code": "801",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225 x 100 branch",
+    "description": "UPVC Ultrarib; 225 x 100 branch",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 188.11,
     "cellRate_reference": "Drainage!O900",
     "cellRate_rate": 188.11,
     "excelCellReference": "Drainage!A900",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 777,
     "code": "802",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225 x 150 branch",
+    "description": "UPVC Ultrarib; 225 x 150 branch",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 193.49,
     "cellRate_reference": "Drainage!O901",
     "cellRate_rate": 193.49,
     "excelCellReference": "Drainage!A901",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 778,
     "code": "803",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225 x 225 branch",
+    "description": "UPVC Ultrarib; 225 x 225 branch",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 265.13,
     "cellRate_reference": "Drainage!O902",
     "cellRate_rate": 265.13,
     "excelCellReference": "Drainage!A902",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 779,
     "code": "804",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia; EO for casting into foundation with 50mm flexcell wrap and rocker each side; allow 2m",
+    "description": "UPVC Ultrarib; 225mm dia; EO for casting into foundation with 50mm flexcell wrap and rocker each side; allow 2m",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 610.31,
     "cellRate_reference": "Drainage!O903",
     "cellRate_rate": 610.31,
     "excelCellReference": "Drainage!A903",
     "sourceSheetName": "Drainage",
-    "keywords": "225mm,50mm,pipe"
+    "keywords": "225mm,50mm"
   },
   {
     "id": 780,
     "code": "805",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300mm dia",
+    "description": "UPVC Ultrarib; 300mm dia",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 55.24,
     "cellRate_reference": "Drainage!O905",
     "cellRate_rate": 55.24,
     "excelCellReference": "Drainage!A905",
     "sourceSheetName": "Drainage",
-    "keywords": "300mm,pipe"
+    "keywords": "300mm"
   },
   {
     "id": 781,
     "code": "806",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300mm dia",
+    "description": "UPVC Ultrarib; 300mm dia",
     "unit": "Twinwall pipe; perforated",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 55.24,
     "cellRate_reference": "Drainage!O906",
     "cellRate_rate": 55.24,
     "excelCellReference": "Drainage!A906",
     "sourceSheetName": "Drainage",
-    "keywords": "300mm,pipe"
+    "keywords": "300mm"
   },
   {
     "id": 782,
     "code": "807",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300mm dia; bend",
+    "description": "UPVC Ultrarib; 300mm dia; bend",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 278.33,
     "cellRate_reference": "Drainage!O907",
     "cellRate_rate": 278.33,
     "excelCellReference": "Drainage!A907",
     "sourceSheetName": "Drainage",
-    "keywords": "300mm,pipe"
+    "keywords": "300mm"
   },
   {
     "id": 783,
     "code": "808",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300mm dia; rocker",
+    "description": "UPVC Ultrarib; 300mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 128.79,
     "cellRate_reference": "Drainage!O908",
     "cellRate_rate": 128.79,
     "excelCellReference": "Drainage!A908",
     "sourceSheetName": "Drainage",
-    "keywords": "300mm,pipe"
+    "keywords": "300mm"
   },
   {
     "id": 784,
     "code": "809",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300 x 160 branch",
+    "description": "UPVC Ultrarib; 300 x 160 branch",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 409.67,
     "cellRate_reference": "Drainage!O909",
     "cellRate_rate": 409.67,
     "excelCellReference": "Drainage!A909",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 785,
     "code": "810",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300 x 225 branch",
+    "description": "UPVC Ultrarib; 300 x 225 branch",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 576.42,
     "cellRate_reference": "Drainage!O910",
     "cellRate_rate": 576.42,
     "excelCellReference": "Drainage!A910",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 786,
     "code": "811",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300 x 300 branch",
+    "description": "UPVC Ultrarib; 300 x 300 branch",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 604.8,
     "cellRate_reference": "Drainage!O911",
     "cellRate_rate": 604.8,
     "excelCellReference": "Drainage!A911",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 787,
     "code": "812",
-    "description": "Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300 x 225 reducer",
+    "description": "UPVC Ultrarib; 300 x 225 reducer",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 106.86,
     "cellRate_reference": "Drainage!O912",
     "cellRate_rate": 106.86,
     "excelCellReference": "Drainage!A912",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 788,
     "code": "813",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 110mm dia pipe",
+    "description": "UPVC Twinwall; 110mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11034,189 +11034,189 @@
   {
     "id": 789,
     "code": "814",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 110mm dia; bend",
+    "description": "UPVC Twinwall; 110mm dia; bend",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 34.27,
     "cellRate_reference": "Drainage!O916",
     "cellRate_rate": 34.27,
     "excelCellReference": "Drainage!A916",
     "sourceSheetName": "Drainage",
-    "keywords": "110mm,pipe"
+    "keywords": "110mm"
   },
   {
     "id": 790,
     "code": "815",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 150mm dia",
+    "description": "UPVC Twinwall; 150mm dia",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 12.22,
     "cellRate_reference": "Drainage!O918",
     "cellRate_rate": 12.22,
     "excelCellReference": "Drainage!A918",
     "sourceSheetName": "Drainage",
-    "keywords": "150mm,pipe"
+    "keywords": "150mm"
   },
   {
     "id": 791,
     "code": "816",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 150mm dia; bend",
+    "description": "UPVC Twinwall; 150mm dia; bend",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 44.57,
     "cellRate_reference": "Drainage!O919",
     "cellRate_rate": 44.57,
     "excelCellReference": "Drainage!A919",
     "sourceSheetName": "Drainage",
-    "keywords": "150mm,pipe"
+    "keywords": "150mm"
   },
   {
     "id": 792,
     "code": "817",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 225mm dia",
+    "description": "UPVC Twinwall; 225mm dia",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 24.09,
     "cellRate_reference": "Drainage!O921",
     "cellRate_rate": 24.09,
     "excelCellReference": "Drainage!A921",
     "sourceSheetName": "Drainage",
-    "keywords": "225mm,pipe"
+    "keywords": "225mm"
   },
   {
     "id": 793,
     "code": "818",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 225mm dia; bend",
+    "description": "UPVC Twinwall; 225mm dia; bend",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 103.4,
     "cellRate_reference": "Drainage!O922",
     "cellRate_rate": 103.4,
     "excelCellReference": "Drainage!A922",
     "sourceSheetName": "Drainage",
-    "keywords": "225mm,pipe"
+    "keywords": "225mm"
   },
   {
     "id": 794,
     "code": "819",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 300mm dia",
+    "description": "UPVC Twinwall; 300mm dia",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 35.84,
     "cellRate_reference": "Drainage!O924",
     "cellRate_rate": 35.84,
     "excelCellReference": "Drainage!A924",
     "sourceSheetName": "Drainage",
-    "keywords": "300mm,pipe"
+    "keywords": "300mm"
   },
   {
     "id": 795,
     "code": "820",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 300mm dia; bend",
+    "description": "UPVC Twinwall; 300mm dia; bend",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 172.1,
     "cellRate_reference": "Drainage!O925",
     "cellRate_rate": 172.1,
     "excelCellReference": "Drainage!A925",
     "sourceSheetName": "Drainage",
-    "keywords": "300mm,pipe"
+    "keywords": "300mm"
   },
   {
     "id": 796,
     "code": "821",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 375mm dia",
+    "description": "UPVC Twinwall; 375mm dia",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 78.15,
     "cellRate_reference": "Drainage!O927",
     "cellRate_rate": 78.15,
     "excelCellReference": "Drainage!A927",
     "sourceSheetName": "Drainage",
-    "keywords": "375mm,pipe"
+    "keywords": "375mm"
   },
   {
     "id": 797,
     "code": "822",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 375mm dia",
+    "description": "UPVC Twinwall; 375mm dia",
     "unit": "Twinwall pipe; perforated",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 86.92,
     "cellRate_reference": "Drainage!O928",
     "cellRate_rate": 86.92,
     "excelCellReference": "Drainage!A928",
     "sourceSheetName": "Drainage",
-    "keywords": "375mm,pipe"
+    "keywords": "375mm"
   },
   {
     "id": 798,
     "code": "823",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 375mm dia; bend",
+    "description": "UPVC Twinwall; 375mm dia; bend",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 356.18,
     "cellRate_reference": "Drainage!O929",
     "cellRate_rate": 356.18,
     "excelCellReference": "Drainage!A929",
     "sourceSheetName": "Drainage",
-    "keywords": "375mm,pipe"
+    "keywords": "375mm"
   },
   {
     "id": 799,
     "code": "824",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 375mm dia; rocker",
+    "description": "UPVC Twinwall; 375mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 94.39,
     "cellRate_reference": "Drainage!O930",
     "cellRate_rate": 94.39,
     "excelCellReference": "Drainage!A930",
     "sourceSheetName": "Drainage",
-    "keywords": "375mm,pipe"
+    "keywords": "375mm"
   },
   {
     "id": 800,
     "code": "825",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 375 x 150 branch",
+    "description": "UPVC Twinwall; 375 x 150 branch",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 283.58,
     "cellRate_reference": "Drainage!O931",
     "cellRate_rate": 283.58,
     "excelCellReference": "Drainage!A931",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 801,
     "code": "826",
-    "description": "Pipework, Accessories & Fittings; UPVC - Twinwall system; 375 x 375 branch",
+    "description": "UPVC Twinwall; 375 x 375 branch",
     "unit": "m",
     "category": "Drainage",
-    "subcategory": "Pipework",
+    "subcategory": "General Drainage",
     "rate": 906.29,
     "cellRate_reference": "Drainage!O932",
     "cellRate_rate": 906.29,
     "excelCellReference": "Drainage!A932",
     "sourceSheetName": "Drainage",
-    "keywords": "pipe"
+    "keywords": ""
   },
   {
     "id": 802,
     "code": "827",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11230,7 +11230,7 @@
   {
     "id": 803,
     "code": "828",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia pipe; runs ne 3m",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia pipe; runs ne 3m",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11244,7 +11244,7 @@
   {
     "id": 804,
     "code": "829",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia; short bend, max 45 deg ",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia; short bend, max 45 deg ",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11258,7 +11258,7 @@
   {
     "id": 805,
     "code": "830",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia; long radius bend, 88 deg",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia; long radius bend, 88 deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11272,7 +11272,7 @@
   {
     "id": 806,
     "code": "831",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia; rest bend",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia; rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11286,7 +11286,7 @@
   {
     "id": 807,
     "code": "832",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11300,7 +11300,7 @@
   {
     "id": 808,
     "code": "833",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia; vertical pipework; inc conc surround",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia; vertical pipework; inc conc surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11314,7 +11314,7 @@
   {
     "id": 809,
     "code": "834",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100 x 100 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 100 x 100 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11328,7 +11328,7 @@
   {
     "id": 810,
     "code": "835",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia cast iron to clay/UPVC connector",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia cast iron to clay/UPVC connector",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11342,7 +11342,7 @@
   {
     "id": 811,
     "code": "836",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; RWP connections; RW adaptor/vert pipe/rest bend",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; RWP connections; RW adaptor/vert pipe/rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11356,7 +11356,7 @@
   {
     "id": 812,
     "code": "837",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; SVP connections; SVP adaptor/vert pipe/rest bend",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; SVP connections; SVP adaptor/vert pipe/rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11370,7 +11370,7 @@
   {
     "id": 813,
     "code": "838",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; WC connection; WC connector/vert pipe/rest bend",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; WC connection; WC connector/vert pipe/rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11384,7 +11384,7 @@
   {
     "id": 814,
     "code": "839",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -11398,7 +11398,7 @@
   {
     "id": 815,
     "code": "840",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Gully trap with surface access; TD107, TD500, TD612",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Gully trap with surface access; TD107, TD500, TD612",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -11412,7 +11412,7 @@
   {
     "id": 816,
     "code": "841",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Deans trap gully; TD550; 600dp inc sediment pan",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Deans trap gully; TD550; 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -11426,7 +11426,7 @@
   {
     "id": 817,
     "code": "842",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Gully trap; TD551; 425dp inc sediment pan",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Gully trap; TD551; 425dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -11440,7 +11440,7 @@
   {
     "id": 818,
     "code": "843",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Gully trap square; TD553; inc sediment pan",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Gully trap square; TD553; inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -11454,7 +11454,7 @@
   {
     "id": 819,
     "code": "844",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Garage gully; TD556; 225 x 600dp inc sediment pan",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Garage gully; TD556; 225 x 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -11468,7 +11468,7 @@
   {
     "id": 820,
     "code": "845",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Garage gully; TD554; 300 x 600dp inc sediment pan",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Garage gully; TD554; 300 x 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -11482,7 +11482,7 @@
   {
     "id": 821,
     "code": "846",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Garage gully; TD558; 325 x 600dp inc sediment pan",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Garage gully; TD558; 325 x 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -11496,7 +11496,7 @@
   {
     "id": 822,
     "code": "847",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Rodding point; TD425, TD615",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Rodding point; TD425, TD615",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11510,7 +11510,7 @@
   {
     "id": 823,
     "code": "848",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Intercepting trap; 479; 100dia fitted with plug",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Intercepting trap; 479; 100dia fitted with plug",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11524,7 +11524,7 @@
   {
     "id": 824,
     "code": "849",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Anti flood valve; TD756",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Anti flood valve; TD756",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11538,7 +11538,7 @@
   {
     "id": 825,
     "code": "850",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Eureka anti flood trunk valve; ref 750",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Eureka anti flood trunk valve; ref 750",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11552,7 +11552,7 @@
   {
     "id": 826,
     "code": "851",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Sleeve for 100 dia pipe through concrete foundations",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Sleeve for 100 dia pipe through concrete foundations",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11566,7 +11566,7 @@
   {
     "id": 827,
     "code": "852",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; EO for puddle flange; TD777",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; EO for puddle flange; TD777",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11580,7 +11580,7 @@
   {
     "id": 828,
     "code": "853",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; End cap/Stopper",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; End cap/Stopper",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11594,7 +11594,7 @@
   {
     "id": 829,
     "code": "854",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11608,7 +11608,7 @@
   {
     "id": 830,
     "code": "855",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; short bend, max 45deg",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; short bend, max 45deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11622,7 +11622,7 @@
   {
     "id": 831,
     "code": "856",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; 88 deg long radius bend",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; 88 deg long radius bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11636,7 +11636,7 @@
   {
     "id": 832,
     "code": "857",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; rest bend",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11650,7 +11650,7 @@
   {
     "id": 833,
     "code": "858",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11664,7 +11664,7 @@
   {
     "id": 834,
     "code": "859",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150 x 100 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150 x 100 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11678,7 +11678,7 @@
   {
     "id": 835,
     "code": "860",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150 x 150 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150 x 150 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11692,7 +11692,7 @@
   {
     "id": 836,
     "code": "861",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia cast iron to clay/UPVC connector",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia cast iron to clay/UPVC connector",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11706,7 +11706,7 @@
   {
     "id": 837,
     "code": "862",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; vertical pipework; inc conc surround",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; vertical pipework; inc conc surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11720,7 +11720,7 @@
   {
     "id": 838,
     "code": "863",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; RWP/SVP connections; adaptor/vert pipe/rest bend",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; RWP/SVP connections; adaptor/vert pipe/rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11734,7 +11734,7 @@
   {
     "id": 839,
     "code": "864",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; rodding eye and cover; inc conc surround",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; rodding eye and cover; inc conc surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11748,7 +11748,7 @@
   {
     "id": 840,
     "code": "865",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Sleeve for 150 dia pipe through concrete foundations",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Sleeve for 150 dia pipe through concrete foundations",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11762,7 +11762,7 @@
   {
     "id": 841,
     "code": "866",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Eureka anti flood trunk valve; ref 750",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Eureka anti flood trunk valve; ref 750",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11776,7 +11776,7 @@
   {
     "id": 842,
     "code": "867",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150dia Quatrix backflow valve & access chamber unit",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 150dia Quatrix backflow valve & access chamber unit",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11790,7 +11790,7 @@
   {
     "id": 843,
     "code": "868",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Blanking plug ",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Blanking plug ",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11804,7 +11804,7 @@
   {
     "id": 844,
     "code": "868",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; Waste grinder?? Provisional",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; Waste grinder?? Provisional",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11818,7 +11818,7 @@
   {
     "id": 845,
     "code": "869",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 200mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11832,7 +11832,7 @@
   {
     "id": 846,
     "code": "870",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200mm dia; short bend, max 45 deg",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 200mm dia; short bend, max 45 deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11846,7 +11846,7 @@
   {
     "id": 847,
     "code": "871",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200mm dia; bend, 90 deg not made",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 200mm dia; bend, 90 deg not made",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11860,7 +11860,7 @@
   {
     "id": 848,
     "code": "872",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 200mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11874,7 +11874,7 @@
   {
     "id": 849,
     "code": "873",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200 x 100 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 200 x 100 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11888,7 +11888,7 @@
   {
     "id": 850,
     "code": "874",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200 x 150 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 200 x 150 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11902,7 +11902,7 @@
   {
     "id": 851,
     "code": "875",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200 x 200 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 200 x 200 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11916,7 +11916,7 @@
   {
     "id": 852,
     "code": "876",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200-150 reducer",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 200-150 reducer",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11930,7 +11930,7 @@
   {
     "id": 853,
     "code": "877",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 250mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11944,7 +11944,7 @@
   {
     "id": 854,
     "code": "878",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250mm dia; short bend, max 45 deg",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 250mm dia; short bend, max 45 deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11958,7 +11958,7 @@
   {
     "id": 855,
     "code": "879",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 250mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11972,7 +11972,7 @@
   {
     "id": 856,
     "code": "880",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250 x 200 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 250 x 200 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -11986,7 +11986,7 @@
   {
     "id": 857,
     "code": "881",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250 x 250 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 250 x 250 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12000,7 +12000,7 @@
   {
     "id": 858,
     "code": "882",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250-200 reducer",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 250-200 reducer",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12014,7 +12014,7 @@
   {
     "id": 859,
     "code": "883",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250mm dia cast iron to clay/UPVC connector",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 250mm dia cast iron to clay/UPVC connector",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12028,7 +12028,7 @@
   {
     "id": 860,
     "code": "884",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 300mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 300mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12042,7 +12042,7 @@
   {
     "id": 861,
     "code": "885",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 300mm dia; short bend, max 45 deg",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 300mm dia; short bend, max 45 deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12056,7 +12056,7 @@
   {
     "id": 862,
     "code": "886",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 300mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 300mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12070,7 +12070,7 @@
   {
     "id": 863,
     "code": "887",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 300 x 300 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 300 x 300 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12084,7 +12084,7 @@
   {
     "id": 864,
     "code": "888",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 300-250 reducer",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 300-250 reducer",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12098,7 +12098,7 @@
   {
     "id": 865,
     "code": "889",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 400mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 400mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12112,7 +12112,7 @@
   {
     "id": 866,
     "code": "890",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 400mm dia; short bend, max 45 deg",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 400mm dia; short bend, max 45 deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12126,7 +12126,7 @@
   {
     "id": 867,
     "code": "891",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 400mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 400mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12140,7 +12140,7 @@
   {
     "id": 868,
     "code": "892",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 400 x 400 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 400 x 400 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12154,7 +12154,7 @@
   {
     "id": 869,
     "code": "893",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 400-300 reducer",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 400-300 reducer",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12168,7 +12168,7 @@
   {
     "id": 870,
     "code": "894",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 500mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 500mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12182,7 +12182,7 @@
   {
     "id": 871,
     "code": "895",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Ensign system; 600mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Ensign; 600mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12196,7 +12196,7 @@
   {
     "id": 872,
     "code": "896",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12210,7 +12210,7 @@
   {
     "id": 873,
     "code": "897",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia pipe; vertical with concrete surround",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia pipe; vertical with concrete surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12224,7 +12224,7 @@
   {
     "id": 874,
     "code": "898",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia; med/long bend; 90 deg",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia; med/long bend; 90 deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12238,7 +12238,7 @@
   {
     "id": 875,
     "code": "899",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia; rest bend",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia; rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12252,7 +12252,7 @@
   {
     "id": 876,
     "code": "900",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12266,7 +12266,7 @@
   {
     "id": 877,
     "code": "901",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia; P trap; TD60",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia; P trap; TD60",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12280,7 +12280,7 @@
   {
     "id": 878,
     "code": "902",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100 x 100 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 100 x 100 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12294,7 +12294,7 @@
   {
     "id": 879,
     "code": "903",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12308,7 +12308,7 @@
   {
     "id": 880,
     "code": "904",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia pipe; vertical with concrete surround",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia pipe; vertical with concrete surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12322,7 +12322,7 @@
   {
     "id": 881,
     "code": "905",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia; med/long bend; 90 deg",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia; med/long bend; 90 deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12336,7 +12336,7 @@
   {
     "id": 882,
     "code": "906",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia; rest bend",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia; rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12350,7 +12350,7 @@
   {
     "id": 883,
     "code": "907",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12364,7 +12364,7 @@
   {
     "id": 884,
     "code": "908",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia; P trap; TD60",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia; P trap; TD60",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12378,7 +12378,7 @@
   {
     "id": 885,
     "code": "909",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; Reducer pipe; 150 - 100",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; Reducer pipe; 150 - 100",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12392,7 +12392,7 @@
   {
     "id": 886,
     "code": "910",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150 x 100 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 150 x 100 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12406,7 +12406,7 @@
   {
     "id": 887,
     "code": "911",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150 x 150 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 150 x 150 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12420,7 +12420,7 @@
   {
     "id": 888,
     "code": "912",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225mm dia pipe",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 225mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12434,7 +12434,7 @@
   {
     "id": 889,
     "code": "913",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225mm dia; med/long bend; 90 deg",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 225mm dia; med/long bend; 90 deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12448,7 +12448,7 @@
   {
     "id": 890,
     "code": "914",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 225mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12462,7 +12462,7 @@
   {
     "id": 891,
     "code": "915",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; Reducer pipe; 225 - 150",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; Reducer pipe; 225 - 150",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12476,7 +12476,7 @@
   {
     "id": 892,
     "code": "916",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225 x 100 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 225 x 100 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12490,7 +12490,7 @@
   {
     "id": 893,
     "code": "917",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225 x 150 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 225 x 150 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12504,7 +12504,7 @@
   {
     "id": 894,
     "code": "918",
-    "description": "Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225 x 225 branch",
+    "description": "Pipework, accessories & fittings; Cast Iron; Timesaver; 225 x 225 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12518,7 +12518,7 @@
   {
     "id": 895,
     "code": "919",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 100mm dia pipe",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 100mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12532,7 +12532,7 @@
   {
     "id": 896,
     "code": "920",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 100mm dia; med/long bend; 90 deg",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 100mm dia; med/long bend; 90 deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12546,7 +12546,7 @@
   {
     "id": 897,
     "code": "921",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 100mm dia; rest bend",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 100mm dia; rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12560,7 +12560,7 @@
   {
     "id": 898,
     "code": "922",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 100mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 100mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12574,7 +12574,7 @@
   {
     "id": 899,
     "code": "923",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 100 x 100 branch",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 100 x 100 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12588,7 +12588,7 @@
   {
     "id": 900,
     "code": "924",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150mm dia pipe",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12602,7 +12602,7 @@
   {
     "id": 901,
     "code": "925",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150mm dia; med/long bend; 90 deg",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150mm dia; med/long bend; 90 deg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12616,7 +12616,7 @@
   {
     "id": 902,
     "code": "926",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150mm dia; rest bend",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150mm dia; rest bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12630,7 +12630,7 @@
   {
     "id": 903,
     "code": "927",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150mm dia; rocker",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150mm dia; rocker",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12644,7 +12644,7 @@
   {
     "id": 904,
     "code": "928",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150 x 100 branch",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150 x 100 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12658,7 +12658,7 @@
   {
     "id": 905,
     "code": "929",
-    "description": "Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150 x 150 branch",
+    "description": "Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150 x 150 branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12672,7 +12672,7 @@
   {
     "id": 906,
     "code": "882",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 25mm dia pipe",
+    "description": "Pipework, accessories & fittings; HDPE; 25mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12686,7 +12686,7 @@
   {
     "id": 907,
     "code": "883",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 25mm dia; elbow",
+    "description": "Pipework, accessories & fittings; HDPE; 25mm dia; elbow",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12700,7 +12700,7 @@
   {
     "id": 908,
     "code": "884",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 25 x 25mm tee",
+    "description": "Pipework, accessories & fittings; HDPE; 25 x 25mm tee",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12714,7 +12714,7 @@
   {
     "id": 909,
     "code": "885",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 25 to 20 reducer",
+    "description": "Pipework, accessories & fittings; HDPE; 25 to 20 reducer",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12728,7 +12728,7 @@
   {
     "id": 910,
     "code": "885",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 32mm dia pipe",
+    "description": "Pipework, accessories & fittings; HDPE; 32mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12742,7 +12742,7 @@
   {
     "id": 911,
     "code": "886",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 32mm dia; elbow",
+    "description": "Pipework, accessories & fittings; HDPE; 32mm dia; elbow",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12756,7 +12756,7 @@
   {
     "id": 912,
     "code": "887",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 32 x 32mm tee",
+    "description": "Pipework, accessories & fittings; HDPE; 32 x 32mm tee",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12770,7 +12770,7 @@
   {
     "id": 913,
     "code": "888",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 32 x 25mm tee",
+    "description": "Pipework, accessories & fittings; HDPE; 32 x 25mm tee",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12784,7 +12784,7 @@
   {
     "id": 914,
     "code": "889",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 32 to 25 reducer",
+    "description": "Pipework, accessories & fittings; HDPE; 32 to 25 reducer",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12798,7 +12798,7 @@
   {
     "id": 915,
     "code": "890",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 63mm dia pipe",
+    "description": "Pipework, accessories & fittings; HDPE; 63mm dia pipe",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12812,7 +12812,7 @@
   {
     "id": 916,
     "code": "891",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 63mm dia pipe; vertical",
+    "description": "Pipework, accessories & fittings; HDPE; 63mm dia pipe; vertical",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12826,7 +12826,7 @@
   {
     "id": 917,
     "code": "892",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 63mm dia; elbow",
+    "description": "Pipework, accessories & fittings; HDPE; 63mm dia; elbow",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12840,7 +12840,7 @@
   {
     "id": 918,
     "code": "893",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 63 x 63mm tee",
+    "description": "Pipework, accessories & fittings; HDPE; 63 x 63mm tee",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12854,7 +12854,7 @@
   {
     "id": 919,
     "code": "894",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 63 x 50/32/25mm tee",
+    "description": "Pipework, accessories & fittings; HDPE; 63 x 50/32/25mm tee",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12868,7 +12868,7 @@
   {
     "id": 920,
     "code": "895",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 63 to 32 reducer",
+    "description": "Pipework, accessories & fittings; HDPE; 63 to 32 reducer",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12882,7 +12882,7 @@
   {
     "id": 921,
     "code": "896",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 110mm dia pipe ",
+    "description": "Pipework, accessories & fittings; HDPE; 110mm dia pipe ",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12896,7 +12896,7 @@
   {
     "id": 922,
     "code": "897",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 110mm dia; rocker; 600 lg",
+    "description": "Pipework, accessories & fittings; HDPE; 110mm dia; rocker; 600 lg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12910,7 +12910,7 @@
   {
     "id": 923,
     "code": "898",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 110mm dia; bend",
+    "description": "Pipework, accessories & fittings; HDPE; 110mm dia; bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12924,7 +12924,7 @@
   {
     "id": 924,
     "code": "899",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 110 x 110mm branch",
+    "description": "Pipework, accessories & fittings; HDPE; 110 x 110mm branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12938,7 +12938,7 @@
   {
     "id": 925,
     "code": "900",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 110mm screw door access ",
+    "description": "Pipework, accessories & fittings; HDPE; 110mm screw door access ",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12952,7 +12952,7 @@
   {
     "id": 926,
     "code": "901",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 110 adaptor / connector to UPVC",
+    "description": "Pipework, accessories & fittings; HDPE; 110 adaptor / connector to UPVC",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12966,7 +12966,7 @@
   {
     "id": 927,
     "code": "902",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 125mm dia pipe ",
+    "description": "Pipework, accessories & fittings; HDPE; 125mm dia pipe ",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12980,7 +12980,7 @@
   {
     "id": 928,
     "code": "903",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 125mm dia; rocker; 600 lg",
+    "description": "Pipework, accessories & fittings; HDPE; 125mm dia; rocker; 600 lg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -12994,7 +12994,7 @@
   {
     "id": 929,
     "code": "904",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 125mm dia; bend",
+    "description": "Pipework, accessories & fittings; HDPE; 125mm dia; bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13008,7 +13008,7 @@
   {
     "id": 930,
     "code": "905",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 160mm dia pipe ",
+    "description": "Pipework, accessories & fittings; HDPE; 160mm dia pipe ",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13022,7 +13022,7 @@
   {
     "id": 931,
     "code": "906",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 160mm dia; rocker; 600 lg",
+    "description": "Pipework, accessories & fittings; HDPE; 160mm dia; rocker; 600 lg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13036,7 +13036,7 @@
   {
     "id": 932,
     "code": "907",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 160mm dia; bend",
+    "description": "Pipework, accessories & fittings; HDPE; 160mm dia; bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13050,7 +13050,7 @@
   {
     "id": 933,
     "code": "908",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 160 x 110mm branch",
+    "description": "Pipework, accessories & fittings; HDPE; 160 x 110mm branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13064,7 +13064,7 @@
   {
     "id": 934,
     "code": "909",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 250mm dia pipe (inc coupler at 5m c/s)",
+    "description": "Pipework, accessories & fittings; HDPE; 250mm dia pipe (inc coupler at 5m c/s)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13078,7 +13078,7 @@
   {
     "id": 935,
     "code": "910",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 250mm dia; rocker; 600 lg",
+    "description": "Pipework, accessories & fittings; HDPE; 250mm dia; rocker; 600 lg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13092,7 +13092,7 @@
   {
     "id": 936,
     "code": "911",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 250mm dia; bend",
+    "description": "Pipework, accessories & fittings; HDPE; 250mm dia; bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13106,7 +13106,7 @@
   {
     "id": 937,
     "code": "912",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 250 x 250mm branch",
+    "description": "Pipework, accessories & fittings; HDPE; 250 x 250mm branch",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13120,7 +13120,7 @@
   {
     "id": 938,
     "code": "913",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 315mm dia pipe (inc coupler at 5m c/s)",
+    "description": "Pipework, accessories & fittings; HDPE; 315mm dia pipe (inc coupler at 5m c/s)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13134,7 +13134,7 @@
   {
     "id": 939,
     "code": "914",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 315mm dia; rocker; 600 lg",
+    "description": "Pipework, accessories & fittings; HDPE; 315mm dia; rocker; 600 lg",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13148,7 +13148,7 @@
   {
     "id": 940,
     "code": "915",
-    "description": "Pipework, Accessories & Fittings; HDPE system; 315mm dia; bend",
+    "description": "Pipework, accessories & fittings; HDPE; 315mm dia; bend",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13162,7 +13162,7 @@
   {
     "id": 941,
     "code": "908",
-    "description": "Gullies, Channels & Traps - Mixed materials; Clay; Square gully; 100dia; 150sq plastic grid; SG2/1",
+    "description": "Gullies, channels, etc.; Clay; Square gully; 100dia; 150sq plastic grid; SG2/1",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13176,7 +13176,7 @@
   {
     "id": 942,
     "code": "893",
-    "description": "Gullies, Channels & Traps - Mixed materials; Clay; Inlet gully; SDG3/1",
+    "description": "Gullies, channels, etc.; Clay; Inlet gully; SDG3/1",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13190,7 +13190,7 @@
   {
     "id": 943,
     "code": "894",
-    "description": "Gullies, Channels & Traps - Mixed materials; Clay; Paved area gully; SDG2/1",
+    "description": "Gullies, channels, etc.; Clay; Paved area gully; SDG2/1",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13204,7 +13204,7 @@
   {
     "id": 944,
     "code": "895",
-    "description": "Gullies, Channels & Traps - Mixed materials; Clay; Access gully; SG3/1",
+    "description": "Gullies, channels, etc.; Clay; Access gully; SG3/1",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13218,7 +13218,7 @@
   {
     "id": 945,
     "code": "896",
-    "description": "Gullies, Channels & Traps - Mixed materials; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; LD G&F; RGP5",
+    "description": "Gullies, channels, etc.; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; LD G&F; RGP5",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13232,7 +13232,7 @@
   {
     "id": 946,
     "code": "897",
-    "description": "Gullies, Channels & Traps - Mixed materials; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; MD G&F; RGP6",
+    "description": "Gullies, channels, etc.; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; MD G&F; RGP6",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13246,7 +13246,7 @@
   {
     "id": 947,
     "code": "898",
-    "description": "Gullies, Channels & Traps - Mixed materials; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; MD G&F; RGP6, with Filter/Silt bucket IBP3",
+    "description": "Gullies, channels, etc.; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; MD G&F; RGP6, with Filter/Silt bucket IBP3",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13260,7 +13260,7 @@
   {
     "id": 948,
     "code": "899",
-    "description": "Gullies, Channels & Traps - Mixed materials; UPVC; Inlet hopper 4D508; gully trap 4D500",
+    "description": "Gullies, channels, etc.; UPVC; Inlet hopper 4D508; gully trap 4D500",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13274,7 +13274,7 @@
   {
     "id": 949,
     "code": "900",
-    "description": "Gullies, Channels & Traps - Mixed materials; UPVC; Plain hopper 4D503; gully trap 4D500",
+    "description": "Gullies, channels, etc.; UPVC; Plain hopper 4D503; gully trap 4D500",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13288,7 +13288,7 @@
   {
     "id": 950,
     "code": "901",
-    "description": "Gullies, Channels & Traps - Mixed materials; UPVC; Yard gully 4D701",
+    "description": "Gullies, channels, etc.; UPVC; Yard gully 4D701",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13302,7 +13302,7 @@
   {
     "id": 951,
     "code": "902",
-    "description": "Gullies, Channels & Traps - Mixed materials; UPVC; Bottle gully 4D901",
+    "description": "Gullies, channels, etc.; UPVC; Bottle gully 4D901",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13316,7 +13316,7 @@
   {
     "id": 952,
     "code": "903",
-    "description": "Gullies, Channels & Traps - Mixed materials; CI; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",
+    "description": "Gullies, channels, etc.; CI; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13330,7 +13330,7 @@
   {
     "id": 953,
     "code": "904",
-    "description": "Gullies, Channels & Traps - Mixed materials; CI; Gully trap with surface access; TD107, TD500, TD612",
+    "description": "Gullies, channels, etc.; CI; Gully trap with surface access; TD107, TD500, TD612",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13344,7 +13344,7 @@
   {
     "id": 954,
     "code": "905",
-    "description": "Gullies, Channels & Traps - Mixed materials; CI; Deans trap gully; TD550; 600dp inc sediment pan",
+    "description": "Gullies, channels, etc.; CI; Deans trap gully; TD550; 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13358,7 +13358,7 @@
   {
     "id": 955,
     "code": "906",
-    "description": "Gullies, Channels & Traps - Mixed materials; CI; Gully trap; TD551; 425dp inc sediment pan",
+    "description": "Gullies, channels, etc.; CI; Gully trap; TD551; 425dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13372,7 +13372,7 @@
   {
     "id": 956,
     "code": "907",
-    "description": "Gullies, Channels & Traps - Mixed materials; CI; Gully trap square; TD553; inc sediment pan",
+    "description": "Gullies, channels, etc.; CI; Gully trap square; TD553; inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13386,7 +13386,7 @@
   {
     "id": 957,
     "code": "908",
-    "description": "Gullies, Channels & Traps - Mixed materials; CI; Grease trap; TD706; inc sediment pan",
+    "description": "Gullies, channels, etc.; CI; Grease trap; TD706; inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13400,7 +13400,7 @@
   {
     "id": 958,
     "code": "909",
-    "description": "Gullies, Channels & Traps - Mixed materials; CI; Garage gully; TD556; 225 x 600dp inc sediment pan",
+    "description": "Gullies, channels, etc.; CI; Garage gully; TD556; 225 x 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13414,7 +13414,7 @@
   {
     "id": 959,
     "code": "910",
-    "description": "Gullies, Channels & Traps - Mixed materials; CI; Garage gully; TD554; 300 x 600dp inc sediment pan",
+    "description": "Gullies, channels, etc.; CI; Garage gully; TD554; 300 x 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13428,7 +13428,7 @@
   {
     "id": 960,
     "code": "911",
-    "description": "Gullies, Channels & Traps - Mixed materials; CI; Garage gully; TD558; 325 x 600dp inc sediment pan",
+    "description": "Gullies, channels, etc.; CI; Garage gully; TD558; 325 x 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13442,7 +13442,7 @@
   {
     "id": 961,
     "code": "912",
-    "description": "Gullies, Channels & Traps - Mixed materials; Road gully; Conc; 450 dia x 900 dp; 150 dia outlet; D400 400 x 440 grating & frame",
+    "description": "Gullies, channels, etc.; Road gully; Conc; 450 dia x 900 dp; 150 dia outlet; D400 400 x 440 grating & frame",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13456,7 +13456,7 @@
   {
     "id": 962,
     "code": "913",
-    "description": "Gullies, Channels & Traps - Mixed materials; Road gully; Clay; 450 dia x 900 dp; 150 dia outlet; Hepworth ref RGR4; D400 400 x 440 grating & frame",
+    "description": "Gullies, channels, etc.; Road gully; Clay; 450 dia x 900 dp; 150 dia outlet; Hepworth ref RGR4; D400 400 x 440 grating & frame",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13470,7 +13470,7 @@
   {
     "id": 963,
     "code": "914",
-    "description": "Gullies, Channels & Traps - Mixed materials; Existing road gully; take off existing cover and re-set",
+    "description": "Gullies, channels, etc.; Existing road gully; take off existing cover and re-set",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13484,7 +13484,7 @@
   {
     "id": 964,
     "code": "915",
-    "description": "Gullies, Channels & Traps - Mixed materials; Wade floor gully; K2193 NBronze grating & frame, U1404 bottle trap, T1103 100mm dia S/S adaptor; conc surround",
+    "description": "Gullies, channels, etc.; Wade floor gully; K2193 NBronze grating & frame, U1404 bottle trap, T1103 100mm dia S/S adaptor; conc surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13498,7 +13498,7 @@
   {
     "id": 965,
     "code": "916",
-    "description": "Gullies, Channels & Traps - Mixed materials; Extra; Nickel bronze grating; Wade reference L2141 with pipework adaptor Wade reference T301",
+    "description": "Gullies, channels, etc.; Extra; Nickel bronze grating; Wade reference L2141 with pipework adaptor Wade reference T301",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Pipework",
@@ -13512,7 +13512,7 @@
   {
     "id": 966,
     "code": "915",
-    "description": "Gullies, Channels & Traps - Mixed materials; Wade floor gully; K2307 SS grating & frame, G304 trap, U104 extn pipe; seal kit & collar; concrete surround",
+    "description": "Gullies, channels, etc.; Wade floor gully; K2307 SS grating & frame, G304 trap, U104 extn pipe; seal kit & collar; concrete surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13526,7 +13526,7 @@
   {
     "id": 967,
     "code": "916",
-    "description": "Gullies, Channels & Traps - Mixed materials; Plantroom Floor gully; Wade G304 trapped gully body; stainless steel grating Wade L2106 with extension piece to suit",
+    "description": "Gullies, channels, etc.; Plantroom Floor gully; Wade G304 trapped gully body; stainless steel grating Wade L2106 with extension piece to suit",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13540,7 +13540,7 @@
   {
     "id": 968,
     "code": "917",
-    "description": "Gullies, Channels & Traps - Mixed materials; Bulcher s/s int floor gully with waterless odour trap",
+    "description": "Gullies, channels, etc.; Bulcher s/s int floor gully with waterless odour trap",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13554,7 +13554,7 @@
   {
     "id": 969,
     "code": "916",
-    "description": "Gullies, Channels & Traps - Mixed materials; Wade floor gully; K2307 SS grating & frame, U1404 bottle trap, C204 gully body, U602 Tundish, clamping collar; conc surround",
+    "description": "Gullies, channels, etc.; Wade floor gully; K2307 SS grating & frame, U1404 bottle trap, C204 gully body, U602 Tundish, clamping collar; conc surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -13568,7 +13568,7 @@
   {
     "id": 970,
     "code": "917",
-    "description": "Gullies, Channels & Traps - Mixed materials; Universal grease trap RGU1, 600x450x550dp; LD C&F",
+    "description": "Gullies, channels, etc.; Universal grease trap RGU1, 600x450x550dp; LD C&F",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13582,7 +13582,7 @@
   {
     "id": 971,
     "code": "918",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M100D; with 400DL slotted galvanised grate (A15)",
+    "description": "Gullies, channels, etc.; Channel drain; ACO M100D; with 400DL slotted galvanised grate (A15)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13596,7 +13596,7 @@
   {
     "id": 972,
     "code": "919",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M100D; with 522DL Heelguard composite grate (C250)",
+    "description": "Gullies, channels, etc.; Channel drain; ACO M100D; with 522DL Heelguard composite grate (C250)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13610,7 +13610,7 @@
   {
     "id": 973,
     "code": "920",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M100D; with 23405DL Heelguard ductile iron grate (D400)",
+    "description": "Gullies, channels, etc.; Channel drain; ACO M100D; with 23405DL Heelguard ductile iron grate (D400)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13624,7 +13624,7 @@
   {
     "id": 974,
     "code": "921",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M100D; with 23460 Galvanised Steel Brickslot grating (C250)",
+    "description": "Gullies, channels, etc.; Channel drain; ACO M100D; with 23460 Galvanised Steel Brickslot grating (C250)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13638,7 +13638,7 @@
   {
     "id": 975,
     "code": "922",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M100D; with 23465 Galvanised Steel Brickslot grating (D400)",
+    "description": "Gullies, channels, etc.; Channel drain; ACO M100D; with 23465 Galvanised Steel Brickslot grating (D400)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13652,7 +13652,7 @@
   {
     "id": 976,
     "code": "923",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13666,7 +13666,7 @@
   {
     "id": 977,
     "code": "924",
-    "description": "Gullies, Channels & Traps - Mixed materials; Angle junction",
+    "description": "Gullies, channels, etc.; Angle junction",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13680,7 +13680,7 @@
   {
     "id": 978,
     "code": "925",
-    "description": "Gullies, Channels & Traps - Mixed materials; T junction",
+    "description": "Gullies, channels, etc.; T junction",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13694,7 +13694,7 @@
   {
     "id": 979,
     "code": "923",
-    "description": "Gullies, Channels & Traps - Mixed materials; Access unit",
+    "description": "Gullies, channels, etc.; Access unit",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13708,7 +13708,7 @@
   {
     "id": 980,
     "code": "924",
-    "description": "Gullies, Channels & Traps - Mixed materials; Sump/outlet",
+    "description": "Gullies, channels, etc.; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13722,7 +13722,7 @@
   {
     "id": 981,
     "code": "925",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; ACO S100D; with 774 Heelguard ductile iron grate (D400)",
+    "description": "Gullies, channels, etc.; Channel drain; ACO S100D; with 774 Heelguard ductile iron grate (D400)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13736,7 +13736,7 @@
   {
     "id": 982,
     "code": "926",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13750,7 +13750,7 @@
   {
     "id": 983,
     "code": "927",
-    "description": "Gullies, Channels & Traps - Mixed materials; Sump/outlet",
+    "description": "Gullies, channels, etc.; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13764,7 +13764,7 @@
   {
     "id": 984,
     "code": "928",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M150D; with 23161DL Heelguard ductile iron grate (D400)",
+    "description": "Gullies, channels, etc.; Channel drain; ACO M150D; with 23161DL Heelguard ductile iron grate (D400)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13778,7 +13778,7 @@
   {
     "id": 985,
     "code": "929",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13792,7 +13792,7 @@
   {
     "id": 986,
     "code": "930",
-    "description": "Gullies, Channels & Traps - Mixed materials; Angle junction",
+    "description": "Gullies, channels, etc.; Angle junction",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13806,7 +13806,7 @@
   {
     "id": 987,
     "code": "931",
-    "description": "Gullies, Channels & Traps - Mixed materials; Sump/outlet",
+    "description": "Gullies, channels, etc.; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13820,7 +13820,7 @@
   {
     "id": 988,
     "code": "932",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M200D; with 23221DL Heelguard ductile iron grate (D400)",
+    "description": "Gullies, channels, etc.; Channel drain; ACO M200D; with 23221DL Heelguard ductile iron grate (D400)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13834,7 +13834,7 @@
   {
     "id": 989,
     "code": "933",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13848,7 +13848,7 @@
   {
     "id": 990,
     "code": "934",
-    "description": "Gullies, Channels & Traps - Mixed materials; Sump/outlet",
+    "description": "Gullies, channels, etc.; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13862,7 +13862,7 @@
   {
     "id": 991,
     "code": "935",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; PolyChannel MW100; with slotted galvanised grate (A15)",
+    "description": "Gullies, channels, etc.; Channel drain; PolyChannel MW100; with slotted galvanised grate (A15)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13876,7 +13876,7 @@
   {
     "id": 992,
     "code": "936",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; Polychannel MW100; with Cast Iron Polyheel slotted grate (C250)",
+    "description": "Gullies, channels, etc.; Channel drain; Polychannel MW100; with Cast Iron Polyheel slotted grate (C250)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13890,7 +13890,7 @@
   {
     "id": 993,
     "code": "937",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13904,7 +13904,7 @@
   {
     "id": 994,
     "code": "938",
-    "description": "Gullies, Channels & Traps - Mixed materials; End trap & rodding eye",
+    "description": "Gullies, channels, etc.; End trap & rodding eye",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13918,7 +13918,7 @@
   {
     "id": 995,
     "code": "939",
-    "description": "Gullies, Channels & Traps - Mixed materials; Sump/outlet",
+    "description": "Gullies, channels, etc.; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13932,7 +13932,7 @@
   {
     "id": 996,
     "code": "940",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; PolyChannel SKCR with stainless steel edge; with slotted stainless steel grate (A15)",
+    "description": "Gullies, channels, etc.; Channel drain; PolyChannel SKCR with stainless steel edge; with slotted stainless steel grate (A15)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13946,7 +13946,7 @@
   {
     "id": 997,
     "code": "941",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13960,7 +13960,7 @@
   {
     "id": 998,
     "code": "942",
-    "description": "Gullies, Channels & Traps - Mixed materials; End trap & rodding eye",
+    "description": "Gullies, channels, etc.; End trap & rodding eye",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13974,7 +13974,7 @@
   {
     "id": 999,
     "code": "943",
-    "description": "Gullies, Channels & Traps - Mixed materials; Sump/outlet",
+    "description": "Gullies, channels, etc.; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -13988,7 +13988,7 @@
   {
     "id": 1000,
     "code": "944",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; PolyChannel MW150; with slotted cast iron grate (A15)",
+    "description": "Gullies, channels, etc.; Channel drain; PolyChannel MW150; with slotted cast iron grate (A15)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14002,7 +14002,7 @@
   {
     "id": 1001,
     "code": "945",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14016,7 +14016,7 @@
   {
     "id": 1002,
     "code": "946",
-    "description": "Gullies, Channels & Traps - Mixed materials; Sump/outlet",
+    "description": "Gullies, channels, etc.; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14030,7 +14030,7 @@
   {
     "id": 1003,
     "code": "947",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; PolyChannel MW200; with slotted cast iron grate (A15)",
+    "description": "Gullies, channels, etc.; Channel drain; PolyChannel MW200; with slotted cast iron grate (A15)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14044,7 +14044,7 @@
   {
     "id": 1004,
     "code": "948",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14058,7 +14058,7 @@
   {
     "id": 1005,
     "code": "949",
-    "description": "Gullies, Channels & Traps - Mixed materials; Sump/outlet",
+    "description": "Gullies, channels, etc.; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14072,7 +14072,7 @@
   {
     "id": 1006,
     "code": "950",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; PolyChannel MW300; with slotted cast iron grate (A15)",
+    "description": "Gullies, channels, etc.; Channel drain; PolyChannel MW300; with slotted cast iron grate (A15)",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14086,7 +14086,7 @@
   {
     "id": 1007,
     "code": "951",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14100,7 +14100,7 @@
   {
     "id": 1008,
     "code": "952",
-    "description": "Gullies, Channels & Traps - Mixed materials; Sump/outlet",
+    "description": "Gullies, channels, etc.; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14114,7 +14114,7 @@
   {
     "id": 1009,
     "code": "953",
-    "description": "Gullies, Channels & Traps - Mixed materials; Channel drain; ACO Brickslot C250",
+    "description": "Gullies, channels, etc.; Channel drain; ACO Brickslot C250",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14128,7 +14128,7 @@
   {
     "id": 1010,
     "code": "954",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14142,7 +14142,7 @@
   {
     "id": 1011,
     "code": "955",
-    "description": "Gullies, Channels & Traps - Mixed materials; Angles",
+    "description": "Gullies, channels, etc.; Angles",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14156,7 +14156,7 @@
   {
     "id": 1012,
     "code": "956",
-    "description": "Gullies, Channels & Traps - Mixed materials; Sump/outlet",
+    "description": "Gullies, channels, etc.; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14170,7 +14170,7 @@
   {
     "id": 1013,
     "code": "957",
-    "description": "Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD255HB",
+    "description": "Gullies, channels, etc.; Kerb drain; ACO KD255HB",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14184,7 +14184,7 @@
   {
     "id": 1014,
     "code": "958",
-    "description": "Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD255HB; curved",
+    "description": "Gullies, channels, etc.; Kerb drain; ACO KD255HB; curved",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14198,7 +14198,7 @@
   {
     "id": 1015,
     "code": "959",
-    "description": "Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD305HB",
+    "description": "Gullies, channels, etc.; Kerb drain; ACO KD305HB",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14212,7 +14212,7 @@
   {
     "id": 1016,
     "code": "960",
-    "description": "Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD305HB; curved",
+    "description": "Gullies, channels, etc.; Kerb drain; ACO KD305HB; curved",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14226,7 +14226,7 @@
   {
     "id": 1017,
     "code": "961",
-    "description": "Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD405HB",
+    "description": "Gullies, channels, etc.; Kerb drain; ACO KD405HB",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14240,7 +14240,7 @@
   {
     "id": 1018,
     "code": "962",
-    "description": "Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD405HB; curved",
+    "description": "Gullies, channels, etc.; Kerb drain; ACO KD405HB; curved",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14254,7 +14254,7 @@
   {
     "id": 1019,
     "code": "963",
-    "description": "Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD480HB",
+    "description": "Gullies, channels, etc.; Kerb drain; ACO KD480HB",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14268,7 +14268,7 @@
   {
     "id": 1020,
     "code": "964",
-    "description": "Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD480HB; curved",
+    "description": "Gullies, channels, etc.; Kerb drain; ACO KD480HB; curved",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14282,7 +14282,7 @@
   {
     "id": 1021,
     "code": "965",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14296,7 +14296,7 @@
   {
     "id": 1022,
     "code": "966",
-    "description": "Gullies, Channels & Traps - Mixed materials; Access chamber / Gully unit / outlet",
+    "description": "Gullies, channels, etc.; Access chamber / Gully unit / outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14310,7 +14310,7 @@
   {
     "id": 1023,
     "code": "967",
-    "description": "Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO SP380",
+    "description": "Gullies, channels, etc.; Kerb drain; ACO SP380",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14324,7 +14324,7 @@
   {
     "id": 1024,
     "code": "968",
-    "description": "Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO SP380; curved",
+    "description": "Gullies, channels, etc.; Kerb drain; ACO SP380; curved",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14338,7 +14338,7 @@
   {
     "id": 1025,
     "code": "969",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14352,7 +14352,7 @@
   {
     "id": 1026,
     "code": "970",
-    "description": "Gullies, Channels & Traps - Mixed materials; Gully unit / outlet",
+    "description": "Gullies, channels, etc.; Gully unit / outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14366,7 +14366,7 @@
   {
     "id": 1027,
     "code": "971",
-    "description": "Gullies, Channels & Traps - Mixed materials; Beany block drainage kerb",
+    "description": "Gullies, channels, etc.; Beany block drainage kerb",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14380,7 +14380,7 @@
   {
     "id": 1028,
     "code": "972",
-    "description": "Gullies, Channels & Traps - Mixed materials; Beany block drainage kerb; radius/curved on plan",
+    "description": "Gullies, channels, etc.; Beany block drainage kerb; radius/curved on plan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14394,7 +14394,7 @@
   {
     "id": 1029,
     "code": "973",
-    "description": "Gullies, Channels & Traps - Mixed materials; Beany block gully outfall",
+    "description": "Gullies, channels, etc.; Beany block gully outfall",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14408,7 +14408,7 @@
   {
     "id": 1030,
     "code": "974",
-    "description": "Gullies, Channels & Traps - Mixed materials; Beany block end cap",
+    "description": "Gullies, channels, etc.; Beany block end cap",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14422,7 +14422,7 @@
   {
     "id": 1031,
     "code": "975",
-    "description": "Gullies, Channels & Traps - Mixed materials; Mini Beany drainage kerb",
+    "description": "Gullies, channels, etc.; Mini Beany drainage kerb",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14436,7 +14436,7 @@
   {
     "id": 1032,
     "code": "976",
-    "description": "Gullies, Channels & Traps - Mixed materials; Mini Beany gully outfall",
+    "description": "Gullies, channels, etc.; Mini Beany gully outfall",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14450,7 +14450,7 @@
   {
     "id": 1033,
     "code": "977",
-    "description": "Gullies, Channels & Traps - Mixed materials; Mini beany end cap",
+    "description": "Gullies, channels, etc.; Mini beany end cap",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14464,7 +14464,7 @@
   {
     "id": 1034,
     "code": "978",
-    "description": "Gullies, Channels & Traps - Mixed materials; Slot drain; Birco 100 0/0",
+    "description": "Gullies, channels, etc.; Slot drain; Birco 100 0/0",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14478,7 +14478,7 @@
   {
     "id": 1035,
     "code": "979",
-    "description": "Gullies, Channels & Traps - Mixed materials; Slot drain; Ends",
+    "description": "Gullies, channels, etc.; Slot drain; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14492,7 +14492,7 @@
   {
     "id": 1036,
     "code": "980",
-    "description": "Gullies, Channels & Traps - Mixed materials; Slot Drain access cover & bolts",
+    "description": "Gullies, channels, etc.; Slot Drain access cover & bolts",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14506,7 +14506,7 @@
   {
     "id": 1037,
     "code": "981",
-    "description": "Gullies, Channels & Traps - Mixed materials; Slot Drain; Cap outlet",
+    "description": "Gullies, channels, etc.; Slot Drain; Cap outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14520,7 +14520,7 @@
   {
     "id": 1038,
     "code": "982",
-    "description": "Gullies, Channels & Traps - Mixed materials; Slot drain; Sump/outlet",
+    "description": "Gullies, channels, etc.; Slot drain; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14534,7 +14534,7 @@
   {
     "id": 1039,
     "code": "983",
-    "description": "Gullies, Channels & Traps - Mixed materials; Threshold drain",
+    "description": "Gullies, channels, etc.; Threshold drain",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14548,7 +14548,7 @@
   {
     "id": 1040,
     "code": "984",
-    "description": "Gullies, Channels & Traps - Mixed materials; Ends",
+    "description": "Gullies, channels, etc.; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14562,7 +14562,7 @@
   {
     "id": 1041,
     "code": "985",
-    "description": "Gullies, Channels & Traps - Mixed materials; Outlet",
+    "description": "Gullies, channels, etc.; Outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14576,7 +14576,7 @@
   {
     "id": 1042,
     "code": "986",
-    "description": "Gullies, Channels & Traps - Mixed materials; Gatic Paveslot channel; 100mm wide",
+    "description": "Gullies, channels, etc.; Gatic Paveslot channel; 100mm wide",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14590,7 +14590,7 @@
   {
     "id": 1043,
     "code": "987",
-    "description": "Gullies, Channels & Traps - Mixed materials; Gatic Paveslot channel; Ends",
+    "description": "Gullies, channels, etc.; Gatic Paveslot channel; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14604,7 +14604,7 @@
   {
     "id": 1044,
     "code": "988",
-    "description": "Gullies, Channels & Traps - Mixed materials; Gatic Paveslot channel; Sump/outlet",
+    "description": "Gullies, channels, etc.; Gatic Paveslot channel; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14618,7 +14618,7 @@
   {
     "id": 1045,
     "code": "989",
-    "description": "Gullies, Channels & Traps - Mixed materials; Gatic Slot Drain; 225mm ultraslot",
+    "description": "Gullies, channels, etc.; Gatic Slot Drain; 225mm ultraslot",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14632,7 +14632,7 @@
   {
     "id": 1046,
     "code": "990",
-    "description": "Gullies, Channels & Traps - Mixed materials; Combined access/outlet box for 225 ultraslot",
+    "description": "Gullies, channels, etc.; Combined access/outlet box for 225 ultraslot",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14646,7 +14646,7 @@
   {
     "id": 1047,
     "code": "991",
-    "description": "Gullies, Channels & Traps - Mixed materials; Gatic Slot Drain; 300mm ultraslot",
+    "description": "Gullies, channels, etc.; Gatic Slot Drain; 300mm ultraslot",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14660,7 +14660,7 @@
   {
     "id": 1048,
     "code": "992",
-    "description": "Gullies, Channels & Traps - Mixed materials; Combined access/outlet box for 300 ultraslot",
+    "description": "Gullies, channels, etc.; Combined access/outlet box for 300 ultraslot",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14674,7 +14674,7 @@
   {
     "id": 1049,
     "code": "993",
-    "description": "Gullies, Channels & Traps - Mixed materials; Gatic Slot Drain; 600mm ultraslot",
+    "description": "Gullies, channels, etc.; Gatic Slot Drain; 600mm ultraslot",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14688,7 +14688,7 @@
   {
     "id": 1050,
     "code": "994",
-    "description": "Gullies, Channels & Traps - Mixed materials; Combined access/outlet box for 600 ultraslot",
+    "description": "Gullies, channels, etc.; Combined access/outlet box for 600 ultraslot",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14702,7 +14702,7 @@
   {
     "id": 1051,
     "code": "995",
-    "description": "Gullies & Connections - UPVC system; Yard gully; 300 dia x 600 dp; 110 dia outlet; 4D800; light duty grating & frame",
+    "description": "Gullies, connections, etc; UPVC; Yard gully; 300 dia x 600 dp; 110 dia outlet; 4D800; light duty grating & frame",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14716,7 +14716,7 @@
   {
     "id": 1052,
     "code": "996",
-    "description": "Gullies & Connections - UPVC system; Road gully 6TW650; 450 dia x 750/900 dp; 150 dia outlet; D400 400 x 440 grating & frame",
+    "description": "Gullies, connections, etc; UPVC; Road gully 6TW650; 450 dia x 750/900 dp; 150 dia outlet; D400 400 x 440 grating & frame",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14730,7 +14730,7 @@
   {
     "id": 1053,
     "code": "997",
-    "description": "Gullies & Connections - UPVC system; Channel drain; ACO M100; with pressed steel grate",
+    "description": "Gullies, connections, etc; UPVC; Channel drain; ACO M100; with pressed steel grate",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14744,7 +14744,7 @@
   {
     "id": 1054,
     "code": "998",
-    "description": "Gullies & Connections - UPVC system; Ends",
+    "description": "Gullies, connections, etc; UPVC; Ends",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14758,7 +14758,7 @@
   {
     "id": 1055,
     "code": "999",
-    "description": "Gullies & Connections - UPVC system; Sump/outlet",
+    "description": "Gullies, connections, etc; UPVC; Sump/outlet",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14772,7 +14772,7 @@
   {
     "id": 1056,
     "code": "1000",
-    "description": "Gullies & Connections - Cast Iron system; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",
+    "description": "Gullies, connections, etc; Cast Iron; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14786,7 +14786,7 @@
   {
     "id": 1057,
     "code": "1001",
-    "description": "Gullies & Connections - Cast Iron system; Gully trap with surface access; TD107, TD500, TD612",
+    "description": "Gullies, connections, etc; Cast Iron; Gully trap with surface access; TD107, TD500, TD612",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14800,7 +14800,7 @@
   {
     "id": 1058,
     "code": "1002",
-    "description": "Gullies & Connections - Cast Iron system; Deans trap gully; TD550; 600dp inc sediment pan",
+    "description": "Gullies, connections, etc; Cast Iron; Deans trap gully; TD550; 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14814,7 +14814,7 @@
   {
     "id": 1059,
     "code": "1003",
-    "description": "Gullies & Connections - Cast Iron system; Gully trap; TD551; 425dp inc sediment pan",
+    "description": "Gullies, connections, etc; Cast Iron; Gully trap; TD551; 425dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14828,7 +14828,7 @@
   {
     "id": 1060,
     "code": "1004",
-    "description": "Gullies & Connections - Cast Iron system; Gully trap square; TD553; inc sediment pan",
+    "description": "Gullies, connections, etc; Cast Iron; Gully trap square; TD553; inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14842,7 +14842,7 @@
   {
     "id": 1061,
     "code": "1005",
-    "description": "Gullies & Connections - Cast Iron system; Garage gully; TD556; 225 x 600dp inc sediment pan",
+    "description": "Gullies, connections, etc; Cast Iron; Garage gully; TD556; 225 x 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14856,7 +14856,7 @@
   {
     "id": 1062,
     "code": "1006",
-    "description": "Gullies & Connections - Cast Iron system; Garage gully; TD554; 300 x 600dp inc sediment pan",
+    "description": "Gullies, connections, etc; Cast Iron; Garage gully; TD554; 300 x 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14870,7 +14870,7 @@
   {
     "id": 1063,
     "code": "1007",
-    "description": "Gullies & Connections - Cast Iron system; Garage gully; TD558; 325 x 600dp inc sediment pan",
+    "description": "Gullies, connections, etc; Cast Iron; Garage gully; TD558; 325 x 600dp inc sediment pan",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Gullies",
@@ -14884,7 +14884,7 @@
   {
     "id": 1064,
     "code": "1008",
-    "description": "Box Culverts - Precast concrete system; Excavate trenches",
+    "description": "Box Culverts; Excavate trenches",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Excavation",
@@ -14898,7 +14898,7 @@
   {
     "id": 1065,
     "code": "1009",
-    "description": "Box Culverts - Precast concrete system; Working space",
+    "description": "Box Culverts; Working space",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14912,7 +14912,7 @@
   {
     "id": 1066,
     "code": "1010",
-    "description": "Box Culverts - Precast concrete system; EWS",
+    "description": "Box Culverts; EWS",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14926,7 +14926,7 @@
   {
     "id": 1067,
     "code": "1011",
-    "description": "Box Culverts - Precast concrete system; Dispose of arisings off site",
+    "description": "Box Culverts; Dispose of arisings off site",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14940,7 +14940,7 @@
   {
     "id": 1068,
     "code": "1012",
-    "description": "Box Culverts - Precast concrete system; L&C bottom of excavation",
+    "description": "Box Culverts; L&C bottom of excavation",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Excavation",
@@ -14954,7 +14954,7 @@
   {
     "id": 1069,
     "code": "1013",
-    "description": "Box Culverts - Precast concrete system; Herbicide to surface of ground",
+    "description": "Box Culverts; Herbicide to surface of ground",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -14968,7 +14968,7 @@
   {
     "id": 1070,
     "code": "1014",
-    "description": "Box Culverts - Precast concrete system; Backfill above culvert with SEM",
+    "description": "Box Culverts; Backfill above culvert with SEM",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Backfilling",
@@ -14982,7 +14982,7 @@
   {
     "id": 1071,
     "code": "1015",
-    "description": "Box Culverts - Precast concrete system; Backfill above culvert with imported type 1",
+    "description": "Box Culverts; Backfill above culvert with imported type 1",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "Backfilling",
@@ -14996,7 +14996,7 @@
   {
     "id": 1072,
     "code": "1016",
-    "description": "Box Culverts - Precast concrete system; L&C surface of fill",
+    "description": "Box Culverts; L&C surface of fill",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -15010,7 +15010,7 @@
   {
     "id": 1073,
     "code": "1017",
-    "description": "Box Culverts - Precast concrete system; Sand bed; 100mm thk",
+    "description": "Box Culverts; Sand bed; 100mm thk",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -15024,7 +15024,7 @@
   {
     "id": 1074,
     "code": "1018",
-    "description": "Box Culverts - Precast concrete system; Concrete bed; ",
+    "description": "Box Culverts; Concrete bed; ",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -15038,7 +15038,7 @@
   {
     "id": 1075,
     "code": "1019",
-    "description": "Box Culverts - Precast concrete system; Pea shingle bed & surround",
+    "description": "Box Culverts; Pea shingle bed & surround",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -15052,7 +15052,7 @@
   {
     "id": 1076,
     "code": "1020",
-    "description": "Box Culverts - Precast concrete system; PC concrete box culvert; 1.20 x 0.75m",
+    "description": "Box Culverts; PC concrete box culvert; 1.20 x 0.75m",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -15066,7 +15066,7 @@
   {
     "id": 1077,
     "code": "1021",
-    "description": "Box Culverts - Precast concrete system; PC concrete box culvert; 1.80 x 1.20m",
+    "description": "Box Culverts; PC concrete box culvert; 1.80 x 1.20m",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -15080,7 +15080,7 @@
   {
     "id": 1078,
     "code": "1022",
-    "description": "Box Culverts - Precast concrete system; PC concrete box culvert; 2.00 x 1.50m",
+    "description": "Box Culverts; PC concrete box culvert; 2.00 x 1.50m",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -15094,7 +15094,7 @@
   {
     "id": 1079,
     "code": "1023",
-    "description": "Box Culverts - Precast concrete system; PC concrete box culvert; 2.40 x 2.40m",
+    "description": "Box Culverts; PC concrete box culvert; 2.40 x 2.40m",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -15108,7 +15108,7 @@
   {
     "id": 1080,
     "code": "1024",
-    "description": "Box Culverts - Precast concrete system; PC concrete box culvert; 3.00 x 2.10m",
+    "description": "Box Culverts; PC concrete box culvert; 3.00 x 2.10m",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",
@@ -15122,7 +15122,7 @@
   {
     "id": 1081,
     "code": "1025",
-    "description": "Box Culverts - Precast concrete system; 100/150 dia branch connection to culvert; drill culvert wall, seal and make good around connection",
+    "description": "Box Culverts; 100/150 dia branch connection to culvert; drill culvert wall, seal and make good around connection",
     "unit": "m",
     "category": "Drainage",
     "subcategory": "General Drainage",

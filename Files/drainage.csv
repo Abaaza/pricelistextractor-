@@ -714,372 +714,372 @@ id,code,description,unit,category,subcategory,rate,cellRate_reference,cellRate_r
 713,738,"Pipework, accessories & fittings; concrete; 2400mm dia rocker",m,Drainage,Pipework,3141.27,Drainage!O829,3141.27,Drainage!A829,Drainage,"2400mm,pipe"
 714,739,"Pipework, accessories & fittings; concrete; 2400 x 100 branch; saddle connection",m,Drainage,Pipework,93.95,Drainage!O830,93.95,Drainage!A830,Drainage,pipe
 715,740,"Pipework, accessories & fittings; concrete; 2400 x 150 branch; saddle connection",m,Drainage,Pipework,105.12,Drainage!O831,105.12,Drainage!A831,Drainage,pipe
-716,741,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia pipe",m,Drainage,Pipework,7.72,Drainage!O836,7.72,Drainage!A836,Drainage,"110mm,pipe"
-717,742,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia pipe; short lenghts",m,Drainage,Pipework,11.23,Drainage!O837,11.23,Drainage!A837,Drainage,"110mm,pipe"
-718,743,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",m,Drainage,Pipework,25.15,Drainage!O838,25.15,Drainage!A838,Drainage,"110mm,pipe"
-719,744,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia perforated land drain",m,Drainage,Pipework,9.31,Drainage!O839,9.31,Drainage!A839,Drainage,"110mm,pipe"
-720,745,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; bend",m,Drainage,Pipework,8.45,Drainage!O840,8.45,Drainage!A840,Drainage,"110mm,pipe"
-721,746,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; rest bend",m,Drainage,Pipework,12.47,Drainage!O841,12.47,Drainage!A841,Drainage,"110mm,pipe"
-722,747,"Pipework, Accessories & Fittings; UPVC - Osma system; Sleeve for 100 dia pipe through concrete foundations",m,Drainage,Pipework,65.45,Drainage!O842,65.45,Drainage!A842,Drainage,pipe
-723,748,"Pipework, Accessories & Fittings; UPVC - Osma system; Sleeve for 100 dia pipe cast into retaining wall; 300mm thick",m,Drainage,Pipework,24.21,Drainage!O843,24.21,Drainage!A843,Drainage,"300mm,pipe"
-724,749,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; adaptor / temp site cap",m,Drainage,Pipework,4.55,Drainage!O844,4.55,Drainage!A844,Drainage,"110mm,pipe"
-725,750,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; adaptor / RW pipe connector",m,Drainage,Pipework,6.28,Drainage!O845,6.28,Drainage!A845,Drainage,"110mm,pipe"
-726,751,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; adaptor / waste pipe connector",m,Drainage,Pipework,6.12,Drainage!O846,6.12,Drainage!A846,Drainage,"110mm,pipe"
-727,752,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; adaptor / SVP connector",m,Drainage,Pipework,10.19,Drainage!O847,10.19,Drainage!A847,Drainage,"110mm,pipe"
-728,753,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; adaptor / UPVC to clay connector",m,Drainage,Pipework,12.82,Drainage!O848,12.82,Drainage!A848,Drainage,"110mm,pipe"
-729,754,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; rocker",m,Drainage,Pipework,12.45,Drainage!O849,12.45,Drainage!A849,Drainage,"110mm,pipe"
-730,755,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; vertical pipework",m,Drainage,Pipework,18.53,Drainage!O850,18.53,Drainage!A850,Drainage,"110mm,pipe"
-731,756,"Pipework, Accessories & Fittings; UPVC - Osma system; 110mm dia; vertical pipework; inc conc surround",m,Drainage,Pipework,69.83,Drainage!O851,69.83,Drainage!A851,Drainage,"110mm,pipe"
-732,757,"Pipework, Accessories & Fittings; UPVC - Osma system; 110 x 110 branch",m,Drainage,Pipework,20.1,Drainage!O852,20.1,Drainage!A852,Drainage,pipe
-733,758,"Pipework, Accessories & Fittings; UPVC - Osma system; RWP connections; RW adaptor/vert pipe/rest bend",m,Drainage,Pipework,66.42,Drainage!O853,66.42,Drainage!A853,Drainage,pipe
-734,759,"Pipework, Accessories & Fittings; UPVC - Osma system; SVP connections; SVP adaptor/vert pipe/rest bend",m,Drainage,Pipework,70.34,Drainage!O854,70.34,Drainage!A854,Drainage,pipe
-735,760,"Pipework, Accessories & Fittings; UPVC - Osma system; WC connection; WC connector/vert pipe/rest bend",m,Drainage,Pipework,35.66,Drainage!O855,35.66,Drainage!A855,Drainage,pipe
-736,761,"Pipework, Accessories & Fittings; UPVC - Osma system; Inlet hopper 4D508; gully trap 4D500",m,Drainage,Gullies,86.59,Drainage!O856,86.59,Drainage!A856,Drainage,pipe
-737,762,"Pipework, Accessories & Fittings; UPVC - Osma system; Plain hopper 4D507; gully trap 4D500",m,Drainage,Gullies,84.68,Drainage!O857,84.68,Drainage!A857,Drainage,pipe
-738,763,"Pipework, Accessories & Fittings; UPVC - Osma system; Bottle gully 4D850",m,Drainage,Gullies,77.22,Drainage!O858,77.22,Drainage!A858,Drainage,pipe
-739,764,"Pipework, Accessories & Fittings; UPVC - Osma system; Paved area gully 4D860",m,Drainage,Gullies,84.13,Drainage!O859,84.13,Drainage!A859,Drainage,pipe
-740,765,"Pipework, Accessories & Fittings; UPVC - Osma system; Bottle gully 4D900",m,Drainage,Gullies,79.6,Drainage!O860,79.6,Drainage!A860,Drainage,pipe
-741,766,"Pipework, Accessories & Fittings; UPVC - Osma system; Bottle gully 4D901 with back access",m,Drainage,Gullies,83.97,Drainage!O861,83.97,Drainage!A861,Drainage,pipe
-742,767,"Pipework, Accessories & Fittings; UPVC - Osma system; Yard gully 4D800, G&F 4D810 & Catchment bucket 4D815",m,Drainage,Gullies,228.04,Drainage!O862,228.04,Drainage!A862,Drainage,pipe
-743,768,"Pipework, Accessories & Fittings; UPVC - Osma system; Rodding point; 4D361",m,Drainage,Pipework,97.39,Drainage!O863,97.39,Drainage!A863,Drainage,pipe
-744,769,"Pipework, Accessories & Fittings; UPVC - Osma system; Anti flood valve; 4D921",m,Drainage,Pipework,97.35,Drainage!O864,97.35,Drainage!A864,Drainage,pipe
-745,770,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia",m,Drainage,Pipework,13.71,Drainage!O866,13.71,Drainage!A866,Drainage,"160mm,pipe"
-746,771,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; short lenghts",m,Drainage,Pipework,18.9,Drainage!O867,18.9,Drainage!A867,Drainage,"160mm,pipe"
-747,772,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",m,Drainage,Pipework,58.2,Drainage!O868,58.2,Drainage!A868,Drainage,"160mm,pipe"
-748,773,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia perforated land drain",m,Drainage,Pipework,15.27,Drainage!O869,15.27,Drainage!A869,Drainage,"160mm,pipe"
-749,774,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; bend",m,Drainage,Pipework,25.65,Drainage!O870,25.65,Drainage!A870,Drainage,"160mm,pipe"
-750,775,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; rest bend",m,Drainage,Pipework,0.0,,0.0,Drainage!A871,Drainage,"160mm,pipe"
-751,776,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; rocker",m,Drainage,Pipework,17.63,Drainage!O872,17.63,Drainage!A872,Drainage,"160mm,pipe"
-752,777,"Pipework, Accessories & Fittings; UPVC - Osma system; 160 x 100 branch",m,Drainage,Pipework,38.38,Drainage!O873,38.38,Drainage!A873,Drainage,pipe
-753,778,"Pipework, Accessories & Fittings; UPVC - Osma system; 160 x 160 branch",m,Drainage,Pipework,46.82,Drainage!O874,46.82,Drainage!A874,Drainage,pipe
-754,779,"Pipework, Accessories & Fittings; UPVC - Osma system; 160 x 100 reducer",m,Drainage,Pipework,24.18,Drainage!O875,24.18,Drainage!A875,Drainage,pipe
-755,780,"Pipework, Accessories & Fittings; UPVC - Osma system; EO for wrapping pipe in root barrier",m,Drainage,Pipework,14.62,Drainage!O876,14.62,Drainage!A876,Drainage,pipe
-756,781,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; vertical pipework",m,Drainage,Pipework,18.51,Drainage!O877,18.51,Drainage!A877,Drainage,"160mm,pipe"
-757,782,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm dia; vertical pipework; inc conc surround",m,Drainage,Pipework,82.29,Drainage!O878,82.29,Drainage!A878,Drainage,"160mm,pipe"
-758,783,"Pipework, Accessories & Fittings; UPVC - Osma system; SVP connections; SVP adaptor/vert pipe/bend",m,Drainage,Pipework,146.42,Drainage!O879,146.42,Drainage!A879,Drainage,pipe
-759,784,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm end cap / stopper",m,Drainage,Pipework,16.81,Drainage!O880,16.81,Drainage!A880,Drainage,"160mm,pipe"
-760,785,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm SVP adaptor",m,Drainage,Pipework,34.37,Drainage!O881,34.37,Drainage!A881,Drainage,"160mm,pipe"
-761,786,"Pipework, Accessories & Fittings; UPVC - Osma system; 160mm connection to tank/chamber/etc",m,Drainage,Pipework,52.0,Drainage!O882,52.0,Drainage!A882,Drainage,"160mm,pipe"
-762,787,"Pipework, Accessories & Fittings; UPVC - Osma system; Rodding point",m,Drainage,Pipework,160.7,Drainage!O883,160.7,Drainage!A883,Drainage,pipe
-763,788,"Pipework, Accessories & Fittings; UPVC - Osma system; Anti flood valve; 6D921",m,Drainage,Pipework,112.64,Drainage!O884,112.64,Drainage!A884,Drainage,pipe
-764,789,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150mm dia",m,Drainage,Pipework,12.81,Drainage!O887,12.81,Drainage!A887,Drainage,"150mm,pipe"
-765,790,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150mm dia; bend",m,Drainage,Pipework,33.09,Drainage!O888,33.09,Drainage!A888,Drainage,"150mm,pipe"
-766,791,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150mm dia; rocker",m,Drainage,Pipework,49.05,Drainage!O889,49.05,Drainage!A889,Drainage,"150mm,pipe"
-767,792,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150 x 100 branch",m,Drainage,Pipework,57.56,Drainage!O890,57.56,Drainage!A890,Drainage,pipe
-768,793,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150 x 150 branch",m,Drainage,Pipework,60.21,Drainage!O891,60.21,Drainage!A891,Drainage,pipe
-769,794,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 150 x 100 reducer",m,Drainage,Pipework,20.08,Drainage!O892,20.08,Drainage!A892,Drainage,pipe
-770,795,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia",m,Drainage,Pipework,37.8,Drainage!O894,37.8,Drainage!A894,Drainage,"225mm,pipe"
-771,796,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",m,Drainage,Pipework,126.1,Drainage!O895,126.1,Drainage!A895,Drainage,"225mm,pipe"
-772,797,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia",Twinwall perforated,Drainage,Pipework,25.95,Drainage!O896,25.95,Drainage!A896,Drainage,"225mm,pipe"
-773,798,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia; bend",m,Drainage,Pipework,179.33,Drainage!O897,179.33,Drainage!A897,Drainage,"225mm,pipe"
-774,799,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia; vertical pipework; inc conc surround",m,Drainage,Pipework,117.78,Drainage!O898,117.78,Drainage!A898,Drainage,"225mm,pipe"
-775,800,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia; rocker",m,Drainage,Pipework,79.92,Drainage!O899,79.92,Drainage!A899,Drainage,"225mm,pipe"
-776,801,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225 x 100 branch",m,Drainage,Pipework,188.11,Drainage!O900,188.11,Drainage!A900,Drainage,pipe
-777,802,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225 x 150 branch",m,Drainage,Pipework,193.49,Drainage!O901,193.49,Drainage!A901,Drainage,pipe
-778,803,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225 x 225 branch",m,Drainage,Pipework,265.13,Drainage!O902,265.13,Drainage!A902,Drainage,pipe
-779,804,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 225mm dia; EO for casting into foundation with 50mm flexcell wrap and rocker each side; allow 2m",m,Drainage,Pipework,610.31,Drainage!O903,610.31,Drainage!A903,Drainage,"225mm,50mm,pipe"
-780,805,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300mm dia",m,Drainage,Pipework,55.24,Drainage!O905,55.24,Drainage!A905,Drainage,"300mm,pipe"
-781,806,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300mm dia",Twinwall pipe; perforated,Drainage,Pipework,55.24,Drainage!O906,55.24,Drainage!A906,Drainage,"300mm,pipe"
-782,807,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300mm dia; bend",m,Drainage,Pipework,278.33,Drainage!O907,278.33,Drainage!A907,Drainage,"300mm,pipe"
-783,808,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300mm dia; rocker",m,Drainage,Pipework,128.79,Drainage!O908,128.79,Drainage!A908,Drainage,"300mm,pipe"
-784,809,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300 x 160 branch",m,Drainage,Pipework,409.67,Drainage!O909,409.67,Drainage!A909,Drainage,pipe
-785,810,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300 x 225 branch",m,Drainage,Pipework,576.42,Drainage!O910,576.42,Drainage!A910,Drainage,pipe
-786,811,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300 x 300 branch",m,Drainage,Pipework,604.8,Drainage!O911,604.8,Drainage!A911,Drainage,pipe
-787,812,"Pipework, Accessories & Fittings; UPVC - Ultrarib system; 300 x 225 reducer",m,Drainage,Pipework,106.86,Drainage!O912,106.86,Drainage!A912,Drainage,pipe
-788,813,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 110mm dia pipe",m,Drainage,Pipework,9.73,Drainage!O915,9.73,Drainage!A915,Drainage,"110mm,pipe"
-789,814,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 110mm dia; bend",m,Drainage,Pipework,34.27,Drainage!O916,34.27,Drainage!A916,Drainage,"110mm,pipe"
-790,815,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 150mm dia",m,Drainage,Pipework,12.22,Drainage!O918,12.22,Drainage!A918,Drainage,"150mm,pipe"
-791,816,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 150mm dia; bend",m,Drainage,Pipework,44.57,Drainage!O919,44.57,Drainage!A919,Drainage,"150mm,pipe"
-792,817,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 225mm dia",m,Drainage,Pipework,24.09,Drainage!O921,24.09,Drainage!A921,Drainage,"225mm,pipe"
-793,818,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 225mm dia; bend",m,Drainage,Pipework,103.4,Drainage!O922,103.4,Drainage!A922,Drainage,"225mm,pipe"
-794,819,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 300mm dia",m,Drainage,Pipework,35.84,Drainage!O924,35.84,Drainage!A924,Drainage,"300mm,pipe"
-795,820,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 300mm dia; bend",m,Drainage,Pipework,172.1,Drainage!O925,172.1,Drainage!A925,Drainage,"300mm,pipe"
-796,821,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 375mm dia",m,Drainage,Pipework,78.15,Drainage!O927,78.15,Drainage!A927,Drainage,"375mm,pipe"
-797,822,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 375mm dia",Twinwall pipe; perforated,Drainage,Pipework,86.92,Drainage!O928,86.92,Drainage!A928,Drainage,"375mm,pipe"
-798,823,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 375mm dia; bend",m,Drainage,Pipework,356.18,Drainage!O929,356.18,Drainage!A929,Drainage,"375mm,pipe"
-799,824,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 375mm dia; rocker",m,Drainage,Pipework,94.39,Drainage!O930,94.39,Drainage!A930,Drainage,"375mm,pipe"
-800,825,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 375 x 150 branch",m,Drainage,Pipework,283.58,Drainage!O931,283.58,Drainage!A931,Drainage,pipe
-801,826,"Pipework, Accessories & Fittings; UPVC - Twinwall system; 375 x 375 branch",m,Drainage,Pipework,906.29,Drainage!O932,906.29,Drainage!A932,Drainage,pipe
-802,827,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia pipe",m,Drainage,Pipework,51.09,Drainage!O935,51.09,Drainage!A935,Drainage,"100mm,pipe"
-803,828,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia pipe; runs ne 3m",m,Drainage,Pipework,68.47,Drainage!O936,68.47,Drainage!A936,Drainage,"100mm,pipe"
-804,829,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia; short bend, max 45 deg ",m,Drainage,Pipework,59.73,Drainage!O937,59.73,Drainage!A937,Drainage,"100mm,pipe"
-805,830,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia; long radius bend, 88 deg",m,Drainage,Pipework,89.19,Drainage!O938,89.19,Drainage!A938,Drainage,"100mm,pipe"
-806,831,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia; rest bend",m,Drainage,Pipework,120.78,Drainage!O939,120.78,Drainage!A939,Drainage,"100mm,pipe"
-807,832,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia; rocker",m,Drainage,Pipework,61.96,Drainage!O940,61.96,Drainage!A940,Drainage,"100mm,pipe"
-808,833,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia; vertical pipework; inc conc surround",m,Drainage,Pipework,126.99,Drainage!O941,126.99,Drainage!A941,Drainage,"100mm,pipe"
-809,834,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100 x 100 branch",m,Drainage,Pipework,99.34,Drainage!O942,99.34,Drainage!A942,Drainage,pipe
-810,835,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 100mm dia cast iron to clay/UPVC connector",m,Drainage,Pipework,41.01,Drainage!O943,41.01,Drainage!A943,Drainage,"100mm,pipe"
-811,836,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; RWP connections; RW adaptor/vert pipe/rest bend",m,Drainage,Pipework,215.47,Drainage!O944,215.47,Drainage!A944,Drainage,pipe
-812,837,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; SVP connections; SVP adaptor/vert pipe/rest bend",m,Drainage,Pipework,248.25,Drainage!O945,248.25,Drainage!A945,Drainage,pipe
-813,838,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; WC connection; WC connector/vert pipe/rest bend",m,Drainage,Pipework,215.47,Drainage!O946,215.47,Drainage!A946,Drainage,pipe
-814,839,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",m,Drainage,Gullies,357.86,Drainage!O947,357.86,Drainage!A947,Drainage,pipe
-815,840,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Gully trap with surface access; TD107, TD500, TD612",m,Drainage,Gullies,374.81,Drainage!O948,374.81,Drainage!A948,Drainage,pipe
-816,841,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Deans trap gully; TD550; 600dp inc sediment pan",m,Drainage,Gullies,544.12,Drainage!O949,544.12,Drainage!A949,Drainage,pipe
-817,842,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Gully trap; TD551; 425dp inc sediment pan",m,Drainage,Gullies,456.97,Drainage!O950,456.97,Drainage!A950,Drainage,pipe
-818,843,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Gully trap square; TD553; inc sediment pan",m,Drainage,Gullies,460.03,Drainage!O951,460.03,Drainage!A951,Drainage,pipe
-819,844,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Garage gully; TD556; 225 x 600dp inc sediment pan",m,Drainage,Gullies,484.64,Drainage!O952,484.64,Drainage!A952,Drainage,pipe
-820,845,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Garage gully; TD554; 300 x 600dp inc sediment pan",m,Drainage,Gullies,915.97,Drainage!O953,915.97,Drainage!A953,Drainage,pipe
-821,846,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Garage gully; TD558; 325 x 600dp inc sediment pan",m,Drainage,Gullies,994.39,Drainage!O954,994.39,Drainage!A954,Drainage,pipe
-822,847,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Rodding point; TD425, TD615",m,Drainage,Pipework,276.94,Drainage!O955,276.94,Drainage!A955,Drainage,pipe
-823,848,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Intercepting trap; 479; 100dia fitted with plug",m,Drainage,Pipework,974.65,Drainage!O956,974.65,Drainage!A956,Drainage,pipe
-824,849,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Anti flood valve; TD756",m,Drainage,Pipework,1352.28,Drainage!O957,1352.28,Drainage!A957,Drainage,pipe
-825,850,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Eureka anti flood trunk valve; ref 750",m,Drainage,Pipework,2713.29,Drainage!O958,2713.29,Drainage!A958,Drainage,pipe
-826,851,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Sleeve for 100 dia pipe through concrete foundations",m,Drainage,Pipework,85.81,Drainage!O959,85.81,Drainage!A959,Drainage,pipe
-827,852,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; EO for puddle flange; TD777",m,Drainage,Pipework,106.06,Drainage!O960,106.06,Drainage!A960,Drainage,pipe
-828,853,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; End cap/Stopper",m,Drainage,Pipework,46.51,Drainage!O961,46.51,Drainage!A961,Drainage,pipe
-829,854,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia pipe",m,Drainage,Pipework,95.84,Drainage!O963,95.84,Drainage!A963,Drainage,"150mm,pipe"
-830,855,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; short bend, max 45deg",m,Drainage,Pipework,113.91,Drainage!O964,113.91,Drainage!A964,Drainage,"150mm,pipe"
-831,856,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; 88 deg long radius bend",m,Drainage,Pipework,228.85,Drainage!O965,228.85,Drainage!A965,Drainage,"150mm,pipe"
-832,857,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; rest bend",m,Drainage,Pipework,253.32,Drainage!O966,253.32,Drainage!A966,Drainage,"150mm,pipe"
-833,858,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; rocker",m,Drainage,Pipework,120.37,Drainage!O967,120.37,Drainage!A967,Drainage,"150mm,pipe"
-834,859,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150 x 100 branch",m,Drainage,Pipework,186.51,Drainage!O968,186.51,Drainage!A968,Drainage,pipe
-835,860,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150 x 150 branch",m,Drainage,Pipework,205.24,Drainage!O969,205.24,Drainage!A969,Drainage,pipe
-836,861,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia cast iron to clay/UPVC connector",m,Drainage,Pipework,51.59,Drainage!O970,51.59,Drainage!A970,Drainage,"150mm,pipe"
-837,862,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; vertical pipework; inc conc surround",m,Drainage,Pipework,168.07,Drainage!O971,168.07,Drainage!A971,Drainage,"150mm,pipe"
-838,863,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; RWP/SVP connections; adaptor/vert pipe/rest bend",m,Drainage,Pipework,455.63,Drainage!O972,455.63,Drainage!A972,Drainage,pipe
-839,864,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150mm dia; rodding eye and cover; inc conc surround",m,Drainage,Pipework,386.15,Drainage!O973,386.15,Drainage!A973,Drainage,"150mm,pipe"
-840,865,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Sleeve for 150 dia pipe through concrete foundations",m,Drainage,Pipework,88.64,Drainage!O974,88.64,Drainage!A974,Drainage,pipe
-841,866,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Eureka anti flood trunk valve; ref 750",m,Drainage,Pipework,3038.35,Drainage!O975,3038.35,Drainage!A975,Drainage,pipe
-842,867,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 150dia Quatrix backflow valve & access chamber unit",m,Drainage,Pipework,1663.69,Drainage!O976,1663.69,Drainage!A976,Drainage,pipe
-843,868,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Blanking plug ",m,Drainage,Pipework,242.38,Drainage!O977,242.38,Drainage!A977,Drainage,pipe
-844,868,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; Waste grinder?? Provisional",m,Drainage,Pipework,1911.32,Drainage!O978,1911.32,Drainage!A978,Drainage,pipe
-845,869,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200mm dia pipe",m,Drainage,Pipework,153.06,Drainage!O980,153.06,Drainage!A980,Drainage,"200mm,pipe"
-846,870,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200mm dia; short bend, max 45 deg",m,Drainage,Pipework,274.36,Drainage!O981,274.36,Drainage!A981,Drainage,"200mm,pipe"
-847,871,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200mm dia; bend, 90 deg not made",m,Drainage,Pipework,0.0,,0.0,Drainage!A982,Drainage,"200mm,pipe"
-848,872,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200mm dia; rocker",m,Drainage,Pipework,234.44,Drainage!O983,234.44,Drainage!A983,Drainage,"200mm,pipe"
-849,873,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200 x 100 branch",m,Drainage,Pipework,400.12,Drainage!O984,400.12,Drainage!A984,Drainage,pipe
-850,874,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200 x 150 branch",m,Drainage,Pipework,417.25,Drainage!O985,417.25,Drainage!A985,Drainage,pipe
-851,875,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200 x 200 branch",m,Drainage,Pipework,483.74,Drainage!O986,483.74,Drainage!A986,Drainage,pipe
-852,876,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 200-150 reducer",m,Drainage,Pipework,235.27,Drainage!O987,235.27,Drainage!A987,Drainage,pipe
-853,877,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250mm dia pipe",m,Drainage,Pipework,216.1,Drainage!O989,216.1,Drainage!A989,Drainage,"250mm,pipe"
-854,878,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250mm dia; short bend, max 45 deg",m,Drainage,Pipework,433.92,Drainage!O990,433.92,Drainage!A990,Drainage,"250mm,pipe"
-855,879,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250mm dia; rocker",m,Drainage,Pipework,309.09,Drainage!O991,309.09,Drainage!A991,Drainage,"250mm,pipe"
-856,880,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250 x 200 branch",m,Drainage,Pipework,644.28,Drainage!O992,644.28,Drainage!A992,Drainage,pipe
-857,881,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250 x 250 branch",m,Drainage,Pipework,828.65,Drainage!O993,828.65,Drainage!A993,Drainage,pipe
-858,882,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250-200 reducer",m,Drainage,Pipework,395.58,Drainage!O994,395.58,Drainage!A994,Drainage,pipe
-859,883,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 250mm dia cast iron to clay/UPVC connector",m,Drainage,Pipework,100.12,Drainage!O995,100.12,Drainage!A995,Drainage,"250mm,pipe"
-860,884,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 300mm dia pipe",m,Drainage,Pipework,268.25,Drainage!O997,268.25,Drainage!A997,Drainage,"300mm,pipe"
-861,885,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 300mm dia; short bend, max 45 deg",m,Drainage,Pipework,567.52,Drainage!O998,567.52,Drainage!A998,Drainage,"300mm,pipe"
-862,886,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 300mm dia; rocker",m,Drainage,Pipework,391.17,Drainage!O999,391.17,Drainage!A999,Drainage,"300mm,pipe"
-863,887,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 300 x 300 branch",m,Drainage,Pipework,1131.33,Drainage!O1000,1131.33,Drainage!A1000,Drainage,pipe
-864,888,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 300-250 reducer",m,Drainage,Pipework,533.92,Drainage!O1001,533.92,Drainage!A1001,Drainage,pipe
-865,889,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 400mm dia pipe",m,Drainage,Pipework,465.63,Drainage!O1003,465.63,Drainage!A1003,Drainage,"400mm,pipe"
-866,890,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 400mm dia; short bend, max 45 deg",m,Drainage,Pipework,1370.75,Drainage!O1004,1370.75,Drainage!A1004,Drainage,"400mm,pipe"
-867,891,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 400mm dia; rocker",m,Drainage,Pipework,828.93,Drainage!O1005,828.93,Drainage!A1005,Drainage,"400mm,pipe"
-868,892,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 400 x 400 branch",m,Drainage,Pipework,2356.87,Drainage!O1006,2356.87,Drainage!A1006,Drainage,pipe
-869,893,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 400-300 reducer",m,Drainage,Pipework,963.33,Drainage!O1007,963.33,Drainage!A1007,Drainage,pipe
-870,894,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 500mm dia pipe",m,Drainage,Pipework,540.89,Drainage!O1009,540.89,Drainage!A1009,Drainage,"500mm,pipe"
-871,895,"Pipework, Accessories & Fittings; Cast Iron - Ensign system; 600mm dia pipe",m,Drainage,Pipework,638.66,Drainage!O1011,638.66,Drainage!A1011,Drainage,"600mm,pipe"
-872,896,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia pipe",m,Drainage,Pipework,58.11,Drainage!O1014,58.11,Drainage!A1014,Drainage,"100mm,pipe"
-873,897,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia pipe; vertical with concrete surround",m,Drainage,Pipework,132.32,Drainage!O1015,132.32,Drainage!A1015,Drainage,"100mm,pipe"
-874,898,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia; med/long bend; 90 deg",m,Drainage,Pipework,99.97,Drainage!O1016,99.97,Drainage!A1016,Drainage,"100mm,pipe"
-875,899,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia; rest bend",m,Drainage,Pipework,152.38,Drainage!O1017,152.38,Drainage!A1017,Drainage,"100mm,pipe"
-876,900,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia; rocker",m,Drainage,Pipework,81.8,Drainage!O1018,81.8,Drainage!A1018,Drainage,"100mm,pipe"
-877,901,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100mm dia; P trap; TD60",m,Drainage,Pipework,134.07,Drainage!O1019,134.07,Drainage!A1019,Drainage,"100mm,pipe"
-878,902,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 100 x 100 branch",m,Drainage,Pipework,149.18,Drainage!O1020,149.18,Drainage!A1020,Drainage,pipe
-879,903,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia pipe",m,Drainage,Pipework,97.32,Drainage!O1022,97.32,Drainage!A1022,Drainage,"150mm,pipe"
-880,904,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia pipe; vertical with concrete surround",m,Drainage,Pipework,147.0,Drainage!O1023,147.0,Drainage!A1023,Drainage,"150mm,pipe"
-881,905,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia; med/long bend; 90 deg",m,Drainage,Pipework,172.61,Drainage!O1024,172.61,Drainage!A1024,Drainage,"150mm,pipe"
-882,906,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia; rest bend",m,Drainage,Pipework,239.49,Drainage!O1025,239.49,Drainage!A1025,Drainage,"150mm,pipe"
-883,907,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia; rocker",m,Drainage,Pipework,116.61,Drainage!O1026,116.61,Drainage!A1026,Drainage,"150mm,pipe"
-884,908,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150mm dia; P trap; TD60",m,Drainage,Pipework,240.1,Drainage!O1027,240.1,Drainage!A1027,Drainage,"150mm,pipe"
-885,909,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; Reducer pipe; 150 - 100",m,Drainage,Pipework,121.53,Drainage!O1028,121.53,Drainage!A1028,Drainage,pipe
-886,910,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150 x 100 branch",m,Drainage,Pipework,235.15,Drainage!O1029,235.15,Drainage!A1029,Drainage,pipe
-887,911,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 150 x 150 branch",m,Drainage,Pipework,259.16,Drainage!O1030,259.16,Drainage!A1030,Drainage,pipe
-888,912,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225mm dia pipe",m,Drainage,Pipework,258.96,Drainage!O1032,258.96,Drainage!A1032,Drainage,"225mm,pipe"
-889,913,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225mm dia; med/long bend; 90 deg",m,Drainage,Pipework,464.81,Drainage!O1033,464.81,Drainage!A1033,Drainage,"225mm,pipe"
-890,914,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225mm dia; rocker",m,Drainage,Pipework,283.32,Drainage!O1034,283.32,Drainage!A1034,Drainage,"225mm,pipe"
-891,915,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; Reducer pipe; 225 - 150",m,Drainage,Pipework,258.96,Drainage!O1035,258.96,Drainage!A1035,Drainage,pipe
-892,916,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225 x 100 branch",m,Drainage,Pipework,574.14,Drainage!O1036,574.14,Drainage!A1036,Drainage,pipe
-893,917,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225 x 150 branch",m,Drainage,Pipework,605.28,Drainage!O1037,605.28,Drainage!A1037,Drainage,pipe
-894,918,"Pipework, Accessories & Fittings; Cast Iron - Timesaver system; 225 x 225 branch",m,Drainage,Pipework,690.14,Drainage!O1038,690.14,Drainage!A1038,Drainage,pipe
-895,919,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 100mm dia pipe",m,Drainage,Pipework,56.01,Drainage!O1041,56.01,Drainage!A1041,Drainage,"100mm,pipe"
-896,920,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 100mm dia; med/long bend; 90 deg",m,Drainage,Pipework,95.69,Drainage!O1042,95.69,Drainage!A1042,Drainage,"100mm,pipe"
-897,921,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 100mm dia; rest bend",m,Drainage,Pipework,132.21,Drainage!O1043,132.21,Drainage!A1043,Drainage,"100mm,pipe"
-898,922,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 100mm dia; rocker",m,Drainage,Pipework,78.56,Drainage!O1044,78.56,Drainage!A1044,Drainage,"100mm,pipe"
-899,923,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 100 x 100 branch",m,Drainage,Pipework,143.12,Drainage!O1045,143.12,Drainage!A1045,Drainage,pipe
-900,924,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150mm dia pipe",m,Drainage,Pipework,93.67,Drainage!O1047,93.67,Drainage!A1047,Drainage,"150mm,pipe"
-901,925,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150mm dia; med/long bend; 90 deg",m,Drainage,Pipework,165.15,Drainage!O1048,165.15,Drainage!A1048,Drainage,"150mm,pipe"
-902,926,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150mm dia; rest bend",m,Drainage,Pipework,199.95,Drainage!O1049,199.95,Drainage!A1049,Drainage,"150mm,pipe"
-903,927,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150mm dia; rocker",m,Drainage,Pipework,112.01,Drainage!O1050,112.01,Drainage!A1050,Drainage,"150mm,pipe"
-904,928,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150 x 100 branch",m,Drainage,Pipework,231.31,Drainage!O1051,231.31,Drainage!A1051,Drainage,pipe
-905,929,"Pipework, Accessories & Fittings; Stainless Steel - Blucher Europipe system; 150 x 150 branch",m,Drainage,Pipework,248.35,Drainage!O1052,248.35,Drainage!A1052,Drainage,pipe
-906,882,"Pipework, Accessories & Fittings; HDPE system; 25mm dia pipe",m,Drainage,Pipework,6.32,Drainage!O1055,6.32,Drainage!A1055,Drainage,"25mm,pipe"
-907,883,"Pipework, Accessories & Fittings; HDPE system; 25mm dia; elbow",m,Drainage,Pipework,19.35,Drainage!O1056,19.35,Drainage!A1056,Drainage,"25mm,pipe"
-908,884,"Pipework, Accessories & Fittings; HDPE system; 25 x 25mm tee",m,Drainage,Pipework,25.19,Drainage!O1057,25.19,Drainage!A1057,Drainage,"25mm,pipe"
-909,885,"Pipework, Accessories & Fittings; HDPE system; 25 to 20 reducer",m,Drainage,Pipework,17.4,Drainage!O1058,17.4,Drainage!A1058,Drainage,pipe
-910,885,"Pipework, Accessories & Fittings; HDPE system; 32mm dia pipe",m,Drainage,Pipework,9.38,Drainage!O1060,9.38,Drainage!A1060,Drainage,"32mm,pipe"
-911,886,"Pipework, Accessories & Fittings; HDPE system; 32mm dia; elbow",m,Drainage,Pipework,20.0,Drainage!O1061,20.0,Drainage!A1061,Drainage,"32mm,pipe"
-912,887,"Pipework, Accessories & Fittings; HDPE system; 32 x 32mm tee",m,Drainage,Pipework,37.79,Drainage!O1062,37.79,Drainage!A1062,Drainage,"32mm,pipe"
-913,888,"Pipework, Accessories & Fittings; HDPE system; 32 x 25mm tee",m,Drainage,Pipework,37.79,Drainage!O1063,37.79,Drainage!A1063,Drainage,"25mm,pipe"
-914,889,"Pipework, Accessories & Fittings; HDPE system; 32 to 25 reducer",m,Drainage,Pipework,21.3,Drainage!O1064,21.3,Drainage!A1064,Drainage,pipe
-915,890,"Pipework, Accessories & Fittings; HDPE system; 63mm dia pipe",m,Drainage,Pipework,20.91,Drainage!O1066,20.91,Drainage!A1066,Drainage,"63mm,pipe"
-916,891,"Pipework, Accessories & Fittings; HDPE system; 63mm dia pipe; vertical",m,Drainage,Pipework,27.93,Drainage!O1067,27.93,Drainage!A1067,Drainage,"63mm,pipe"
-917,892,"Pipework, Accessories & Fittings; HDPE system; 63mm dia; elbow",m,Drainage,Pipework,45.19,Drainage!O1068,45.19,Drainage!A1068,Drainage,"63mm,pipe"
-918,893,"Pipework, Accessories & Fittings; HDPE system; 63 x 63mm tee",m,Drainage,Pipework,80.76,Drainage!O1069,80.76,Drainage!A1069,Drainage,"63mm,pipe"
-919,894,"Pipework, Accessories & Fittings; HDPE system; 63 x 50/32/25mm tee",m,Drainage,Pipework,80.76,Drainage!O1070,80.76,Drainage!A1070,Drainage,"25mm,pipe"
-920,895,"Pipework, Accessories & Fittings; HDPE system; 63 to 32 reducer",m,Drainage,Pipework,61.29,Drainage!O1071,61.29,Drainage!A1071,Drainage,pipe
-921,896,"Pipework, Accessories & Fittings; HDPE system; 110mm dia pipe ",m,Drainage,Pipework,45.02,Drainage!O1073,45.02,Drainage!A1073,Drainage,"110mm,pipe"
-922,897,"Pipework, Accessories & Fittings; HDPE system; 110mm dia; rocker; 600 lg",m,Drainage,Pipework,40.61,Drainage!O1074,40.61,Drainage!A1074,Drainage,"110mm,pipe"
-923,898,"Pipework, Accessories & Fittings; HDPE system; 110mm dia; bend",m,Drainage,Pipework,132.68,Drainage!O1075,132.68,Drainage!A1075,Drainage,"110mm,pipe"
-924,899,"Pipework, Accessories & Fittings; HDPE system; 110 x 110mm branch",m,Drainage,Pipework,197.58,Drainage!O1076,197.58,Drainage!A1076,Drainage,"110mm,pipe"
-925,900,"Pipework, Accessories & Fittings; HDPE system; 110mm screw door access ",m,Drainage,Pipework,54.9,Drainage!O1077,54.9,Drainage!A1077,Drainage,"110mm,pipe"
-926,901,"Pipework, Accessories & Fittings; HDPE system; 110 adaptor / connector to UPVC",m,Drainage,Pipework,223.54,Drainage!O1078,223.54,Drainage!A1078,Drainage,pipe
-927,902,"Pipework, Accessories & Fittings; HDPE system; 125mm dia pipe ",m,Drainage,Pipework,55.04,Drainage!O1080,55.04,Drainage!A1080,Drainage,"125mm,pipe"
-928,903,"Pipework, Accessories & Fittings; HDPE system; 125mm dia; rocker; 600 lg",m,Drainage,Pipework,56.03,Drainage!O1081,56.03,Drainage!A1081,Drainage,"125mm,pipe"
-929,904,"Pipework, Accessories & Fittings; HDPE system; 125mm dia; bend",m,Drainage,Pipework,158.64,Drainage!O1082,158.64,Drainage!A1082,Drainage,"125mm,pipe"
-930,905,"Pipework, Accessories & Fittings; HDPE system; 160mm dia pipe ",m,Drainage,Pipework,70.19,Drainage!O1084,70.19,Drainage!A1084,Drainage,"160mm,pipe"
-931,906,"Pipework, Accessories & Fittings; HDPE system; 160mm dia; rocker; 600 lg",m,Drainage,Pipework,56.03,Drainage!O1085,56.03,Drainage!A1085,Drainage,"160mm,pipe"
-932,907,"Pipework, Accessories & Fittings; HDPE system; 160mm dia; bend",m,Drainage,Pipework,158.64,Drainage!O1086,158.64,Drainage!A1086,Drainage,"160mm,pipe"
-933,908,"Pipework, Accessories & Fittings; HDPE system; 160 x 110mm branch",m,Drainage,Pipework,314.4,Drainage!O1087,314.4,Drainage!A1087,Drainage,"110mm,pipe"
-934,909,"Pipework, Accessories & Fittings; HDPE system; 250mm dia pipe (inc coupler at 5m c/s)",m,Drainage,Pipework,90.09,Drainage!O1089,90.09,Drainage!A1089,Drainage,"250mm,pipe"
-935,910,"Pipework, Accessories & Fittings; HDPE system; 250mm dia; rocker; 600 lg",m,Drainage,Pipework,259.64,Drainage!O1090,259.64,Drainage!A1090,Drainage,"250mm,pipe"
-936,911,"Pipework, Accessories & Fittings; HDPE system; 250mm dia; bend",m,Drainage,Pipework,354.02,Drainage!O1091,354.02,Drainage!A1091,Drainage,"250mm,pipe"
-937,912,"Pipework, Accessories & Fittings; HDPE system; 250 x 250mm branch",m,Drainage,Pipework,497.82,Drainage!O1092,497.82,Drainage!A1092,Drainage,"250mm,pipe"
-938,913,"Pipework, Accessories & Fittings; HDPE system; 315mm dia pipe (inc coupler at 5m c/s)",m,Drainage,Pipework,110.47,Drainage!O1094,110.47,Drainage!A1094,Drainage,"315mm,pipe"
-939,914,"Pipework, Accessories & Fittings; HDPE system; 315mm dia; rocker; 600 lg",m,Drainage,Pipework,334.96,Drainage!O1095,334.96,Drainage!A1095,Drainage,"315mm,pipe"
-940,915,"Pipework, Accessories & Fittings; HDPE system; 315mm dia; bend",m,Drainage,Pipework,470.59,Drainage!O1096,470.59,Drainage!A1096,Drainage,"315mm,pipe"
-941,908,"Gullies, Channels & Traps - Mixed materials; Clay; Square gully; 100dia; 150sq plastic grid; SG2/1",m,Drainage,Gullies,88.46,Drainage!O1099,88.46,Drainage!A1099,Drainage,
-942,893,"Gullies, Channels & Traps - Mixed materials; Clay; Inlet gully; SDG3/1",m,Drainage,Gullies,99.91,Drainage!O1100,99.91,Drainage!A1100,Drainage,
-943,894,"Gullies, Channels & Traps - Mixed materials; Clay; Paved area gully; SDG2/1",m,Drainage,Gullies,93.29,Drainage!O1101,93.29,Drainage!A1101,Drainage,
-944,895,"Gullies, Channels & Traps - Mixed materials; Clay; Access gully; SG3/1",m,Drainage,Gullies,90.53,Drainage!O1102,90.53,Drainage!A1102,Drainage,
-945,896,"Gullies, Channels & Traps - Mixed materials; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; LD G&F; RGP5",m,Drainage,Gullies,295.45,Drainage!O1103,295.45,Drainage!A1103,Drainage,
-946,897,"Gullies, Channels & Traps - Mixed materials; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; MD G&F; RGP6",m,Drainage,Gullies,297.17,Drainage!O1104,297.17,Drainage!A1104,Drainage,
-947,898,"Gullies, Channels & Traps - Mixed materials; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; MD G&F; RGP6, with Filter/Silt bucket IBP3",m,Drainage,Gullies,387.15,Drainage!O1105,387.15,Drainage!A1105,Drainage,
-948,899,"Gullies, Channels & Traps - Mixed materials; UPVC; Inlet hopper 4D508; gully trap 4D500",m,Drainage,Gullies,81.78,Drainage!O1106,81.78,Drainage!A1106,Drainage,
-949,900,"Gullies, Channels & Traps - Mixed materials; UPVC; Plain hopper 4D503; gully trap 4D500",m,Drainage,Gullies,86.22,Drainage!O1107,86.22,Drainage!A1107,Drainage,
-950,901,"Gullies, Channels & Traps - Mixed materials; UPVC; Yard gully 4D701",m,Drainage,Gullies,81.39,Drainage!O1108,81.39,Drainage!A1108,Drainage,
-951,902,"Gullies, Channels & Traps - Mixed materials; UPVC; Bottle gully 4D901",m,Drainage,Gullies,88.64,Drainage!O1109,88.64,Drainage!A1109,Drainage,
-952,903,"Gullies, Channels & Traps - Mixed materials; CI; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",m,Drainage,Gullies,335.92,Drainage!O1110,335.92,Drainage!A1110,Drainage,
-953,904,"Gullies, Channels & Traps - Mixed materials; CI; Gully trap with surface access; TD107, TD500, TD612",m,Drainage,Gullies,374.81,Drainage!O1111,374.81,Drainage!A1111,Drainage,
-954,905,"Gullies, Channels & Traps - Mixed materials; CI; Deans trap gully; TD550; 600dp inc sediment pan",m,Drainage,Gullies,544.12,Drainage!O1112,544.12,Drainage!A1112,Drainage,
-955,906,"Gullies, Channels & Traps - Mixed materials; CI; Gully trap; TD551; 425dp inc sediment pan",m,Drainage,Gullies,456.97,Drainage!O1113,456.97,Drainage!A1113,Drainage,
-956,907,"Gullies, Channels & Traps - Mixed materials; CI; Gully trap square; TD553; inc sediment pan",m,Drainage,Gullies,460.03,Drainage!O1114,460.03,Drainage!A1114,Drainage,
-957,908,"Gullies, Channels & Traps - Mixed materials; CI; Grease trap; TD706; inc sediment pan",m,Drainage,General Drainage,1011.39,Drainage!O1115,1011.39,Drainage!A1115,Drainage,
-958,909,"Gullies, Channels & Traps - Mixed materials; CI; Garage gully; TD556; 225 x 600dp inc sediment pan",m,Drainage,Gullies,484.64,Drainage!O1116,484.64,Drainage!A1116,Drainage,
-959,910,"Gullies, Channels & Traps - Mixed materials; CI; Garage gully; TD554; 300 x 600dp inc sediment pan",m,Drainage,Gullies,915.97,Drainage!O1117,915.97,Drainage!A1117,Drainage,
-960,911,"Gullies, Channels & Traps - Mixed materials; CI; Garage gully; TD558; 325 x 600dp inc sediment pan",m,Drainage,Gullies,994.39,Drainage!O1118,994.39,Drainage!A1118,Drainage,
-961,912,"Gullies, Channels & Traps - Mixed materials; Road gully; Conc; 450 dia x 900 dp; 150 dia outlet; D400 400 x 440 grating & frame",m,Drainage,Gullies,393.06,Drainage!O1119,393.06,Drainage!A1119,Drainage,
-962,913,"Gullies, Channels & Traps - Mixed materials; Road gully; Clay; 450 dia x 900 dp; 150 dia outlet; Hepworth ref RGR4; D400 400 x 440 grating & frame",m,Drainage,Gullies,457.87,Drainage!O1120,457.87,Drainage!A1120,Drainage,
-963,914,"Gullies, Channels & Traps - Mixed materials; Existing road gully; take off existing cover and re-set",m,Drainage,Gullies,152.09,Drainage!O1121,152.09,Drainage!A1121,Drainage,
-964,915,"Gullies, Channels & Traps - Mixed materials; Wade floor gully; K2193 NBronze grating & frame, U1404 bottle trap, T1103 100mm dia S/S adaptor; conc surround",m,Drainage,Gullies,278.13,Drainage!O1122,278.13,Drainage!A1122,Drainage,100mm
-965,916,"Gullies, Channels & Traps - Mixed materials; Extra; Nickel bronze grating; Wade reference L2141 with pipework adaptor Wade reference T301",m,Drainage,Pipework,102.02,Drainage!O1123,102.02,Drainage!A1123,Drainage,pipe
-966,915,"Gullies, Channels & Traps - Mixed materials; Wade floor gully; K2307 SS grating & frame, G304 trap, U104 extn pipe; seal kit & collar; concrete surround",m,Drainage,Gullies,628.59,Drainage!O1124,628.59,Drainage!A1124,Drainage,pipe
-967,916,"Gullies, Channels & Traps - Mixed materials; Plantroom Floor gully; Wade G304 trapped gully body; stainless steel grating Wade L2106 with extension piece to suit",m,Drainage,Gullies,359.45,Drainage!O1125,359.45,Drainage!A1125,Drainage,
-968,917,"Gullies, Channels & Traps - Mixed materials; Bulcher s/s int floor gully with waterless odour trap",m,Drainage,Gullies,1017.5,Drainage!O1126,1017.5,Drainage!A1126,Drainage,
-969,916,"Gullies, Channels & Traps - Mixed materials; Wade floor gully; K2307 SS grating & frame, U1404 bottle trap, C204 gully body, U602 Tundish, clamping collar; conc surround",m,Drainage,Gullies,402.62,Drainage!O1127,402.62,Drainage!A1127,Drainage,
-970,917,"Gullies, Channels & Traps - Mixed materials; Universal grease trap RGU1, 600x450x550dp; LD C&F",m,Drainage,General Drainage,841.41,Drainage!O1128,841.41,Drainage!A1128,Drainage,
-971,918,"Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M100D; with 400DL slotted galvanised grate (A15)",m,Drainage,General Drainage,80.98,Drainage!O1129,80.98,Drainage!A1129,Drainage,
-972,919,"Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M100D; with 522DL Heelguard composite grate (C250)",m,Drainage,General Drainage,95.89,Drainage!O1130,95.89,Drainage!A1130,Drainage,
-973,920,"Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M100D; with 23405DL Heelguard ductile iron grate (D400)",m,Drainage,General Drainage,101.57,Drainage!O1131,101.57,Drainage!A1131,Drainage,
-974,921,"Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M100D; with 23460 Galvanised Steel Brickslot grating (C250)",m,Drainage,General Drainage,126.91,Drainage!O1132,126.91,Drainage!A1132,Drainage,
-975,922,"Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M100D; with 23465 Galvanised Steel Brickslot grating (D400)",m,Drainage,General Drainage,146.87,Drainage!O1133,146.87,Drainage!A1133,Drainage,
-976,923,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,36.04,Drainage!O1134,36.04,Drainage!A1134,Drainage,
-977,924,"Gullies, Channels & Traps - Mixed materials; Angle junction",m,Drainage,General Drainage,116.73,Drainage!O1135,116.73,Drainage!A1135,Drainage,
-978,925,"Gullies, Channels & Traps - Mixed materials; T junction",m,Drainage,General Drainage,78.13,Drainage!O1136,78.13,Drainage!A1136,Drainage,
-979,923,"Gullies, Channels & Traps - Mixed materials; Access unit",m,Drainage,General Drainage,279.22,Drainage!O1137,279.22,Drainage!A1137,Drainage,
-980,924,"Gullies, Channels & Traps - Mixed materials; Sump/outlet",m,Drainage,General Drainage,265.3,Drainage!O1138,265.3,Drainage!A1138,Drainage,
-981,925,"Gullies, Channels & Traps - Mixed materials; Channel drain; ACO S100D; with 774 Heelguard ductile iron grate (D400)",m,Drainage,General Drainage,97.08,Drainage!O1139,97.08,Drainage!A1139,Drainage,
-982,926,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,23.7,Drainage!O1140,23.7,Drainage!A1140,Drainage,
-983,927,"Gullies, Channels & Traps - Mixed materials; Sump/outlet",m,Drainage,General Drainage,197.09,Drainage!O1141,197.09,Drainage!A1141,Drainage,
-984,928,"Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M150D; with 23161DL Heelguard ductile iron grate (D400)",m,Drainage,General Drainage,151.84,Drainage!O1142,151.84,Drainage!A1142,Drainage,
-985,929,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,21.88,Drainage!O1143,21.88,Drainage!A1143,Drainage,
-986,930,"Gullies, Channels & Traps - Mixed materials; Angle junction",m,Drainage,General Drainage,51.08,Drainage!O1144,51.08,Drainage!A1144,Drainage,
-987,931,"Gullies, Channels & Traps - Mixed materials; Sump/outlet",m,Drainage,General Drainage,348.23,Drainage!O1145,348.23,Drainage!A1145,Drainage,
-988,932,"Gullies, Channels & Traps - Mixed materials; Channel drain; ACO M200D; with 23221DL Heelguard ductile iron grate (D400)",m,Drainage,General Drainage,188.09,Drainage!O1146,188.09,Drainage!A1146,Drainage,
-989,933,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,22.92,Drainage!O1147,22.92,Drainage!A1147,Drainage,
-990,934,"Gullies, Channels & Traps - Mixed materials; Sump/outlet",m,Drainage,General Drainage,352.72,Drainage!O1148,352.72,Drainage!A1148,Drainage,
-991,935,"Gullies, Channels & Traps - Mixed materials; Channel drain; PolyChannel MW100; with slotted galvanised grate (A15)",m,Drainage,General Drainage,97.93,Drainage!O1149,97.93,Drainage!A1149,Drainage,
-992,936,"Gullies, Channels & Traps - Mixed materials; Channel drain; Polychannel MW100; with Cast Iron Polyheel slotted grate (C250)",m,Drainage,General Drainage,104.53,Drainage!O1150,104.53,Drainage!A1150,Drainage,
-993,937,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,33.87,Drainage!O1151,33.87,Drainage!A1151,Drainage,
-994,938,"Gullies, Channels & Traps - Mixed materials; End trap & rodding eye",m,Drainage,General Drainage,245.34,Drainage!O1152,245.34,Drainage!A1152,Drainage,
-995,939,"Gullies, Channels & Traps - Mixed materials; Sump/outlet",m,Drainage,General Drainage,190.2,Drainage!O1153,190.2,Drainage!A1153,Drainage,
-996,940,"Gullies, Channels & Traps - Mixed materials; Channel drain; PolyChannel SKCR with stainless steel edge; with slotted stainless steel grate (A15)",m,Drainage,General Drainage,194.1,Drainage!O1154,194.1,Drainage!A1154,Drainage,
-997,941,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,33.87,Drainage!O1155,33.87,Drainage!A1155,Drainage,
-998,942,"Gullies, Channels & Traps - Mixed materials; End trap & rodding eye",m,Drainage,General Drainage,259.7,Drainage!O1156,259.7,Drainage!A1156,Drainage,
-999,943,"Gullies, Channels & Traps - Mixed materials; Sump/outlet",m,Drainage,General Drainage,222.7,Drainage!O1157,222.7,Drainage!A1157,Drainage,
-1000,944,"Gullies, Channels & Traps - Mixed materials; Channel drain; PolyChannel MW150; with slotted cast iron grate (A15)",m,Drainage,General Drainage,156.79,Drainage!O1158,156.79,Drainage!A1158,Drainage,
-1001,945,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,46.19,Drainage!O1159,46.19,Drainage!A1159,Drainage,
-1002,946,"Gullies, Channels & Traps - Mixed materials; Sump/outlet",m,Drainage,General Drainage,253.91,Drainage!O1160,253.91,Drainage!A1160,Drainage,
-1003,947,"Gullies, Channels & Traps - Mixed materials; Channel drain; PolyChannel MW200; with slotted cast iron grate (A15)",m,Drainage,General Drainage,211.39,Drainage!O1161,211.39,Drainage!A1161,Drainage,
-1004,948,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,70.74,Drainage!O1162,70.74,Drainage!A1162,Drainage,
-1005,949,"Gullies, Channels & Traps - Mixed materials; Sump/outlet",m,Drainage,General Drainage,339.3,Drainage!O1163,339.3,Drainage!A1163,Drainage,
-1006,950,"Gullies, Channels & Traps - Mixed materials; Channel drain; PolyChannel MW300; with slotted cast iron grate (A15)",m,Drainage,General Drainage,286.42,Drainage!O1164,286.42,Drainage!A1164,Drainage,
-1007,951,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,84.7,Drainage!O1165,84.7,Drainage!A1165,Drainage,
-1008,952,"Gullies, Channels & Traps - Mixed materials; Sump/outlet",m,Drainage,General Drainage,524.51,Drainage!O1166,524.51,Drainage!A1166,Drainage,
-1009,953,"Gullies, Channels & Traps - Mixed materials; Channel drain; ACO Brickslot C250",m,Drainage,General Drainage,96.3,Drainage!O1167,96.3,Drainage!A1167,Drainage,
-1010,954,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,18.63,Drainage!O1168,18.63,Drainage!A1168,Drainage,
-1011,955,"Gullies, Channels & Traps - Mixed materials; Angles",m,Drainage,General Drainage,54.62,Drainage!O1169,54.62,Drainage!A1169,Drainage,
-1012,956,"Gullies, Channels & Traps - Mixed materials; Sump/outlet",m,Drainage,General Drainage,195.07,Drainage!O1170,195.07,Drainage!A1170,Drainage,
-1013,957,"Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD255HB",m,Drainage,General Drainage,76.93,Drainage!O1171,76.93,Drainage!A1171,Drainage,
-1014,958,"Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD255HB; curved",m,Drainage,General Drainage,95.25,Drainage!O1172,95.25,Drainage!A1172,Drainage,
-1015,959,"Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD305HB",m,Drainage,General Drainage,84.75,Drainage!O1173,84.75,Drainage!A1173,Drainage,
-1016,960,"Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD305HB; curved",m,Drainage,General Drainage,106.19,Drainage!O1174,106.19,Drainage!A1174,Drainage,
-1017,961,"Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD405HB",m,Drainage,General Drainage,99.96,Drainage!O1175,99.96,Drainage!A1175,Drainage,
-1018,962,"Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD405HB; curved",m,Drainage,General Drainage,127.49,Drainage!O1176,127.49,Drainage!A1176,Drainage,
-1019,963,"Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD480HB",m,Drainage,General Drainage,111.37,Drainage!O1177,111.37,Drainage!A1177,Drainage,
-1020,964,"Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO KD480HB; curved",m,Drainage,General Drainage,143.47,Drainage!O1178,143.47,Drainage!A1178,Drainage,
-1021,965,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,28.07,Drainage!O1179,28.07,Drainage!A1179,Drainage,
-1022,966,"Gullies, Channels & Traps - Mixed materials; Access chamber / Gully unit / outlet",m,Drainage,Gullies,518.0,Drainage!O1180,518.0,Drainage!A1180,Drainage,
-1023,967,"Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO SP380",m,Drainage,General Drainage,82.68,Drainage!O1181,82.68,Drainage!A1181,Drainage,
-1024,968,"Gullies, Channels & Traps - Mixed materials; Kerb drain; ACO SP380; curved",m,Drainage,General Drainage,100.93,Drainage!O1182,100.93,Drainage!A1182,Drainage,
-1025,969,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,28.07,Drainage!O1183,28.07,Drainage!A1183,Drainage,
-1026,970,"Gullies, Channels & Traps - Mixed materials; Gully unit / outlet",m,Drainage,Gullies,376.58,Drainage!O1184,376.58,Drainage!A1184,Drainage,
-1027,971,"Gullies, Channels & Traps - Mixed materials; Beany block drainage kerb",m,Drainage,General Drainage,119.52,Drainage!O1185,119.52,Drainage!A1185,Drainage,drainage
-1028,972,"Gullies, Channels & Traps - Mixed materials; Beany block drainage kerb; radius/curved on plan",m,Drainage,General Drainage,157.73,Drainage!O1186,157.73,Drainage!A1186,Drainage,drainage
-1029,973,"Gullies, Channels & Traps - Mixed materials; Beany block gully outfall",m,Drainage,Gullies,464.01,Drainage!O1187,464.01,Drainage!A1187,Drainage,
-1030,974,"Gullies, Channels & Traps - Mixed materials; Beany block end cap",m,Drainage,General Drainage,43.69,Drainage!O1188,43.69,Drainage!A1188,Drainage,
-1031,975,"Gullies, Channels & Traps - Mixed materials; Mini Beany drainage kerb",m,Drainage,General Drainage,99.49,Drainage!O1189,99.49,Drainage!A1189,Drainage,drainage
-1032,976,"Gullies, Channels & Traps - Mixed materials; Mini Beany gully outfall",m,Drainage,Gullies,456.81,Drainage!O1190,456.81,Drainage!A1190,Drainage,
-1033,977,"Gullies, Channels & Traps - Mixed materials; Mini beany end cap",m,Drainage,General Drainage,41.83,Drainage!O1191,41.83,Drainage!A1191,Drainage,
-1034,978,"Gullies, Channels & Traps - Mixed materials; Slot drain; Birco 100 0/0",m,Drainage,General Drainage,187.78,Drainage!O1192,187.78,Drainage!A1192,Drainage,
-1035,979,"Gullies, Channels & Traps - Mixed materials; Slot drain; Ends",m,Drainage,General Drainage,25.35,Drainage!O1193,25.35,Drainage!A1193,Drainage,
-1036,980,"Gullies, Channels & Traps - Mixed materials; Slot Drain access cover & bolts",m,Drainage,General Drainage,251.82,Drainage!O1194,251.82,Drainage!A1194,Drainage,
-1037,981,"Gullies, Channels & Traps - Mixed materials; Slot Drain; Cap outlet",m,Drainage,General Drainage,66.55,Drainage!O1195,66.55,Drainage!A1195,Drainage,
-1038,982,"Gullies, Channels & Traps - Mixed materials; Slot drain; Sump/outlet",m,Drainage,General Drainage,323.16,Drainage!O1196,323.16,Drainage!A1196,Drainage,
-1039,983,"Gullies, Channels & Traps - Mixed materials; Threshold drain",m,Drainage,General Drainage,56.83,Drainage!O1197,56.83,Drainage!A1197,Drainage,
-1040,984,"Gullies, Channels & Traps - Mixed materials; Ends",m,Drainage,General Drainage,18.34,Drainage!O1198,18.34,Drainage!A1198,Drainage,
-1041,985,"Gullies, Channels & Traps - Mixed materials; Outlet",m,Drainage,General Drainage,62.34,Drainage!O1199,62.34,Drainage!A1199,Drainage,
-1042,986,"Gullies, Channels & Traps - Mixed materials; Gatic Paveslot channel; 100mm wide",m,Drainage,General Drainage,211.38,Drainage!O1200,211.38,Drainage!A1200,Drainage,100mm
-1043,987,"Gullies, Channels & Traps - Mixed materials; Gatic Paveslot channel; Ends",m,Drainage,General Drainage,31.25,Drainage!O1201,31.25,Drainage!A1201,Drainage,
-1044,988,"Gullies, Channels & Traps - Mixed materials; Gatic Paveslot channel; Sump/outlet",m,Drainage,General Drainage,511.96,Drainage!O1202,511.96,Drainage!A1202,Drainage,
-1045,989,"Gullies, Channels & Traps - Mixed materials; Gatic Slot Drain; 225mm ultraslot",m,Drainage,General Drainage,313.5,Drainage!O1203,313.5,Drainage!A1203,Drainage,225mm
-1046,990,"Gullies, Channels & Traps - Mixed materials; Combined access/outlet box for 225 ultraslot",m,Drainage,General Drainage,734.3,Drainage!O1204,734.3,Drainage!A1204,Drainage,
-1047,991,"Gullies, Channels & Traps - Mixed materials; Gatic Slot Drain; 300mm ultraslot",m,Drainage,General Drainage,335.14,Drainage!O1205,335.14,Drainage!A1205,Drainage,300mm
-1048,992,"Gullies, Channels & Traps - Mixed materials; Combined access/outlet box for 300 ultraslot",m,Drainage,General Drainage,857.39,Drainage!O1206,857.39,Drainage!A1206,Drainage,
-1049,993,"Gullies, Channels & Traps - Mixed materials; Gatic Slot Drain; 600mm ultraslot",m,Drainage,General Drainage,571.19,Drainage!O1207,571.19,Drainage!A1207,Drainage,600mm
-1050,994,"Gullies, Channels & Traps - Mixed materials; Combined access/outlet box for 600 ultraslot",m,Drainage,General Drainage,1461.7,Drainage!O1208,1461.7,Drainage!A1208,Drainage,
-1051,995,Gullies & Connections - UPVC system; Yard gully; 300 dia x 600 dp; 110 dia outlet; 4D800; light duty grating & frame,m,Drainage,Gullies,217.37,Drainage!O1211,217.37,Drainage!A1211,Drainage,
-1052,996,Gullies & Connections - UPVC system; Road gully 6TW650; 450 dia x 750/900 dp; 150 dia outlet; D400 400 x 440 grating & frame,m,Drainage,Gullies,325.63,Drainage!O1212,325.63,Drainage!A1212,Drainage,
-1053,997,Gullies & Connections - UPVC system; Channel drain; ACO M100; with pressed steel grate,m,Drainage,General Drainage,145.95,Drainage!O1213,145.95,Drainage!A1213,Drainage,
-1054,998,Gullies & Connections - UPVC system; Ends,m,Drainage,General Drainage,18.63,Drainage!O1214,18.63,Drainage!A1214,Drainage,
-1055,999,Gullies & Connections - UPVC system; Sump/outlet,m,Drainage,General Drainage,232.7,Drainage!O1215,232.7,Drainage!A1215,Drainage,
-1056,1000,"Gullies & Connections - Cast Iron system; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",m,Drainage,Gullies,335.92,Drainage!O1218,335.92,Drainage!A1218,Drainage,
-1057,1001,"Gullies & Connections - Cast Iron system; Gully trap with surface access; TD107, TD500, TD612",m,Drainage,Gullies,374.81,Drainage!O1219,374.81,Drainage!A1219,Drainage,
-1058,1002,Gullies & Connections - Cast Iron system; Deans trap gully; TD550; 600dp inc sediment pan,m,Drainage,Gullies,544.12,Drainage!O1220,544.12,Drainage!A1220,Drainage,
-1059,1003,Gullies & Connections - Cast Iron system; Gully trap; TD551; 425dp inc sediment pan,m,Drainage,Gullies,456.97,Drainage!O1221,456.97,Drainage!A1221,Drainage,
-1060,1004,Gullies & Connections - Cast Iron system; Gully trap square; TD553; inc sediment pan,m,Drainage,Gullies,460.03,Drainage!O1222,460.03,Drainage!A1222,Drainage,
-1061,1005,Gullies & Connections - Cast Iron system; Garage gully; TD556; 225 x 600dp inc sediment pan,m,Drainage,Gullies,484.64,Drainage!O1223,484.64,Drainage!A1223,Drainage,
-1062,1006,Gullies & Connections - Cast Iron system; Garage gully; TD554; 300 x 600dp inc sediment pan,m,Drainage,Gullies,915.97,Drainage!O1224,915.97,Drainage!A1224,Drainage,
-1063,1007,Gullies & Connections - Cast Iron system; Garage gully; TD558; 325 x 600dp inc sediment pan,m,Drainage,Gullies,994.39,Drainage!O1225,994.39,Drainage!A1225,Drainage,
-1064,1008,Box Culverts - Precast concrete system; Excavate trenches,m,Drainage,Excavation,15.6,Drainage!O1228,15.6,Drainage!A1228,Drainage,"excavate,trench"
-1065,1009,Box Culverts - Precast concrete system; Working space,m,Drainage,General Drainage,19.29,Drainage!O1229,19.29,Drainage!A1229,Drainage,
-1066,1010,Box Culverts - Precast concrete system; EWS,m,Drainage,General Drainage,11.93,Drainage!O1230,11.93,Drainage!A1230,Drainage,
-1067,1011,Box Culverts - Precast concrete system; Dispose of arisings off site,m,Drainage,General Drainage,44.25,Drainage!O1231,44.25,Drainage!A1231,Drainage,dispose
-1068,1012,Box Culverts - Precast concrete system; L&C bottom of excavation,m,Drainage,Excavation,0.52,Drainage!O1232,0.52,Drainage!A1232,Drainage,
-1069,1013,Box Culverts - Precast concrete system; Herbicide to surface of ground,m,Drainage,General Drainage,0.19,Drainage!O1233,0.19,Drainage!A1233,Drainage,
-1070,1014,Box Culverts - Precast concrete system; Backfill above culvert with SEM,m,Drainage,Backfilling,5.51,Drainage!O1234,5.51,Drainage!A1234,Drainage,"backfill,sem"
-1071,1015,Box Culverts - Precast concrete system; Backfill above culvert with imported type 1,m,Drainage,Backfilling,47.15,Drainage!O1235,47.15,Drainage!A1235,Drainage,backfill
-1072,1016,Box Culverts - Precast concrete system; L&C surface of fill,m,Drainage,General Drainage,0.52,Drainage!O1236,0.52,Drainage!A1236,Drainage,
-1073,1017,Box Culverts - Precast concrete system; Sand bed; 100mm thk,m,Drainage,General Drainage,9.18,Drainage!O1237,9.18,Drainage!A1237,Drainage,100mm
-1074,1018,Box Culverts - Precast concrete system; Concrete bed; ,m,Drainage,General Drainage,110.03,Drainage!O1238,110.03,Drainage!A1238,Drainage,
-1075,1019,Box Culverts - Precast concrete system; Pea shingle bed & surround,m,Drainage,General Drainage,67.98,Drainage!O1239,67.98,Drainage!A1239,Drainage,
-1076,1020,Box Culverts - Precast concrete system; PC concrete box culvert; 1.20 x 0.75m,m,Drainage,General Drainage,633.79,Drainage!O1240,633.79,Drainage!A1240,Drainage,
-1077,1021,Box Culverts - Precast concrete system; PC concrete box culvert; 1.80 x 1.20m,m,Drainage,General Drainage,1025.6,Drainage!O1241,1025.6,Drainage!A1241,Drainage,
-1078,1022,Box Culverts - Precast concrete system; PC concrete box culvert; 2.00 x 1.50m,m,Drainage,General Drainage,1240.22,Drainage!O1242,1240.22,Drainage!A1242,Drainage,
-1079,1023,Box Culverts - Precast concrete system; PC concrete box culvert; 2.40 x 2.40m,m,Drainage,General Drainage,1734.08,Drainage!O1243,1734.08,Drainage!A1243,Drainage,
-1080,1024,Box Culverts - Precast concrete system; PC concrete box culvert; 3.00 x 2.10m,m,Drainage,General Drainage,2895.55,Drainage!O1244,2895.55,Drainage!A1244,Drainage,
-1081,1025,"Box Culverts - Precast concrete system; 100/150 dia branch connection to culvert; drill culvert wall, seal and make good around connection",m,Drainage,General Drainage,785.06,Drainage!O1245,785.06,Drainage!A1245,Drainage,
+716,741,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia pipe",m,Drainage,Pipework,7.72,Drainage!O836,7.72,Drainage!A836,Drainage,"110mm,pipe"
+717,742,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia pipe; short lenghts",m,Drainage,Pipework,11.23,Drainage!O837,11.23,Drainage!A837,Drainage,"110mm,pipe"
+718,743,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",m,Drainage,Pipework,25.15,Drainage!O838,25.15,Drainage!A838,Drainage,"110mm,pipe"
+719,744,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia perforated land drain",m,Drainage,Pipework,9.31,Drainage!O839,9.31,Drainage!A839,Drainage,"110mm,pipe"
+720,745,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia; bend",m,Drainage,Pipework,8.45,Drainage!O840,8.45,Drainage!A840,Drainage,"110mm,pipe"
+721,746,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia; rest bend",m,Drainage,Pipework,12.47,Drainage!O841,12.47,Drainage!A841,Drainage,"110mm,pipe"
+722,747,"Pipework, accessories & fittings; UPVC/plastic; Sleeve for 100 dia pipe through concrete foundations",m,Drainage,Pipework,65.45,Drainage!O842,65.45,Drainage!A842,Drainage,pipe
+723,748,"Pipework, accessories & fittings; UPVC/plastic; Sleeve for 100 dia pipe cast into retaining wall; 300mm thick",m,Drainage,Pipework,24.21,Drainage!O843,24.21,Drainage!A843,Drainage,"300mm,pipe"
+724,749,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia; adaptor / temp site cap",m,Drainage,Pipework,4.55,Drainage!O844,4.55,Drainage!A844,Drainage,"110mm,pipe"
+725,750,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia; adaptor / RW pipe connector",m,Drainage,Pipework,6.28,Drainage!O845,6.28,Drainage!A845,Drainage,"110mm,pipe"
+726,751,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia; adaptor / waste pipe connector",m,Drainage,Pipework,6.12,Drainage!O846,6.12,Drainage!A846,Drainage,"110mm,pipe"
+727,752,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia; adaptor / SVP connector",m,Drainage,Pipework,10.19,Drainage!O847,10.19,Drainage!A847,Drainage,"110mm,pipe"
+728,753,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia; adaptor / UPVC to clay connector",m,Drainage,Pipework,12.82,Drainage!O848,12.82,Drainage!A848,Drainage,"110mm,pipe"
+729,754,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia; rocker",m,Drainage,Pipework,12.45,Drainage!O849,12.45,Drainage!A849,Drainage,"110mm,pipe"
+730,755,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia; vertical pipework",m,Drainage,Pipework,18.53,Drainage!O850,18.53,Drainage!A850,Drainage,"110mm,pipe"
+731,756,"Pipework, accessories & fittings; UPVC/plastic; 110mm dia; vertical pipework; inc conc surround",m,Drainage,Pipework,69.83,Drainage!O851,69.83,Drainage!A851,Drainage,"110mm,pipe"
+732,757,"Pipework, accessories & fittings; UPVC/plastic; 110 x 110 branch",m,Drainage,Pipework,20.1,Drainage!O852,20.1,Drainage!A852,Drainage,pipe
+733,758,"Pipework, accessories & fittings; UPVC/plastic; RWP connections; RW adaptor/vert pipe/rest bend",m,Drainage,Pipework,66.42,Drainage!O853,66.42,Drainage!A853,Drainage,pipe
+734,759,"Pipework, accessories & fittings; UPVC/plastic; SVP connections; SVP adaptor/vert pipe/rest bend",m,Drainage,Pipework,70.34,Drainage!O854,70.34,Drainage!A854,Drainage,pipe
+735,760,"Pipework, accessories & fittings; UPVC/plastic; WC connection; WC connector/vert pipe/rest bend",m,Drainage,Pipework,35.66,Drainage!O855,35.66,Drainage!A855,Drainage,pipe
+736,761,"Pipework, accessories & fittings; UPVC/plastic; Inlet hopper 4D508; gully trap 4D500",m,Drainage,Gullies,86.59,Drainage!O856,86.59,Drainage!A856,Drainage,pipe
+737,762,"Pipework, accessories & fittings; UPVC/plastic; Plain hopper 4D507; gully trap 4D500",m,Drainage,Gullies,84.68,Drainage!O857,84.68,Drainage!A857,Drainage,pipe
+738,763,"Pipework, accessories & fittings; UPVC/plastic; Bottle gully 4D850",m,Drainage,Gullies,77.22,Drainage!O858,77.22,Drainage!A858,Drainage,pipe
+739,764,"Pipework, accessories & fittings; UPVC/plastic; Paved area gully 4D860",m,Drainage,Gullies,84.13,Drainage!O859,84.13,Drainage!A859,Drainage,pipe
+740,765,"Pipework, accessories & fittings; UPVC/plastic; Bottle gully 4D900",m,Drainage,Gullies,79.6,Drainage!O860,79.6,Drainage!A860,Drainage,pipe
+741,766,"Pipework, accessories & fittings; UPVC/plastic; Bottle gully 4D901 with back access",m,Drainage,Gullies,83.97,Drainage!O861,83.97,Drainage!A861,Drainage,pipe
+742,767,"Pipework, accessories & fittings; UPVC/plastic; Yard gully 4D800, G&F 4D810 & Catchment bucket 4D815",m,Drainage,Gullies,228.04,Drainage!O862,228.04,Drainage!A862,Drainage,pipe
+743,768,"Pipework, accessories & fittings; UPVC/plastic; Rodding point; 4D361",m,Drainage,Pipework,97.39,Drainage!O863,97.39,Drainage!A863,Drainage,pipe
+744,769,"Pipework, accessories & fittings; UPVC/plastic; Anti flood valve; 4D921",m,Drainage,Pipework,97.35,Drainage!O864,97.35,Drainage!A864,Drainage,pipe
+745,770,"Pipework, accessories & fittings; UPVC/plastic; 160mm dia",m,Drainage,Pipework,13.71,Drainage!O866,13.71,Drainage!A866,Drainage,"160mm,pipe"
+746,771,"Pipework, accessories & fittings; UPVC/plastic; 160mm dia; short lenghts",m,Drainage,Pipework,18.9,Drainage!O867,18.9,Drainage!A867,Drainage,"160mm,pipe"
+747,772,"Pipework, accessories & fittings; UPVC/plastic; 160mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets",m,Drainage,Pipework,58.2,Drainage!O868,58.2,Drainage!A868,Drainage,"160mm,pipe"
+748,773,"Pipework, accessories & fittings; UPVC/plastic; 160mm dia perforated land drain",m,Drainage,Pipework,15.27,Drainage!O869,15.27,Drainage!A869,Drainage,"160mm,pipe"
+749,774,"Pipework, accessories & fittings; UPVC/plastic; 160mm dia; bend",m,Drainage,Pipework,25.65,Drainage!O870,25.65,Drainage!A870,Drainage,"160mm,pipe"
+750,775,"Pipework, accessories & fittings; UPVC/plastic; 160mm dia; rest bend",m,Drainage,Pipework,0.0,,0.0,Drainage!A871,Drainage,"160mm,pipe"
+751,776,"Pipework, accessories & fittings; UPVC/plastic; 160mm dia; rocker",m,Drainage,Pipework,17.63,Drainage!O872,17.63,Drainage!A872,Drainage,"160mm,pipe"
+752,777,"Pipework, accessories & fittings; UPVC/plastic; 160 x 100 branch",m,Drainage,Pipework,38.38,Drainage!O873,38.38,Drainage!A873,Drainage,pipe
+753,778,"Pipework, accessories & fittings; UPVC/plastic; 160 x 160 branch",m,Drainage,Pipework,46.82,Drainage!O874,46.82,Drainage!A874,Drainage,pipe
+754,779,"Pipework, accessories & fittings; UPVC/plastic; 160 x 100 reducer",m,Drainage,Pipework,24.18,Drainage!O875,24.18,Drainage!A875,Drainage,pipe
+755,780,"Pipework, accessories & fittings; UPVC/plastic; EO for wrapping pipe in root barrier",m,Drainage,Pipework,14.62,Drainage!O876,14.62,Drainage!A876,Drainage,pipe
+756,781,"Pipework, accessories & fittings; UPVC/plastic; 160mm dia; vertical pipework",m,Drainage,Pipework,18.51,Drainage!O877,18.51,Drainage!A877,Drainage,"160mm,pipe"
+757,782,"Pipework, accessories & fittings; UPVC/plastic; 160mm dia; vertical pipework; inc conc surround",m,Drainage,Pipework,82.29,Drainage!O878,82.29,Drainage!A878,Drainage,"160mm,pipe"
+758,783,"Pipework, accessories & fittings; UPVC/plastic; SVP connections; SVP adaptor/vert pipe/bend",m,Drainage,Pipework,146.42,Drainage!O879,146.42,Drainage!A879,Drainage,pipe
+759,784,"Pipework, accessories & fittings; UPVC/plastic; 160mm end cap / stopper",m,Drainage,Pipework,16.81,Drainage!O880,16.81,Drainage!A880,Drainage,"160mm,pipe"
+760,785,"Pipework, accessories & fittings; UPVC/plastic; 160mm SVP adaptor",m,Drainage,Pipework,34.37,Drainage!O881,34.37,Drainage!A881,Drainage,"160mm,pipe"
+761,786,"Pipework, accessories & fittings; UPVC/plastic; 160mm connection to tank/chamber/etc",m,Drainage,Pipework,52.0,Drainage!O882,52.0,Drainage!A882,Drainage,"160mm,pipe"
+762,787,"Pipework, accessories & fittings; UPVC/plastic; Rodding point",m,Drainage,Pipework,160.7,Drainage!O883,160.7,Drainage!A883,Drainage,pipe
+763,788,"Pipework, accessories & fittings; UPVC/plastic; Anti flood valve; 6D921",m,Drainage,Pipework,112.64,Drainage!O884,112.64,Drainage!A884,Drainage,pipe
+764,789,UPVC Ultrarib; 150mm dia,m,Drainage,General Drainage,12.81,Drainage!O887,12.81,Drainage!A887,Drainage,150mm
+765,790,UPVC Ultrarib; 150mm dia; bend,m,Drainage,General Drainage,33.09,Drainage!O888,33.09,Drainage!A888,Drainage,150mm
+766,791,UPVC Ultrarib; 150mm dia; rocker,m,Drainage,General Drainage,49.05,Drainage!O889,49.05,Drainage!A889,Drainage,150mm
+767,792,UPVC Ultrarib; 150 x 100 branch,m,Drainage,General Drainage,57.56,Drainage!O890,57.56,Drainage!A890,Drainage,
+768,793,UPVC Ultrarib; 150 x 150 branch,m,Drainage,General Drainage,60.21,Drainage!O891,60.21,Drainage!A891,Drainage,
+769,794,UPVC Ultrarib; 150 x 100 reducer,m,Drainage,General Drainage,20.08,Drainage!O892,20.08,Drainage!A892,Drainage,
+770,795,UPVC Ultrarib; 225mm dia,m,Drainage,General Drainage,37.8,Drainage!O894,37.8,Drainage!A894,Drainage,225mm
+771,796,UPVC Ultrarib; 225mm dia pipe; suspended in raft slab/foundations; tied to rebar with holderbats/brackets,m,Drainage,Pipework,126.1,Drainage!O895,126.1,Drainage!A895,Drainage,"225mm,pipe"
+772,797,UPVC Ultrarib; 225mm dia,Twinwall perforated,Drainage,General Drainage,25.95,Drainage!O896,25.95,Drainage!A896,Drainage,225mm
+773,798,UPVC Ultrarib; 225mm dia; bend,m,Drainage,General Drainage,179.33,Drainage!O897,179.33,Drainage!A897,Drainage,225mm
+774,799,UPVC Ultrarib; 225mm dia; vertical pipework; inc conc surround,m,Drainage,Pipework,117.78,Drainage!O898,117.78,Drainage!A898,Drainage,"225mm,pipe"
+775,800,UPVC Ultrarib; 225mm dia; rocker,m,Drainage,General Drainage,79.92,Drainage!O899,79.92,Drainage!A899,Drainage,225mm
+776,801,UPVC Ultrarib; 225 x 100 branch,m,Drainage,General Drainage,188.11,Drainage!O900,188.11,Drainage!A900,Drainage,
+777,802,UPVC Ultrarib; 225 x 150 branch,m,Drainage,General Drainage,193.49,Drainage!O901,193.49,Drainage!A901,Drainage,
+778,803,UPVC Ultrarib; 225 x 225 branch,m,Drainage,General Drainage,265.13,Drainage!O902,265.13,Drainage!A902,Drainage,
+779,804,UPVC Ultrarib; 225mm dia; EO for casting into foundation with 50mm flexcell wrap and rocker each side; allow 2m,m,Drainage,General Drainage,610.31,Drainage!O903,610.31,Drainage!A903,Drainage,"225mm,50mm"
+780,805,UPVC Ultrarib; 300mm dia,m,Drainage,General Drainage,55.24,Drainage!O905,55.24,Drainage!A905,Drainage,300mm
+781,806,UPVC Ultrarib; 300mm dia,Twinwall pipe; perforated,Drainage,General Drainage,55.24,Drainage!O906,55.24,Drainage!A906,Drainage,300mm
+782,807,UPVC Ultrarib; 300mm dia; bend,m,Drainage,General Drainage,278.33,Drainage!O907,278.33,Drainage!A907,Drainage,300mm
+783,808,UPVC Ultrarib; 300mm dia; rocker,m,Drainage,General Drainage,128.79,Drainage!O908,128.79,Drainage!A908,Drainage,300mm
+784,809,UPVC Ultrarib; 300 x 160 branch,m,Drainage,General Drainage,409.67,Drainage!O909,409.67,Drainage!A909,Drainage,
+785,810,UPVC Ultrarib; 300 x 225 branch,m,Drainage,General Drainage,576.42,Drainage!O910,576.42,Drainage!A910,Drainage,
+786,811,UPVC Ultrarib; 300 x 300 branch,m,Drainage,General Drainage,604.8,Drainage!O911,604.8,Drainage!A911,Drainage,
+787,812,UPVC Ultrarib; 300 x 225 reducer,m,Drainage,General Drainage,106.86,Drainage!O912,106.86,Drainage!A912,Drainage,
+788,813,UPVC Twinwall; 110mm dia pipe,m,Drainage,Pipework,9.73,Drainage!O915,9.73,Drainage!A915,Drainage,"110mm,pipe"
+789,814,UPVC Twinwall; 110mm dia; bend,m,Drainage,General Drainage,34.27,Drainage!O916,34.27,Drainage!A916,Drainage,110mm
+790,815,UPVC Twinwall; 150mm dia,m,Drainage,General Drainage,12.22,Drainage!O918,12.22,Drainage!A918,Drainage,150mm
+791,816,UPVC Twinwall; 150mm dia; bend,m,Drainage,General Drainage,44.57,Drainage!O919,44.57,Drainage!A919,Drainage,150mm
+792,817,UPVC Twinwall; 225mm dia,m,Drainage,General Drainage,24.09,Drainage!O921,24.09,Drainage!A921,Drainage,225mm
+793,818,UPVC Twinwall; 225mm dia; bend,m,Drainage,General Drainage,103.4,Drainage!O922,103.4,Drainage!A922,Drainage,225mm
+794,819,UPVC Twinwall; 300mm dia,m,Drainage,General Drainage,35.84,Drainage!O924,35.84,Drainage!A924,Drainage,300mm
+795,820,UPVC Twinwall; 300mm dia; bend,m,Drainage,General Drainage,172.1,Drainage!O925,172.1,Drainage!A925,Drainage,300mm
+796,821,UPVC Twinwall; 375mm dia,m,Drainage,General Drainage,78.15,Drainage!O927,78.15,Drainage!A927,Drainage,375mm
+797,822,UPVC Twinwall; 375mm dia,Twinwall pipe; perforated,Drainage,General Drainage,86.92,Drainage!O928,86.92,Drainage!A928,Drainage,375mm
+798,823,UPVC Twinwall; 375mm dia; bend,m,Drainage,General Drainage,356.18,Drainage!O929,356.18,Drainage!A929,Drainage,375mm
+799,824,UPVC Twinwall; 375mm dia; rocker,m,Drainage,General Drainage,94.39,Drainage!O930,94.39,Drainage!A930,Drainage,375mm
+800,825,UPVC Twinwall; 375 x 150 branch,m,Drainage,General Drainage,283.58,Drainage!O931,283.58,Drainage!A931,Drainage,
+801,826,UPVC Twinwall; 375 x 375 branch,m,Drainage,General Drainage,906.29,Drainage!O932,906.29,Drainage!A932,Drainage,
+802,827,"Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia pipe",m,Drainage,Pipework,51.09,Drainage!O935,51.09,Drainage!A935,Drainage,"100mm,pipe"
+803,828,"Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia pipe; runs ne 3m",m,Drainage,Pipework,68.47,Drainage!O936,68.47,Drainage!A936,Drainage,"100mm,pipe"
+804,829,"Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia; short bend, max 45 deg ",m,Drainage,Pipework,59.73,Drainage!O937,59.73,Drainage!A937,Drainage,"100mm,pipe"
+805,830,"Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia; long radius bend, 88 deg",m,Drainage,Pipework,89.19,Drainage!O938,89.19,Drainage!A938,Drainage,"100mm,pipe"
+806,831,"Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia; rest bend",m,Drainage,Pipework,120.78,Drainage!O939,120.78,Drainage!A939,Drainage,"100mm,pipe"
+807,832,"Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia; rocker",m,Drainage,Pipework,61.96,Drainage!O940,61.96,Drainage!A940,Drainage,"100mm,pipe"
+808,833,"Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia; vertical pipework; inc conc surround",m,Drainage,Pipework,126.99,Drainage!O941,126.99,Drainage!A941,Drainage,"100mm,pipe"
+809,834,"Pipework, accessories & fittings; Cast Iron; Ensign; 100 x 100 branch",m,Drainage,Pipework,99.34,Drainage!O942,99.34,Drainage!A942,Drainage,pipe
+810,835,"Pipework, accessories & fittings; Cast Iron; Ensign; 100mm dia cast iron to clay/UPVC connector",m,Drainage,Pipework,41.01,Drainage!O943,41.01,Drainage!A943,Drainage,"100mm,pipe"
+811,836,"Pipework, accessories & fittings; Cast Iron; Ensign; RWP connections; RW adaptor/vert pipe/rest bend",m,Drainage,Pipework,215.47,Drainage!O944,215.47,Drainage!A944,Drainage,pipe
+812,837,"Pipework, accessories & fittings; Cast Iron; Ensign; SVP connections; SVP adaptor/vert pipe/rest bend",m,Drainage,Pipework,248.25,Drainage!O945,248.25,Drainage!A945,Drainage,pipe
+813,838,"Pipework, accessories & fittings; Cast Iron; Ensign; WC connection; WC connector/vert pipe/rest bend",m,Drainage,Pipework,215.47,Drainage!O946,215.47,Drainage!A946,Drainage,pipe
+814,839,"Pipework, accessories & fittings; Cast Iron; Ensign; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",m,Drainage,Gullies,357.86,Drainage!O947,357.86,Drainage!A947,Drainage,pipe
+815,840,"Pipework, accessories & fittings; Cast Iron; Ensign; Gully trap with surface access; TD107, TD500, TD612",m,Drainage,Gullies,374.81,Drainage!O948,374.81,Drainage!A948,Drainage,pipe
+816,841,"Pipework, accessories & fittings; Cast Iron; Ensign; Deans trap gully; TD550; 600dp inc sediment pan",m,Drainage,Gullies,544.12,Drainage!O949,544.12,Drainage!A949,Drainage,pipe
+817,842,"Pipework, accessories & fittings; Cast Iron; Ensign; Gully trap; TD551; 425dp inc sediment pan",m,Drainage,Gullies,456.97,Drainage!O950,456.97,Drainage!A950,Drainage,pipe
+818,843,"Pipework, accessories & fittings; Cast Iron; Ensign; Gully trap square; TD553; inc sediment pan",m,Drainage,Gullies,460.03,Drainage!O951,460.03,Drainage!A951,Drainage,pipe
+819,844,"Pipework, accessories & fittings; Cast Iron; Ensign; Garage gully; TD556; 225 x 600dp inc sediment pan",m,Drainage,Gullies,484.64,Drainage!O952,484.64,Drainage!A952,Drainage,pipe
+820,845,"Pipework, accessories & fittings; Cast Iron; Ensign; Garage gully; TD554; 300 x 600dp inc sediment pan",m,Drainage,Gullies,915.97,Drainage!O953,915.97,Drainage!A953,Drainage,pipe
+821,846,"Pipework, accessories & fittings; Cast Iron; Ensign; Garage gully; TD558; 325 x 600dp inc sediment pan",m,Drainage,Gullies,994.39,Drainage!O954,994.39,Drainage!A954,Drainage,pipe
+822,847,"Pipework, accessories & fittings; Cast Iron; Ensign; Rodding point; TD425, TD615",m,Drainage,Pipework,276.94,Drainage!O955,276.94,Drainage!A955,Drainage,pipe
+823,848,"Pipework, accessories & fittings; Cast Iron; Ensign; Intercepting trap; 479; 100dia fitted with plug",m,Drainage,Pipework,974.65,Drainage!O956,974.65,Drainage!A956,Drainage,pipe
+824,849,"Pipework, accessories & fittings; Cast Iron; Ensign; Anti flood valve; TD756",m,Drainage,Pipework,1352.28,Drainage!O957,1352.28,Drainage!A957,Drainage,pipe
+825,850,"Pipework, accessories & fittings; Cast Iron; Ensign; Eureka anti flood trunk valve; ref 750",m,Drainage,Pipework,2713.29,Drainage!O958,2713.29,Drainage!A958,Drainage,pipe
+826,851,"Pipework, accessories & fittings; Cast Iron; Ensign; Sleeve for 100 dia pipe through concrete foundations",m,Drainage,Pipework,85.81,Drainage!O959,85.81,Drainage!A959,Drainage,pipe
+827,852,"Pipework, accessories & fittings; Cast Iron; Ensign; EO for puddle flange; TD777",m,Drainage,Pipework,106.06,Drainage!O960,106.06,Drainage!A960,Drainage,pipe
+828,853,"Pipework, accessories & fittings; Cast Iron; Ensign; End cap/Stopper",m,Drainage,Pipework,46.51,Drainage!O961,46.51,Drainage!A961,Drainage,pipe
+829,854,"Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia pipe",m,Drainage,Pipework,95.84,Drainage!O963,95.84,Drainage!A963,Drainage,"150mm,pipe"
+830,855,"Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; short bend, max 45deg",m,Drainage,Pipework,113.91,Drainage!O964,113.91,Drainage!A964,Drainage,"150mm,pipe"
+831,856,"Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; 88 deg long radius bend",m,Drainage,Pipework,228.85,Drainage!O965,228.85,Drainage!A965,Drainage,"150mm,pipe"
+832,857,"Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; rest bend",m,Drainage,Pipework,253.32,Drainage!O966,253.32,Drainage!A966,Drainage,"150mm,pipe"
+833,858,"Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; rocker",m,Drainage,Pipework,120.37,Drainage!O967,120.37,Drainage!A967,Drainage,"150mm,pipe"
+834,859,"Pipework, accessories & fittings; Cast Iron; Ensign; 150 x 100 branch",m,Drainage,Pipework,186.51,Drainage!O968,186.51,Drainage!A968,Drainage,pipe
+835,860,"Pipework, accessories & fittings; Cast Iron; Ensign; 150 x 150 branch",m,Drainage,Pipework,205.24,Drainage!O969,205.24,Drainage!A969,Drainage,pipe
+836,861,"Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia cast iron to clay/UPVC connector",m,Drainage,Pipework,51.59,Drainage!O970,51.59,Drainage!A970,Drainage,"150mm,pipe"
+837,862,"Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; vertical pipework; inc conc surround",m,Drainage,Pipework,168.07,Drainage!O971,168.07,Drainage!A971,Drainage,"150mm,pipe"
+838,863,"Pipework, accessories & fittings; Cast Iron; Ensign; RWP/SVP connections; adaptor/vert pipe/rest bend",m,Drainage,Pipework,455.63,Drainage!O972,455.63,Drainage!A972,Drainage,pipe
+839,864,"Pipework, accessories & fittings; Cast Iron; Ensign; 150mm dia; rodding eye and cover; inc conc surround",m,Drainage,Pipework,386.15,Drainage!O973,386.15,Drainage!A973,Drainage,"150mm,pipe"
+840,865,"Pipework, accessories & fittings; Cast Iron; Ensign; Sleeve for 150 dia pipe through concrete foundations",m,Drainage,Pipework,88.64,Drainage!O974,88.64,Drainage!A974,Drainage,pipe
+841,866,"Pipework, accessories & fittings; Cast Iron; Ensign; Eureka anti flood trunk valve; ref 750",m,Drainage,Pipework,3038.35,Drainage!O975,3038.35,Drainage!A975,Drainage,pipe
+842,867,"Pipework, accessories & fittings; Cast Iron; Ensign; 150dia Quatrix backflow valve & access chamber unit",m,Drainage,Pipework,1663.69,Drainage!O976,1663.69,Drainage!A976,Drainage,pipe
+843,868,"Pipework, accessories & fittings; Cast Iron; Ensign; Blanking plug ",m,Drainage,Pipework,242.38,Drainage!O977,242.38,Drainage!A977,Drainage,pipe
+844,868,"Pipework, accessories & fittings; Cast Iron; Ensign; Waste grinder?? Provisional",m,Drainage,Pipework,1911.32,Drainage!O978,1911.32,Drainage!A978,Drainage,pipe
+845,869,"Pipework, accessories & fittings; Cast Iron; Ensign; 200mm dia pipe",m,Drainage,Pipework,153.06,Drainage!O980,153.06,Drainage!A980,Drainage,"200mm,pipe"
+846,870,"Pipework, accessories & fittings; Cast Iron; Ensign; 200mm dia; short bend, max 45 deg",m,Drainage,Pipework,274.36,Drainage!O981,274.36,Drainage!A981,Drainage,"200mm,pipe"
+847,871,"Pipework, accessories & fittings; Cast Iron; Ensign; 200mm dia; bend, 90 deg not made",m,Drainage,Pipework,0.0,,0.0,Drainage!A982,Drainage,"200mm,pipe"
+848,872,"Pipework, accessories & fittings; Cast Iron; Ensign; 200mm dia; rocker",m,Drainage,Pipework,234.44,Drainage!O983,234.44,Drainage!A983,Drainage,"200mm,pipe"
+849,873,"Pipework, accessories & fittings; Cast Iron; Ensign; 200 x 100 branch",m,Drainage,Pipework,400.12,Drainage!O984,400.12,Drainage!A984,Drainage,pipe
+850,874,"Pipework, accessories & fittings; Cast Iron; Ensign; 200 x 150 branch",m,Drainage,Pipework,417.25,Drainage!O985,417.25,Drainage!A985,Drainage,pipe
+851,875,"Pipework, accessories & fittings; Cast Iron; Ensign; 200 x 200 branch",m,Drainage,Pipework,483.74,Drainage!O986,483.74,Drainage!A986,Drainage,pipe
+852,876,"Pipework, accessories & fittings; Cast Iron; Ensign; 200-150 reducer",m,Drainage,Pipework,235.27,Drainage!O987,235.27,Drainage!A987,Drainage,pipe
+853,877,"Pipework, accessories & fittings; Cast Iron; Ensign; 250mm dia pipe",m,Drainage,Pipework,216.1,Drainage!O989,216.1,Drainage!A989,Drainage,"250mm,pipe"
+854,878,"Pipework, accessories & fittings; Cast Iron; Ensign; 250mm dia; short bend, max 45 deg",m,Drainage,Pipework,433.92,Drainage!O990,433.92,Drainage!A990,Drainage,"250mm,pipe"
+855,879,"Pipework, accessories & fittings; Cast Iron; Ensign; 250mm dia; rocker",m,Drainage,Pipework,309.09,Drainage!O991,309.09,Drainage!A991,Drainage,"250mm,pipe"
+856,880,"Pipework, accessories & fittings; Cast Iron; Ensign; 250 x 200 branch",m,Drainage,Pipework,644.28,Drainage!O992,644.28,Drainage!A992,Drainage,pipe
+857,881,"Pipework, accessories & fittings; Cast Iron; Ensign; 250 x 250 branch",m,Drainage,Pipework,828.65,Drainage!O993,828.65,Drainage!A993,Drainage,pipe
+858,882,"Pipework, accessories & fittings; Cast Iron; Ensign; 250-200 reducer",m,Drainage,Pipework,395.58,Drainage!O994,395.58,Drainage!A994,Drainage,pipe
+859,883,"Pipework, accessories & fittings; Cast Iron; Ensign; 250mm dia cast iron to clay/UPVC connector",m,Drainage,Pipework,100.12,Drainage!O995,100.12,Drainage!A995,Drainage,"250mm,pipe"
+860,884,"Pipework, accessories & fittings; Cast Iron; Ensign; 300mm dia pipe",m,Drainage,Pipework,268.25,Drainage!O997,268.25,Drainage!A997,Drainage,"300mm,pipe"
+861,885,"Pipework, accessories & fittings; Cast Iron; Ensign; 300mm dia; short bend, max 45 deg",m,Drainage,Pipework,567.52,Drainage!O998,567.52,Drainage!A998,Drainage,"300mm,pipe"
+862,886,"Pipework, accessories & fittings; Cast Iron; Ensign; 300mm dia; rocker",m,Drainage,Pipework,391.17,Drainage!O999,391.17,Drainage!A999,Drainage,"300mm,pipe"
+863,887,"Pipework, accessories & fittings; Cast Iron; Ensign; 300 x 300 branch",m,Drainage,Pipework,1131.33,Drainage!O1000,1131.33,Drainage!A1000,Drainage,pipe
+864,888,"Pipework, accessories & fittings; Cast Iron; Ensign; 300-250 reducer",m,Drainage,Pipework,533.92,Drainage!O1001,533.92,Drainage!A1001,Drainage,pipe
+865,889,"Pipework, accessories & fittings; Cast Iron; Ensign; 400mm dia pipe",m,Drainage,Pipework,465.63,Drainage!O1003,465.63,Drainage!A1003,Drainage,"400mm,pipe"
+866,890,"Pipework, accessories & fittings; Cast Iron; Ensign; 400mm dia; short bend, max 45 deg",m,Drainage,Pipework,1370.75,Drainage!O1004,1370.75,Drainage!A1004,Drainage,"400mm,pipe"
+867,891,"Pipework, accessories & fittings; Cast Iron; Ensign; 400mm dia; rocker",m,Drainage,Pipework,828.93,Drainage!O1005,828.93,Drainage!A1005,Drainage,"400mm,pipe"
+868,892,"Pipework, accessories & fittings; Cast Iron; Ensign; 400 x 400 branch",m,Drainage,Pipework,2356.87,Drainage!O1006,2356.87,Drainage!A1006,Drainage,pipe
+869,893,"Pipework, accessories & fittings; Cast Iron; Ensign; 400-300 reducer",m,Drainage,Pipework,963.33,Drainage!O1007,963.33,Drainage!A1007,Drainage,pipe
+870,894,"Pipework, accessories & fittings; Cast Iron; Ensign; 500mm dia pipe",m,Drainage,Pipework,540.89,Drainage!O1009,540.89,Drainage!A1009,Drainage,"500mm,pipe"
+871,895,"Pipework, accessories & fittings; Cast Iron; Ensign; 600mm dia pipe",m,Drainage,Pipework,638.66,Drainage!O1011,638.66,Drainage!A1011,Drainage,"600mm,pipe"
+872,896,"Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia pipe",m,Drainage,Pipework,58.11,Drainage!O1014,58.11,Drainage!A1014,Drainage,"100mm,pipe"
+873,897,"Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia pipe; vertical with concrete surround",m,Drainage,Pipework,132.32,Drainage!O1015,132.32,Drainage!A1015,Drainage,"100mm,pipe"
+874,898,"Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia; med/long bend; 90 deg",m,Drainage,Pipework,99.97,Drainage!O1016,99.97,Drainage!A1016,Drainage,"100mm,pipe"
+875,899,"Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia; rest bend",m,Drainage,Pipework,152.38,Drainage!O1017,152.38,Drainage!A1017,Drainage,"100mm,pipe"
+876,900,"Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia; rocker",m,Drainage,Pipework,81.8,Drainage!O1018,81.8,Drainage!A1018,Drainage,"100mm,pipe"
+877,901,"Pipework, accessories & fittings; Cast Iron; Timesaver; 100mm dia; P trap; TD60",m,Drainage,Pipework,134.07,Drainage!O1019,134.07,Drainage!A1019,Drainage,"100mm,pipe"
+878,902,"Pipework, accessories & fittings; Cast Iron; Timesaver; 100 x 100 branch",m,Drainage,Pipework,149.18,Drainage!O1020,149.18,Drainage!A1020,Drainage,pipe
+879,903,"Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia pipe",m,Drainage,Pipework,97.32,Drainage!O1022,97.32,Drainage!A1022,Drainage,"150mm,pipe"
+880,904,"Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia pipe; vertical with concrete surround",m,Drainage,Pipework,147.0,Drainage!O1023,147.0,Drainage!A1023,Drainage,"150mm,pipe"
+881,905,"Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia; med/long bend; 90 deg",m,Drainage,Pipework,172.61,Drainage!O1024,172.61,Drainage!A1024,Drainage,"150mm,pipe"
+882,906,"Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia; rest bend",m,Drainage,Pipework,239.49,Drainage!O1025,239.49,Drainage!A1025,Drainage,"150mm,pipe"
+883,907,"Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia; rocker",m,Drainage,Pipework,116.61,Drainage!O1026,116.61,Drainage!A1026,Drainage,"150mm,pipe"
+884,908,"Pipework, accessories & fittings; Cast Iron; Timesaver; 150mm dia; P trap; TD60",m,Drainage,Pipework,240.1,Drainage!O1027,240.1,Drainage!A1027,Drainage,"150mm,pipe"
+885,909,"Pipework, accessories & fittings; Cast Iron; Timesaver; Reducer pipe; 150 - 100",m,Drainage,Pipework,121.53,Drainage!O1028,121.53,Drainage!A1028,Drainage,pipe
+886,910,"Pipework, accessories & fittings; Cast Iron; Timesaver; 150 x 100 branch",m,Drainage,Pipework,235.15,Drainage!O1029,235.15,Drainage!A1029,Drainage,pipe
+887,911,"Pipework, accessories & fittings; Cast Iron; Timesaver; 150 x 150 branch",m,Drainage,Pipework,259.16,Drainage!O1030,259.16,Drainage!A1030,Drainage,pipe
+888,912,"Pipework, accessories & fittings; Cast Iron; Timesaver; 225mm dia pipe",m,Drainage,Pipework,258.96,Drainage!O1032,258.96,Drainage!A1032,Drainage,"225mm,pipe"
+889,913,"Pipework, accessories & fittings; Cast Iron; Timesaver; 225mm dia; med/long bend; 90 deg",m,Drainage,Pipework,464.81,Drainage!O1033,464.81,Drainage!A1033,Drainage,"225mm,pipe"
+890,914,"Pipework, accessories & fittings; Cast Iron; Timesaver; 225mm dia; rocker",m,Drainage,Pipework,283.32,Drainage!O1034,283.32,Drainage!A1034,Drainage,"225mm,pipe"
+891,915,"Pipework, accessories & fittings; Cast Iron; Timesaver; Reducer pipe; 225 - 150",m,Drainage,Pipework,258.96,Drainage!O1035,258.96,Drainage!A1035,Drainage,pipe
+892,916,"Pipework, accessories & fittings; Cast Iron; Timesaver; 225 x 100 branch",m,Drainage,Pipework,574.14,Drainage!O1036,574.14,Drainage!A1036,Drainage,pipe
+893,917,"Pipework, accessories & fittings; Cast Iron; Timesaver; 225 x 150 branch",m,Drainage,Pipework,605.28,Drainage!O1037,605.28,Drainage!A1037,Drainage,pipe
+894,918,"Pipework, accessories & fittings; Cast Iron; Timesaver; 225 x 225 branch",m,Drainage,Pipework,690.14,Drainage!O1038,690.14,Drainage!A1038,Drainage,pipe
+895,919,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 100mm dia pipe",m,Drainage,Pipework,56.01,Drainage!O1041,56.01,Drainage!A1041,Drainage,"100mm,pipe"
+896,920,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 100mm dia; med/long bend; 90 deg",m,Drainage,Pipework,95.69,Drainage!O1042,95.69,Drainage!A1042,Drainage,"100mm,pipe"
+897,921,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 100mm dia; rest bend",m,Drainage,Pipework,132.21,Drainage!O1043,132.21,Drainage!A1043,Drainage,"100mm,pipe"
+898,922,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 100mm dia; rocker",m,Drainage,Pipework,78.56,Drainage!O1044,78.56,Drainage!A1044,Drainage,"100mm,pipe"
+899,923,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 100 x 100 branch",m,Drainage,Pipework,143.12,Drainage!O1045,143.12,Drainage!A1045,Drainage,pipe
+900,924,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150mm dia pipe",m,Drainage,Pipework,93.67,Drainage!O1047,93.67,Drainage!A1047,Drainage,"150mm,pipe"
+901,925,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150mm dia; med/long bend; 90 deg",m,Drainage,Pipework,165.15,Drainage!O1048,165.15,Drainage!A1048,Drainage,"150mm,pipe"
+902,926,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150mm dia; rest bend",m,Drainage,Pipework,199.95,Drainage!O1049,199.95,Drainage!A1049,Drainage,"150mm,pipe"
+903,927,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150mm dia; rocker",m,Drainage,Pipework,112.01,Drainage!O1050,112.01,Drainage!A1050,Drainage,"150mm,pipe"
+904,928,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150 x 100 branch",m,Drainage,Pipework,231.31,Drainage!O1051,231.31,Drainage!A1051,Drainage,pipe
+905,929,"Pipework, accessories & fittings; Blucher Stainless Steel Europipe; 150 x 150 branch",m,Drainage,Pipework,248.35,Drainage!O1052,248.35,Drainage!A1052,Drainage,pipe
+906,882,"Pipework, accessories & fittings; HDPE; 25mm dia pipe",m,Drainage,Pipework,6.32,Drainage!O1055,6.32,Drainage!A1055,Drainage,"25mm,pipe"
+907,883,"Pipework, accessories & fittings; HDPE; 25mm dia; elbow",m,Drainage,Pipework,19.35,Drainage!O1056,19.35,Drainage!A1056,Drainage,"25mm,pipe"
+908,884,"Pipework, accessories & fittings; HDPE; 25 x 25mm tee",m,Drainage,Pipework,25.19,Drainage!O1057,25.19,Drainage!A1057,Drainage,"25mm,pipe"
+909,885,"Pipework, accessories & fittings; HDPE; 25 to 20 reducer",m,Drainage,Pipework,17.4,Drainage!O1058,17.4,Drainage!A1058,Drainage,pipe
+910,885,"Pipework, accessories & fittings; HDPE; 32mm dia pipe",m,Drainage,Pipework,9.38,Drainage!O1060,9.38,Drainage!A1060,Drainage,"32mm,pipe"
+911,886,"Pipework, accessories & fittings; HDPE; 32mm dia; elbow",m,Drainage,Pipework,20.0,Drainage!O1061,20.0,Drainage!A1061,Drainage,"32mm,pipe"
+912,887,"Pipework, accessories & fittings; HDPE; 32 x 32mm tee",m,Drainage,Pipework,37.79,Drainage!O1062,37.79,Drainage!A1062,Drainage,"32mm,pipe"
+913,888,"Pipework, accessories & fittings; HDPE; 32 x 25mm tee",m,Drainage,Pipework,37.79,Drainage!O1063,37.79,Drainage!A1063,Drainage,"25mm,pipe"
+914,889,"Pipework, accessories & fittings; HDPE; 32 to 25 reducer",m,Drainage,Pipework,21.3,Drainage!O1064,21.3,Drainage!A1064,Drainage,pipe
+915,890,"Pipework, accessories & fittings; HDPE; 63mm dia pipe",m,Drainage,Pipework,20.91,Drainage!O1066,20.91,Drainage!A1066,Drainage,"63mm,pipe"
+916,891,"Pipework, accessories & fittings; HDPE; 63mm dia pipe; vertical",m,Drainage,Pipework,27.93,Drainage!O1067,27.93,Drainage!A1067,Drainage,"63mm,pipe"
+917,892,"Pipework, accessories & fittings; HDPE; 63mm dia; elbow",m,Drainage,Pipework,45.19,Drainage!O1068,45.19,Drainage!A1068,Drainage,"63mm,pipe"
+918,893,"Pipework, accessories & fittings; HDPE; 63 x 63mm tee",m,Drainage,Pipework,80.76,Drainage!O1069,80.76,Drainage!A1069,Drainage,"63mm,pipe"
+919,894,"Pipework, accessories & fittings; HDPE; 63 x 50/32/25mm tee",m,Drainage,Pipework,80.76,Drainage!O1070,80.76,Drainage!A1070,Drainage,"25mm,pipe"
+920,895,"Pipework, accessories & fittings; HDPE; 63 to 32 reducer",m,Drainage,Pipework,61.29,Drainage!O1071,61.29,Drainage!A1071,Drainage,pipe
+921,896,"Pipework, accessories & fittings; HDPE; 110mm dia pipe ",m,Drainage,Pipework,45.02,Drainage!O1073,45.02,Drainage!A1073,Drainage,"110mm,pipe"
+922,897,"Pipework, accessories & fittings; HDPE; 110mm dia; rocker; 600 lg",m,Drainage,Pipework,40.61,Drainage!O1074,40.61,Drainage!A1074,Drainage,"110mm,pipe"
+923,898,"Pipework, accessories & fittings; HDPE; 110mm dia; bend",m,Drainage,Pipework,132.68,Drainage!O1075,132.68,Drainage!A1075,Drainage,"110mm,pipe"
+924,899,"Pipework, accessories & fittings; HDPE; 110 x 110mm branch",m,Drainage,Pipework,197.58,Drainage!O1076,197.58,Drainage!A1076,Drainage,"110mm,pipe"
+925,900,"Pipework, accessories & fittings; HDPE; 110mm screw door access ",m,Drainage,Pipework,54.9,Drainage!O1077,54.9,Drainage!A1077,Drainage,"110mm,pipe"
+926,901,"Pipework, accessories & fittings; HDPE; 110 adaptor / connector to UPVC",m,Drainage,Pipework,223.54,Drainage!O1078,223.54,Drainage!A1078,Drainage,pipe
+927,902,"Pipework, accessories & fittings; HDPE; 125mm dia pipe ",m,Drainage,Pipework,55.04,Drainage!O1080,55.04,Drainage!A1080,Drainage,"125mm,pipe"
+928,903,"Pipework, accessories & fittings; HDPE; 125mm dia; rocker; 600 lg",m,Drainage,Pipework,56.03,Drainage!O1081,56.03,Drainage!A1081,Drainage,"125mm,pipe"
+929,904,"Pipework, accessories & fittings; HDPE; 125mm dia; bend",m,Drainage,Pipework,158.64,Drainage!O1082,158.64,Drainage!A1082,Drainage,"125mm,pipe"
+930,905,"Pipework, accessories & fittings; HDPE; 160mm dia pipe ",m,Drainage,Pipework,70.19,Drainage!O1084,70.19,Drainage!A1084,Drainage,"160mm,pipe"
+931,906,"Pipework, accessories & fittings; HDPE; 160mm dia; rocker; 600 lg",m,Drainage,Pipework,56.03,Drainage!O1085,56.03,Drainage!A1085,Drainage,"160mm,pipe"
+932,907,"Pipework, accessories & fittings; HDPE; 160mm dia; bend",m,Drainage,Pipework,158.64,Drainage!O1086,158.64,Drainage!A1086,Drainage,"160mm,pipe"
+933,908,"Pipework, accessories & fittings; HDPE; 160 x 110mm branch",m,Drainage,Pipework,314.4,Drainage!O1087,314.4,Drainage!A1087,Drainage,"110mm,pipe"
+934,909,"Pipework, accessories & fittings; HDPE; 250mm dia pipe (inc coupler at 5m c/s)",m,Drainage,Pipework,90.09,Drainage!O1089,90.09,Drainage!A1089,Drainage,"250mm,pipe"
+935,910,"Pipework, accessories & fittings; HDPE; 250mm dia; rocker; 600 lg",m,Drainage,Pipework,259.64,Drainage!O1090,259.64,Drainage!A1090,Drainage,"250mm,pipe"
+936,911,"Pipework, accessories & fittings; HDPE; 250mm dia; bend",m,Drainage,Pipework,354.02,Drainage!O1091,354.02,Drainage!A1091,Drainage,"250mm,pipe"
+937,912,"Pipework, accessories & fittings; HDPE; 250 x 250mm branch",m,Drainage,Pipework,497.82,Drainage!O1092,497.82,Drainage!A1092,Drainage,"250mm,pipe"
+938,913,"Pipework, accessories & fittings; HDPE; 315mm dia pipe (inc coupler at 5m c/s)",m,Drainage,Pipework,110.47,Drainage!O1094,110.47,Drainage!A1094,Drainage,"315mm,pipe"
+939,914,"Pipework, accessories & fittings; HDPE; 315mm dia; rocker; 600 lg",m,Drainage,Pipework,334.96,Drainage!O1095,334.96,Drainage!A1095,Drainage,"315mm,pipe"
+940,915,"Pipework, accessories & fittings; HDPE; 315mm dia; bend",m,Drainage,Pipework,470.59,Drainage!O1096,470.59,Drainage!A1096,Drainage,"315mm,pipe"
+941,908,"Gullies, channels, etc.; Clay; Square gully; 100dia; 150sq plastic grid; SG2/1",m,Drainage,Gullies,88.46,Drainage!O1099,88.46,Drainage!A1099,Drainage,
+942,893,"Gullies, channels, etc.; Clay; Inlet gully; SDG3/1",m,Drainage,Gullies,99.91,Drainage!O1100,99.91,Drainage!A1100,Drainage,
+943,894,"Gullies, channels, etc.; Clay; Paved area gully; SDG2/1",m,Drainage,Gullies,93.29,Drainage!O1101,93.29,Drainage!A1101,Drainage,
+944,895,"Gullies, channels, etc.; Clay; Access gully; SG3/1",m,Drainage,Gullies,90.53,Drainage!O1102,90.53,Drainage!A1102,Drainage,
+945,896,"Gullies, channels, etc.; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; LD G&F; RGP5",m,Drainage,Gullies,295.45,Drainage!O1103,295.45,Drainage!A1103,Drainage,
+946,897,"Gullies, channels, etc.; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; MD G&F; RGP6",m,Drainage,Gullies,297.17,Drainage!O1104,297.17,Drainage!A1104,Drainage,
+947,898,"Gullies, channels, etc.; Clay; Yard gully; 225 dia x 585 dp x 100 outlet; MD G&F; RGP6, with Filter/Silt bucket IBP3",m,Drainage,Gullies,387.15,Drainage!O1105,387.15,Drainage!A1105,Drainage,
+948,899,"Gullies, channels, etc.; UPVC; Inlet hopper 4D508; gully trap 4D500",m,Drainage,Gullies,81.78,Drainage!O1106,81.78,Drainage!A1106,Drainage,
+949,900,"Gullies, channels, etc.; UPVC; Plain hopper 4D503; gully trap 4D500",m,Drainage,Gullies,86.22,Drainage!O1107,86.22,Drainage!A1107,Drainage,
+950,901,"Gullies, channels, etc.; UPVC; Yard gully 4D701",m,Drainage,Gullies,81.39,Drainage!O1108,81.39,Drainage!A1108,Drainage,
+951,902,"Gullies, channels, etc.; UPVC; Bottle gully 4D901",m,Drainage,Gullies,88.64,Drainage!O1109,88.64,Drainage!A1109,Drainage,
+952,903,"Gullies, channels, etc.; CI; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",m,Drainage,Gullies,335.92,Drainage!O1110,335.92,Drainage!A1110,Drainage,
+953,904,"Gullies, channels, etc.; CI; Gully trap with surface access; TD107, TD500, TD612",m,Drainage,Gullies,374.81,Drainage!O1111,374.81,Drainage!A1111,Drainage,
+954,905,"Gullies, channels, etc.; CI; Deans trap gully; TD550; 600dp inc sediment pan",m,Drainage,Gullies,544.12,Drainage!O1112,544.12,Drainage!A1112,Drainage,
+955,906,"Gullies, channels, etc.; CI; Gully trap; TD551; 425dp inc sediment pan",m,Drainage,Gullies,456.97,Drainage!O1113,456.97,Drainage!A1113,Drainage,
+956,907,"Gullies, channels, etc.; CI; Gully trap square; TD553; inc sediment pan",m,Drainage,Gullies,460.03,Drainage!O1114,460.03,Drainage!A1114,Drainage,
+957,908,"Gullies, channels, etc.; CI; Grease trap; TD706; inc sediment pan",m,Drainage,General Drainage,1011.39,Drainage!O1115,1011.39,Drainage!A1115,Drainage,
+958,909,"Gullies, channels, etc.; CI; Garage gully; TD556; 225 x 600dp inc sediment pan",m,Drainage,Gullies,484.64,Drainage!O1116,484.64,Drainage!A1116,Drainage,
+959,910,"Gullies, channels, etc.; CI; Garage gully; TD554; 300 x 600dp inc sediment pan",m,Drainage,Gullies,915.97,Drainage!O1117,915.97,Drainage!A1117,Drainage,
+960,911,"Gullies, channels, etc.; CI; Garage gully; TD558; 325 x 600dp inc sediment pan",m,Drainage,Gullies,994.39,Drainage!O1118,994.39,Drainage!A1118,Drainage,
+961,912,"Gullies, channels, etc.; Road gully; Conc; 450 dia x 900 dp; 150 dia outlet; D400 400 x 440 grating & frame",m,Drainage,Gullies,393.06,Drainage!O1119,393.06,Drainage!A1119,Drainage,
+962,913,"Gullies, channels, etc.; Road gully; Clay; 450 dia x 900 dp; 150 dia outlet; Hepworth ref RGR4; D400 400 x 440 grating & frame",m,Drainage,Gullies,457.87,Drainage!O1120,457.87,Drainage!A1120,Drainage,
+963,914,"Gullies, channels, etc.; Existing road gully; take off existing cover and re-set",m,Drainage,Gullies,152.09,Drainage!O1121,152.09,Drainage!A1121,Drainage,
+964,915,"Gullies, channels, etc.; Wade floor gully; K2193 NBronze grating & frame, U1404 bottle trap, T1103 100mm dia S/S adaptor; conc surround",m,Drainage,Gullies,278.13,Drainage!O1122,278.13,Drainage!A1122,Drainage,100mm
+965,916,"Gullies, channels, etc.; Extra; Nickel bronze grating; Wade reference L2141 with pipework adaptor Wade reference T301",m,Drainage,Pipework,102.02,Drainage!O1123,102.02,Drainage!A1123,Drainage,pipe
+966,915,"Gullies, channels, etc.; Wade floor gully; K2307 SS grating & frame, G304 trap, U104 extn pipe; seal kit & collar; concrete surround",m,Drainage,Gullies,628.59,Drainage!O1124,628.59,Drainage!A1124,Drainage,pipe
+967,916,"Gullies, channels, etc.; Plantroom Floor gully; Wade G304 trapped gully body; stainless steel grating Wade L2106 with extension piece to suit",m,Drainage,Gullies,359.45,Drainage!O1125,359.45,Drainage!A1125,Drainage,
+968,917,"Gullies, channels, etc.; Bulcher s/s int floor gully with waterless odour trap",m,Drainage,Gullies,1017.5,Drainage!O1126,1017.5,Drainage!A1126,Drainage,
+969,916,"Gullies, channels, etc.; Wade floor gully; K2307 SS grating & frame, U1404 bottle trap, C204 gully body, U602 Tundish, clamping collar; conc surround",m,Drainage,Gullies,402.62,Drainage!O1127,402.62,Drainage!A1127,Drainage,
+970,917,"Gullies, channels, etc.; Universal grease trap RGU1, 600x450x550dp; LD C&F",m,Drainage,General Drainage,841.41,Drainage!O1128,841.41,Drainage!A1128,Drainage,
+971,918,"Gullies, channels, etc.; Channel drain; ACO M100D; with 400DL slotted galvanised grate (A15)",m,Drainage,General Drainage,80.98,Drainage!O1129,80.98,Drainage!A1129,Drainage,
+972,919,"Gullies, channels, etc.; Channel drain; ACO M100D; with 522DL Heelguard composite grate (C250)",m,Drainage,General Drainage,95.89,Drainage!O1130,95.89,Drainage!A1130,Drainage,
+973,920,"Gullies, channels, etc.; Channel drain; ACO M100D; with 23405DL Heelguard ductile iron grate (D400)",m,Drainage,General Drainage,101.57,Drainage!O1131,101.57,Drainage!A1131,Drainage,
+974,921,"Gullies, channels, etc.; Channel drain; ACO M100D; with 23460 Galvanised Steel Brickslot grating (C250)",m,Drainage,General Drainage,126.91,Drainage!O1132,126.91,Drainage!A1132,Drainage,
+975,922,"Gullies, channels, etc.; Channel drain; ACO M100D; with 23465 Galvanised Steel Brickslot grating (D400)",m,Drainage,General Drainage,146.87,Drainage!O1133,146.87,Drainage!A1133,Drainage,
+976,923,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,36.04,Drainage!O1134,36.04,Drainage!A1134,Drainage,
+977,924,"Gullies, channels, etc.; Angle junction",m,Drainage,General Drainage,116.73,Drainage!O1135,116.73,Drainage!A1135,Drainage,
+978,925,"Gullies, channels, etc.; T junction",m,Drainage,General Drainage,78.13,Drainage!O1136,78.13,Drainage!A1136,Drainage,
+979,923,"Gullies, channels, etc.; Access unit",m,Drainage,General Drainage,279.22,Drainage!O1137,279.22,Drainage!A1137,Drainage,
+980,924,"Gullies, channels, etc.; Sump/outlet",m,Drainage,General Drainage,265.3,Drainage!O1138,265.3,Drainage!A1138,Drainage,
+981,925,"Gullies, channels, etc.; Channel drain; ACO S100D; with 774 Heelguard ductile iron grate (D400)",m,Drainage,General Drainage,97.08,Drainage!O1139,97.08,Drainage!A1139,Drainage,
+982,926,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,23.7,Drainage!O1140,23.7,Drainage!A1140,Drainage,
+983,927,"Gullies, channels, etc.; Sump/outlet",m,Drainage,General Drainage,197.09,Drainage!O1141,197.09,Drainage!A1141,Drainage,
+984,928,"Gullies, channels, etc.; Channel drain; ACO M150D; with 23161DL Heelguard ductile iron grate (D400)",m,Drainage,General Drainage,151.84,Drainage!O1142,151.84,Drainage!A1142,Drainage,
+985,929,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,21.88,Drainage!O1143,21.88,Drainage!A1143,Drainage,
+986,930,"Gullies, channels, etc.; Angle junction",m,Drainage,General Drainage,51.08,Drainage!O1144,51.08,Drainage!A1144,Drainage,
+987,931,"Gullies, channels, etc.; Sump/outlet",m,Drainage,General Drainage,348.23,Drainage!O1145,348.23,Drainage!A1145,Drainage,
+988,932,"Gullies, channels, etc.; Channel drain; ACO M200D; with 23221DL Heelguard ductile iron grate (D400)",m,Drainage,General Drainage,188.09,Drainage!O1146,188.09,Drainage!A1146,Drainage,
+989,933,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,22.92,Drainage!O1147,22.92,Drainage!A1147,Drainage,
+990,934,"Gullies, channels, etc.; Sump/outlet",m,Drainage,General Drainage,352.72,Drainage!O1148,352.72,Drainage!A1148,Drainage,
+991,935,"Gullies, channels, etc.; Channel drain; PolyChannel MW100; with slotted galvanised grate (A15)",m,Drainage,General Drainage,97.93,Drainage!O1149,97.93,Drainage!A1149,Drainage,
+992,936,"Gullies, channels, etc.; Channel drain; Polychannel MW100; with Cast Iron Polyheel slotted grate (C250)",m,Drainage,General Drainage,104.53,Drainage!O1150,104.53,Drainage!A1150,Drainage,
+993,937,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,33.87,Drainage!O1151,33.87,Drainage!A1151,Drainage,
+994,938,"Gullies, channels, etc.; End trap & rodding eye",m,Drainage,General Drainage,245.34,Drainage!O1152,245.34,Drainage!A1152,Drainage,
+995,939,"Gullies, channels, etc.; Sump/outlet",m,Drainage,General Drainage,190.2,Drainage!O1153,190.2,Drainage!A1153,Drainage,
+996,940,"Gullies, channels, etc.; Channel drain; PolyChannel SKCR with stainless steel edge; with slotted stainless steel grate (A15)",m,Drainage,General Drainage,194.1,Drainage!O1154,194.1,Drainage!A1154,Drainage,
+997,941,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,33.87,Drainage!O1155,33.87,Drainage!A1155,Drainage,
+998,942,"Gullies, channels, etc.; End trap & rodding eye",m,Drainage,General Drainage,259.7,Drainage!O1156,259.7,Drainage!A1156,Drainage,
+999,943,"Gullies, channels, etc.; Sump/outlet",m,Drainage,General Drainage,222.7,Drainage!O1157,222.7,Drainage!A1157,Drainage,
+1000,944,"Gullies, channels, etc.; Channel drain; PolyChannel MW150; with slotted cast iron grate (A15)",m,Drainage,General Drainage,156.79,Drainage!O1158,156.79,Drainage!A1158,Drainage,
+1001,945,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,46.19,Drainage!O1159,46.19,Drainage!A1159,Drainage,
+1002,946,"Gullies, channels, etc.; Sump/outlet",m,Drainage,General Drainage,253.91,Drainage!O1160,253.91,Drainage!A1160,Drainage,
+1003,947,"Gullies, channels, etc.; Channel drain; PolyChannel MW200; with slotted cast iron grate (A15)",m,Drainage,General Drainage,211.39,Drainage!O1161,211.39,Drainage!A1161,Drainage,
+1004,948,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,70.74,Drainage!O1162,70.74,Drainage!A1162,Drainage,
+1005,949,"Gullies, channels, etc.; Sump/outlet",m,Drainage,General Drainage,339.3,Drainage!O1163,339.3,Drainage!A1163,Drainage,
+1006,950,"Gullies, channels, etc.; Channel drain; PolyChannel MW300; with slotted cast iron grate (A15)",m,Drainage,General Drainage,286.42,Drainage!O1164,286.42,Drainage!A1164,Drainage,
+1007,951,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,84.7,Drainage!O1165,84.7,Drainage!A1165,Drainage,
+1008,952,"Gullies, channels, etc.; Sump/outlet",m,Drainage,General Drainage,524.51,Drainage!O1166,524.51,Drainage!A1166,Drainage,
+1009,953,"Gullies, channels, etc.; Channel drain; ACO Brickslot C250",m,Drainage,General Drainage,96.3,Drainage!O1167,96.3,Drainage!A1167,Drainage,
+1010,954,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,18.63,Drainage!O1168,18.63,Drainage!A1168,Drainage,
+1011,955,"Gullies, channels, etc.; Angles",m,Drainage,General Drainage,54.62,Drainage!O1169,54.62,Drainage!A1169,Drainage,
+1012,956,"Gullies, channels, etc.; Sump/outlet",m,Drainage,General Drainage,195.07,Drainage!O1170,195.07,Drainage!A1170,Drainage,
+1013,957,"Gullies, channels, etc.; Kerb drain; ACO KD255HB",m,Drainage,General Drainage,76.93,Drainage!O1171,76.93,Drainage!A1171,Drainage,
+1014,958,"Gullies, channels, etc.; Kerb drain; ACO KD255HB; curved",m,Drainage,General Drainage,95.25,Drainage!O1172,95.25,Drainage!A1172,Drainage,
+1015,959,"Gullies, channels, etc.; Kerb drain; ACO KD305HB",m,Drainage,General Drainage,84.75,Drainage!O1173,84.75,Drainage!A1173,Drainage,
+1016,960,"Gullies, channels, etc.; Kerb drain; ACO KD305HB; curved",m,Drainage,General Drainage,106.19,Drainage!O1174,106.19,Drainage!A1174,Drainage,
+1017,961,"Gullies, channels, etc.; Kerb drain; ACO KD405HB",m,Drainage,General Drainage,99.96,Drainage!O1175,99.96,Drainage!A1175,Drainage,
+1018,962,"Gullies, channels, etc.; Kerb drain; ACO KD405HB; curved",m,Drainage,General Drainage,127.49,Drainage!O1176,127.49,Drainage!A1176,Drainage,
+1019,963,"Gullies, channels, etc.; Kerb drain; ACO KD480HB",m,Drainage,General Drainage,111.37,Drainage!O1177,111.37,Drainage!A1177,Drainage,
+1020,964,"Gullies, channels, etc.; Kerb drain; ACO KD480HB; curved",m,Drainage,General Drainage,143.47,Drainage!O1178,143.47,Drainage!A1178,Drainage,
+1021,965,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,28.07,Drainage!O1179,28.07,Drainage!A1179,Drainage,
+1022,966,"Gullies, channels, etc.; Access chamber / Gully unit / outlet",m,Drainage,Gullies,518.0,Drainage!O1180,518.0,Drainage!A1180,Drainage,
+1023,967,"Gullies, channels, etc.; Kerb drain; ACO SP380",m,Drainage,General Drainage,82.68,Drainage!O1181,82.68,Drainage!A1181,Drainage,
+1024,968,"Gullies, channels, etc.; Kerb drain; ACO SP380; curved",m,Drainage,General Drainage,100.93,Drainage!O1182,100.93,Drainage!A1182,Drainage,
+1025,969,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,28.07,Drainage!O1183,28.07,Drainage!A1183,Drainage,
+1026,970,"Gullies, channels, etc.; Gully unit / outlet",m,Drainage,Gullies,376.58,Drainage!O1184,376.58,Drainage!A1184,Drainage,
+1027,971,"Gullies, channels, etc.; Beany block drainage kerb",m,Drainage,General Drainage,119.52,Drainage!O1185,119.52,Drainage!A1185,Drainage,drainage
+1028,972,"Gullies, channels, etc.; Beany block drainage kerb; radius/curved on plan",m,Drainage,General Drainage,157.73,Drainage!O1186,157.73,Drainage!A1186,Drainage,drainage
+1029,973,"Gullies, channels, etc.; Beany block gully outfall",m,Drainage,Gullies,464.01,Drainage!O1187,464.01,Drainage!A1187,Drainage,
+1030,974,"Gullies, channels, etc.; Beany block end cap",m,Drainage,General Drainage,43.69,Drainage!O1188,43.69,Drainage!A1188,Drainage,
+1031,975,"Gullies, channels, etc.; Mini Beany drainage kerb",m,Drainage,General Drainage,99.49,Drainage!O1189,99.49,Drainage!A1189,Drainage,drainage
+1032,976,"Gullies, channels, etc.; Mini Beany gully outfall",m,Drainage,Gullies,456.81,Drainage!O1190,456.81,Drainage!A1190,Drainage,
+1033,977,"Gullies, channels, etc.; Mini beany end cap",m,Drainage,General Drainage,41.83,Drainage!O1191,41.83,Drainage!A1191,Drainage,
+1034,978,"Gullies, channels, etc.; Slot drain; Birco 100 0/0",m,Drainage,General Drainage,187.78,Drainage!O1192,187.78,Drainage!A1192,Drainage,
+1035,979,"Gullies, channels, etc.; Slot drain; Ends",m,Drainage,General Drainage,25.35,Drainage!O1193,25.35,Drainage!A1193,Drainage,
+1036,980,"Gullies, channels, etc.; Slot Drain access cover & bolts",m,Drainage,General Drainage,251.82,Drainage!O1194,251.82,Drainage!A1194,Drainage,
+1037,981,"Gullies, channels, etc.; Slot Drain; Cap outlet",m,Drainage,General Drainage,66.55,Drainage!O1195,66.55,Drainage!A1195,Drainage,
+1038,982,"Gullies, channels, etc.; Slot drain; Sump/outlet",m,Drainage,General Drainage,323.16,Drainage!O1196,323.16,Drainage!A1196,Drainage,
+1039,983,"Gullies, channels, etc.; Threshold drain",m,Drainage,General Drainage,56.83,Drainage!O1197,56.83,Drainage!A1197,Drainage,
+1040,984,"Gullies, channels, etc.; Ends",m,Drainage,General Drainage,18.34,Drainage!O1198,18.34,Drainage!A1198,Drainage,
+1041,985,"Gullies, channels, etc.; Outlet",m,Drainage,General Drainage,62.34,Drainage!O1199,62.34,Drainage!A1199,Drainage,
+1042,986,"Gullies, channels, etc.; Gatic Paveslot channel; 100mm wide",m,Drainage,General Drainage,211.38,Drainage!O1200,211.38,Drainage!A1200,Drainage,100mm
+1043,987,"Gullies, channels, etc.; Gatic Paveslot channel; Ends",m,Drainage,General Drainage,31.25,Drainage!O1201,31.25,Drainage!A1201,Drainage,
+1044,988,"Gullies, channels, etc.; Gatic Paveslot channel; Sump/outlet",m,Drainage,General Drainage,511.96,Drainage!O1202,511.96,Drainage!A1202,Drainage,
+1045,989,"Gullies, channels, etc.; Gatic Slot Drain; 225mm ultraslot",m,Drainage,General Drainage,313.5,Drainage!O1203,313.5,Drainage!A1203,Drainage,225mm
+1046,990,"Gullies, channels, etc.; Combined access/outlet box for 225 ultraslot",m,Drainage,General Drainage,734.3,Drainage!O1204,734.3,Drainage!A1204,Drainage,
+1047,991,"Gullies, channels, etc.; Gatic Slot Drain; 300mm ultraslot",m,Drainage,General Drainage,335.14,Drainage!O1205,335.14,Drainage!A1205,Drainage,300mm
+1048,992,"Gullies, channels, etc.; Combined access/outlet box for 300 ultraslot",m,Drainage,General Drainage,857.39,Drainage!O1206,857.39,Drainage!A1206,Drainage,
+1049,993,"Gullies, channels, etc.; Gatic Slot Drain; 600mm ultraslot",m,Drainage,General Drainage,571.19,Drainage!O1207,571.19,Drainage!A1207,Drainage,600mm
+1050,994,"Gullies, channels, etc.; Combined access/outlet box for 600 ultraslot",m,Drainage,General Drainage,1461.7,Drainage!O1208,1461.7,Drainage!A1208,Drainage,
+1051,995,"Gullies, connections, etc; UPVC; Yard gully; 300 dia x 600 dp; 110 dia outlet; 4D800; light duty grating & frame",m,Drainage,Gullies,217.37,Drainage!O1211,217.37,Drainage!A1211,Drainage,
+1052,996,"Gullies, connections, etc; UPVC; Road gully 6TW650; 450 dia x 750/900 dp; 150 dia outlet; D400 400 x 440 grating & frame",m,Drainage,Gullies,325.63,Drainage!O1212,325.63,Drainage!A1212,Drainage,
+1053,997,"Gullies, connections, etc; UPVC; Channel drain; ACO M100; with pressed steel grate",m,Drainage,General Drainage,145.95,Drainage!O1213,145.95,Drainage!A1213,Drainage,
+1054,998,"Gullies, connections, etc; UPVC; Ends",m,Drainage,General Drainage,18.63,Drainage!O1214,18.63,Drainage!A1214,Drainage,
+1055,999,"Gullies, connections, etc; UPVC; Sump/outlet",m,Drainage,General Drainage,232.7,Drainage!O1215,232.7,Drainage!A1215,Drainage,
+1056,1000,"Gullies, connections, etc; Cast Iron; Plain gully inlet & trap; Heavy grate; TD684, TD60, TD651",m,Drainage,Gullies,335.92,Drainage!O1218,335.92,Drainage!A1218,Drainage,
+1057,1001,"Gullies, connections, etc; Cast Iron; Gully trap with surface access; TD107, TD500, TD612",m,Drainage,Gullies,374.81,Drainage!O1219,374.81,Drainage!A1219,Drainage,
+1058,1002,"Gullies, connections, etc; Cast Iron; Deans trap gully; TD550; 600dp inc sediment pan",m,Drainage,Gullies,544.12,Drainage!O1220,544.12,Drainage!A1220,Drainage,
+1059,1003,"Gullies, connections, etc; Cast Iron; Gully trap; TD551; 425dp inc sediment pan",m,Drainage,Gullies,456.97,Drainage!O1221,456.97,Drainage!A1221,Drainage,
+1060,1004,"Gullies, connections, etc; Cast Iron; Gully trap square; TD553; inc sediment pan",m,Drainage,Gullies,460.03,Drainage!O1222,460.03,Drainage!A1222,Drainage,
+1061,1005,"Gullies, connections, etc; Cast Iron; Garage gully; TD556; 225 x 600dp inc sediment pan",m,Drainage,Gullies,484.64,Drainage!O1223,484.64,Drainage!A1223,Drainage,
+1062,1006,"Gullies, connections, etc; Cast Iron; Garage gully; TD554; 300 x 600dp inc sediment pan",m,Drainage,Gullies,915.97,Drainage!O1224,915.97,Drainage!A1224,Drainage,
+1063,1007,"Gullies, connections, etc; Cast Iron; Garage gully; TD558; 325 x 600dp inc sediment pan",m,Drainage,Gullies,994.39,Drainage!O1225,994.39,Drainage!A1225,Drainage,
+1064,1008,Box Culverts; Excavate trenches,m,Drainage,Excavation,15.6,Drainage!O1228,15.6,Drainage!A1228,Drainage,"excavate,trench"
+1065,1009,Box Culverts; Working space,m,Drainage,General Drainage,19.29,Drainage!O1229,19.29,Drainage!A1229,Drainage,
+1066,1010,Box Culverts; EWS,m,Drainage,General Drainage,11.93,Drainage!O1230,11.93,Drainage!A1230,Drainage,
+1067,1011,Box Culverts; Dispose of arisings off site,m,Drainage,General Drainage,44.25,Drainage!O1231,44.25,Drainage!A1231,Drainage,dispose
+1068,1012,Box Culverts; L&C bottom of excavation,m,Drainage,Excavation,0.52,Drainage!O1232,0.52,Drainage!A1232,Drainage,
+1069,1013,Box Culverts; Herbicide to surface of ground,m,Drainage,General Drainage,0.19,Drainage!O1233,0.19,Drainage!A1233,Drainage,
+1070,1014,Box Culverts; Backfill above culvert with SEM,m,Drainage,Backfilling,5.51,Drainage!O1234,5.51,Drainage!A1234,Drainage,"backfill,sem"
+1071,1015,Box Culverts; Backfill above culvert with imported type 1,m,Drainage,Backfilling,47.15,Drainage!O1235,47.15,Drainage!A1235,Drainage,backfill
+1072,1016,Box Culverts; L&C surface of fill,m,Drainage,General Drainage,0.52,Drainage!O1236,0.52,Drainage!A1236,Drainage,
+1073,1017,Box Culverts; Sand bed; 100mm thk,m,Drainage,General Drainage,9.18,Drainage!O1237,9.18,Drainage!A1237,Drainage,100mm
+1074,1018,Box Culverts; Concrete bed; ,m,Drainage,General Drainage,110.03,Drainage!O1238,110.03,Drainage!A1238,Drainage,
+1075,1019,Box Culverts; Pea shingle bed & surround,m,Drainage,General Drainage,67.98,Drainage!O1239,67.98,Drainage!A1239,Drainage,
+1076,1020,Box Culverts; PC concrete box culvert; 1.20 x 0.75m,m,Drainage,General Drainage,633.79,Drainage!O1240,633.79,Drainage!A1240,Drainage,
+1077,1021,Box Culverts; PC concrete box culvert; 1.80 x 1.20m,m,Drainage,General Drainage,1025.6,Drainage!O1241,1025.6,Drainage!A1241,Drainage,
+1078,1022,Box Culverts; PC concrete box culvert; 2.00 x 1.50m,m,Drainage,General Drainage,1240.22,Drainage!O1242,1240.22,Drainage!A1242,Drainage,
+1079,1023,Box Culverts; PC concrete box culvert; 2.40 x 2.40m,m,Drainage,General Drainage,1734.08,Drainage!O1243,1734.08,Drainage!A1243,Drainage,
+1080,1024,Box Culverts; PC concrete box culvert; 3.00 x 2.10m,m,Drainage,General Drainage,2895.55,Drainage!O1244,2895.55,Drainage!A1244,Drainage,
+1081,1025,"Box Culverts; 100/150 dia branch connection to culvert; drill culvert wall, seal and make good around connection",m,Drainage,General Drainage,785.06,Drainage!O1245,785.06,Drainage!A1245,Drainage,
 1082,1026,Osma shallow inspection chamber; 250mm dia; A15 C&F; depth to invert:-; depth to invert: not exceeding 0.5 m,m,Drainage,General Drainage,142.81,Drainage!O1250,142.81,Drainage!A1250,Drainage,"250mm,invert,depth"
 1083,1027,Osma shallow inspection chamber; 250mm dia; A15 C&F; depth to invert:-; depth to invert: 0.5 - 0.75 m,m,Drainage,General Drainage,162.69,Drainage!O1251,162.69,Drainage!A1251,Drainage,"250mm,invert,depth"
 1084,1028,PPIC mini access chamber; 300mm dia; A15 C&F; depth to invert:-; depth to invert: not exceeding 0.5 m,m,Drainage,General Drainage,259.91,Drainage!O1254,259.91,Drainage!A1254,Drainage,"300mm,invert,depth"
